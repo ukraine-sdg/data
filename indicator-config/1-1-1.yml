@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.1-1-1-title
+graph_title: Share of the population whose average per capita equivalent total
+ expenditure is lower than the actual (estimated) subsistence minimum, %
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.1-1-1-title
+indicator_name: Share of the population whose average per capita equivalent total
+ expenditure is lower than the actual (estimated) subsistence minimum, %
 indicator_number: '1.1.1'
 national_geographical_coverage: ''
 page_content: ''
