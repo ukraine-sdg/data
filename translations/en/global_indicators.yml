@@ -277,15 +277,16 @@
 6-b-1-title: Proportion of local administrative units with established and operational
   policies and procedures for participation of local communities in water and sanitation
   management
-7-1-1-title: Proportion of population with access to electricity
-7-1-2-title: Proportion of population with primary reliance on clean fuels and technology
-7-2-1-title: Renewable energy share in the total final energy consumption
-7-3-1-title: Energy intensity measured in terms of primary energy and GDP
-7-a-1-title: International financial flows to developing countries in support of clean
-  energy research and development and renewable energy production, including in hybrid
-  systems
-7-b-1-title: Installed renewable energy-generating capacity in developing countries
-  (in watts per capita)
+7-1-1-title: Generation of power, billions of KWh
+7-1-2-title: Electric power distribution losses, %
+7-1-3-title: Heat losses in heat networks, %
+7-2-1-title: Maximum share of imported primary energy (excluding nuclear fuel)
+ from one country (company) in the total supply (imports), %
+7-2-2-title: Share of one supplier of the nuclear fuel market, %
+7-3-1-title: Share of energy produced from renewable sources in total final energy
+ consumption, %
+7-4-1-title: Energy intensity of GDP (primary energy consumption per unit of GDP),
+ kg of oil equivalent per USD 1 by PPP 2011
 8-1-1-title: GDP volume index, %
 8-1-2-title: Share of gross fixed capital to GDP, %
 8-1-3-title: Share of exports of goods whose production uses technologies of high
