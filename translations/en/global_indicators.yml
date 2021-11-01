@@ -87,104 +87,55 @@
  of hectares
 15-4-2-title: Share of the area of the nature reserve fund in mountainous regions
  in the total area of the country, %
-16-1-1-title: Number of victims of intentional homicide per 100,000 population, by
-  sex and age
-16-1-2-title: Conflict-related deaths per 100,000 population, by sex, age and cause
-16-1-3-title: Proportion of population subjected to (a) physical violence, (b) psychological
-  violence and (c) sexual violence in the previous 12 months
-16-1-4-title: Proportion of population that feel safe walking alone around the area
-  they live
-16-10-1-title: Number of verified cases of killing, kidnapping, enforced disappearance,
-  arbitrary detention and torture of journalists, associated media personnel, trade
-  unionists and human rights advocates in the previous 12 months
-16-10-2-title: Number of countries that adopt and implement constitutional, statutory
-  and/or policy guarantees for public access to information
-16-2-1-title: Proportion of children aged 1–17 years who experienced any physical
-  punishment and/or psychological aggression by caregivers in the past month
-16-2-2-title: Number of victims of human trafficking per 100,000 population, by sex,
-  age and form of exploitation
-16-2-3-title: Proportion of young women and men aged 18–29 years who experienced sexual
-  violence by age 18
-16-3-1-title: Proportion of victims of violence in the previous 12 months who reported
-  their victimization to competent authorities or other officially recognized conflict
-  resolution mechanisms
-16-3-2-title: Unsentenced detainees as a proportion of overall prison population
-16-3-3-title: Proportion of the population who have experienced a dispute in the past
-  two years and who accessed a formal or informal dispute resolution mechanism, by
-  type of mechanism
-16-4-1-title: Total value of inward and outward illicit financial flows (in current
-  United States dollars)
-16-4-2-title: Proportion of seized, found or surrendered arms whose illicit origin
-  or context has been traced or established by a competent authority in line with
-  international instruments
-16-5-1-title: Proportion of persons who had at least one contact with a public official
-  and who paid a bribe to a public official, or were asked for a bribe by those public
-  officials, during the previous 12 months
-16-5-2-title: Proportion of businesses that had at least one contact with a public
-  official and that paid a bribe to a public official, or were asked for a bribe by
-  those public officials during the previous 12 months
-16-6-1-title: Primary government expenditures as a proportion of original approved
-  budget, by sector (or by budget codes or similar)
-16-6-2-title: Proportion of population satisfied with their last experience of public
-  services
-16-7-1-title: Proportions of positions in national and local institutions, including
-  (a) the legislatures; (b) the public service; and (c) the judiciary, compared to
-  national distributions, by sex, age, persons with disabilities and population groups
-16-7-2-title: Proportion of population who believe decision-making is inclusive and
-  responsive, by sex, age, disability and population group
-16-8-1-title: Proportion of members and voting rights of developing countries in international
-  organizations
-16-9-1-title: Proportion of children under 5 years of age whose births have been registered
-  with a civil authority, by age
-16-a-1-title: Existence of independent national human rights institutions in compliance
-  with the Paris Principles
-16-b-1-title: Proportion of population reporting having personally felt discriminated
-  against or harassed in the previous 12 months on the basis of a ground of discrimination
-  prohibited under international human rights law
-17-1-1-title: Total government revenue as a proportion of GDP, by source
-17-1-2-title: Proportion of domestic budget funded by domestic taxes
-17-10-1-title: Worldwide weighted tariff-average
-17-11-1-title: Developing countries’ and least developed countries’ share of global
-  exports
-17-12-1-title: Weighted average tariffs faced by developing countries, least developed
-  countries and small island developing States
-17-13-1-title: Macroeconomic Dashboard
-17-14-1-title: Number of countries with mechanisms in place to enhance policy coherence
-  of sustainable development
-17-15-1-title: Extent of use of country-owned results frameworks and planning tools
-  by providers of development cooperation
-17-16-1-title: Number of countries reporting progress in multi-stakeholder development
-  effectiveness monitoring frameworks that support the achievement of the sustainable
-  development goals
-17-17-1-title: Amount in United States dollars committed to public-private partnerships
-  for infrastructure
-17-18-1-title: Statistical capacity indicator for Sustainable Development Goal monitoring
-17-18-2-title: Number of countries that have national statistical legislation that
-  complies with the Fundamental Principles of Official Statistics
-17-18-3-title: Number of countries with a national statistical plan that is fully
-  funded and under implementation, by source of funding
-17-19-1-title: Dollar value of all resources made available to strengthen statistical
-  capacity in developing countries
-17-19-2-title: Proportion of countries that (a) have conducted at least one population
-  and housing census in the last 10 years; and (b) have achieved 100 per cent birth
-  registration and 80 per cent death registration
-17-2-1-title: Net official development assistance, total and to least developed countries,
-  as a proportion of the Organization for Economic Cooperation and Development (OECD)
-  Development Assistance Committee donors’ gross national income (GNI)
-17-3-1-title: Foreign direct investment, official development assistance and South-South
-  cooperation as a proportion of gross national income
-17-3-2-title: Volume of remittances (in United States dollars) as a proportion of
-  total GDP
-17-4-1-title: Debt service as a proportion of exports of goods and services
-17-5-1-title: Number of countries that adopt and implement investment promotion regimes
-  for developing countries, including the least developed countries
-17-6-1-title: Fixed Internet broadband subscriptions per 100 inhabitants, by speed
-17-6-2-title: Fixed Internet broadband subscriptions per 100 inhabitants, by speed
-17-7-1-title: Total amount of funding for developing countries to promote the development,
-  transfer, dissemination and diffusion of environmentally sound technologies
-17-8-1-title: Proportion of individuals using the Internet
-17-9-1-title: Dollar value of financial and technical assistance (including through
-  North-South, South‐South and triangular cooperation) committed to developing countries
+16-1-1-title: Number of criminal offenses under Articles 115–118, 121 of the Criminal
+ Code of Ukraine (evident intentional homicide, intentional grievous bodily harm)
+ reported in the past 12 months per 100,000 persons
+16-1-2-title: Number of victims of crimes related to physical violence (intentional
+ homicide (and relevant attempts), rape (and relevant attempts), grievous bodily harm),
+ reported over the past 12 months, per 100,000 persons
+16-1-3-title: Number of victims of rape in the past 12 months, persons
+16-2-1-title: Number of victims of human trafficking or other illicit transactions
+ involving the transfer of human beings reported in the past 12 months, persons
+16-2-2-title: Number of specialists trained in combating human trafficking
+16-2-3-title: Number of social services provided to meet the needs of victims of
+ human trafficking
+16-2-4-title: Number of counter-trafficking information campaigns conducted
+16-2-5-title: Number of persons covered by counter-trafficking information campaigns
+16-2-6-title: Percentage of funding of regional counter-trafficking programs from
+ relevant local budgets
+16-2-7-title: Number of persons who obtained the victim of trafficking status, persons
+16-3-1-title: Level of public confidence in the court, %
+16-3-2-title: Number of persons seeking free legal aid, persons
+16-4-1-title: Share of high-level risks in the overall national aggregate of risk
+s in the system for preventing and counteracting the legalization of illegal incomes,
+ the financing of terrorism and the proliferation of weapons of mass destruction, %
+16-5-1-title: Number of weapons seized (criminal proceedings with completed pre-trial
+ investigation for the past 12 months, units)
+16-5-2-title: Number of ammunition seized (criminal proceedings with completed
+ pre-trial investigation for the past 12 months, units)
+16-5-3-title: Number of criminal offenses related to illicit arms trafficking
+ reported in the past 12 months, units
+16-6-1-title: Index of perception of corruption in the public sector by the business
+ community and experts
+16-7-1-title: Ukraine’s ranking in the Global Competitiveness Report by sub-index
+ ‘Institutions (government and public institutions)’
+16-8-1-title: Share of the population satisfied with their experience of the use
+ of infrastructure and the level of social services in key areas in Donetsk and
+ Luhansk regions, %
+16-8-2-title: hare of the population satisfied with the level of administrative
+ governance services in Donetsk and Luhansk regions, %
+16-8-3-title: Number of communities in the Donetsk and Luhansk regions that
+ implemented mine action, units
+16-8-4-title: Demined area in Donetsk and Luhansk regions, hectares
+16-8-5-title: Number of cases of detection of explosive objects (operative component),
+ units
+16-9-1-title: Index of social cohesion and reconciliation
+17-1-1-title: Ratio of private remittances from abroad to GDP, %
+17-1-2-title: Net foreign direct investment (according to the balance of payments),
+ USD billions
+17-2-1-title: Ratio of gross external debt to exports of goods and services in
+ annual terms, %
+17-3-1-title: Number of projects of public–private partnership, units
 2-1-1-title: Prevalence of undernourishment
 2-1-2-title: Prevalence of moderate or severe food insecurity in the population, based
   on the Food Insecurity Experience Scale (FIES)
