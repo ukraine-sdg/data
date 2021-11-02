@@ -160,11 +160,14 @@
   age and key populations
 3-3-2-title: Tuberculosis incidence per 100,000 population
 3-3-3-title: Malaria incidence per 1,000 population
-3-3-4-title: Hepatitis B incidence per 100,000 population
-3-3-5-title: Number of people requiring interventions against neglected tropical diseases
-3-4-1-title: Mortality rate attributed to cardiovascular disease, cancer, diabetes
-  or chronic respiratory disease
-3-4-2-title: Suicide mortality rate
+3-4-1-title: Number of deaths from cerebrovascular disease at the age of 30–59,
+ per 100000 men of corresponding age
+3-4-2-title: Number of deaths from cerebrovascular disease at the age of 30–59,
+ per 100000 women of corresponding age
+3-4-3-title: Number of deaths from malignant breast tumours at the age of 30–59,
+ per 100000 women of appropriate age
+3-4-4-title: Number of deaths from malignant cervical tumours at the age of 30–59,
+ per 100000 women of appropriate age
 3-5-1-title: Probability of dying at the age of 20–64, men
 3-5-2-title: Probability of dying at the age of 20–64, women
 3-6-1-title: Number of deaths from road traffic accidents, per 100000 persons
