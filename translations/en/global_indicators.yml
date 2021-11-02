@@ -143,25 +143,15 @@
 2-1-3-title: Consumption of fish per capita, kg/year
 2-1-4-title: Consumption of vegetables per capita, kg/year
 2-1-5-title: Consumption of fruit per capita, kg/year
-2-2-1-title: Prevalence of stunting (height for age <-2 standard deviation from the
-  median of the World Health Organization (WHO) Child Growth Standards) among children
-  under 5 years of age
-2-2-2-title: Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation
-  from the median of the WHO Child Growth Standards) among children under 5 years
-  of age, by type (wasting and overweight)
-2-2-3-title: Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status
-  (percentage)
-2-3-1-title: Volume of production per labour unit by classes of farming/pastoral/forestry
-  enterprise size
-2-3-2-title: Average income of small-scale food producers, by sex and indigenous status
-2-4-1-title: Proportion of agricultural area under productive and sustainable agriculture
-2-5-1-title: Number of plant and animal genetic resources for food and agriculture
-  secured in either medium- or long-term conservation facilities
-2-5-2-title: Proportion of local breeds classified as being at risk of extinction
-2-a-1-title: The agriculture orientation index for government expenditures
-2-a-2-title: Total official flows (official development assistance plus other official
-  flows) to the agriculture sector
-2-b-1-title: Agricultural export subsidies
+2-2-1-title: Labour productivity in agriculture, USD 1000s per employee
+2-2-2-title: The index of agricultural production, %
+2-3-1-title: The index of food production, %
+2-3-2-title: Share of food industry and agricultural raw materials processing
+ production in exports of Ukrainian Classifier of Goods for Foreign Economic Activity
+ groups 1–24, %
+2-3-3-title: Share of agricultural land under organic production in the total
+ area of agricultural land, %
+2-4-1-title: The consumer price index for food, %
 3-1-1-title: Maternal mortality ratio
 3-1-2-title: Proportion of births attended by skilled health personnel
 3-2-1-title: Under‐5 mortality rate
