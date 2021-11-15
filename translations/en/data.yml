@@ -1,7 +1,7 @@
 age_18: under 18 years old
-age_18_34: year
-age_35_59: years
-age_60: and older
+age_18_34: 18-34 year
+age_35_59: 35-59 years
+age_60: 60 years and older
 
 males: males
 females: females
