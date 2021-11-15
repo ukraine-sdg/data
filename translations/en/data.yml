@@ -8,3 +8,15 @@ females: females
 
 hh_ch: households with children
 hh_ch_0: households without children
+
+dg_01: group (low income)
+dg_02: 2 group
+dg_03: 3 group
+dg_04: 4 group
+dg_05: 5 group
+dg_06: 6 group
+dg_07: 7 group
+dg_08: 8 group
+dg_09: 9 group
+dg_10: 10 group (high income)
+
