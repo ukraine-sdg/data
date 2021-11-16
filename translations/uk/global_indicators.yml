@@ -64,57 +64,34 @@
 15-3-6-title: Частка площі сільськогосподарських угідь екстенсивного використання (сіножатей, пасовищ), у загальній території країни, %
 15-4-1-title: Площа територій природно-заповідного фонду в гірських регіонах, тис. га
 15-4-2-title: Частка територій природно-заповідного фонду в гірських регіонах у загальній території країни, %
-16-1-1-title: Number of criminal offenses under Articles 115–118, 121 of the Criminal
- Code of Ukraine (evident intentional homicide, intentional grievous bodily harm)
- reported in the past 12 months per 100 000 persons
-16-1-2-title: Number of victims of crimes related to physical violence (intentional
- homicide (and relevant attempts), rape (and relevant attempts), grievous bodily harm),
- reported over the past 12 months, per 100 000 persons
-16-1-3-title: Number of victims of rape in the past 12 months, persons
-16-2-1-title: Number of victims of human trafficking or other illicit transactions
- involving the transfer of human beings reported in the past 12 months, persons
-16-2-2-title: Number of specialists trained in combating human trafficking
-16-2-3-title: Number of social services provided to meet the needs of victims of
- human trafficking
-16-2-4-title: Number of counter-trafficking information campaigns conducted
-16-2-5-title: Number of persons covered by counter-trafficking information campaigns
-16-2-6-title: Percentage of funding of regional counter-trafficking programs from
- relevant local budgets
-16-2-7-title: Number of persons who obtained the victim of trafficking status, persons
-16-3-1-title: Level of public confidence in the court, %
-16-3-2-title: Number of persons seeking free legal aid, persons
-16-4-1-title: Share of high-level risks in the overall national aggregate of risks 
- in the system for preventing and counteracting the legalization of illegal incomes,
- the financing of terrorism and the proliferation of weapons of mass destruction, %
-16-5-1-title: Number of weapons seized (criminal proceedings with completed pre-trial
- investigation for the past 12 months, units)
-16-5-2-title: Number of ammunition seized (criminal proceedings with completed
- pre-trial investigation for the past 12 months, units)
-16-5-3-title: Number of criminal offenses related to illicit arms trafficking
- reported in the past 12 months, units
-16-6-1-title: Index of perception of corruption in the public sector by the business
- community and experts
-16-6-2-title: Proportion of population satisfied with their last experience of public
-  services
-16-7-1-title: Ukraine_s ranking in the Global Competitiveness Report by sub-index
- /Institutions (government and public institutions)/
-16-8-1-title: Share of the population satisfied with their experience of the use
- of infrastructure and the level of social services in key areas in Donetsk and
- Luhansk regions, %
-16-8-2-title: Share of the population satisfied with the level of administrative
- governance services in Donetsk and Luhansk regions, %
-16-8-3-title: Number of communities in the Donetsk and Luhansk regions that
- implemented mine action, units
-16-8-4-title: Demined area in Donetsk and Luhansk regions, hectares
-16-8-5-title: Number of cases of detection of explosive objects (operative component),
- units 
-16-9-1-title: Index of social cohesion and reconciliation
-17-1-1-title: Ratio of private remittances from abroad to GDP, %
-17-1-2-title: Net foreign direct investment (according to the balance of payments),
- USD billions
-17-2-1-title: Ratio of gross external debt to exports of goods and services in
- annual terms, %
-17-3-1-title: Number of projects of public–private partnership, units
+16-1-1-title: Кількість облікованих за останні 12 місяців кримінальних правопорушень за ст. 115 – 118, 121 КК України (очевидні умисні вбивства, умисні тяжкі тілесні ушкодження) в розрахунку на 100 000 осіб
+16-1-2-title: Чисельність потерпілих від кримінальних правопорушень, пов'язаних з фізичним насильством (умисні вбивства (та замахи на них), зґвалтування (та замахи на них), тяжкі тілесні ушкодження), облікованих за останні 12 місяців, у розрахунку на 100 000 осіб
+16-1-3-title: Чисельність потерпілих за останні 12 місяців від зґвалтувань, осіб
+16-2-1-title: Чисельність потерпілих у кримінальних правопорушеннях щодо торгівлі людьми або інших незаконних угод щодо передачі людини, облікованих за останні 12 місяців, осіб
+16-2-2-title: Кількість спеціалістів, які пройшли навчання з питань протидії торгівлі людьми
+16-2-3-title: Кількість наданих соціальних послуг відповідно до потреб осіб, які звернулися щодо торгівлі людьми
+16-2-4-title: Кількість проведених інформаційних кампаній щодо протидії торгівлі людьми
+16-2-5-title: Кількість осіб, які були охоплені інформаційними кампаніями щодо протидії торгівлі людьми
+16-2-6-title: Відсоток фінансової забезпеченості регіональних програм щодо протидії торгівлі, за рахунок відповідних місцевих бюджетів
+16-2-7-title: Кількість осіб, яким встановлено статус особи, яка постраждала від торгівлі людьми, осіб
+16-3-1-title: Рівень довіри громадян до суду, %
+16-3-2-title: Кількість осіб, які звертаються за безоплатною правовою допомогою, осіб
+16-4-1-title: Частка ризиків з високим рівнем у загальній сукупності національних ризиків у системі запобігання та протидії легалізації доходів, одержаних злочинним шляхом, фінансуванню тероризму та розповсюдженню зброї масового знищення, %
+16-5-1-title: Кількість вилученої зброї (кримінальні провадження, у яких закінчено досудове розслідування, за останні 12 місяців, одиниць)
+16-5-2-title: Кількість вилучених боєприпасів (кримінальні провадження, у яких закінчено досудове розслідування, за останні 12 місяців, одиниць)
+16-5-3-title: Кількість кримінальних правопорушень, пов'язаних із незаконним обігом зброї, облікованих за останні 12 місяців, одиниць
+16-6-1-title: Показник сприйняття рівня корупції в державному секторі з боку ділових кіл та експертів
+16-7-1-title: Місце України у рейтингу Global Competitiveness Report за субіндексом ‘Інституції (державні та суспільні установи)’
+16-8-1-title: Частка населення, задоволеного досвідом користування інфраструктурними об’єктами та рівнем надання соціальних послуг у ключових сферах, у Донецькій та Луганській областях, %
+16-8-2-title: Частка населення, задоволеного рівнем надання послуг у сфері адміністративного управління, у Донецькій та Луганській областях, %
+16-8-3-title: Кількість громад на територіях Донецької та Луганської областей, у яких впроваджено заходи щодо протимінної діяльності, одиниць
+16-8-4-title: Площа розмінування територій Донецької та Луганської областей, га
+16-8-5-title: Кількість випадків виявлення вибухонебезпечних предметів (оперативна складова), одиниць
+16-9-1-title: Індекс соціальної єдності та примирення
+17-1-1-title: Співвідношення обсягу приватних грошових переказів із-за кордону із ВВП, %
+17-1-2-title: Чистий притік прямих іноземних інвестицій (за даними платіжного балансу), млн дол. США
+17-2-1-title: Відношення валового зовнішнього боргу до експорту товарів та послуг у річному вимірі, %
+17-3-1-title: Кількість проектів публічно-приватного партнерства
 2-1-1-title: Consumption of meat per capita, kg/year
 2-1-2-title: Consumption of milk and dairy products per capita, kg/year
 2-1-3-title: Consumption of fish per capita, kg/year
