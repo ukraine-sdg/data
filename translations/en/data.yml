@@ -1,5 +1,4 @@
-Ukraine: Україна
-Year: Рік
+
 
 age_18: under 18 years old
 age_18_34: 18-34 year
@@ -12,7 +11,7 @@ females: females
 hh_ch: households with children
 hh_ch_0: households without children
 
-dg_01: group (low income)
+dg_01: 1 group (low income)
 dg_02: 2 group
 dg_03: 3 group
 dg_04: 4 group
