@@ -29,3 +29,28 @@ dg_08: восьма
 dg_09: дев'ята
 dg_10: десята (вища)
 
+Region: Область
+1_reg_Vinnytsya: Вінницька
+2_reg_Volyn: Волинська
+3_reg_Dnipropetrovsk: Дніпропетровська
+4_reg_Donetsk: Донецька
+5_reg_Zhytomyr: Житомирська
+6_reg_Zakarpattya: Закарпатська
+7_reg_Zaporizhya: Запорізька
+8_reg_Ivano-Frankivsk: Івано-Франківська
+10_reg_Kyiv: Київська
+11_reg_Kirovohrad: Кіровоградська
+12_reg_Luhansk: Луганська
+13_reg_Lviv: Львівська
+14_reg_Mykolayiv: Миколаївська
+15_reg_Odesa: Одеська
+16_reg_Poltava: Полтавська
+17_reg_Rivne: Рівненська
+18_reg_Sumy: Сумська
+19_reg_Ternopil: Тернопільська
+20_reg_Kharkiv: Харківська
+21_reg_Kherson: Херсонська
+22_reg_Khmelnytskiy: Хмельницька
+23_reg_Cherkasy: Черкаська
+24_reg_Chernivtsi: Чернівецька
+25_reg_Chernihiv: Чернігівська
