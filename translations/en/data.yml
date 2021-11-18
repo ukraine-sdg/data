@@ -28,21 +28,21 @@ dg_10: 10 group (high income)
 4_reg_Donetsk: Donetsk
 5_reg_Zhytomyr: Zhytomyr
 6_reg_Zakarpattya: Zakarpattya
-7_reg_Zaporizhya:
-8_reg_Ivano-Frankivsk:
-9_reg_Kyiv:
-10_reg_Kirovohrad:
-11_reg_Luhansk:
-12_reg_Lviv:
-13_reg_Mykolayiv:
-14_reg_Odesa:
-15_reg_Poltava:
-16_reg_Rivne:
-17_reg_Sumy:
-18_reg_Ternopil:
-19_reg_Kharkiv:
-20_reg_Kherson:
-21_reg_Khmelnytskiy:
-22_reg_Cherkasy:
-23_reg_Chernivtsi:
-24_reg_Chernihiv:
+7_reg_Zaporizhya: Zaporizhya
+8_reg_Ivano-Frankivsk: Ivano-Frankivsk
+9_reg_Kyiv: Kyiv
+10_reg_Kirovohrad: Kirovohrad
+11_reg_Luhansk: Luhansk
+12_reg_Lviv: Lviv
+13_reg_Mykolayiv: Mykolayiv
+14_reg_Odesa: Odesa
+15_reg_Poltava: Poltava
+16_reg_Rivne: Rivne
+17_reg_Sumy: Sumy
+18_reg_Ternopil: Ternopil
+19_reg_Kharkiv: Kharkiv
+20_reg_Kherson: Kherson
+21_reg_Khmelnytskiy: Khmelnytskiy
+22_reg_Cherkasy: Cherkasy
+23_reg_Chernivtsi: Chernivtsi
+24_reg_Chernihiv: Chernihiv
