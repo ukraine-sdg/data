@@ -14,6 +14,7 @@ hh_ch: домогосподарства з дітьми
 hh_ch_0:  домогосподарства без дітей
 
 Type of Residence: Місцевість проживання
+by type of residence: За типом місцевості проживання
 urban: міська
 rural: сільська
 
@@ -98,3 +99,4 @@ sugar: цукор
 sunflower oil: олія соняшникова
 eggs: яйця
 
+Number of cases of maternal mortality. per 100 000 live births: Кількість випадків материнської смерті, на 100 000 живонароджених
