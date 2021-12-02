@@ -1,10 +1,10 @@
-Year,Group,Group1,Group2,Value
-2015,farms (agricultural products),,,95.2
-2016,farms (agricultural products),,,106.3
-2017,farms (agricultural products),,,97.8
-2018,farms (agricultural products),,,108.2
-2019,farms (agricultural products),,,101.4
-2020,farms (agricultural products),,,89.9
+Year,Farms of all categories,Enterprises,Households,Value
+2015,agricultural products (farms),,,95.2
+2016,agricultural products (farms),,,106.3
+2017,agricultural products (farms),,,97.8
+2018,agricultural products (farms),,,108.2
+2019,agricultural products (farms),,,101.4
+2020,agricultural products (farms),,,89.9
 2015,farms (crop products),,,94.8
 2016,farms (crop products),,,109.1
 2017,farms (crop products),,,97.1
