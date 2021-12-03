@@ -8,6 +8,8 @@ Gender: Стать
 Gender of the Head of Household:  Стать голови домогосподарства
 males: чоловіки
 females: жінки
+male: чоловіки
+female: жінки
 
 Households: Домогосподарства
 hh_ch: домогосподарства з дітьми
@@ -100,3 +102,11 @@ sunflower oil: олія соняшникова
 eggs: яйця
 
 Number of cases of maternal mortality. per 100 000 live births: Кількість випадків материнської смерті, на 100 000 живонароджених
+
+age_vac_1_under 1 year: до 1 року
+age_vac_2_1 year: 1 рік
+age_vac_3_18 months: 18 місяців
+age_vac_4_6 years: 6 років
+age_vac_5_14 years: 14 років
+age_vac_6_16 years: 16 років
+age_vac_7_adult: дорослі
