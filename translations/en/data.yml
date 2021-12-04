@@ -63,4 +63,20 @@ age_vac_5_14 years: 14 years
 age_vac_6_16 years: 16 years
 age_vac_7_adult: adult
 
+prod_1_meat: Production of meat and meat products
+prod_2_fish: Processing and preserving of fish, crustaceans and molluscs
+prod_3_fru_veg: Processing and preserving of fruits and vegetables
+prod_4_oil: Production of oil and animal fats
+prod_5_dairy: Production of dairy products
+prod_6_starch: Production of  flour and cereal products, starches and starch products
+prod_7_flour: Production of flour and cereal products
+prod_8_bread: Production of bread, bakery and flour products
+prod_9_cakes: Production of bread and bakery products; production of  short-term storage flour confectionery, cakes and pastries
+prod_10_rusks: Production of rusks and biscuits; production of  long-term storage flour confectionery, cakes and pastries
+prod_11_other: Production of other food products
+prod_12_sugar: Production of sugar
+prod_13_cocoa: Production of cocoa, chocolate and sugar confectionery
+prod_14_tea: Production of tea and coffee
+prod_15_spices: Production of spices and seasonings
+prod_16_not_else: Production of other food products not elsewhere classified
 
