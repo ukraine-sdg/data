@@ -73,22 +73,22 @@ prod_2_crop: продукція рослинництва
 prod_3_livestock: продукція тваринництва
 
 Index of food production. % compared to the previous year: Індекс виробництва харчових продуктів, у % до попереднього року
-production of meat and meat products: Виробництво м’яса та м’ясних продуктів
-processing and preserving of fish. crustaceans and molluscs: Перероблення та консервування риби, ракоподібних і молюсків
-processing and preserving of fruits and vegetables: Перероблення та консервування фруктів і овочів
-production of oil and animal fats: Виробництво олії та тваринних жирів
-production of dairy products: Виробництво молочних продуктів
-production of flour and cereal products. starches and starch products: Виробництво продуктів борошномельно-круп'яної промисловості, крохмалів та крохмальних продуктів
-production of flour and cereal product: Виробництво продуктів борошномельно-круп'яної промисловості
-production of bread. bakery and flour products: Виробництво хліба, хлібобулочних і борошняних виробів
-production of bread and bakery products. production of short-term storage flour confectionery. cakes and pastries: Виробництво хліба та хлібобулочних виробів; виробництво борошняних кондитерських виробів, тортів і тістечок нетривалого зберігання
-production of rusks and biscuits. production of long-term storage flour confectionery. cakes and pastries: Виробництво сухарів і сухого печива; виробництво борошняних кондитерських виробів, тортів і тістечок тривалого зберігання
-production of other food products: Виробництво інших харчових продуктів
-production of sugar: Виробництво цукру
-production of cocoa. chocolate and sugar confectionery: Виробництво какао, шоколаду та цукрових кондитерських виробів
-production of tea and coffee: Виробництво чаю та кави
-production of spices and seasonings: Виробництво прянощів і приправ
-production of other food products not elsewhere classified: Виробництво інших харчових продуктів, н.в.і.у.
+prod_1_meat: Виробництво м’яса та м’ясних продуктів
+prod_2_fish: Перероблення та консервування риби, ракоподібних і молюсків
+prod_3_fru_veg: Перероблення та консервування фруктів і овочів
+prod_4_oil: Виробництво олії та тваринних жирів
+prod_5_dairy: Виробництво молочних продуктів
+prod_6_starch: Виробництво продуктів борошномельно-круп'яної промисловості, крохмалів та крохмальних продуктів
+prod_7_flour: Виробництво продуктів борошномельно-круп'яної промисловості
+prod_8_bread: Виробництво хліба, хлібобулочних і борошняних виробів
+prod_9_cakes: Виробництво хліба та хлібобулочних виробів; виробництво борошняних кондитерських виробів, тортів і тістечок нетривалого зберігання
+prod_10_rusks: Виробництво сухарів і сухого печива; виробництво борошняних кондитерських виробів, тортів і тістечок тривалого зберігання
+prod_11_other: Виробництво інших харчових продуктів
+prod_12_sugar: Виробництво цукру
+prod_13_cocoa: Виробництво какао, шоколаду та цукрових кондитерських виробів
+prod_14_tea: Виробництво чаю та кави
+prod_15_spices: Виробництво прянощів і приправ
+prod_16_not_else: Виробництво інших харчових продуктів, н.в.і.у.
 
 The consumer price index for food. %: Індекс споживчих цін на продукти харчування, %
 by main product group: за основними групами продуктів 
