@@ -46,6 +46,14 @@ dg_10: 10 group (high income)
 33_reg_Chernivtsi: Chernivtsi
 34_reg_Chernihiv: Chernihiv
 
+farms_1_all: Farms of all categories
+farms_2_enterprise: Enterprises
+farms_3_household: Households
+
+prod_1_agri: agricultural products
+prod_2_crop: crop products
+prod_3_livestock: livestock products
+
 age_vac_1_under 1 year: under 1 year
 age_vac_2_1 year: 1 year
 age_vac_3_18 months: 18 months
@@ -53,3 +61,5 @@ age_vac_4_6 years: 6 years
 age_vac_5_14 years: 14 years
 age_vac_6_16 years: 16 years
 age_vac_7_adult: adult
+
+
