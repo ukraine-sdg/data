@@ -22,7 +22,7 @@ by type of residence: За типом місцевості проживання
 urban: міська
 rural: сільська
 
-Decile groups: децильні (10%-ні) групи за середньодушовими доходами
+Decile groups: Децильні (10%-ні) групи за середньодушовими доходами
 dg_01: перша (нижча)
 dg_02: друга
 dg_03: третя
@@ -61,18 +61,15 @@ Region: Область
 33_reg_Chernivtsi: Чернівецька
 34_reg_Chernihiv: Чернігівська
 
-Farms of all categories: Господарства усіх категорій
-Enterprises: Підприємства
-Households: Господарства населення
-agricultural products (farms): продукція сільського господарства (всі категорії)
-crop products (farms): продукція рослинництва (всі категорії)
-livestock products (farms): продукція тваринництва (всі категорії)
-agricultural products (enterprises): продукція сільського господарства (підприємства)
-crop products (enterprises): продукція рослинництва (підприємства)
-livestock products (enterprises): продукція тваринництва (підприємства)
-agricultural products (households): продукція сільського господарства (домогосподарства)
-crop products (households): продукція рослинництва (домогосподарства)
-livestock products (households): продукція тваринництва (домогосподарства)
+Farm caregory: Категорія господарств
+farms_1_all: Господарства усіх категорій
+farms_2_enterprise: Підприємства
+farms_3_household: Господарства населення
+
+Products: Продукція
+prod_1_agri: продукція сільського господарства
+prod_2_crop: продукція рослинництва
+prod_3_livestock: продукція тваринництва
 
 Index of food production. % compared to the previous year: Індекс виробництва харчових продуктів, у % до попереднього року
 production of meat and meat products: Виробництво м’яса та м’ясних продуктів
