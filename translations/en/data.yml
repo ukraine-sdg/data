@@ -1,3 +1,9 @@
+Cost_train: Cost of training a specialist
+per_student: average cost per student, UAH
+per_student_job: average cost per graduate student trained on-the-job, UAH
+per_graduate: average cost per full-time graduate student, UAH
+per_doctoral: average cost per doctoral student, UAH
+
 
 age_18: under 18 years old
 age_18_34: 18-34 year
