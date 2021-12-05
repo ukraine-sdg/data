@@ -4,11 +4,18 @@ per_student_job: average cost per graduate student trained on-the-job, UAH
 per_graduate: average cost per full-time graduate student, UAH
 per_doctoral: average cost per doctoral student, UAH
 
-
 age_18: under 18 years old
 age_18_34: 18-34 year
 age_35_59: 35-59 years
 age_60: 60 years and older
+age_15: up to 15 years
+age_15_17: 15-17 years
+age_18_24: 18-24 years
+age_25_35: 25-35 years
+age_36_59: 36-59 years
+age_60_74: 60-74 years
+age_75: 75 years and older
+
 
 males: males
 females: females
