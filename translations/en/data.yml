@@ -15,11 +15,11 @@ age_25_35: 25-35 years
 age_36_59: 36-59 years
 age_60_74: 60-74 years
 age_75: 75 years and older
-aged_15: per 1000 women aged 15
-aged_16: per 1000 women aged 16
-aged_17: per 1000 women aged 17
-aged_18: per 1000 women aged 18
-aged_19: per 1000 women aged 19
+aged_15: 15 years
+aged_16: 16 years
+aged_17: 17 years
+aged_18: 18 years
+aged_19: 19 years
 
 cat_A: A
 cat_B: B
