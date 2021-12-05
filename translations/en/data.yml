@@ -16,6 +16,9 @@ age_36_59: 36-59 years
 age_60_74: 60-74 years
 age_75: 75 years and older
 
+cat_A: A
+cat_B: B
+cat_C: C
 
 males: males
 females: females
