@@ -117,6 +117,24 @@ prod_14_tea: Production of tea and coffee
 prod_15_spices: Production of spices and seasonings
 prod_16_not_else: Production of other food products not elsewhere classified
 
+Ec_activ: Еconomic activity
+agricul: agriculture. forestry and fisheries
+indu: industry
+constr: construction
+motor_veh: wholesale and retail trade, repair of motor vehicles and motorcycles
+courier: transport, warehousing, post and courier services
+cater: temporary accommodation and catering
+telecom: information and telecommunications
+insurance: financial and insurance activities
+estate: real estate transactions
+scientific: professional, scientific and technical activities
+support: administrative and support service activities
+public: public administration and defense, compulsory social insurance
+educ: education
+health: health care and social assistance
+arts: arts, sports, entertainment and recreation
+other_serv: provision of other services
+
 1_tr_road: Road transport used by road hauliers
 2_tr_urban: Urban electric transport 
 
