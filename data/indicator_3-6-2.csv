@@ -1,13 +1,13 @@
-Year,Group,Value
-2015,road transport used by road hauliers,4.09
-2016,road transport used by road hauliers,4.64
-2017,road transport used by road hauliers,4.29
-2018,road transport used by road hauliers,4.03
-2019,road transport used by road hauliers,3.78
-2020,road transport used by road hauliers,
-2015,urban electric transport,0.50
-2016,urban electric transport,0.44
-2017,urban electric transport,0.44
-2018,urban electric transport,0.51
-2019,urban electric transport,0.46
-2020,urban electric transport,
+Year,Mode of transport,Value
+2015,1_tr_road,4.09
+2016,1_tr_road,4.64
+2017,1_tr_road,4.29
+2018,1_tr_road,4.03
+2019,1_tr_road,3.78
+2020,1_tr_road,
+2015,2_tr_urban,0.50
+2016,2_tr_urban,0.44
+2017,2_tr_urban,0.44
+2018,2_tr_urban,0.51
+2019,2_tr_urban,0.46
+2020,2_tr_urban,
