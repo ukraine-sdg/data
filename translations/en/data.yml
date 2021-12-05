@@ -7,6 +7,14 @@ age_60: 60 years and older
 males: males
 females: females
 
+Level: Levels of academic achievement
+1_level: 1st_level (basic, 0-3 points)
+2_level: 2nd level (intermediate, 4-6 points)
+3_level: 3rd level (adequate, 7-9 points)
+4_level: 4th level (high, 10-12 points)
+
+urban_settl: urban settlement
+
 hh_ch: households with children
 hh_ch_0: households without children
 
