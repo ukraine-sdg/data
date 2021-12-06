@@ -160,10 +160,10 @@ other_serv: provision of other services
 1_tr_road: Road transport used by road hauliers
 2_tr_urban: Urban electric transport 
 
-tuberculosis: Tuberculosis
-hepatitis B: Hepatitis B
-measles. mumps. rubella: Measles, mumps, rubella
-diphtheria. tetanus: Diphtheria, tetanus
-pertussis: Pertussis
-poliomyelitis: Poliomyelitis
-hib infection: Hib infection
+ill_1_tub: Tuberculosis
+ill_2_hep: Hepatitis B
+ill_3_m_m_r: Measles, mumps, rubella
+ill_4_diph: Diphtheria, tetanus
+ill_5_pert: Pertussis
+ill_6_polio: Poliomyelitis
+ill_7_hib: Hib infection
