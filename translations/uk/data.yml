@@ -206,11 +206,11 @@ Type of water supply: Тип водопостачання
 centralized: централізоване
 decentralized: децентралізоване
 
-Generation: Electricity generation
-el_1_power: Power generating companies of TPP
-el_2_CHP: CHP
-el_3_HPP: HPP
-el_4_PSP: PSP
-el_5_NPP: NPP
-el_6_plants: captive power plants
-el_7_alternative: alternative energy sources (WPS/ SPP/ biomass)
+Generation: Виробіток електроенергії
+el_1_power: ТЕС ГК
+el_2_CHP: ТЕЦ та коген. установки
+el_3_HPP: ГЕС
+el_4_PSP: ГАЕС
+el_5_NPP: АЕС
+el_6_plants: Блокстанції
+el_7_alternative: Альтерн. джер. енергії (ВЕС, СЕС, Біомаса)
