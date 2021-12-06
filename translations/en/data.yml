@@ -117,6 +117,16 @@ prod_14_tea: Production of tea and coffee
 prod_15_spices: Production of spices and seasonings
 prod_16_not_else: Production of other food products not elsewhere classified
 
+11_bread: bread and bakery products
+12_meat: meat and meat products
+13_milk: milk
+14_fish: fish and fish products
+15_veg: vegetables
+16_fruits: fruits
+17_sugar: sugar
+18_oil: sunflower oil
+19_eggs: eggs
+
 Ec_activ: Еconomic activity
 s_11_indu: industry
 agricul: agriculture, forestry and fisheries
