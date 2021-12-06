@@ -119,8 +119,18 @@ prod_16_not_else: Production of other food products not elsewhere classified
 
 Ec_activ: Еconomic activity
 agricul: agriculture, forestry and fisheries
+agri: agriculture
+fores: forestry
 indu: industry
 constr: construction
+transp: transport
+commun: communication
+trade: trade and catering
+logis: logistics
+resid: residential sector
+care: health care, physical education
+pub_ed: public education
+oth_sec: other sectors
 motor_veh: wholesale and retail trade, repair of motor vehicles and motorcycles
 courier: transport, warehousing, post and courier services
 cater: temporary accommodation and catering
