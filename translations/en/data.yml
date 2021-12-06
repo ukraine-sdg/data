@@ -118,19 +118,21 @@ prod_15_spices: Production of spices and seasonings
 prod_16_not_else: Production of other food products not elsewhere classified
 
 Ec_activ: Еconomic activity
+s_11_indu: industry
 agricul: agriculture, forestry and fisheries
-agri: agriculture
-fores: forestry
+s_12_agri: agriculture
+s_13_fores: forestry
 indu: industry
 constr: construction
-transp: transport
-commun: communication
-trade: trade and catering
-logis: logistics
-resid: residential sector
-care: health care, physical education
-pub_ed: public education
-oth_sec: other sectors
+s_14_transp: transport
+s_15_commun: communication
+s_16_constr: construction
+s_17_trade: trade and catering
+s_18_logis: logistics
+s_19_resid: residential sector
+s_20_care: health care, physical education
+s_21_pub_ed: public education
+s_22_oth_sec: other sectors
 motor_veh: wholesale and retail trade, repair of motor vehicles and motorcycles
 courier: transport, warehousing, post and courier services
 cater: temporary accommodation and catering
