@@ -205,3 +205,12 @@ ill_7_hib: Хіб-інфекція
 Type of water supply: Тип водопостачання
 centralized: централізоване
 decentralized: децентралізоване
+
+Generation: Electricity generation
+el_1_power: Power generating companies of TPP
+el_2_CHP: CHP
+el_3_HPP: HPP
+el_4_PSP: PSP
+el_5_NPP: NPP
+el_6_plants: captive power plants
+el_7_alternative: alternative energy sources (WPS/ SPP/ biomass)
