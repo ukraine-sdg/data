@@ -7,6 +7,11 @@ electr_3_act_value: Reported actual value of technological electric power consum
 2_exc_val: excess value of technological electric power consumption
 electr_4_tech_cons: Technological electric power consumption in distribution system 
 
+Sou_en: Source of energy
+en_1_coal: coal
+en_2_petrol: petroleum
+en_3_gas: natural gas
+
 Cost_train: Cost of training a specialist
 1_per_student: average cost per student, UAH
 2_per_student_job: average cost per graduate student trained on-the-job, UAH
