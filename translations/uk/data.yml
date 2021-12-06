@@ -192,13 +192,13 @@ Mode of transport: Вид транспорту
 2_tr_urban: Міський електричний транспорт
 
 Infectious diseases: Інфекційні захворювання
-tuberculosis: Туберкульоз
-hepatitis B: Гепатит В
-measles. mumps. rubella: Кір, паротит, краснуха
-diphtheria. tetanus: Дифтерія, правець
-pertussis: Кашлюк
-poliomyelitis: Поліомієліт
-hib infection: Хіб-інфекція
+ill_1_tub: Туберкульоз
+ill_2_hep: Гепатит В
+ill_3_m_m_r: Кір, паротит, краснуха
+ill_4_diph: Дифтерія, правець
+ill_5_pert: Кашлюк
+ill_6_polio: Поліомієліт
+ill_7_hib: Хіб-інфекція
 
 Type of water supply: Тип водопостачання
 centralized: централізоване
