@@ -35,12 +35,12 @@ Level_ed: Level of education
 2_level: 2nd level (intermediate, 4-6 points)
 3_level: 3rd level (adequate, 7-9 points)
 4_level: 4th level (high, 10-12 points)
-сompl_higher: Complete higher
-bas_higher: Basic higher
-inсompl_higher: Incomplete higher
-prof_ed: Professional and technical
-comp_aver: Complete total average
-bas_ed: Basic, elementary general or no education
+1_сompl_higher: Complete higher
+2_bas_higher: Basic higher
+3_inсompl_higher: Incomplete higher
+4_prof_ed: Professional and technical
+5_comp_aver: Complete total average
+6_bas_ed: Basic, elementary general or no education
 
 urban_settl: urban settlement
 
