@@ -1,145 +1,145 @@
-Year,Group,Value
-2015,,28.9
-2016,,
-2017,,28.4
-2018,,
-2019,,29.6
+Year,Ec_activ,including,Value
+2015,,,28.9
+2016,,,
+2017,,,28.4
+2018,,,
+2019,,,29.6
 2020,,
-2015,agriculture and related services,11.2
-2016,agriculture and related services,
-2017,agriculture and related services,12.6
-2018,agriculture and related services,
-2019,agriculture and related services,14.5
-2020,agriculture and related services,
-2015,industry,35.3
-2016,industry,
-2017,industry,34.1
-2018,industry,
-2019,industry,34
-2020,industry,
-2015,mining and quarrying,68.7
-2016,mining and quarrying,
-2017,mining and quarrying,67.9
-2018,mining and quarrying,
-2019,mining and quarrying,66.5
-2020,mining and quarrying,
-2015,mining and quarrying including hard coal and brown coal extraction,82
-2016,mining and quarrying including hard coal and brown coal extraction,
-2017,mining and quarrying including hard coal and brown coal extraction,81.2
-2018,mining and quarrying including hard coal and brown coal extraction,
-2019,mining and quarrying including hard coal and brown coal extraction,78.6
-2020,mining and quarrying including hard coal and brown coal extraction,
-2015,processing industry,29.2
-2016,processing industry,
-2017,processing industry,27.8
-2018,processing industry,
-2019,processing industry,28.5
-2020,processing industry,
-2015,manufacture of food. beverages and tobacco products,17.3
-2016,manufacture of food. beverages and tobacco products,
-2017,manufacture of food. beverages and tobacco products,19.5
-2018,manufacture of food. beverages and tobacco products,
-2019,manufacture of food. beverages and tobacco products,20.5
-2020,manufacture of food. beverages and tobacco products,
-2015,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,9.5
-2016,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,
-2017,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,11.1
-2018,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,
-2019,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,12.1
-2020,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,
-2015,manufacture of wood products. paper manufacturing and printing,22.5
-2016,manufacture of wood products. paper manufacturing and printing,
-2017,manufacture of wood products. paper manufacturing and printing,23.7
-2018,manufacture of wood products. paper manufacturing and printing,
-2019,manufacture of wood products. paper manufacturing and printing,25.6
-2020,manufacture of wood products. paper manufacturing and printing,
-2015,manufacture of coke and refined petroleum products,58.5
-2016,manufacture of coke and refined petroleum products,
-2017,manufacture of coke and refined petroleum products,61.3
-2018,manufacture of coke and refined petroleum products,
-2019,manufacture of coke and refined petroleum products,59.5
-2020,manufacture of coke and refined petroleum products,
-2015,manufacture of chemicals and chemical products,37.2
-2016,manufacture of chemicals and chemical products,
-2017,manufacture of chemicals and chemical products,33.4
-2018,manufacture of chemicals and chemical products,
-2019,manufacture of chemicals and chemical products,37.3
-2020,manufacture of chemicals and chemical products,
-2015,manufacture of main pharmaceutical products and preparations,21.2
-2016,manufacture of main pharmaceutical products and preparations,
-2017,manufacture of main pharmaceutical products and preparations,19.1
-2018,manufacture of main pharmaceutical products and preparations,
-2019,manufacture of main pharmaceutical products and preparations,20
-2020,manufacture of main pharmaceutical products and preparations,
-2015,manufacture of rubber and plastic products. other non-metallic mineral products,26.9
-2016,manufacture of rubber and plastic products. other non-metallic mineral products,
-2017,manufacture of rubber and plastic products. other non-metallic mineral products,29.7
-2018,manufacture of rubber and plastic products. other non-metallic mineral products,
-2019,manufacture of rubber and plastic products. other non-metallic mineral products,28.3
-2020,manufacture of rubber and plastic products. other non-metallic mineral products,
-2015,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,57.7
-2016,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,
-2017,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,56.3
-2018,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,
-2019,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,55.4
-2020,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,
-2015,manufacture of computers. electronic and optical products,14.7
-2016,manufacture of computers. electronic and optical products,
-2017,manufacture of computers. electronic and optical products,14.4
-2018,manufacture of computers. electronic and optical products,
-2019,manufacture of computers. electronic and optical products,13.2
-2020,manufacture of computers. electronic and optical products,
-2015,manufacture of electrical equipment,23.7
-2016,manufacture of electrical equipment,
-2017,manufacture of electrical equipment,21
-2018,manufacture of electrical equipment,
-2019,manufacture of electrical equipment,19.4
-2020,manufacture of electrical equipment,
-2015,manufacture of machinery and equipment. not elsewhere classified,25.3
-2016,manufacture of machinery and equipment. not elsewhere classified,
-2017,manufacture of machinery and equipment. not elsewhere classified,21.9
-2018,manufacture of machinery and equipment. not elsewhere classified,
-2019,manufacture of machinery and equipment. not elsewhere classified,21.1
-2020,manufacture of machinery and equipment. not elsewhere classified,
-2015,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,21.5
-2016,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,
-2017,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,19.4
-2018,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,
-2019,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,19.4
-2020,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,
-2015,manufacture of furniture. other products. repair and installation of machinery and equipment,30.3
-2016,manufacture of furniture. other products. repair and installation of machinery and equipment,
-2017,manufacture of furniture. other products. repair and installation of machinery and equipment,29.1
-2018,manufacture of furniture. other products. repair and installation of machinery and equipment,
-2019,manufacture of furniture. other products. repair and installation of machinery and equipment,33.9
-2020,manufacture of furniture. other products. repair and installation of machinery and equipment,
-2015,supply of electricity. gas. steam and air conditioning,35.2
-2016,supply of electricity. gas. steam and air conditioning,
-2017,supply of electricity. gas. steam and air conditioning,34.9
-2018,supply of electricity. gas. steam and air conditioning,
-2019,supply of electricity. gas. steam and air conditioning,34
-2020,supply of electricity. gas. steam and air conditioning,
-2015,water supply. sewage. waste management,35.3
-2016,water supply. sewage. waste management,
-2017,water supply. sewage. waste management,35.4
-2018,water supply. sewage. waste management,
-2019,water supply. sewage. waste management,36.5
-2020,water supply. sewage. waste management,
-2015,construction,20.8
-2016,construction,
-2017,construction,20.5
-2018,construction,
-2019,construction,22.5
-2020,construction,
-2015,transport. warehousing. postal and courier activities,23.1
-2016,transport. warehousing. postal and courier activities,
-2017,transport. warehousing. postal and courier activities,23.5
-2018,transport. warehousing. postal and courier activities,
-2019,transport. warehousing. postal and courier activities,27
-2020,transport. warehousing. postal and courier activities,
-2015,telecommunications,11.4
-2016,telecommunications,
-2017,telecommunications,10.7
-2018,telecommunications,
-2019,telecommunications,11.1
-2020,telecommunications,
+2015,agriculture and related services,,11.2
+2016,agriculture and related services,,
+2017,agriculture and related services,,12.6
+2018,agriculture and related services,,
+2019,agriculture and related services,,14.5
+2020,agriculture and related services,,
+2015,industry,,35.3
+2016,industry,,
+2017,industry,,34.1
+2018,industry,,
+2019,industry,,34
+2020,industry,,
+2015,mining and quarrying,,68.7
+2016,mining and quarrying,,
+2017,mining and quarrying,,67.9
+2018,mining and quarrying,,
+2019,mining and quarrying,,66.5
+2020,mining and quarrying,,
+2015,,mining and quarrying including hard coal and brown coal extraction,82
+2016,,mining and quarrying including hard coal and brown coal extraction,
+2017,,mining and quarrying including hard coal and brown coal extraction,81.2
+2018,,mining and quarrying including hard coal and brown coal extraction,
+2019,,mining and quarrying including hard coal and brown coal extraction,78.6
+2020,,mining and quarrying including hard coal and brown coal extraction,
+2015,processing industry,,29.2
+2016,processing industry,,
+2017,processing industry,,27.8
+2018,processing industry,,
+2019,processing industry,,28.5
+2020,processing industry,,
+2015,,manufacture of food. beverages and tobacco products,17.3
+2016,,manufacture of food. beverages and tobacco products,
+2017,,manufacture of food. beverages and tobacco products,19.5
+2018,,manufacture of food. beverages and tobacco products,
+2019,,manufacture of food. beverages and tobacco products,20.5
+2020,,manufacture of food. beverages and tobacco products,
+2015,,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,9.5
+2016,,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,
+2017,,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,11.1
+2018,,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,
+2019,,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,12.1
+2020,,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,
+2015,,manufacture of wood products. paper manufacturing and printing,22.5
+2016,,manufacture of wood products. paper manufacturing and printing,
+2017,,manufacture of wood products. paper manufacturing and printing,23.7
+2018,,manufacture of wood products. paper manufacturing and printing,
+2019,,manufacture of wood products. paper manufacturing and printing,25.6
+2020,,manufacture of wood products. paper manufacturing and printing,
+2015,,manufacture of coke and refined petroleum products,58.5
+2016,,manufacture of coke and refined petroleum products,
+2017,,manufacture of coke and refined petroleum products,61.3
+2018,,manufacture of coke and refined petroleum products,
+2019,,manufacture of coke and refined petroleum products,59.5
+2020,,manufacture of coke and refined petroleum products,
+2015,,manufacture of chemicals and chemical products,37.2
+2016,,manufacture of chemicals and chemical products,
+2017,,manufacture of chemicals and chemical products,33.4
+2018,,manufacture of chemicals and chemical products,
+2019,,manufacture of chemicals and chemical products,37.3
+2020,,manufacture of chemicals and chemical products,
+2015,,manufacture of main pharmaceutical products and preparations,21.2
+2016,,manufacture of main pharmaceutical products and preparations,
+2017,,manufacture of main pharmaceutical products and preparations,19.1
+2018,,manufacture of main pharmaceutical products and preparations,
+2019,,manufacture of main pharmaceutical products and preparations,20
+2020,,manufacture of main pharmaceutical products and preparations,
+2015,,manufacture of rubber and plastic products. other non-metallic mineral products,26.9
+2016,,manufacture of rubber and plastic products. other non-metallic mineral products,
+2017,,manufacture of rubber and plastic products. other non-metallic mineral products,29.7
+2018,,manufacture of rubber and plastic products. other non-metallic mineral products,
+2019,,manufacture of rubber and plastic products. other non-metallic mineral products,28.3
+2020,,manufacture of rubber and plastic products. other non-metallic mineral products,
+2015,,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,57.7
+2016,,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,
+2017,,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,56.3
+2018,,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,
+2019,,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,55.4
+2020,,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,
+2015,,manufacture of computers. electronic and optical products,14.7
+2016,,manufacture of computers. electronic and optical products,
+2017,,manufacture of computers. electronic and optical products,14.4
+2018,,manufacture of computers. electronic and optical products,
+2019,,manufacture of computers. electronic and optical products,13.2
+2020,,manufacture of computers. electronic and optical products,
+2015,,manufacture of electrical equipment,23.7
+2016,,manufacture of electrical equipment,
+2017,,manufacture of electrical equipment,21
+2018,,manufacture of electrical equipment,
+2019,,manufacture of electrical equipment,19.4
+2020,,manufacture of electrical equipment,
+2015,,manufacture of machinery and equipment. not elsewhere classified,25.3
+2016,,manufacture of machinery and equipment. not elsewhere classified,
+2017,,manufacture of machinery and equipment. not elsewhere classified,21.9
+2018,,manufacture of machinery and equipment. not elsewhere classified,
+2019,,manufacture of machinery and equipment. not elsewhere classified,21.1
+2020,,manufacture of machinery and equipment. not elsewhere classified,
+2015,,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,21.5
+2016,,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,
+2017,,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,19.4
+2018,,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,
+2019,,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,19.4
+2020,,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,
+2015,,manufacture of furniture. other products. repair and installation of machinery and equipment,30.3
+2016,,manufacture of furniture. other products. repair and installation of machinery and equipment,
+2017,,manufacture of furniture. other products. repair and installation of machinery and equipment,29.1
+2018,,manufacture of furniture. other products. repair and installation of machinery and equipment,
+2019,,manufacture of furniture. other products. repair and installation of machinery and equipment,33.9
+2020,,manufacture of furniture. other products. repair and installation of machinery and equipment,
+2015,supply of electricity. gas. steam and air conditioning,,35.2
+2016,supply of electricity. gas. steam and air conditioning,,
+2017,supply of electricity. gas. steam and air conditioning,,34.9
+2018,supply of electricity. gas. steam and air conditioning,,
+2019,supply of electricity. gas. steam and air conditioning,,34
+2020,supply of electricity. gas. steam and air conditioning,,
+2015,water supply. sewage. waste management,,35.3
+2016,water supply. sewage. waste management,,
+2017,water supply. sewage. waste management,,35.4
+2018,water supply. sewage. waste management,,
+2019,water supply. sewage. waste management,,36.5
+2020,water supply. sewage. waste management,,
+2015,construction,,20.8
+2016,construction,,
+2017,construction,,20.5
+2018,construction,,
+2019,construction,,22.5
+2020,construction,,
+2015,transport. warehousing. postal and courier activities,,23.1
+2016,transport. warehousing. postal and courier activities,,
+2017,transport. warehousing. postal and courier activities,,23.5
+2018,transport. warehousing. postal and courier activities,,
+2019,transport. warehousing. postal and courier activities,,27
+2020,transport. warehousing. postal and courier activities,,
+2015,telecommunications,,11.4
+2016,telecommunications,,
+2017,telecommunications,,10.7
+2018,telecommunications,,
+2019,telecommunications,,11.1
+2020,telecommunications,,
