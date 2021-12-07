@@ -53,66 +53,66 @@ Year,Ec_activ,including,Value
 2018,4_proc_ind,inc_14_wood,
 2019,4_proc_ind,inc_14_wood,25.6
 2020,4_proc_ind,inc_14_wood,
-2015,4_proc_ind,manufacture of coke and refined petroleum products,58.5
-2016,4_proc_ind,manufacture of coke and refined petroleum products,
-2017,4_proc_ind,manufacture of coke and refined petroleum products,61.3
-2018,4_proc_ind,manufacture of coke and refined petroleum products,
-2019,4_proc_ind,manufacture of coke and refined petroleum products,59.5
-2020,4_proc_ind,manufacture of coke and refined petroleum products,
-2015,4_proc_ind,manufacture of chemicals and chemical products,37.2
-2016,4_proc_ind,manufacture of chemicals and chemical products,
-2017,4_proc_ind,manufacture of chemicals and chemical products,33.4
-2018,4_proc_ind,manufacture of chemicals and chemical products,
-2019,4_proc_ind,manufacture of chemicals and chemical products,37.3
-2020,4_proc_ind,manufacture of chemicals and chemical products,
-2015,4_proc_ind,manufacture of main pharmaceutical products and preparations,21.2
-2016,4_proc_ind,manufacture of main pharmaceutical products and preparations,
-2017,4_proc_ind,manufacture of main pharmaceutical products and preparations,19.1
-2018,4_proc_ind,manufacture of main pharmaceutical products and preparations,
-2019,4_proc_ind,manufacture of main pharmaceutical products and preparations,20
-2020,4_proc_ind,manufacture of main pharmaceutical products and preparations,
-2015,4_proc_ind,manufacture of rubber and plastic products. other non-metallic mineral products,26.9
-2016,4_proc_ind,manufacture of rubber and plastic products. other non-metallic mineral products,
-2017,4_proc_ind,manufacture of rubber and plastic products. other non-metallic mineral products,29.7
-2018,4_proc_ind,manufacture of rubber and plastic products. other non-metallic mineral products,
-2019,4_proc_ind,manufacture of rubber and plastic products. other non-metallic mineral products,28.3
-2020,4_proc_ind,manufacture of rubber and plastic products. other non-metallic mineral products,
-2015,4_proc_ind,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,57.7
-2016,4_proc_ind,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,
-2017,4_proc_ind,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,56.3
-2018,4_proc_ind,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,
-2019,4_proc_ind,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,55.4
-2020,4_proc_ind,metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment,
-2015,4_proc_ind4_proc_ind4_proc_ind,manufacture of computers. electronic and optical products,14.7
-2016,4_proc_ind4_proc_ind,manufacture of computers. electronic and optical products,
-2017,4_proc_ind,manufacture of computers. electronic and optical products,14.4
-2018,4_proc_ind,manufacture of computers. electronic and optical products,
-2019,4_proc_ind,manufacture of computers. electronic and optical products,13.2
-2020,4_proc_ind,manufacture of computers. electronic and optical products,
-2015,4_proc_ind,manufacture of electrical equipment,23.7
-2016,4_proc_ind,manufacture of electrical equipment,
-2017,4_proc_ind,manufacture of electrical equipment,21
-2018,4_proc_ind,manufacture of electrical equipment,
-2019,4_proc_ind,manufacture of electrical equipment,19.4
-2020,4_proc_ind,manufacture of electrical equipment,
-2015,4_proc_ind,manufacture of machinery and equipment. not elsewhere classified,25.3
-2016,4_proc_ind,manufacture of machinery and equipment. not elsewhere classified,
-2017,4_proc_ind,manufacture of machinery and equipment. not elsewhere classified,21.9
-2018,4_proc_ind,manufacture of machinery and equipment. not elsewhere classified,
-2019,4_proc_ind,manufacture of machinery and equipment. not elsewhere classified,21.1
-2020,4_proc_ind,manufacture of machinery and equipment. not elsewhere classified,
-2015,4_proc_ind,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,21.5
-2016,4_proc_ind,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,
-2017,4_proc_ind,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,19.4
-2018,4_proc_ind,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,
-2019,4_proc_ind,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,19.4
-2020,4_proc_ind4_proc_ind,manufacture of motor vehicles. trailers and semi-trailers and other vehicles,
-2015,4_proc_ind,manufacture of furniture. other products. repair and installation of machinery and equipment,30.3
-2016,4_proc_ind,manufacture of furniture. other products. repair and installation of machinery and equipment,
-2017,4_proc_ind,manufacture of furniture. other products. repair and installation of machinery and equipment,29.1
-2018,4_proc_ind,manufacture of furniture. other products. repair and installation of machinery and equipment,
-2019,4_proc_ind,manufacture of furniture. other products. repair and installation of machinery and equipment,33.9
-2020,4_proc_ind,manufacture of furniture. other products. repair and installation of machinery and equipment,
+2015,4_proc_ind,inc_15_coke,58.5
+2016,4_proc_ind,inc_15_coke,
+2017,4_proc_ind,inc_15_coke,61.3
+2018,4_proc_ind,inc_15_coke,
+2019,4_proc_ind,inc_15_coke,59.5
+2020,4_proc_ind,inc_15_coke,
+2015,4_proc_ind,inc_16_chem,37.2
+2016,4_proc_ind,inc_16_chem,
+2017,4_proc_ind,inc_16_chem,33.4
+2018,4_proc_ind,inc_16_chem,
+2019,4_proc_ind,inc_16_chem,37.3
+2020,4_proc_ind,inc_16_chem,
+2015,4_proc_ind,inc_17_pharma,21.2
+2016,4_proc_ind,inc_17_pharma,
+2017,4_proc_ind,inc_17_pharma,19.1
+2018,4_proc_ind,inc_17_pharma,
+2019,4_proc_ind,inc_17_pharma,20
+2020,4_proc_ind,inc_17_pharma,
+2015,4_proc_ind,inc_18_plastic,26.9
+2016,4_proc_ind,inc_18_plastic,
+2017,4_proc_ind,inc_18_plastic,29.7
+2018,4_proc_ind,inc_18_plastic,
+2019,4_proc_ind,inc_18_plastic,28.3
+2020,4_proc_ind,inc_18_plastic,
+2015,4_proc_ind,inc_19_metall,57.7
+2016,4_proc_ind,inc_19_metall,
+2017,4_proc_ind,inc_19_metall,56.3
+2018,4_proc_ind,inc_19_metall,
+2019,4_proc_ind,inc_19_metall,55.4
+2020,4_proc_ind,inc_19_metall,
+2015,4_proc_ind,inc_20_pc,14.7
+2016,4_proc_ind,inc_20_pc,
+2017,4_proc_ind,inc_20_pc,14.4
+2018,4_proc_ind,inc_20_pc,
+2019,4_proc_ind,inc_20_pc,13.2
+2020,4_proc_ind,inc_20_pc,
+2015,4_proc_ind,inc_21_electro,23.7
+2016,4_proc_ind,inc_21_electro,
+2017,4_proc_ind,inc_21_electro,21
+2018,4_proc_ind,inc_21_electro,
+2019,4_proc_ind,inc_21_electro,19.4
+2020,4_proc_ind,inc_21_electro,
+2015,4_proc_ind,inc_22_machinery,25.3
+2016,4_proc_ind,inc_22_machinery,
+2017,4_proc_ind,inc_22_machinery,21.9
+2018,4_proc_ind,inc_22_machinery,
+2019,4_proc_ind,inc_22_machinery,21.1
+2020,4_proc_ind,inc_22_machinery,
+2015,4_proc_ind,inc_23_motor,21.5
+2016,4_proc_ind,inc_23_motor,
+2017,4_proc_ind,inc_23_motor,19.4
+2018,4_proc_ind,inc_23_motor,
+2019,4_proc_ind,inc_23_motor,19.4
+2020,4_proc_ind,inc_23_motor,
+2015,4_proc_ind,inc_24_furn,30.3
+2016,4_proc_ind,inc_24_furn,
+2017,4_proc_ind,inc_24_furn,29.1
+2018,4_proc_ind,inc_24_furn,
+2019,4_proc_ind,inc_24_furn,33.9
+2020,4_proc_ind,inc_24_furn,
 2015,5_el_gas,,35.2
 2016,5_el_gas,,
 2017,5_el_gas,,34.9
