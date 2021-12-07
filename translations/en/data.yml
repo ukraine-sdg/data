@@ -1,3 +1,11 @@
+m_trans: Mode of transport
+tr_1_rail: rail
+tr_2_motor: motor
+tr_3_sea: sea
+tr_4_river: river
+tr_5_pipeline: pipeline
+tr_6_air: air
+
 1_agr_and_rel: Agriculture and related services
 2_indus: Industry
 3_mining: Mining and quarrying
