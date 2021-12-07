@@ -16,10 +16,10 @@ inc_15_coke: manufacture of coke and refined petroleum products
 inc_16_chem: manufacture of chemicals and chemical products
 inc_17_pharma: manufacture of main pharmaceutical products and preparations
 inc_18_plastic: manufacture of rubber and plastic products. other non-metallic mineral products
-inc_19_metall: metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment
-inc_20_pc: manufacture of computers. electronic and optical products
+inc_19_metall: metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment
+inc_20_pc: manufacture of computers, electronic and optical products
 inc_21_electro: manufacture of electrical equipment 
-inc_22_machinery: manufacture of machinery and equipment. not elsewhere classified
+inc_22_machinery: manufacture of machinery and equipment, not elsewhere classified
 inc_23_motor: manufacture of motor vehicles, trailers and semi-trailers and other vehicles
 inc_24_furn: manufacture of furniture, other products, repair and installation of machinery and equipment
 
