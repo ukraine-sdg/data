@@ -1,3 +1,18 @@
+11_ext_quar: mining and quarrying
+12_ext_coal: extraction of hard coal and brown coal
+13_ext_oil: extraction of crude oil and natural gas
+14_ext_ores: extraction of metal ores
+15_ext_miner: extraction of other minerals and quarrying
+16_serv: provision of ancillary services in the field of mining and quarrying
+17_proc_ind: processing industry
+18_man_food: manufacture of food products
+19_man_bev: manufacture of beverages
+20_man_tobac: manufacture of tobacco products
+21_man_text: textile manufacturing
+22_man_cloth: manufacture of clothing
+23_man_leather: manufacture of leather, leather goods and other materials
+
+
 m_trans: Mode of transport
 tr_1_rail: rail
 tr_2_motor: motor
