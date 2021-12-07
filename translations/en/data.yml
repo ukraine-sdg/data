@@ -5,6 +5,9 @@ tr_3_sea: sea
 tr_4_river: river
 tr_5_pipeline: pipeline
 tr_6_air: air
+tr_7_tram: tram
+tr_8_trolley: trolleybus
+tr_9_subway: subway
 
 1_agr_and_rel: Agriculture and related services
 2_indus: Industry
