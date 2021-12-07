@@ -1,3 +1,28 @@
+1_agr_and_rel: Agriculture and related services
+2_indus: Industry
+3_mining: Mining and quarrying
+4_proc_ind: Processing industry
+5_el_gas: Supply of electricity, gas, steam and air conditioning
+6_water: Water supply; sewage, waste management
+7_constr: Construction
+8_trans_act: Transport, warehousing, postal and courier activities
+9_telec: Telecommunications
+
+inc_11_coal: hard coal and brown coal extraction
+inc_12_food: manufacture of food, beverages and tobacco products
+inc_13_leather: textile manufacturing, manufacture of clothing, leather, leather goods and other materials
+inc_14_wood: manufacture of wood products, paper manufacturing and printing
+inc_15_coke: manufacture of coke and refined petroleum products
+inc_16_chem: manufacture of chemicals and chemical products
+inc_17_pharma: manufacture of main pharmaceutical products and preparations
+inc_18_plastic: manufacture of rubber and plastic products. other non-metallic mineral products
+inc_19_metall: metallurgical manufacturing. manufacture of fabricated metal products. except machinery and equipment
+inc_20_pc: manufacture of computers. electronic and optical products
+inc_21_electro: manufacture of electrical equipment 
+inc_22_machinery: manufacture of machinery and equipment. not elsewhere classified
+inc_23_motor: manufacture of motor vehicles, trailers and semi-trailers and other vehicles
+inc_24_furn: manufacture of furniture, other products, repair and installation of machinery and equipment
+
 electr_1_supply: Supply of electricity to the grid
 kWh: million kWh
 per: percentage
