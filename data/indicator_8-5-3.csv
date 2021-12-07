@@ -23,36 +23,36 @@ Year,Ec_activ,including,Value
 2018,3_mining,,
 2019,3_mining,,66.5
 2020,3_mining,,
-2015,3_mining,mining and quarrying including hard coal and brown coal extraction,82
-2016,3_mining,mining and quarrying including hard coal and brown coal extraction,
-2017,3_mining,mining and quarrying including hard coal and brown coal extraction,81.2
-2018,3_mining,mining and quarrying including hard coal and brown coal extraction,
-2019,3_mining,mining and quarrying including hard coal and brown coal extraction,78.6
-2020,3_mining,mining and quarrying including hard coal and brown coal extraction,
+2015,3_mining,inc_11_coal,82
+2016,3_mining,inc_11_coal,
+2017,3_mining,inc_11_coal,81.2
+2018,3_mining,inc_11_coal,
+2019,3_mining,inc_11_coal,78.6
+2020,3_mining,inc_11_coal,
 2015,4_proc_ind,,29.2
 2016,4_proc_indy,,
 2017,4_proc_ind,,27.8
 2018,4_proc_ind,,
 2019,4_proc_ind,,28.5
 2020,4_proc_ind,,
-2015,4_proc_ind,manufacture of food. beverages and tobacco products,17.3
-2016,4_proc_ind,manufacture of food. beverages and tobacco products,
-2017,4_proc_ind,manufacture of food. beverages and tobacco products,19.5
-2018,4_proc_ind,manufacture of food. beverages and tobacco products,
-2019,4_proc_ind,manufacture of food. beverages and tobacco products,20.5
-2020,4_proc_ind,manufacture of food. beverages and tobacco products,
-2015,4_proc_ind,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,9.5
-2016,4_proc_ind,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,
-2017,4_proc_ind,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,11.1
-2018,4_proc_ind,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,
-2019,4_proc_ind,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,12.1
-2020,4_proc_ind,textile manufacturing. manufacture of clothing. Leather. leather goods and other materials,
-2015,4_proc_ind,manufacture of wood products. paper manufacturing and printing,22.5
-2016,4_proc_ind,manufacture of wood products. paper manufacturing and printing,
-2017,4_proc_ind,manufacture of wood products. paper manufacturing and printing,23.7
-2018,4_proc_ind,manufacture of wood products. paper manufacturing and printing,
-2019,4_proc_ind,manufacture of wood products. paper manufacturing and printing,25.6
-2020,4_proc_ind,manufacture of wood products. paper manufacturing and printing,
+2015,4_proc_ind,inc_12_food,17.3
+2016,4_proc_ind,inc_12_food,
+2017,4_proc_ind,inc_12_food,19.5
+2018,4_proc_ind,inc_12_food,
+2019,4_proc_ind,inc_12_food,20.5
+2020,4_proc_ind,inc_12_food,
+2015,4_proc_ind,inc_13_leather,9.5
+2016,4_proc_ind,inc_13_leather,
+2017,4_proc_ind,inc_13_leather,11.1
+2018,4_proc_ind,inc_13_leather,
+2019,4_proc_ind,inc_13_leather,12.1
+2020,4_proc_ind,inc_13_leather,
+2015,4_proc_ind,inc_14_wood,22.5
+2016,4_proc_ind,inc_14_wood,
+2017,4_proc_ind,inc_14_wood,23.7
+2018,4_proc_ind,inc_14_wood,
+2019,4_proc_ind,inc_14_wood,25.6
+2020,4_proc_ind,inc_14_wood,
 2015,4_proc_ind,manufacture of coke and refined petroleum products,58.5
 2016,4_proc_ind,manufacture of coke and refined petroleum products,
 2017,4_proc_ind,manufacture of coke and refined petroleum products,61.3
