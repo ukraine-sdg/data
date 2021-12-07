@@ -149,81 +149,81 @@ Year,Ec_activ,Value
 2018,34_man_pc,5.8
 2019,34_man_pc,6.3
 2020,34_man_pc,9.9
-2015,manufacture of electrical equipment,6.1
-2016,manufacture of electrical equipment,
-2017,manufacture of electrical equipment,2.5
-2018,manufacture of electrical equipment,3.3
-2019,manufacture of electrical equipment,4.1
-2020,manufacture of electrical equipment,7.8
-2015,manufacture of machinery and equipment. not elsewhere classified,7.7
-2016,manufacture of machinery and equipment. not elsewhere classified,
-2017,manufacture of machinery and equipment. not elsewhere classified,3.5
-2018,manufacture of machinery and equipment. not elsewhere classified,2.6
-2019,manufacture of machinery and equipment. not elsewhere classified,8.1
-2020,manufacture of machinery and equipment. not elsewhere classified,5.8
-2015,manufacture of motor vehicles. trailers and semi-trailers,4.3
-2016,manufacture of motor vehicles. trailers and semi-trailers,
-2017,manufacture of motor vehicles. trailers and semi-trailers,2.3
-2018,manufacture of motor vehicles. trailers and semi-trailers,5
-2019,manufacture of motor vehicles. trailers and semi-trailers,5.6
-2020,manufacture of motor vehicles. trailers and semi-trailers,3.6
-2015,manufacture of other vehicles,5.9
-2016,manufacture of other vehicles,
-2017,manufacture of other vehicles,5.4
-2018,manufacture of other vehicles,5.3
-2019,manufacture of other vehicles,1.6
-2020,manufacture of other vehicles,4.4
-2015,manufacture of furniture,2.8
-2016,manufacture of furniture,
-2017,manufacture of furniture,0.7
-2018,manufacture of furniture,2.2
-2019,manufacture of furniture,1
-2020,manufacture of furniture,1.4
-2015,manufacture of other products,1.1
-2016,manufacture of other products,
-2017,manufacture of other products,1
-2018,manufacture of other products,0.5
-2019,manufacture of other products,0.3
-2020,manufacture of other products,3.1
-2015,repair and installation of machinery and equipment,0.9
-2016,repair and installation of machinery and equipment,
-2017,repair and installation of machinery and equipment,0.1
-2018,repair and installation of machinery and equipment,0.7
-2019,repair and installation of machinery and equipment,0.4
-2020,repair and installation of machinery and equipment,0.2
-2015,supply of electricity. gas. steam and air conditioning,0
-2016,supply of electricity. gas. steam and air conditioning,
-2017,supply of electricity. gas. steam and air conditioning,0
-2018,supply of electricity. gas. steam and air conditioning,
-2019,supply of electricity. gas. steam and air conditioning,
-2020,supply of electricity. gas. steam and air conditioning,0
-2015,water supply. sewage. waste management,0
-2016,water supply. sewage. waste management,
-2017,water supply. sewage. waste management,0
-2018,water supply. sewage. waste management,
-2019,water supply. sewage. waste management,
-2020,water supply. sewage. waste management,
-2015,water collection. treatment and supply,0
-2016,water collection. treatment and supply,
-2017,water collection. treatment and supply,
-2018,water collection. treatment and supply,
-2019,water collection. treatment and supply,
-2020,water collection. treatment and supply,
-2015,sewage. wastewater collection and treatment,
-2016,sewage. wastewater collection and treatment,
-2017,sewage. wastewater collection and treatment,
-2018,sewage. wastewater collection and treatment,
-2019,sewage. wastewater collection and treatment,0.2
-2020,sewage. wastewater collection and treatment,
-2015,collection. treatment and disposal of waste. restoration of materials,0
-2016,collection. treatment and disposal of waste. restoration of materials,
-2017,collection. treatment and disposal of waste. restoration of materials,0
-2018,collection. treatment and disposal of waste. restoration of materials,
-2019,collection. treatment and disposal of waste. restoration of materials,0
-2020,collection. treatment and disposal of waste. restoration of materials,
-2015,other waste management activities,0
-2016,other waste management activities,
-2017,other waste management activities,0
-2018,other waste management activities,
-2019,other waste management activities,0
-2020,other waste management activities,
+2015,35_man_el_equip,6.1
+2016,35_man_el_equip,
+2017,35_man_el_equip,2.5
+2018,35_man_el_equip,3.3
+2019,35_man_el_equip,4.1
+2020,35_man_el_equip,7.8
+2015,36_not_class,7.7
+2016,36_not_class,
+2017,36_not_class,3.5
+2018,36_not_class,2.6
+2019,36_not_class,8.1
+2020,36_not_class,5.8
+2015,37_man_motor,4.3
+2016,37_man_motor,
+2017,37_man_motor,2.3
+2018,37_man_motor,5
+2019,37_man_motor,5.6
+2020,37_man_motor,3.6
+2015,38_man_oth_veh,5.9
+2016,38_man_oth_veh,
+2017,38_man_oth_veh,5.4
+2018,38_man_oth_veh,5.3
+2019,38_man_oth_veh,1.6
+2020,38_man_oth_veh,4.4
+2015,39_man_furn,2.8
+2016,39_man_furn,
+2017,39_man_furn,0.7
+2018,39_man_furn,2.2
+2019,39_man_furn,1
+2020,39_man_furn,1.4
+2015,40_man_oth_prod,1.1
+2016,40_man_oth_prod,
+2017,40_man_oth_prod,1
+2018,40_man_oth_prod,0.5
+2019,40_man_oth_prod,0.3
+2020,40_man_oth_prod,3.1
+2015,41_repair,0.9
+2016,41_repair,
+2017,41_repair,0.1
+2018,41_repair,0.7
+2019,41_repair,0.4
+2020,41_repair,0.2
+2015,42_suppl_elec,0
+2016,42_suppl_elec,
+2017,42_suppl_elec,0
+2018,42_suppl_elec,
+2019,42_suppl_elec,
+2020,42_suppl_elec,0
+2015,43_suppl_wat,0
+2016,43_suppl_wat,
+2017,43_suppl_wat,0
+2018,43_suppl_wat,
+2019,43_suppl_wat,
+2020,43_suppl_wat,
+2015,44_collec_wat,0
+2016,44_collec_wat,
+2017,44_collec_wat,
+2018,44_collec_wat,
+2019,44_collec_wat,
+2020,44_collec_wat,
+2015,45_waste_wat,
+2016,45_waste_wat,
+2017,45_waste_wat,
+2018,45_waste_wat,
+2019,45_waste_wat,0.2
+2020,45_waste_wat,
+2015,46_restor,0
+2016,46_restor,
+2017,46_restor,0
+2018,46_restor,
+2019,46_restor,0
+2020,46_restor,
+2015,47_waste_act,0
+2016,47_waste_act,
+2017,47_waste_act,0
+2018,47_waste_act,
+2019,47_waste_act,0
+2020,47_waste_act,
