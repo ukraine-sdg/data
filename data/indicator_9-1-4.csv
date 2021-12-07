@@ -1,37 +1,37 @@
-Year,Group,Value
+Year,m_trans,Value
 2015,,51.7
 2016,,50.6
 2017,,47.6
 2018,,62.9
 2019,,54.1
 2020,,48.1
-2015,land and pipeline transport,49.9
-2016,land and pipeline transport,46.4
-2017,land and pipeline transport,39
-2018,land and pipeline transport,62.9
-2019,land and pipeline transport,59.2
-2020,land and pipeline transport,50.9
-2015,water transport,44.6
-2016,water transport,44.2
-2017,water transport,37.6
-2018,water transport,33.4
-2019,water transport,27.5
-2020,water transport,26.8
-2015,air transport,60.5
-2016,air transport,64.1
-2017,air transport,58.1
-2018,air transport,60.3
-2019,air transport,33
-2020,air transport,52.1
-2015,warehousing and auxiliary transport activities,56.5
-2016,warehousing and auxiliary transport activities,65.4
-2017,warehousing and auxiliary transport activities,70.7
-2018,warehousing and auxiliary transport activities,64.7
-2019,warehousing and auxiliary transport activities,36.7
-2020,warehousing and auxiliary transport activities,37.5
-2015,post and courier services,64.4
-2016,post and courier services,9.2
-2017,post and courier services,31.9
-2018,post and courier services,33.4
-2019,post and courier services,35.2
-2020,post and courier services,42.6
+2015,tr_1_land_pipe,49.9
+2016,tr_1_land_pipe,46.4
+2017,tr_1_land_pipe,39
+2018,tr_1_land_pipe,62.9
+2019,tr_1_land_pipe,59.2
+2020,tr_1_land_pipe,50.9
+2015,tr_2_warer,44.6
+2016,tr_2_warer,44.2
+2017,tr_2_warer,37.6
+2018,tr_2_warer,33.4
+2019,tr_2_warer,27.5
+2020,tr_2_warer,26.8
+2015,tr_3_air_tr,60.5
+2016,tr_3_air_tr,64.1
+2017,tr_3_air_tr,58.1
+2018,tr_3_air_tr,60.3
+2019,tr_3_air_tr,33
+2020,tr_3_air_tr,52.1
+2015,tr_4_ware,56.5
+2016,tr_4_ware,65.4
+2017,tr_4_ware,70.7
+2018,tr_4_ware,64.7
+2019,tr_4_ware,36.7
+2020,tr_4_ware,37.5
+2015,tr_5_posts,64.4
+2016,tr_5_post,9.2
+2017,tr_5_post,31.9
+2018,tr_5_post,33.4
+2019,tr_5_post,35.2
+2020,tr_5_post,42.6
