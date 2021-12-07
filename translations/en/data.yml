@@ -9,6 +9,12 @@ tr_7_tram: tram
 tr_8_trolley: trolleybus
 tr_9_subway: subway
 
+tr_1_land_pipe: Land and pipeline transport
+tr_2_warer: Water transport
+tr_3_air_tr: Air transport
+tr_4_ware: Warehousing and auxiliary transport activities
+tr_5_post: Post and courier services 
+
 1_agr_and_rel: Agriculture and related services
 2_indus: Industry
 3_mining: Mining and quarrying
