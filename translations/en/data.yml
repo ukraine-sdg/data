@@ -11,7 +11,30 @@
 21_man_text: textile manufacturing
 22_man_cloth: manufacture of clothing
 23_man_leather: manufacture of leather, leather goods and other materials
-
+24_man_wood: manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials
+25_man_paper: manufacture of paper and paper products
+26_print: printing, reproduction of recorded information
+27_man_coke: manufacture of coke and refined petroleum products
+28_man_chemic: manufacture of chemicals and chemical products
+29_man_pharmac: manufacture of main pharmaceutical products and preparations
+30_man_rubber: manufacture of rubber and plastic products
+31_man_non_met: manufacture of other non-metallic mineral products
+32_man_met: metallurgical manufacturing
+33_man_equip: manufacture of fabricated metal products, except machinery and equipment
+34_man_pc: manufacture of computers. electronic and optical products
+35_man_el_equip: manufacture of electrical equipment
+36_not_class: manufacture of machinery and equipment, not elsewhere classified
+37_man_motor: manufacture of motor vehicles, trailers and semi-trailers
+38_man_oth_veh: manufacture of other vehicles
+39_man_furn: manufacture of furniture
+40_man_oth_prod: manufacture of other products
+41_repair: repair and installation of machinery and equipment
+42_suppl_elec: supply of electricity, gas, steam and air conditioning
+43_suppl_wat: water supply; sewage, waste management
+44_collec_wat: water collection, treatment and supply
+45_waste_wat: sewage, wastewater collection and treatment
+46_restor: collection, treatment and disposal of waste; restoration of materials
+47_waste_act: other waste management activities 
 
 m_trans: Mode of transport
 tr_1_rail: rail
