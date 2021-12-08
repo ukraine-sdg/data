@@ -1,13 +1,13 @@
-pol_11_dust: suspended matter (dust)
-pol_12_sulfur: sulfur sulfur dioxide
-pol_13_carbon: carbon monoxide
-pol_14_nitrogen: nitrogen dioxide
-pol_15_nitrix: nitric oxide
-pol_16_phenol: phenol
-pol_17_soot: soot
-pol_18_hydrogen: hydrogen fluoride
-pol_19_ammonia: ammonia
-pol_20_form: formaldehyde
+pol_11_dust: Завислі речовини (пил)
+pol_12_sulfur: Діоксид сірки
+pol_13_carbon: Оксид вуглецю
+pol_14_nitrogen: Діоксид азоту
+pol_15_nitrix: Оксид азоту
+pol_16_phenol: Фенол
+pol_17_soot: Сажа
+pol_18_hydrogen: Фтористий водень
+pol_19_ammonia: Амiак
+pol_20_form: Формальдегiд
 
 inherit: Type of inheritance
 strategy: Сomponents of regional strategy
