@@ -1,3 +1,14 @@
+pol_11_dust: suspended matter (dust)
+pol_12_sulfur: sulfur sulfur dioxide
+pol_13_carbon: carbon monoxide
+pol_14_nitrogen: nitrogen dioxide
+pol_15_nitrix: nitric oxide
+pol_16_phenol: phenol
+pol_17_soot: soot
+pol_18_hydrogen: hydrogen fluoride
+pol_19_ammonia: ammonia
+pol_20_form: formaldehyde
+
 inherit: Type of inheritance
 strategy: Сomponents of regional strategy
 10_phase: Regional strategy 
