@@ -1,3 +1,7 @@
+GHG_ratio: Ratio of GHG emissions to 1990 level
+GHG_1_all: all
+GHG_2_types: by main types of sources, including road transport
+
 Res_inten: Resource intensity of GDP
 int_1_energy: energy intensity
 int_2_mater: material intensity
