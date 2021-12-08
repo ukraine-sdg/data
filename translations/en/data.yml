@@ -1,3 +1,10 @@
+Res_inten: Resource intensity of GDP
+int_1_energy: energy intensity
+int_2_mater: material intensity
+int_3_carbon: carbon intensity
+int_4_water: water intensity
+int_5_waste: waste intensity
+
 pol_11_dust: suspended matter (dust)
 pol_12_sulfur: sulfir dioxide
 pol_13_carbon: carbon monoxide
