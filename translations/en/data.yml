@@ -1,7 +1,7 @@
 Strategy: Сomponents of regional strategy
-strategy_all: Regional strategy 
-1_phase: Regional strategy and action plan for the implementation of the regional strategy (first phase)
-2_phase: Regional strategy and action plan for the implementation of the regional strategy (second phase)
+10_phase: Regional strategy 
+11_phase: Regional strategy and action plan for the implementation of the regional strategy (first phase)
+12_phase: Regional strategy and action plan for the implementation of the regional strategy (second phase)
 number: number of regions
 
 11_ext_quar: mining and quarrying
