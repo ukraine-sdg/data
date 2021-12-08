@@ -2,6 +2,7 @@ zone_1_polis: Polissya
 zone_2_fores_st: Forest-steppe
 zone_3_st: Steppe
 
+
 GHG_ratio: Ratio of GHG emissions to 1990 level
 GHG_1_all: all
 GHG_2_types: by main types of sources, including road transport
