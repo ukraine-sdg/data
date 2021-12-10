@@ -1,3 +1,12 @@
+1_all: all
+2_females: females
+3_adolescents: adolescents
+4_young: young (under 14)
+
+1_art_all: total number of victims of crimes. art. of CCU
+1_vict_per_100: Victims of crimes (per 100 thousand persons)
+2_vict_all: Victims of crimes (total)
+
 Article: Article of the Criminal Code of Ukraine 
 art_1_115: Intentional homicide, Art. 115
 art_2_116: Intentional homicide committed in a state of intense emotional excitement, Srt. 116
