@@ -1,31 +1,61 @@
-Year,Group,Value
-2015,intentional homicide. art. 115,19.23
-2016,intentional homicide. art. 115,14.07
-2017,intentional homicide. art. 115,12.14
-2018,intentional homicide. art. 115,13.18
-2019,intentional homicide. art. 115,13.04
-2020,intentional homicide. art. 115,9.16
-2015,intentional homicide committed in a state of intense emotional excitement. art. 116,0.02
-2016,intentional homicide committed in a state of intense emotional excitement. art. 116,0.02
-2017,intentional homicide committed in a state of intense emotional excitement. art. 116,0.01
-2018,intentional homicide committed in a state of intense emotional excitement. art. 116,0.01
-2019,intentional homicide committed in a state of intense emotional excitement. art. 116,0.01
-2020,intentional homicide committed in a state of intense emotional excitement. art. 116,0.02
-2015,intentional murder of a newborn by mother. art. 117,0.03
-2016,intentional murder of a newborn by mother. art. 117,0.03
-2017,intentional murder of a newborn by mother. art. 117,0.03
-2018,intentional murder of a newborn by mother. art. 117,0.03
-2019,intentional murder of a newborn by mother. art. 117,0.05
-2020,intentional murder of a newborn by mother. art. 117,0.05
-2015,intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the offender. art. 118,0.09
-2016,intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the offender. art. 118,0.09
-2017,intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the offender. art. 118,0.04
-2018,intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the offender. art. 118,0.06
-2019,intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the offender. art. 118,0.05
-2020,intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the offender. art. 118,0.04
-2015,intentional grievous bodily harm. art. 121,5.87
-2016,intentional grievous bodily harm. art. 121,5.3
-2017,intentional grievous bodily harm. art. 121,4.94
-2018,intentional grievous bodily harm. art. 121,5.05
-2019,intentional grievous bodily harm. art. 121,4.63
-2020,intentional grievous bodily harm. art. 121,4.09
+Year,Article,Unit,Value
+2015,art_1_115,1_total,8224
+2016,art_1_115,1_total,5992
+2017,art_1_115,1_total,5145
+2018,art_1_115,1_total,5557
+2019,art_1_115,1_total,5465
+2020,art_1_115,1_total,3809
+2015,art_1_115,2_per_100,19.23
+2016,art_1_115,2_per_100,14.07
+2017,art_1_115,2_per_100,12.14
+2018,art_1_115,2_per_100,13.18
+2019,art_1_115,2_per_100,13.04
+2020,art_1_115,2_per_100,9.16
+2015,art_2_116,1_total,7
+2016,art_2_116,1_total,7
+2017,art_2_116,1_total,5
+2018,art_2_116,1_total,6
+2019,art_2_116,1_total,4
+2020,art_2_116,1_total,7
+2015,art_2_116,2_per_100,0.02
+2016,art_2_116,2_per_100,0.02
+2017,art_2_116,2_per_100,0.01
+2018,art_2_116,2_per_100,0.01
+2019,art_2_116,2_per_100,0.01
+2020,art_2_116,2_per_100,0.02
+2015,art_3_117,1_total,11
+2016,art_3_117,1_total,14
+2017,art_3_117,1_total,11
+2018,art_3_117,1_total,12
+2019,art_3_117,1_total,19
+2020,art_3_117,1_total,10
+2015,art_3_117,2_per_100,0.03
+2016,art_3_117,2_per_100,0.03
+2017,art_3_117,2_per_100,0.03
+2018,art_3_117,2_per_100,0.03
+2019,art_3_117,2_per_100,0.05
+2020,art_3_117,2_per_100,0.05
+2015,art_4_118,1_total,38
+2016,art_4_118,1_total,38
+2017,art_4_118,1_total,19
+2018,art_4_118,1_total,25
+2019,art_4_118,1_total,20
+2020,art_4_118,1_total,18
+2015,art_4_118,2_per_100,0.09
+2016,art_4_118,2_per_100,0.09
+2017,art_4_118,2_per_100,0.04
+2018,art_4_118,2_per_100,0.06
+2019,art_4_118,2_per_100,0.05
+2020,art_4_118,2_per_100,0.04
+2015,art_5_121,1_total,2511
+2016,art_5_121,1_total,2256
+2017,art_5_121,1_total,2096
+2018,art_5_121,1_total,2130
+2019,art_5_121,1_total,1940
+2020,art_5_121,1_total,1703
+2015,art_5_121,2_per_100,5.87
+2016,art_5_121,2_per_100,5.3
+2017,art_5_121,2_per_100,4.94
+2018,art_5_121,2_per_100,5.05
+2019,art_5_121,2_per_100,4.63
+2020,art_5_121,2_per_100,4.09
