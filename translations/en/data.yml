@@ -165,6 +165,10 @@ Cost_train: Cost of training a specialist
 4_per_doctoral: average cost per doctoral student, UAH
 
 age_18: under 18 years old
+age_18_35: from 18 years to 35 years inclusive
+age_36_60: from 36 years to 60 years inclusive
+age_60: over 60 years
+
 age_18_34: 18-34 year
 age_35_59: 35-59 years
 age_60: 60 years and older
