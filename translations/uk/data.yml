@@ -1,3 +1,9 @@
+Ammunition: Види боєприпасів
+1_am_cartridges: патрони
+2_am_grenades: гранати
+3_am_mines: міни
+4_am_devic: саморобні вибухові пристрої
+
 Type_weapon: Види зброї
 weap_1_bore: гладкоствольна
 weap_2_rifled: нарізна
