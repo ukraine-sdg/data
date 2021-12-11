@@ -1,3 +1,9 @@
+Ammunition: Type of ammunition
+1_am_cartridges: cartridges
+2_am_grenades: grenades
+3_am_mines: mines
+4_am_devic: improvised explosive devices
+
 Type_weapon: Type of weapons
 weap_1_bore: smooth-bore
 weap_2_rifled: rifled
