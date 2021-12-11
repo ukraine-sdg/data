@@ -2,6 +2,12 @@
 2_vic_tot: Victims of crimes (Art. 152), total
 2_vic_149: Victims of crimes (Art. 149), total
 
+1_vict_per_100: Victims of crimes (per 100 thousand persons)
+2_vict_all: Victims of crimes (total)
+
+1_total: Total criminal offenses (number)
+2_per_100: Per 100 thousand persons
+
 1_all: all
 2_females: females
 3_adolescents: adolescents
@@ -12,8 +18,7 @@
 3_art_152: rape (and relevant attempts), art. 152
 4_art_121: intentional grievous bodily harm, art. 121
 5_art_149: human trafficking or other illicit transactions involving the transfer of human beings, art. 149
-1_vict_per_100: Victims of crimes (per 100 thousand persons)
-2_vict_all: Victims of crimes (total)
+
 
 Article: Article of the Criminal Code of Ukraine 
 art_1_115: Intentional homicide, Art. 115
@@ -21,9 +26,6 @@ art_2_116: Intentional homicide committed in a state of intense emotional excite
 art_3_117: Intentional murder of a newborn by mother, Art. 117
 art_4_118: Intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the offender, Art. 118
 art_5_121: Intentional grievous bodily harm, Art. 121
-
-1_total: Total criminal offenses (number)
-2_per_100: Per 100 thousand persons
 
 zone_1_polis: Polissya
 zone_2_fores_st: Forest-steppe
