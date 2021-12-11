@@ -1,19 +1,19 @@
 Year,Group,Value
-2015,population,5
-2016,population,10
-2017,population,12
-2018,population,16
-2019,population,
-2020,population,
-2015,participants in court proceedings,16
-2016,participants in court proceedings,13
-2017,participants in court proceedings,28
-2018,participants in court proceedings,34
-2019,participants in court proceedings,
-2020,participants in court proceedings,
-2015,participants in court proceedings,
-2016,participants in court proceedings,
-2017,participants in court proceedings,38
-2018,participants in court proceedings,41
-2019,participants in court proceedings,
-2020,participants in court proceedings,
+2015,1_pop,5
+2016,1_pop,10
+2017,1_pop,12
+2018,1_pop,16
+2019,1_pop,
+2020,1_pop,
+2015,2_particip,16
+2016,2_particip,13
+2017,2_particip,28
+2018,2_particip,34
+2019,2_particip,
+2020,2_particip,
+2015,3_exper,
+2016,3_exper,
+2017,3_exper,38
+2018,3_exper,41
+2019,3_exper,
+2020,3_exper,
