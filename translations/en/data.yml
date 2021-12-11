@@ -1,3 +1,10 @@
+Type_weapon: Type of weapons
+weap_1_bore: smooth-bore
+weap_2_rifled: rifled
+weap_3_oth: other firearms
+weap_4_grenade: grenade launchers and rocket systems
+weap_5_cold: cold weapons
+
 1_pop: population
 2_particip: participants in court proceedings
 3_exper: experts (attorneys, lawyers)
