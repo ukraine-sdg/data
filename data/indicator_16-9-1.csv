@@ -326,7 +326,7 @@ Year,Component,Region,Age,Gender,Value
 2017,com_5_dialogue,21_reg_Luhansk,,males,
 2018,com_5_dialogue,21_reg_Luhansk,,males,6.2
 2019,com_5_dialogue,21_reg_Luhansk,,males,
-2017,com_5_dialoguen,21_reg_Luhansk,,females,
+2017,com_5_dialogue,21_reg_Luhansk,,females,
 2018,com_5_dialogue,21_reg_Luhansk,,females,6.1
 2019,com_5_dialogue,21_reg_Luhansk,,females,
 2017,com_5_dialogue,13_reg_Dnipropetrovsk,age_1_18_35,,
@@ -394,8 +394,8 @@ Year,Component,Region,Age,Gender,Value
 2019,com_6_civic,21_reg_Luhansk,age_1_18_35,,7
 2017,com_6_civic,21_reg_Luhansk,age_2_36_60,,
 2018,com_6_civic,21_reg_Luhansk,age_2_36_60,,4.3
-2019,com_6_civice,21_reg_Luhansk,age_2_36_60,,6.2
-2017,com_6_civice,21_reg_Luhansk,age_3_61,,
+2019,com_6_civic,21_reg_Luhansk,age_2_36_60,,6.2
+2017,com_6_civic,21_reg_Luhansk,age_3_61,,
 2018,com_6_civic,21_reg_Luhansk,age_3_61,,2.3
 2019,com_6_civic,21_reg_Luhansk,age_3_61,,5.8
 2017,com_6_civic,21_reg_Luhansk,,males,
