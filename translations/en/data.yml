@@ -236,6 +236,8 @@ Cat: Category
 
 males: males
 females: females
+mal: male
+femal: female
 
 Level: Levels of academic achievement
 Level_ed: Level of education
