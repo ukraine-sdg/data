@@ -10,7 +10,7 @@
 # with the name of your production GitHub organisation, under REPOSITORY_NAME.
 # You must also replace PRODUCTION_REPOSITORY below with the name of your
 # production data repository.
-#
+# 
 # For example, if your production organisation is "my-stats-org", and your
 # production data repository is "sdg-data", then use:
 #
