@@ -253,6 +253,7 @@ Level_ed: Level of education
 6_bas_ed: Basic, elementary general or no education
 
 urban_settl: urban settlement
+village_: settlement, village
 
 hh_ch: households with children
 hh_ch_0: households without children
