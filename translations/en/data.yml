@@ -1,6 +1,22 @@
 Fund: Sources of funding
 state: state budget
 
+1_Level: Level
+
+1_health: Health care facilities
+2_educational: Educational institutions
+3_soc_prot: Structural subdivisions on social protection issues
+4_employ: Employment centers
+5_admin: Centers for administrative services
+6_nation: National institutions
+7_transport: Railway stations, airports, bus stations
+8_pension: Institutions of the pension fund
+9_civ_prot: Civil protection structures
+99_judge: Judge
+
+1_free: barrier-free,%
+2_part: partially barrier-free,%
+
 Component: Сomponent of the index
 com_1_cohension: social cohesion and sense of ownership
 com_2_tolerance: tolerance and socially responsible citizenship
