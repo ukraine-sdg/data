@@ -3,3 +3,4 @@ SDG_TARGET: 13.1 Limit greenhouse gas emissions in the economy
 SDG_INDICATOR: 13.1.1  Ratio of GHG emissions to 1990 level, %
 UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: MENR
+REC_USE_LIM: Data are provided with a lag of two years (2 years after the reporting year).
