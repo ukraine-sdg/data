@@ -15,7 +15,9 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+    minimum: 0
+    maximum: 1.8
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.1-3-1-title
 graph_titles: []
@@ -36,3 +38,4 @@ graph_target_lines:
     unit: ''
     label_content: indicator.annotation_2020_target
     value: 1.6
+    
