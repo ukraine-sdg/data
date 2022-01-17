@@ -3,3 +3,4 @@ SDG_TARGET: 8.6 Create institutional and financial capacities for the self-reali
 SDG_INDICATOR: 8.6.1 Number of persons employed by SMEs, millions of persons
 UNIT_MEASURE: Million of persons
 CONTACT_ORGANISATION: SSSU
+REC_USE_LIM: Excluding the results of banks, budgetary institutions.
