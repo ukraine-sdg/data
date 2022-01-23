@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Cost_train",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "average cost per student, UAH",
+                "average costs per graduate student who study in the evening form of education, UAH",
+                "average cost per full-time graduate student, UAH",
+                "average cost per doctoral student, UAH"
+              ]
+            },
+            "title": "Cost of training a specialist"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-3",
+  "title": "4-4-3"
+}

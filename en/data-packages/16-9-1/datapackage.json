@@ -1,0 +1,93 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-1",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "18-35 years",
+                "36-60 years",
+                "over 61 years"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Component",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "tolerant and active citizenship",
+                "propensity to migrate",
+                "cooperation in the community",
+                "political security",
+                "social cohesion and sense of ownership",
+                "tolerance and socially responsible citizenship",
+                "psycho-social adaptability",
+                "reducing negative migration trends",
+                "readiness for dialogue",
+                "civic behavior",
+                "relations with government and safety",
+                "relations between groups",
+                "psycho-social activity"
+              ]
+            },
+            "title": "Сomponent of the index"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "females",
+                "males"
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zaporizhya",
+                "Luhansk",
+                "Kharkiv"
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-9-1",
+  "title": "16-9-1"
+}

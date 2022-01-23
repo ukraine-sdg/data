@@ -1,0 +1,67 @@
+Year,Pollutants,Value
+2015,,34.0
+2016,,34.0
+2017,,34.0
+2018,,35.0
+2019,,36.0
+2020,,35.0
+2015,suspended matter (dust),11.0
+2016,suspended matter (dust),10.0
+2017,suspended matter (dust),9.0
+2018,suspended matter (dust),11.0
+2019,suspended matter (dust),11.0
+2020,suspended matter (dust),7.0
+2015,sulfir dioxide,
+2016,sulfir dioxide,
+2017,sulfir dioxide,
+2018,sulfir dioxide,
+2019,sulfir dioxide,1.0
+2020,sulfir dioxide,1.0
+2015,carbon monoxide,2.0
+2016,carbon monoxide,5.0
+2017,carbon monoxide,4.0
+2018,carbon monoxide,3.0
+2019,carbon monoxide,4.0
+2020,carbon monoxide,2.0
+2015,nitrogen dioxide,23.0
+2016,nitrogen dioxide,23.0
+2017,nitrogen dioxide,21.0
+2018,nitrogen dioxide,22.0
+2019,nitrogen dioxide,26.0
+2020,nitrogen dioxide,25.0
+2015,nitric oxide,1.0
+2016,nitric oxide,2.0
+2017,nitric oxide,1.0
+2018,nitric oxide,2.0
+2019,nitric oxide,2.0
+2020,nitric oxide,2.0
+2015,phenol,6.0
+2016,phenol,5.0
+2017,phenol,8.0
+2018,phenol,7.0
+2019,phenol,9.0
+2020,phenol,6.0
+2015,soot,1.0
+2016,soot,1.0
+2017,soot,1.0
+2018,soot,1.0
+2019,soot,1.0
+2020,soot,
+2015,hydrogen fluoride,2.0
+2016,hydrogen fluoride,2.0
+2017,hydrogen fluoride,2.0
+2018,hydrogen fluoride,2.0
+2019,hydrogen fluoride,3.0
+2020,hydrogen fluoride,
+2015,ammonia,2.0
+2016,ammonia,2.0
+2017,ammonia,1.0
+2018,ammonia,1.0
+2019,ammonia,2.0
+2020,ammonia,2.0
+2015,formaldehide,22.0
+2016,formaldehide,23.0
+2017,formaldehide,24.0
+2018,formaldehide,25.0
+2019,formaldehide,25.0
+2020,formaldehide,23.0

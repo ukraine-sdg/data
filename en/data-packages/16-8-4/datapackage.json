@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Organization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Armed Forces of Ukraine",
+                "State Special Transport Service",
+                "State Emergency Service",
+                "Non-governmental international organizations (The Halo Trust, DDG, FSD)"
+              ]
+            },
+            "title": "Organization"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "hectares",
+                "сleared roads, km",
+                "сleared railways, km"
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-8-4",
+  "title": "16-8-4"
+}
