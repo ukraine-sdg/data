@@ -1,12 +1,12 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"Gender, Age, Households",3
-#1-2-1,"Gender, Age, Households",3
+#1-1-1,"Age, Gender, Households",3
+#1-2-1,"Age, Gender, Households",3
 #1-3-1,"Type of residence, Gender of the head of household",2
 #1-3-2,"Type of residence, Decile groups",2
 #10-1-1,Type of residence,1
 #10-1-2,Type of residence,1
 #10-4-1,Region,1
-#11-2-1,"strategy, Unit",2
+#11-2-1,"Unit, strategy",2
 #11-3-1,inherit,1
 #11-5-2,Pollutants,1
 #12-1-1,Res_inten,1
@@ -17,15 +17,15 @@ Indicator,Disaggregations,Number of disaggregations
 #16-1-3,"Group, Unit",2
 #16-2-1,"Group, Unit",2
 #16-3-1,Group,1
-#16-3-2,"Gender, Age",2
+#16-3-2,"Age, Gender",2
 #16-5-1,Type_weapon,1
 #16-5-2,"Region, Ammunition",2
 #16-5-3,"Unit, Article",2
-#16-8-1,"Gender, Age",2
-#16-8-2,"Gender, Age, Type of residence",3
+#16-8-1,"Age, Gender",2
+#16-8-2,"Age, Type of residence, Gender",3
 #16-8-3,Region,1
-#16-8-4,"Unit, Organization",2
-#16-9-1,"Gender, Age, Region, Component",4
+#16-8-4,"Organization, Unit",2
+#16-9-1,"Region, Age, Gender, Component",4
 #17-3-1,Region,1
 #2-1-1,Region,1
 #2-1-2,Region,1
@@ -37,7 +37,7 @@ Indicator,Disaggregations,Number of disaggregations
 #2-4-1,by main product group,1
 #3-1-1,Type of residence,1
 #3-2-1,Type of residence,1
-#3-3-1,"Gender, Region",2
+#3-3-1,"Region, Gender",2
 #3-4-1,Region,1
 #3-4-2,Region,1
 #3-4-3,Region,1
@@ -50,16 +50,16 @@ Indicator,Disaggregations,Number of disaggregations
 #3-8-2,Type of residence,1
 #4-1-1,"Gender, Level, Settlement",3
 #4-2-1,Type of residence,1
-#4-4-2,"Level_ed, Gender, Age",3
+#4-4-2,"Age, Gender, Level_ed",3
 #4-4-3,Cost_train,1
 #4-4-4,Fund,1
-#4-5-1,"Gender, Age",2
-#4-5-2,"Gender, Age, Type of residence",3
+#4-5-1,"Age, Gender",2
+#4-5-2,"Age, Type of residence, Gender",3
 #4-7-3,Type of residence,1
 #5-2-2,Group,1
-#5-3-1,"Gender, Type of residence",2
+#5-3-1,"Type of residence, Gender",2
 #5-4-3,Cat,1
-#5-5-1,"Age, Region",2
+#5-5-1,"Region, Age",2
 #5-6-1,Ec_activ,1
 #6-1-1,"Type of residence, Type of water supply",2
 #6-1-2,"Type of residence, Type of water supply",2
@@ -67,9 +67,9 @@ Indicator,Disaggregations,Number of disaggregations
 #6-3-1,Ec_activ,1
 #6-3-2,Ec_activ,1
 #7-1-1,Generation,1
-#7-1-2,"Unit, Category, including",3
+#7-1-2,"Unit, including, Category",3
 #7-2-1,Sou_en,1
-#8-3-1,"Gender, Type of residence",2
+#8-3-1,"Type of residence, Gender",2
 #8-4-1,Gender,1
 #8-5-1,Region,1
 #8-5-2,Region,1
@@ -82,5 +82,5 @@ Indicator,Disaggregations,Number of disaggregations
 #9-1-4,m_trans,1
 #9-3-2,"Object, 1_Level",2
 #9-5-2,Ec_activ,1
-#9-6-1,"Type of residence, Region",2
+#9-6-1,"Region, Type of residence",2
 #9-7-1,Region,1

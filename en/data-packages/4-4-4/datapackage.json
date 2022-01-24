@@ -16,7 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "state budget"
+                "national budget"
               ]
             },
             "title": "Sources of funding"
