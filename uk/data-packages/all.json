@@ -3341,8 +3341,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female11",
-                "male11",
+                "female",
+                "male",
                 ""
               ]
             },
@@ -3353,14 +3353,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban11",
                 "urban",
-                "rural11",
                 "rural",
                 ""
               ]
             },
             "title": "Type of residence"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                "min_day",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

@@ -13,7 +13,7 @@ Ec_activ,6,74
 Farm caregory,1,3
 Fund,1,1
 Gender of the head of household,1,2
-Gender,14,6
+Gender,14,4
 Generation,1,7
 GHG_ratio,1,2
 Group,7,41
@@ -34,8 +34,8 @@ Res_inten,1,5
 Settlement,1,3
 Sou_en,1,3
 strategy,1,3
-Type of residence,20,4
+Type of residence,20,2
 Type of water supply,3,2
 Type_weapon,1,5
-Unit,8,13
+Unit,9,15
 Zone,1,3
