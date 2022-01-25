@@ -23,33 +23,33 @@ Year,Gender,Type of residence,Value
 2018,,"urban, %",
 2019,,"urban, %",
 2020,,"urban, %",207.0
-2015,"female, minutes per day","urban, %",
-2016,"female, minutes per day","urban, %",
-2017,"female, minutes per day","urban, %",
-2018,"female, minutes per day","urban, %",
-2019,"female, minutes per day","urban, %",
-2020,"female, minutes per day","urban, %",257.0
-2015,"male, minutes per day","urban, %",
-2016,"male, minutes per day","urban, %",
-2017,"male, minutes per day","urban, %",
-2018,"male, minutes per day","urban, %",
-2019,"male, minutes per day","urban, %",
-2020,"male, minutes per day","urban, %",124.0
+2015,"female, minutes per day",urban,
+2016,"female, minutes per day",urban,
+2017,"female, minutes per day",urban,
+2018,"female, minutes per day",urban,
+2019,"female, minutes per day",urban,
+2020,"female, minutes per day",urban,257.0
+2015,"male, minutes per day",urban,
+2016,"male, minutes per day",urban,
+2017,"male, minutes per day",urban,
+2018,"male, minutes per day",urban,
+2019,"male, minutes per day",urban,
+2020,"male, minutes per day",urban,124.0
 2015,,"rural, %",
 2016,,"rural, %",
 2017,,"rural, %",
 2018,,"rural, %",
 2019,,"rural, %",
 2020,,"rural, %",256.0
-2015,"female, minutes per day","rural, %",
-2016,"female, minutes per day","rural, %",
-2017,"female, minutes per day","rural, %",
-2018,"female, minutes per day","rural, %",
-2019,"female, minutes per day","rural, %",
-2020,"female, minutes per day","rural, %",382.0
-2015,"male, minutes per day","rural, %",
-2016,"male, minutes per day","rural, %",
-2017,"male, minutes per day","rural, %",
-2018,"male, minutes per day","rural, %",
-2019,"male, minutes per day","rural, %",
-2020,"male, minutes per day","rural, %",149.0
+2015,"female, minutes per day",rural,
+2016,"female, minutes per day",rural,
+2017,"female, minutes per day",rural,
+2018,"female, minutes per day",rural,
+2019,"female, minutes per day",rural,
+2020,"female, minutes per day",rural,382.0
+2015,"male, minutes per day",rural,
+2016,"male, minutes per day",rural,
+2017,"male, minutes per day",rural,
+2018,"male, minutes per day",rural,
+2019,"male, minutes per day",rural,
+2020,"male, minutes per day",rural,149.0

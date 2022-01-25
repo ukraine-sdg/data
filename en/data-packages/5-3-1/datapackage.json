@@ -28,7 +28,9 @@
             "constraints": {
               "enum": [
                 "",
+                "rural",
                 "rural, %",
+                "urban",
                 "urban, %"
               ]
             },

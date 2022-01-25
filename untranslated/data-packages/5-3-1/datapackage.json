@@ -31,7 +31,9 @@
             "constraints": {
               "enum": [
                 "urban11",
+                "urban",
                 "rural11",
+                "rural",
                 ""
               ]
             }
