@@ -1,7 +1,9 @@
-female11: жінки, хвилин на добу
-male11: чоловіки, хвилин на добу
-urban11: міська, %
-rural11: сільська, %
+female: жінки
+male: чоловіки
+Percentage: %
+min_day: хвилин на добу
+urban: міська
+rural: сільська
 
 1_Level: Рівень
 Object: Об'єкт
