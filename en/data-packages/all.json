@@ -3338,7 +3338,8 @@
               "enum": [
                 "",
                 "female",
-                "male"
+                "females",
+                "males"
               ]
             },
             "title": "Gender"
