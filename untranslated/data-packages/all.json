@@ -3081,8 +3081,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "female11",
+                "male11",
                 ""
               ]
             }
@@ -3092,8 +3092,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "urban11",
+                "rural11",
                 ""
               ]
             }
