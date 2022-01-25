@@ -13,33 +13,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Farm caregory",
             "type": "string",
             "constraints": {
               "enum": [
-                "Господарства усіх категорій",
-                "Підприємства",
-                "Господарства населення",
+                "farms_1_all",
+                "farms_2_enterprise",
+                "farms_3_household",
                 ""
               ]
             },
-            "title": "Категорія господарств"
+            "title": "Farm caregory"
           },
           {
             "name": "Products",
             "type": "string",
             "constraints": {
               "enum": [
-                "продукція сільського господарства",
-                "продукція рослинництва",
-                "продукція тваринництва",
+                "prod_1_agri",
+                "prod_2_crop",
+                "prod_3_livestock",
                 ""
               ]
             },
-            "title": "Продукція"
+            "title": "Products"
           },
           {
             "name": "Value",

@@ -13,31 +13,31 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "жінки",
-                "чоловіки",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Стать"
+            "title": "Gender"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "міська",
-                "сільська",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Місцевість проживання"
+            "title": "Type of residence"
           },
           {
             "name": "Value",

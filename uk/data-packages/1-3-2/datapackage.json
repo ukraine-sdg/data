@@ -13,39 +13,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "міська",
-                "сільська",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Місцевість проживання"
+            "title": "Type of residence"
           },
           {
             "name": "Decile groups",
             "type": "string",
             "constraints": {
               "enum": [
-                "перша (нижча)",
-                "друга",
-                "третя",
-                "четверта",
-                "п'ята",
-                "шоста",
-                "сьома",
-                "восьма",
-                "дев'ята",
-                "десята (вища)",
+                "dg_01",
+                "dg_02",
+                "dg_03",
+                "dg_04",
+                "dg_05",
+                "dg_06",
+                "dg_07",
+                "dg_08",
+                "dg_09",
+                "dg_10",
                 ""
               ]
             },
-            "title": "Децильні (10%-ні) групи за рівнем середньодушових еквівалентних загальних доходів у місяць"
+            "title": "Decile groups"
           },
           {
             "name": "Value",

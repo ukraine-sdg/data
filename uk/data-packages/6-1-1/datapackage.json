@@ -13,31 +13,31 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "міська",
-                "сільська",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Місцевість проживання"
+            "title": "Type of residence"
           },
           {
             "name": "Type of water supply",
             "type": "string",
             "constraints": {
               "enum": [
-                "централізоване",
-                "децентралізоване",
+                "centralized",
+                "decentralized",
                 ""
               ]
             },
-            "title": "Тип водопостачання"
+            "title": "Type of water supply"
           },
           {
             "name": "Value",

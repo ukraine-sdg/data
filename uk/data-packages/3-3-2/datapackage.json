@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Ukraine",
@@ -23,7 +23,7 @@
                 ""
               ]
             },
-            "title": "Україна"
+            "title": "Ukraine"
           },
           {
             "name": "Value",

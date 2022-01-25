@@ -13,20 +13,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Zone",
             "type": "string",
             "constraints": {
               "enum": [
-                "Полісся",
-                "Лісоспеп",
-                "Степ",
+                "zone_1_polis",
+                "zone_2_fores_st",
+                "zone_3_st",
                 ""
               ]
             },
-            "title": "Природні зони"
+            "title": "Zone"
           },
           {
             "name": "Value",

@@ -13,31 +13,31 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 роки",
-                "25-64 роки",
+                "15-24 years",
+                "25-64 years",
                 ""
               ]
             },
-            "title": "Вік"
+            "title": "Age"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "жінки",
-                "чоловіки",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Стать"
+            "title": "Gender"
           },
           {
             "name": "Value",

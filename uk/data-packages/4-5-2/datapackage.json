@@ -13,48 +13,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "міська",
-                "сільська",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Місцевість проживання"
+            "title": "Type of residence"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "жінки",
-                "чоловіки",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Стать"
+            "title": "Gender"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "до 15 років",
-                "15 - 17 років",
-                "18 - 24 роки",
-                "25 - 35 років",
-                "36 - 59 років",
-                "60 - 74 років",
-                "75 років і старші",
+                "age_15",
+                "age_15_17",
+                "age_18_24",
+                "age_25_35",
+                "age_36_59",
+                "age_60_74",
+                "age_75",
                 ""
               ]
             },
-            "title": "Вік"
+            "title": "Age"
           },
           {
             "name": "Value",

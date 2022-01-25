@@ -13,20 +13,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "чоловіки",
-                "жінки",
-                "діти",
+                "male",
+                "female",
+                "children",
                 ""
               ]
             },
-            "title": "Група"
+            "title": "Group"
           },
           {
             "name": "Value",

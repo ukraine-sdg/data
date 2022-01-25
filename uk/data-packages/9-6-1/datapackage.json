@@ -13,54 +13,54 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "міська",
-                "сільська",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Місцевість проживання"
+            "title": "Type of residence"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Вінницька",
-                "Волинська",
-                "Дніпропетровська",
-                "Донецька",
-                "Житомирська",
-                "Закарпатська",
-                "Запорізька",
-                "Івано-Франківська",
-                "Київська",
-                "Кіровоградська",
-                "Луганська",
-                "Львівська",
-                "Миколаївська",
-                "Одеська",
-                "Полтавська",
-                "Рівненська",
-                "Сумська",
-                "Тернопільська",
-                "Харківська",
-                "Херсонська",
-                "Хмельницька",
-                "Черкаська",
-                "Чернівецька",
-                "Чернігівська",
-                "місто Київ",
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "35_reg_Kyiv_city",
                 ""
               ]
             },
-            "title": "Область"
+            "title": "Region"
           },
           {
             "name": "Value",

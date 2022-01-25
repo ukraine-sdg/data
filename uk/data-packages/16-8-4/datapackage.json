@@ -13,34 +13,34 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Organization",
             "type": "string",
             "constraints": {
               "enum": [
-                "Збройні сили України",
-                "Державна спеціальна служба транспорту",
-                "Державна служба надзвичайних ситуацій",
-                "Неурядові міжнародні організації (The Halo Trust, DDG, FSD)",
+                "1_army",
+                "2_trans",
+                "3_emerg",
+                "4_ngo",
                 ""
               ]
             },
-            "title": "Організація"
+            "title": "Organization"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "га",
-                "розміновано доріг, км",
-                "розміновано залізничних шляхів, км",
+                "1_hectares",
+                "2_roads",
+                "3_railways",
                 ""
               ]
             },
-            "title": "Одиниця виміру"
+            "title": "Unit"
           },
           {
             "name": "Value",

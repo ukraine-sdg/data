@@ -13,18 +13,18 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Fund",
             "type": "string",
             "constraints": {
               "enum": [
-                "державний бюджет",
+                "state",
                 ""
               ]
             },
-            "title": "Джерела фінансування"
+            "title": "Fund"
           },
           {
             "name": "Value",

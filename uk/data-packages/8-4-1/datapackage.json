@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "жінки",
-                "чоловіки",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Стать"
+            "title": "Gender"
           },
           {
             "name": "Value",

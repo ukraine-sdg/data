@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Донецька",
-                "Луганська",
+                "14_reg_Donetsk",
+                "21_reg_Luhansk",
                 ""
               ]
             },
-            "title": "Область"
+            "title": "Region"
           },
           {
             "name": "Value",

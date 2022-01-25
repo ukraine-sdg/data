@@ -13,47 +13,47 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Level_ed",
             "type": "string",
             "constraints": {
               "enum": [
-                "Повна вища",
-                "Базова вища",
-                "Неповна вища",
-                "Професійно-технічна",
-                "Повна загальна середня",
-                "Базова, початкова загальна або не мають освіти",
+                "1_сompl_higher",
+                "2_bas_higher",
+                "3_inсompl_higher",
+                "4_prof_ed",
+                "5_comp_aver",
+                "6_bas_ed",
                 ""
               ]
             },
-            "title": "Рівень освіти"
+            "title": "Level_ed"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "жінки",
-                "чоловіки",
+                "females",
+                "males",
                 ""
               ]
             },
-            "title": "Стать"
+            "title": "Gender"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 роки",
-                "25-64 роки",
+                "15-24 years",
+                "25-64 years",
                 ""
               ]
             },
-            "title": "Вік"
+            "title": "Age"
           },
           {
             "name": "Value",

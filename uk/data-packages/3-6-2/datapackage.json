@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Рік"
+            "title": "Year"
           },
           {
             "name": "Mode of transport",
             "type": "string",
             "constraints": {
               "enum": [
-                "Автомобільний траснпорт, що використовують перевізники",
-                "Міський електричний транспорт",
+                "1_tr_road",
+                "2_tr_urban",
                 ""
               ]
             },
-            "title": "Вид транспорту"
+            "title": "Mode of transport"
           },
           {
             "name": "Value",
