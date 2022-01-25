@@ -1,7 +1,5 @@
-female11: female, minutes per day
-male11: male, minutes per day
-urban11: urban, %
-rural11: rural, %
+Percentage: %
+min/day: minutes per day
 
 Fund: Sources of funding
 state: national budget
