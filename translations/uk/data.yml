@@ -1,6 +1,3 @@
-Percentage: %
-min/day: хвилин на добу
-
 1_Level: Рівень
 Object: Об'єкт
 
@@ -283,6 +280,9 @@ female: жінки
 children: діти
 mal: чоловік
 femal: жінка
+
+Percentage: %
+min_day: хвилин на добу
 
 Households: Домогосподарства
 hh_ch: домогосподарства з дітьми
