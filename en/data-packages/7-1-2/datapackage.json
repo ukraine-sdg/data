@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Supply of electricity to the grid",
-                "Productive supply of electricity to the grid",
-                "Reported actual value of technological electric power consumption",
-                "Technological electric power consumption in distribution system"
+                "electr_1_supply",
+                "electr_2_pr_supply",
+                "electr_3_act_value",
+                "electr_4_tech_cons"
               ]
             },
             "title": "Category"
@@ -30,8 +30,8 @@
             "constraints": {
               "enum": [
                 "",
-                "million kWh",
-                "percentage"
+                "kWh",
+                "per"
               ]
             },
             "title": "Unit"
@@ -52,8 +52,8 @@
             "constraints": {
               "enum": [
                 "",
-                "normative value of technological electric power consumption",
-                "excess value of technological electric power consumption"
+                "1_norm_val",
+                "2_exc_val"
               ]
             },
             "title": "including"

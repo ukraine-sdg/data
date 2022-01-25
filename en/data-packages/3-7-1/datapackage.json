@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "under 1 year",
-                "1 year",
-                "18 months",
-                "6 years",
-                "14 years",
-                "16 years",
-                "adult"
+                "age_vac_1_under 1 year",
+                "age_vac_2_1 year",
+                "age_vac_3_18 months",
+                "age_vac_4_6 years",
+                "age_vac_5_14 years",
+                "age_vac_6_16 years",
+                "age_vac_7_adult"
               ]
             },
             "title": "Age"
@@ -33,13 +33,13 @@
             "constraints": {
               "enum": [
                 "",
-                "Tuberculosis",
-                "Hepatitis B",
-                "Measles, mumps, rubella",
-                "Diphtheria, tetanus",
-                "Pertussis",
-                "Poliomyelitis",
-                "Hib infection"
+                "ill_1_tub",
+                "ill_2_hep",
+                "ill_3_m_m_r",
+                "ill_4_diph",
+                "ill_5_pert",
+                "ill_6_polio",
+                "ill_7_hib"
               ]
             },
             "title": "Infectious diseases"

@@ -28,13 +28,13 @@
             "constraints": {
               "enum": [
                 "",
-                "1st_level (basic, 0-3 points)",
-                "2nd level (intermediate, 4-6 points)",
-                "3rd level (adequate, 7-9 points)",
-                "4th level (high, 10-12 points)"
+                "1_level",
+                "2_level",
+                "3_level",
+                "4_level"
               ]
             },
-            "title": "Levels of academic achievement"
+            "title": "Level"
           },
           {
             "name": "Settlement",
@@ -43,8 +43,8 @@
               "enum": [
                 "",
                 "city",
-                "urban settlement",
-                "settlement, village"
+                "urban_settl",
+                "village_"
               ]
             },
             "title": "Settlement"

@@ -16,12 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "A",
-                "B",
-                "C"
+                "cat_A",
+                "cat_B",
+                "cat_C"
               ]
             },
-            "title": "Category"
+            "title": "Cat"
           },
           {
             "name": "Value",

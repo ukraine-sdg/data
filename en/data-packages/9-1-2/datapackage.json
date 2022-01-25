@@ -26,15 +26,15 @@
             "constraints": {
               "enum": [
                 "",
-                "rail",
-                "motor",
-                "sea",
-                "river",
-                "pipeline",
-                "air"
+                "tr_1_rail",
+                "tr_2_motor",
+                "tr_3_sea",
+                "tr_4_river",
+                "tr_5_pipeline",
+                "tr_6_air"
               ]
             },
-            "title": "Mode of transport"
+            "title": "m_trans"
           }
         ]
       }

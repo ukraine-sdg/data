@@ -16,14 +16,14 @@
             "constraints": {
               "enum": [
                 "",
-                "Intentional homicide, Art. 115",
-                "Intentional homicide committed in a state of intense emotional excitement, Srt. 116",
-                "Intentional murder of a newborn by mother, Art. 117",
-                "Intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the offender, Art. 118",
-                "Intentional grievous bodily harm, Art. 121"
+                "art_1_115",
+                "art_2_116",
+                "art_3_117",
+                "art_4_118",
+                "art_5_121"
               ]
             },
-            "title": "Article of the Criminal Code of Ukraine"
+            "title": "Article"
           },
           {
             "name": "Unit",
@@ -31,8 +31,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Total criminal offenses (number)",
-                "Per 100 thousand persons"
+                "1_total",
+                "2_per_100"
               ]
             },
             "title": "Unit"

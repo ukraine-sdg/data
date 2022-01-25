@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "average cost per student, UAH",
-                "average costs per graduate student who study in the evening form of education, UAH",
-                "average cost per full-time graduate student, UAH",
-                "average cost per doctoral student, UAH"
+                "1_per_student",
+                "2_per_student_job",
+                "3_per_graduate",
+                "4_per_doctoral"
               ]
             },
-            "title": "Cost of training a specialist"
+            "title": "Cost_train"
           },
           {
             "name": "Value",

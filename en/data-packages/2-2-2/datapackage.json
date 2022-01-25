@@ -16,9 +16,9 @@
             "constraints": {
               "enum": [
                 "",
-                "Farms of all categories",
-                "Enterprises",
-                "Households"
+                "farms_1_all",
+                "farms_2_enterprise",
+                "farms_3_household"
               ]
             },
             "title": "Farm caregory"
@@ -29,9 +29,9 @@
             "constraints": {
               "enum": [
                 "",
-                "agricultural products",
-                "crop products",
-                "livestock products"
+                "prod_1_agri",
+                "prod_2_crop",
+                "prod_3_livestock"
               ]
             },
             "title": "Products"

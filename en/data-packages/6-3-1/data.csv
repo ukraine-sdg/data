@@ -1,79 +1,79 @@
-Year,Еconomic activity,Value
+Year,Ec_activ,Value
 2015,,875.1
 2016,,698.3
 2017,,997.3
 2018,,952.0
 2019,,737.2
 2020,,518.4
-2015,industry,481.3
-2016,industry,327.3
-2017,industry,311.1
-2018,industry,301.4
-2019,industry,91.54
-2020,industry,107.373
-2015,agriculture,24.68
-2016,agriculture,22.31
-2017,agriculture,28.9
-2018,agriculture,15.37
-2019,agriculture,46.5
-2020,agriculture,24.581
-2015,forestry,
-2016,forestry,
-2017,forestry,
-2018,forestry,
-2019,forestry,
-2020,forestry,
-2015,transport,3.08
-2016,transport,2.05
-2017,transport,1.95
-2018,transport,2.79
-2019,transport,0.398
-2020,transport,0.541
-2015,communication,
-2016,communication,
-2017,communication,
-2018,communication,
-2019,communication,
-2020,communication,
-2015,construction,0.95
-2016,construction,
-2017,construction,
-2018,construction,
-2019,construction,0.004
-2020,construction,2.406
-2015,trade and catering,55.22
-2016,trade and catering,50.72
-2017,trade and catering,46.18
-2018,trade and catering,45.73
-2019,trade and catering,33.88
-2020,trade and catering,0.062
-2015,logistics,0.02
-2016,logistics,0.02
-2017,logistics,0.03
-2018,logistics,0.04
-2019,logistics,0.024
-2020,logistics,0.227
-2015,residential sector,308.1
-2016,residential sector,294.3
-2017,residential sector,607.5
-2018,residential sector,585.3
-2019,residential sector,563.7
-2020,residential sector,381.316
-2015,"health care, physical education",0.75
-2016,"health care, physical education",0.72
-2017,"health care, physical education",0.94
-2018,"health care, physical education",0.73
-2019,"health care, physical education",0.544
-2020,"health care, physical education",0.457
-2015,public education,0.39
-2016,public education,0.35
-2017,public education,0.34
-2018,public education,0.34
-2019,public education,0.369
-2020,public education,0.254
-2015,other sectors,0.62
-2016,other sectors,0.53
-2017,other sectors,0.36
-2018,other sectors,0.3
-2019,other sectors,0.241
-2020,other sectors,1.135
+2015,s_11_indu,481.3
+2016,s_11_indu,327.3
+2017,s_11_indu,311.1
+2018,s_11_indu,301.4
+2019,s_11_indu,91.54
+2020,s_11_indu,107.373
+2015,s_12_agri,24.68
+2016,s_12_agri,22.31
+2017,s_12_agri,28.9
+2018,s_12_agri,15.37
+2019,s_12_agri,46.5
+2020,s_12_agri,24.581
+2015,s_13_fores,
+2016,s_13_fores,
+2017,s_13_fores,
+2018,s_13_fores,
+2019,s_13_fores,
+2020,s_13_fores,
+2015,s_14_transp,3.08
+2016,s_14_transp,2.05
+2017,s_14_transp,1.95
+2018,s_14_transp,2.79
+2019,s_14_transp,0.398
+2020,s_14_transp,0.541
+2015,s_15_commun,
+2016,s_15_commun,
+2017,s_15_commun,
+2018,s_15_commun,
+2019,s_15_commun,
+2020,s_15_commun,
+2015,s_16_constr,0.95
+2016,s_16_constr,
+2017,s_16_constr,
+2018,s_16_constr,
+2019,s_16_constr,0.004
+2020,s_16_constr,2.406
+2015,s_17_trade,55.22
+2016,s_17_trade,50.72
+2017,s_17_trade,46.18
+2018,s_17_trade,45.73
+2019,s_17_trade,33.88
+2020,s_17_trade,0.062
+2015,s_18_logis,0.02
+2016,s_18_logis,0.02
+2017,s_18_logis,0.03
+2018,s_18_logis,0.04
+2019,s_18_logis,0.024
+2020,s_18_logis,0.227
+2015,s_19_resid,308.1
+2016,s_19_resid,294.3
+2017,s_19_resid,607.5
+2018,s_19_resid,585.3
+2019,s_19_resid,563.7
+2020,s_19_resid,381.316
+2015,s_20_care,0.75
+2016,s_20_care,0.72
+2017,s_20_care,0.94
+2018,s_20_care,0.73
+2019,s_20_care,0.544
+2020,s_20_care,0.457
+2015,s_21_pub_ed,0.39
+2016,s_21_pub_ed,0.35
+2017,s_21_pub_ed,0.34
+2018,s_21_pub_ed,0.34
+2019,s_21_pub_ed,0.369
+2020,s_21_pub_ed,0.254
+2015,s_22_oth_sec,0.62
+2016,s_22_oth_sec,0.53
+2017,s_22_oth_sec,0.36
+2018,s_22_oth_sec,0.3
+2019,s_22_oth_sec,0.241
+2020,s_22_oth_sec,1.135

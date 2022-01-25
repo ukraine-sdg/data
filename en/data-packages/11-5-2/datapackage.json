@@ -16,16 +16,16 @@
             "constraints": {
               "enum": [
                 "",
-                "suspended matter (dust)",
-                "sulfir dioxide",
-                "carbon monoxide",
-                "nitrogen dioxide",
-                "nitric oxide",
-                "phenol",
-                "soot",
-                "hydrogen fluoride",
-                "ammonia",
-                "formaldehide"
+                "pol_11_dust",
+                "pol_12_sulfur",
+                "pol_13_carbon",
+                "pol_14_nitrogen",
+                "pol_15_nitrix",
+                "pol_16_phenol",
+                "pol_17_soot",
+                "pol_18_hydrogen",
+                "pol_19_ammonia",
+                "pol_20_form"
               ]
             },
             "title": "Pollutants"

@@ -16,12 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "coal",
-                "petroleum",
-                "natural gas"
+                "en_1_coal",
+                "en_2_petrol",
+                "en_3_gas"
               ]
             },
-            "title": "Source of energy"
+            "title": "Sou_en"
           },
           {
             "name": "Value",

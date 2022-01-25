@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "Armed Forces of Ukraine",
-                "State Special Transport Service",
-                "State Emergency Service",
-                "Non-governmental international organizations (The Halo Trust, DDG, FSD)"
+                "1_army",
+                "2_trans",
+                "3_emerg",
+                "4_ngo"
               ]
             },
             "title": "Organization"
@@ -30,9 +30,9 @@
             "constraints": {
               "enum": [
                 "",
-                "hectares",
-                "сleared roads, km",
-                "сleared railways, km"
+                "1_hectares",
+                "2_roads",
+                "3_railways"
               ]
             },
             "title": "Unit"

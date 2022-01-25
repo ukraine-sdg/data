@@ -16,14 +16,14 @@
             "constraints": {
               "enum": [
                 "",
-                "total number of victims of crimes, art. of CCU",
-                "intentional homicide (and relevant attempts), articles 115-118",
-                "rape (and relevant attempts), art. 152",
-                "intentional grievous bodily harm, art. 121",
-                "human trafficking or other illicit transactions involving the transfer of human beings, art. 149"
+                "1_art_all",
+                "2_art_115_118",
+                "3_art_152",
+                "4_art_121",
+                "5_art_149"
               ]
             },
-            "title": "Article of the Criminal Code of Ukraine"
+            "title": "Article"
           },
           {
             "name": "Group",
@@ -31,10 +31,10 @@
             "constraints": {
               "enum": [
                 "",
-                "all",
-                "females",
-                "adolescents",
-                "young (under 14)"
+                "1_all",
+                "2_females",
+                "3_adolescents",
+                "4_young"
               ]
             },
             "title": "Group"
@@ -45,8 +45,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Victims of crimes (per 100 thousand persons)",
-                "Victims of crimes (total)"
+                "1_vict_per_100",
+                "2_vict_all"
               ]
             },
             "title": "Unit"

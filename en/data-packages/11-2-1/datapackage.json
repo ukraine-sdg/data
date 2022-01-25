@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "number of regions",
-                "percentage"
+                "number",
+                "per"
               ]
             },
             "title": "Unit"
@@ -38,12 +38,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Regional strategy",
-                "Regional strategy and action plan for the implementation of the regional strategy (first phase)",
-                "Regional strategy and action plan for the implementation of the regional strategy (second phase)"
+                "10_phase",
+                "11_phase",
+                "12_phase"
               ]
             },
-            "title": "Сomponents of regional strategy"
+            "title": "strategy"
           }
         ]
       }

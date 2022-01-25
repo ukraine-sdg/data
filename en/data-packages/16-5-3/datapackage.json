@@ -16,12 +16,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Stealing, misappropriation, extortion of firearms, ammunition, explosives or radioactive materials, or acquisition by fraud or abuse of office, Art. 262",
-                "Illegal handling of weapons, ammunition or explosives, Art. 263",
-                "Illegal manufacture, processing or repair of firearms, or tampering, illegal removal or alteration of their marking, or illicit manufacture of ammunition, explosives or explosive devices, Art. 263-1"
+                "art_1_262",
+                "art_2_263",
+                "art_3_263_1"
               ]
             },
-            "title": "Article of the Criminal Code of Ukraine"
+            "title": "Article"
           },
           {
             "name": "Unit",
@@ -29,8 +29,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Total criminal offenses (number)",
-                "Per 100 thousand persons"
+                "1_total",
+                "2_per_100"
               ]
             },
             "title": "Unit"

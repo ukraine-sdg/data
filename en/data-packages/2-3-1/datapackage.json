@@ -16,22 +16,22 @@
             "constraints": {
               "enum": [
                 "",
-                "Production of rusks and biscuits; production of  long-term storage flour confectionery, cakes and pastries",
-                "Production of other food products",
-                "Production of sugar",
-                "Production of cocoa, chocolate and sugar confectionery",
-                "Production of tea and coffee",
-                "Production of spices and seasonings",
-                "Production of other food products not elsewhere classified",
-                "Production of meat and meat products",
-                "Processing and preserving of fish, crustaceans and molluscs",
-                "Processing and preserving of fruits and vegetables",
-                "Production of oil and animal fats",
-                "Production of dairy products",
-                "Production of  flour and cereal products, starches and starch products",
-                "Production of flour and cereal products",
-                "Production of bread, bakery and flour products",
-                "Production of bread and bakery products; production of  short-term storage flour confectionery, cakes and pastries"
+                "prod_10_rusks",
+                "prod_11_other",
+                "prod_12_sugar",
+                "prod_13_cocoa",
+                "prod_14_tea",
+                "prod_15_spices",
+                "prod_16_not_else",
+                "prod_1_meat",
+                "prod_2_fish",
+                "prod_3_fru_veg",
+                "prod_4_oil",
+                "prod_5_dairy",
+                "prod_6_starch",
+                "prod_7_flour",
+                "prod_8_bread",
+                "prod_9_cakes"
               ]
             },
             "title": "Group"

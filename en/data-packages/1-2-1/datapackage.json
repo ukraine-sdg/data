@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "under 18 years old",
-                "18-34 years",
-                "35-59 years",
-                "over 60 years"
+                "age_18",
+                "age_18_34",
+                "age_35_59",
+                "age_60"
               ]
             },
             "title": "Age"
@@ -42,8 +42,8 @@
             "constraints": {
               "enum": [
                 "",
-                "households with children",
-                "households without children"
+                "hh_ch",
+                "hh_ch_0"
               ]
             },
             "title": "Households"

@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "female, minutes per day",
-                "male, minutes per day"
+                "female11",
+                "male11"
               ]
             },
             "title": "Gender"
@@ -29,9 +29,9 @@
               "enum": [
                 "",
                 "rural",
-                "rural, %",
+                "rural11",
                 "urban",
-                "urban, %"
+                "urban11"
               ]
             },
             "title": "Type of residence"

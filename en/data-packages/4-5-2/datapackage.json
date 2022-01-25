@@ -16,13 +16,13 @@
             "constraints": {
               "enum": [
                 "",
-                "up to 15 years",
-                "15-17 years",
-                "18-24 years",
-                "25-35 years",
-                "36-59 years",
-                "60-74 years",
-                "75 years and older"
+                "age_15",
+                "age_15_17",
+                "age_18_24",
+                "age_25_35",
+                "age_36_59",
+                "age_60_74",
+                "age_75"
               ]
             },
             "title": "Age"

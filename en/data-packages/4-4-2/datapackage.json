@@ -40,15 +40,15 @@
             "constraints": {
               "enum": [
                 "",
-                "Complete higher",
-                "Basic higher",
-                "Incomplete higher",
-                "Professional and technical",
-                "Complete total average",
-                "Basic, elementary general or no education"
+                "1_сompl_higher",
+                "2_bas_higher",
+                "3_inсompl_higher",
+                "4_prof_ed",
+                "5_comp_aver",
+                "6_bas_ed"
               ]
             },
-            "title": "Level of education"
+            "title": "Level_ed"
           },
           {
             "name": "Value",

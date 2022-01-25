@@ -16,16 +16,16 @@
             "constraints": {
               "enum": [
                 "",
-                "Power generating companies of TPP",
-                "CHP",
-                "HPP",
-                "PSP",
-                "NPP",
-                "Captive power plants",
-                "Alternative energy sources (WSP, SPP, Biomass)"
+                "el_1_power",
+                "el_2_CHP",
+                "el_3_HPP",
+                "el_4_PSP",
+                "el_5_NPP",
+                "el_6_plants",
+                "el_7_alternative"
               ]
             },
-            "title": "Electricity generation"
+            "title": "Generation"
           },
           {
             "name": "Value",
