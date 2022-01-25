@@ -3083,7 +3083,6 @@
               "enum": [
                 "females",
                 "males",
-                "female",
                 ""
               ]
             }

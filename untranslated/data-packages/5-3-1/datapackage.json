@@ -21,7 +21,6 @@
               "enum": [
                 "females",
                 "males",
-                "female",
                 ""
               ]
             }

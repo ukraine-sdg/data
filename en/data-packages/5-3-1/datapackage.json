@@ -16,7 +16,6 @@
             "constraints": {
               "enum": [
                 "",
-                "female",
                 "females",
                 "males"
               ]
