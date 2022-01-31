@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -16,18 +16,18 @@
             "constraints": {
               "enum": [
                 "",
-                "1_agr_and_rel",
-                "2_indus",
-                "3_mining",
-                "4_proc_ind",
-                "5_el_gas",
-                "6_water",
-                "7_constr",
-                "8_trans_act",
-                "9_telec"
+                "Agriculture and related services",
+                "Industry",
+                "Mining and quarrying",
+                "Processing industry",
+                "Supply of electricity, gas, steam and air conditioning",
+                "Water supply; sewage, waste management",
+                "Construction",
+                "Transport, warehousing, postal and courier activities",
+                "Telecommunications"
               ]
             },
-            "title": "Ec_activ"
+            "title": "Еconomic activity"
           },
           {
             "name": "Value",
@@ -45,20 +45,20 @@
             "constraints": {
               "enum": [
                 "",
-                "inc_11_coal",
-                "inc_12_food",
-                "inc_13_leather",
-                "inc_14_wood",
-                "inc_15_coke",
-                "inc_16_chem",
-                "inc_17_pharma",
-                "inc_18_plastic",
-                "inc_19_metall",
-                "inc_20_pc",
-                "inc_21_electro",
-                "inc_22_machinery",
-                "inc_23_motor",
-                "inc_24_furn"
+                "hard coal and brown coal extraction",
+                "manufacture of food, beverages and tobacco products",
+                "textile manufacturing, manufacture of clothing, leather, leather goods and other materials",
+                "manufacture of wood products, paper manufacturing and printing",
+                "manufacture of coke and refined petroleum products",
+                "manufacture of chemicals and chemical products",
+                "manufacture of main pharmaceutical products and preparations",
+                "manufacture of rubber and plastic products. other non-metallic mineral products",
+                "metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment",
+                "manufacture of computers, electronic and optical products",
+                "manufacture of electrical equipment",
+                "manufacture of machinery and equipment, not elsewhere classified",
+                "manufacture of motor vehicles, trailers and semi-trailers and other vehicles",
+                "manufacture of furniture, other products, repair and installation of machinery and equipment"
               ]
             },
             "title": "including"

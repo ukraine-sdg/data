@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "GHG_1_all",
-                "GHG_2_types"
+                "all",
+                "by main types of sources, including road transport"
               ]
             },
-            "title": "GHG_ratio"
+            "title": "Ratio of GHG emissions to 1990 level"
           },
           {
             "name": "Value",

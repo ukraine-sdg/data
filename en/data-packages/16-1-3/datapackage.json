@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "1_all",
-                "2_females",
-                "3_adolescents",
-                "4_young"
+                "all",
+                "females",
+                "adolescents",
+                "young (under 14)"
               ]
             },
             "title": "Group"
@@ -30,8 +30,8 @@
             "constraints": {
               "enum": [
                 "",
-                "1_vic_100",
-                "2_vic_tot"
+                "Victims of crimes (per 100 thousand persons)",
+                "Victims of crimes (Art. 152), total"
               ]
             },
             "title": "Unit"

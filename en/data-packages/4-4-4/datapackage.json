@@ -16,10 +16,10 @@
             "constraints": {
               "enum": [
                 "",
-                "state"
+                "national budget"
               ]
             },
-            "title": "Fund"
+            "title": "Sources of funding"
           },
           {
             "name": "Value",

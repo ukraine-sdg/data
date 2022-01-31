@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -16,21 +16,21 @@
             "constraints": {
               "enum": [
                 "",
-                "s_11_indu",
-                "s_12_agri",
-                "s_13_fores",
-                "s_14_transp",
-                "s_15_commun",
-                "s_16_constr",
-                "s_17_trade",
-                "s_18_logis",
-                "s_19_resid",
-                "s_20_care",
-                "s_21_pub_ed",
-                "s_22_oth_sec"
+                "industry",
+                "agriculture",
+                "forestry",
+                "transport",
+                "communication",
+                "construction",
+                "trade and catering",
+                "logistics",
+                "residential sector",
+                "health care, physical education",
+                "public education",
+                "other sectors"
               ]
             },
-            "title": "Ec_activ"
+            "title": "Еconomic activity"
           },
           {
             "name": "Value",

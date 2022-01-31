@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -16,9 +16,9 @@
             "constraints": {
               "enum": [
                 "",
-                "age_1_18_35",
-                "age_2_36_60",
-                "age_3_61"
+                "18-35 years",
+                "36-60 years",
+                "over 61 years"
               ]
             },
             "title": "Age"
@@ -29,22 +29,22 @@
             "constraints": {
               "enum": [
                 "",
-                "com_10_active",
-                "com_11_migrate",
-                "com_12_cooperation",
-                "com_13_pol_sec",
-                "com_1_cohension",
-                "com_2_tolerance",
-                "com_3_adapt",
-                "com_4_migration",
-                "com_5_dialogue",
-                "com_6_civic",
-                "com_7_relations",
-                "com_8_groups",
-                "com_9_psy"
+                "tolerant and active citizenship",
+                "propensity to migrate",
+                "cooperation in the community",
+                "political security",
+                "social cohesion and sense of ownership",
+                "tolerance and socially responsible citizenship",
+                "psycho-social adaptability",
+                "reducing negative migration trends",
+                "readiness for dialogue",
+                "civic behavior",
+                "relations with government and safety",
+                "relations between groups",
+                "psycho-social activity"
               ]
             },
-            "title": "Component"
+            "title": "Сomponent of the index"
           },
           {
             "name": "Gender",
@@ -64,11 +64,11 @@
             "constraints": {
               "enum": [
                 "",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "17_reg_Zaporizhya",
-                "21_reg_Luhansk",
-                "29_reg_Kharkiv"
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zaporizhya",
+                "Luhansk",
+                "Kharkiv"
               ]
             },
             "title": "Region"

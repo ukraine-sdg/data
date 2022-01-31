@@ -16,9 +16,9 @@
             "constraints": {
               "enum": [
                 "",
-                "1_pop",
-                "2_particip",
-                "3_exper"
+                "population",
+                "participants in court proceedings",
+                "experts (attorneys, lawyers)"
               ]
             },
             "title": "Group"

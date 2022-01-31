@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "1_free",
-                "2_part"
+                "barrier-free,%",
+                "partially barrier-free,%"
               ]
             },
-            "title": "1_Level"
+            "title": "Level"
           },
           {
             "name": "Object",
@@ -28,16 +28,16 @@
             "constraints": {
               "enum": [
                 "",
-                "1_health",
-                "2_educational",
-                "3_soc_prot",
-                "4_employ",
-                "5_admin",
-                "6_nation",
-                "7_transport",
-                "8_pension",
-                "99_judge",
-                "9_civ_prot"
+                "Health care facilities",
+                "Educational institutions",
+                "Structural subdivisions on social protection issues",
+                "Employment centers",
+                "Centers for administrative services",
+                "National institutions",
+                "Railway stations, airports, bus stations",
+                "Institutions of the pension fund",
+                "Judge",
+                "Civil protection structures"
               ]
             },
             "title": "Object"

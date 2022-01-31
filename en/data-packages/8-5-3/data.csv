@@ -1,145 +1,145 @@
-Year,Ec_activ,including,Value
+Year,Еconomic activity,including,Value
 2015,,,28.9
 2016,,,
 2017,,,28.4
 2018,,,
 2019,,,29.6
 2020,,,
-2015,1_agr_and_rel,,11.2
-2016,1_agr_and_rel,,
-2017,1_agr_and_rel,,12.6
-2018,1_agr_and_rel,,
-2019,1_agr_and_rel,,14.5
-2020,1_agr_and_rel,,
-2015,2_indus,,35.3
-2016,2_indus,,
-2017,2_indus,,34.1
-2018,2_indus,,
-2019,2_indus,,34.0
-2020,2_indus,,
-2015,3_mining,,68.7
-2016,3_mining,,
-2017,3_mining,,67.9
-2018,3_mining,,
-2019,3_mining,,66.5
-2020,3_mining,,
-2015,3_mining,inc_11_coal,82.0
-2016,3_mining,inc_11_coal,
-2017,3_mining,inc_11_coal,81.2
-2018,3_mining,inc_11_coal,
-2019,3_mining,inc_11_coal,78.6
-2020,3_mining,inc_11_coal,
-2015,4_proc_ind,,29.2
-2016,4_proc_ind,,
-2017,4_proc_ind,,27.8
-2018,4_proc_ind,,
-2019,4_proc_ind,,28.5
-2020,4_proc_ind,,
-2015,4_proc_ind,inc_12_food,17.3
-2016,4_proc_ind,inc_12_food,
-2017,4_proc_ind,inc_12_food,19.5
-2018,4_proc_ind,inc_12_food,
-2019,4_proc_ind,inc_12_food,20.5
-2020,4_proc_ind,inc_12_food,
-2015,4_proc_ind,inc_13_leather,9.5
-2016,4_proc_ind,inc_13_leather,
-2017,4_proc_ind,inc_13_leather,11.1
-2018,4_proc_ind,inc_13_leather,
-2019,4_proc_ind,inc_13_leather,12.1
-2020,4_proc_ind,inc_13_leather,
-2015,4_proc_ind,inc_14_wood,22.5
-2016,4_proc_ind,inc_14_wood,
-2017,4_proc_ind,inc_14_wood,23.7
-2018,4_proc_ind,inc_14_wood,
-2019,4_proc_ind,inc_14_wood,25.6
-2020,4_proc_ind,inc_14_wood,
-2015,4_proc_ind,inc_15_coke,58.5
-2016,4_proc_ind,inc_15_coke,
-2017,4_proc_ind,inc_15_coke,61.3
-2018,4_proc_ind,inc_15_coke,
-2019,4_proc_ind,inc_15_coke,59.5
-2020,4_proc_ind,inc_15_coke,
-2015,4_proc_ind,inc_16_chem,37.2
-2016,4_proc_ind,inc_16_chem,
-2017,4_proc_ind,inc_16_chem,33.4
-2018,4_proc_ind,inc_16_chem,
-2019,4_proc_ind,inc_16_chem,37.3
-2020,4_proc_ind,inc_16_chem,
-2015,4_proc_ind,inc_17_pharma,21.2
-2016,4_proc_ind,inc_17_pharma,
-2017,4_proc_ind,inc_17_pharma,19.1
-2018,4_proc_ind,inc_17_pharma,
-2019,4_proc_ind,inc_17_pharma,20.0
-2020,4_proc_ind,inc_17_pharma,
-2015,4_proc_ind,inc_18_plastic,26.9
-2016,4_proc_ind,inc_18_plastic,
-2017,4_proc_ind,inc_18_plastic,29.7
-2018,4_proc_ind,inc_18_plastic,
-2019,4_proc_ind,inc_18_plastic,28.3
-2020,4_proc_ind,inc_18_plastic,
-2015,4_proc_ind,inc_19_metall,57.7
-2016,4_proc_ind,inc_19_metall,
-2017,4_proc_ind,inc_19_metall,56.3
-2018,4_proc_ind,inc_19_metall,
-2019,4_proc_ind,inc_19_metall,55.4
-2020,4_proc_ind,inc_19_metall,
-2015,4_proc_ind,inc_20_pc,14.7
-2016,4_proc_ind,inc_20_pc,
-2017,4_proc_ind,inc_20_pc,14.4
-2018,4_proc_ind,inc_20_pc,
-2019,4_proc_ind,inc_20_pc,13.2
-2020,4_proc_ind,inc_20_pc,
-2015,4_proc_ind,inc_21_electro,23.7
-2016,4_proc_ind,inc_21_electro,
-2017,4_proc_ind,inc_21_electro,21.0
-2018,4_proc_ind,inc_21_electro,
-2019,4_proc_ind,inc_21_electro,19.4
-2020,4_proc_ind,inc_21_electro,
-2015,4_proc_ind,inc_22_machinery,25.3
-2016,4_proc_ind,inc_22_machinery,
-2017,4_proc_ind,inc_22_machinery,21.9
-2018,4_proc_ind,inc_22_machinery,
-2019,4_proc_ind,inc_22_machinery,21.1
-2020,4_proc_ind,inc_22_machinery,
-2015,4_proc_ind,inc_23_motor,21.5
-2016,4_proc_ind,inc_23_motor,
-2017,4_proc_ind,inc_23_motor,19.4
-2018,4_proc_ind,inc_23_motor,
-2019,4_proc_ind,inc_23_motor,19.4
-2020,4_proc_ind,inc_23_motor,
-2015,4_proc_ind,inc_24_furn,30.3
-2016,4_proc_ind,inc_24_furn,
-2017,4_proc_ind,inc_24_furn,29.1
-2018,4_proc_ind,inc_24_furn,
-2019,4_proc_ind,inc_24_furn,33.9
-2020,4_proc_ind,inc_24_furn,
-2015,5_el_gas,,35.2
-2016,5_el_gas,,
-2017,5_el_gas,,34.9
-2018,5_el_gas,,
-2019,5_el_gas,,34.0
-2020,5_el_gas,,
-2015,6_water,,35.3
-2016,6_water,,
-2017,6_water,,35.4
-2018,6_water,,
-2019,6_water,,36.5
-2020,6_water,,
-2015,7_constr,,20.8
-2016,7_constr,,
-2017,7_constr,,20.5
-2018,7_constr,,
-2019,7_constr,,22.5
-2020,7_constr,,
-2015,8_trans_act,,23.1
-2016,8_trans_act,,
-2017,8_trans_act,,23.5
-2018,8_trans_act,,
-2019,8_trans_act,,27.0
-2020,8_trans_act,,
-2015,9_telec,,11.4
-2016,9_telec,,
-2017,9_telec,,10.7
-2018,9_telec,,
-2019,9_telec,,11.1
-2020,9_telec,,
+2015,Agriculture and related services,,11.2
+2016,Agriculture and related services,,
+2017,Agriculture and related services,,12.6
+2018,Agriculture and related services,,
+2019,Agriculture and related services,,14.5
+2020,Agriculture and related services,,
+2015,Industry,,35.3
+2016,Industry,,
+2017,Industry,,34.1
+2018,Industry,,
+2019,Industry,,34.0
+2020,Industry,,
+2015,Mining and quarrying,,68.7
+2016,Mining and quarrying,,
+2017,Mining and quarrying,,67.9
+2018,Mining and quarrying,,
+2019,Mining and quarrying,,66.5
+2020,Mining and quarrying,,
+2015,Mining and quarrying,hard coal and brown coal extraction,82.0
+2016,Mining and quarrying,hard coal and brown coal extraction,
+2017,Mining and quarrying,hard coal and brown coal extraction,81.2
+2018,Mining and quarrying,hard coal and brown coal extraction,
+2019,Mining and quarrying,hard coal and brown coal extraction,78.6
+2020,Mining and quarrying,hard coal and brown coal extraction,
+2015,Processing industry,,29.2
+2016,Processing industry,,
+2017,Processing industry,,27.8
+2018,Processing industry,,
+2019,Processing industry,,28.5
+2020,Processing industry,,
+2015,Processing industry,"manufacture of food, beverages and tobacco products",17.3
+2016,Processing industry,"manufacture of food, beverages and tobacco products",
+2017,Processing industry,"manufacture of food, beverages and tobacco products",19.5
+2018,Processing industry,"manufacture of food, beverages and tobacco products",
+2019,Processing industry,"manufacture of food, beverages and tobacco products",20.5
+2020,Processing industry,"manufacture of food, beverages and tobacco products",
+2015,Processing industry,"textile manufacturing, manufacture of clothing, leather, leather goods and other materials",9.5
+2016,Processing industry,"textile manufacturing, manufacture of clothing, leather, leather goods and other materials",
+2017,Processing industry,"textile manufacturing, manufacture of clothing, leather, leather goods and other materials",11.1
+2018,Processing industry,"textile manufacturing, manufacture of clothing, leather, leather goods and other materials",
+2019,Processing industry,"textile manufacturing, manufacture of clothing, leather, leather goods and other materials",12.1
+2020,Processing industry,"textile manufacturing, manufacture of clothing, leather, leather goods and other materials",
+2015,Processing industry,"manufacture of wood products, paper manufacturing and printing",22.5
+2016,Processing industry,"manufacture of wood products, paper manufacturing and printing",
+2017,Processing industry,"manufacture of wood products, paper manufacturing and printing",23.7
+2018,Processing industry,"manufacture of wood products, paper manufacturing and printing",
+2019,Processing industry,"manufacture of wood products, paper manufacturing and printing",25.6
+2020,Processing industry,"manufacture of wood products, paper manufacturing and printing",
+2015,Processing industry,manufacture of coke and refined petroleum products,58.5
+2016,Processing industry,manufacture of coke and refined petroleum products,
+2017,Processing industry,manufacture of coke and refined petroleum products,61.3
+2018,Processing industry,manufacture of coke and refined petroleum products,
+2019,Processing industry,manufacture of coke and refined petroleum products,59.5
+2020,Processing industry,manufacture of coke and refined petroleum products,
+2015,Processing industry,manufacture of chemicals and chemical products,37.2
+2016,Processing industry,manufacture of chemicals and chemical products,
+2017,Processing industry,manufacture of chemicals and chemical products,33.4
+2018,Processing industry,manufacture of chemicals and chemical products,
+2019,Processing industry,manufacture of chemicals and chemical products,37.3
+2020,Processing industry,manufacture of chemicals and chemical products,
+2015,Processing industry,manufacture of main pharmaceutical products and preparations,21.2
+2016,Processing industry,manufacture of main pharmaceutical products and preparations,
+2017,Processing industry,manufacture of main pharmaceutical products and preparations,19.1
+2018,Processing industry,manufacture of main pharmaceutical products and preparations,
+2019,Processing industry,manufacture of main pharmaceutical products and preparations,20.0
+2020,Processing industry,manufacture of main pharmaceutical products and preparations,
+2015,Processing industry,manufacture of rubber and plastic products. other non-metallic mineral products,26.9
+2016,Processing industry,manufacture of rubber and plastic products. other non-metallic mineral products,
+2017,Processing industry,manufacture of rubber and plastic products. other non-metallic mineral products,29.7
+2018,Processing industry,manufacture of rubber and plastic products. other non-metallic mineral products,
+2019,Processing industry,manufacture of rubber and plastic products. other non-metallic mineral products,28.3
+2020,Processing industry,manufacture of rubber and plastic products. other non-metallic mineral products,
+2015,Processing industry,"metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment",57.7
+2016,Processing industry,"metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment",
+2017,Processing industry,"metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment",56.3
+2018,Processing industry,"metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment",
+2019,Processing industry,"metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment",55.4
+2020,Processing industry,"metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment",
+2015,Processing industry,"manufacture of computers, electronic and optical products",14.7
+2016,Processing industry,"manufacture of computers, electronic and optical products",
+2017,Processing industry,"manufacture of computers, electronic and optical products",14.4
+2018,Processing industry,"manufacture of computers, electronic and optical products",
+2019,Processing industry,"manufacture of computers, electronic and optical products",13.2
+2020,Processing industry,"manufacture of computers, electronic and optical products",
+2015,Processing industry,manufacture of electrical equipment,23.7
+2016,Processing industry,manufacture of electrical equipment,
+2017,Processing industry,manufacture of electrical equipment,21.0
+2018,Processing industry,manufacture of electrical equipment,
+2019,Processing industry,manufacture of electrical equipment,19.4
+2020,Processing industry,manufacture of electrical equipment,
+2015,Processing industry,"manufacture of machinery and equipment, not elsewhere classified",25.3
+2016,Processing industry,"manufacture of machinery and equipment, not elsewhere classified",
+2017,Processing industry,"manufacture of machinery and equipment, not elsewhere classified",21.9
+2018,Processing industry,"manufacture of machinery and equipment, not elsewhere classified",
+2019,Processing industry,"manufacture of machinery and equipment, not elsewhere classified",21.1
+2020,Processing industry,"manufacture of machinery and equipment, not elsewhere classified",
+2015,Processing industry,"manufacture of motor vehicles, trailers and semi-trailers and other vehicles",21.5
+2016,Processing industry,"manufacture of motor vehicles, trailers and semi-trailers and other vehicles",
+2017,Processing industry,"manufacture of motor vehicles, trailers and semi-trailers and other vehicles",19.4
+2018,Processing industry,"manufacture of motor vehicles, trailers and semi-trailers and other vehicles",
+2019,Processing industry,"manufacture of motor vehicles, trailers and semi-trailers and other vehicles",19.4
+2020,Processing industry,"manufacture of motor vehicles, trailers and semi-trailers and other vehicles",
+2015,Processing industry,"manufacture of furniture, other products, repair and installation of machinery and equipment",30.3
+2016,Processing industry,"manufacture of furniture, other products, repair and installation of machinery and equipment",
+2017,Processing industry,"manufacture of furniture, other products, repair and installation of machinery and equipment",29.1
+2018,Processing industry,"manufacture of furniture, other products, repair and installation of machinery and equipment",
+2019,Processing industry,"manufacture of furniture, other products, repair and installation of machinery and equipment",33.9
+2020,Processing industry,"manufacture of furniture, other products, repair and installation of machinery and equipment",
+2015,"Supply of electricity, gas, steam and air conditioning",,35.2
+2016,"Supply of electricity, gas, steam and air conditioning",,
+2017,"Supply of electricity, gas, steam and air conditioning",,34.9
+2018,"Supply of electricity, gas, steam and air conditioning",,
+2019,"Supply of electricity, gas, steam and air conditioning",,34.0
+2020,"Supply of electricity, gas, steam and air conditioning",,
+2015,"Water supply; sewage, waste management",,35.3
+2016,"Water supply; sewage, waste management",,
+2017,"Water supply; sewage, waste management",,35.4
+2018,"Water supply; sewage, waste management",,
+2019,"Water supply; sewage, waste management",,36.5
+2020,"Water supply; sewage, waste management",,
+2015,Construction,,20.8
+2016,Construction,,
+2017,Construction,,20.5
+2018,Construction,,
+2019,Construction,,22.5
+2020,Construction,,
+2015,"Transport, warehousing, postal and courier activities",,23.1
+2016,"Transport, warehousing, postal and courier activities",,
+2017,"Transport, warehousing, postal and courier activities",,23.5
+2018,"Transport, warehousing, postal and courier activities",,
+2019,"Transport, warehousing, postal and courier activities",,27.0
+2020,"Transport, warehousing, postal and courier activities",,
+2015,Telecommunications,,11.4
+2016,Telecommunications,,
+2017,Telecommunications,,10.7
+2018,Telecommunications,,
+2019,Telecommunications,,11.1
+2020,Telecommunications,,

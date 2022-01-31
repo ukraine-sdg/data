@@ -1,36 +1,36 @@
-Year,Res_inten,Value
-2015,int_1_energy,100.0
-2016,int_1_energy,102.3
-2017,int_1_energy,94.7
-2018,int_1_energy,95.2
-2019,int_1_energy,88.5
-2020,int_1_energy,88.9
-2021,int_1_energy,
-2015,int_2_mater,100.0
-2016,int_2_mater,100.0
-2017,int_2_mater,98.2
-2018,int_2_mater,97.2
-2019,int_2_mater,100.4
-2020,int_2_mater,99.9
-2021,int_2_mater,
-2015,int_3_carbon,100.0
-2016,int_3_carbon,105.8
-2017,int_3_carbon,85.1
-2018,int_3_carbon,83.8
-2019,int_3_carbon,77.9
-2020,int_3_carbon,72.8
-2021,int_3_carbon,
-2015,int_4_water,100.0
-2016,int_4_water,98.2
-2017,int_4_water,91.7
-2018,int_4_water,95.1
-2019,int_4_water,91.6
-2020,int_4_water,94.2
-2021,int_4_water,
-2015,int_5_waste,100.0
-2016,int_5_waste,92.5
-2017,int_5_waste,111.6
-2018,int_5_waste,103.9
-2019,int_5_waste,126.1
-2020,int_5_waste,137.3
-2021,int_5_waste,
+Year,Resource intensity of GDP,Value
+2015,energy intensity,100.0
+2016,energy intensity,102.3
+2017,energy intensity,94.7
+2018,energy intensity,95.2
+2019,energy intensity,88.5
+2020,energy intensity,88.9
+2021,energy intensity,
+2015,material intensity,100.0
+2016,material intensity,100.0
+2017,material intensity,98.2
+2018,material intensity,97.2
+2019,material intensity,100.4
+2020,material intensity,99.9
+2021,material intensity,
+2015,carbon intensity,100.0
+2016,carbon intensity,105.8
+2017,carbon intensity,85.1
+2018,carbon intensity,83.8
+2019,carbon intensity,77.9
+2020,carbon intensity,72.8
+2021,carbon intensity,
+2015,water intensity,100.0
+2016,water intensity,98.2
+2017,water intensity,91.7
+2018,water intensity,95.1
+2019,water intensity,91.6
+2020,water intensity,94.2
+2021,water intensity,
+2015,waste intensity,100.0
+2016,waste intensity,92.5
+2017,waste intensity,111.6
+2018,waste intensity,103.9
+2019,waste intensity,126.1
+2020,waste intensity,137.3
+2021,waste intensity,

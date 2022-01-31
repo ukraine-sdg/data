@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "14_reg_Donetsk",
-                "21_reg_Luhansk"
+                "Donetsk",
+                "Luhansk"
               ]
             },
             "title": "Region"

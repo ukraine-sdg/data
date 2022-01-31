@@ -52,16 +52,16 @@
             "constraints": {
               "enum": [
                 "",
-                "el_1_power",
-                "el_2_CHP",
-                "el_3_HPP",
-                "el_4_PSP",
-                "el_5_NPP",
-                "el_6_plants",
-                "el_7_alternative"
+                "Power generating companies of TPP",
+                "CHP",
+                "HPP",
+                "PSP",
+                "NPP",
+                "Captive power plants",
+                "Alternative energy sources (WSP, SPP, Biomass)"
               ]
             },
-            "title": "Generation"
+            "title": "Electricity generation"
           },
           {
             "name": "Value",
@@ -232,12 +232,12 @@
             "constraints": {
               "enum": [
                 "",
-                "aged_15",
-                "aged_16",
-                "aged_17",
-                "aged_18",
-                "aged_19",
-                "aged_20_under"
+                "15 years",
+                "16 years",
+                "17 years",
+                "18 years",
+                "19 years",
+                "up to 20 years"
               ]
             },
             "title": "Age"
@@ -248,31 +248,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -615,31 +615,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -696,31 +696,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -789,13 +789,13 @@
             "constraints": {
               "enum": [
                 "",
-                "age_vac_1_under 1 year",
-                "age_vac_2_1 year",
-                "age_vac_3_18 months",
-                "age_vac_4_6 years",
-                "age_vac_5_14 years",
-                "age_vac_6_16 years",
-                "age_vac_7_adult"
+                "under 1 year",
+                "1 year",
+                "18 months",
+                "6 years",
+                "14 years",
+                "16 years",
+                "adult"
               ]
             },
             "title": "Age"
@@ -806,13 +806,13 @@
             "constraints": {
               "enum": [
                 "",
-                "ill_1_tub",
-                "ill_2_hep",
-                "ill_3_m_m_r",
-                "ill_4_diph",
-                "ill_5_pert",
-                "ill_6_polio",
-                "ill_7_hib"
+                "Tuberculosis",
+                "Hepatitis B",
+                "Measles, mumps, rubella",
+                "Diphtheria, tetanus",
+                "Pertussis",
+                "Poliomyelitis",
+                "Hib infection"
               ]
             },
             "title": "Infectious diseases"
@@ -949,31 +949,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -1078,12 +1078,12 @@
             "constraints": {
               "enum": [
                 "",
-                "en_1_coal",
-                "en_2_petrol",
-                "en_3_gas"
+                "coal",
+                "petroleum",
+                "natural gas"
               ]
             },
-            "title": "Sou_en"
+            "title": "Source of energy"
           },
           {
             "name": "Value",
@@ -1115,30 +1115,30 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv"
               ]
             },
             "title": "Region"
@@ -1334,7 +1334,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1343,46 +1343,46 @@
             "constraints": {
               "enum": [
                 "",
-                "11_ext_quar",
-                "12_ext_coal",
-                "13_ext_oil",
-                "14_ext_ores",
-                "15_ext_miner",
-                "16_serv",
-                "17_proc_ind",
-                "18_man_food",
-                "19_man_bev",
-                "20_man_tobac",
-                "21_man_text",
-                "22_man_cloth",
-                "23_man_leather",
-                "24_man_wood",
-                "25_man_paper",
-                "26_print",
-                "27_man_coke",
-                "28_man_chemic",
-                "29_man_pharmac",
-                "30_man_rubber",
-                "31_man_non_met",
-                "32_man_met",
-                "33_man_equip",
-                "34_man_pc",
-                "35_man_el_equip",
-                "36_not_class",
-                "37_man_motor",
-                "38_man_oth_veh",
-                "39_man_furn",
-                "40_man_oth_prod",
-                "41_repair",
-                "42_suppl_elec",
-                "43_suppl_wat",
-                "44_collec_wat",
-                "45_waste_wat",
-                "46_restor",
-                "47_waste_act"
+                "mining and quarrying",
+                "extraction of hard coal and brown coal",
+                "extraction of crude oil and natural gas",
+                "extraction of metal ores",
+                "extraction of other minerals and quarrying",
+                "provision of ancillary services in the field of mining and quarrying",
+                "processing industry",
+                "manufacture of food products",
+                "manufacture of beverages",
+                "manufacture of tobacco products",
+                "textile manufacturing",
+                "manufacture of clothing",
+                "manufacture of leather, leather goods and other materials",
+                "manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials",
+                "manufacture of paper and paper products",
+                "printing, reproduction of recorded information",
+                "manufacture of coke and refined petroleum products",
+                "manufacture of chemicals and chemical products",
+                "manufacture of main pharmaceutical products and preparations",
+                "manufacture of rubber and plastic products",
+                "manufacture of other non-metallic mineral products",
+                "metallurgical manufacturing",
+                "manufacture of fabricated metal products, except machinery and equipment",
+                "manufacture of computers. electronic and optical products",
+                "manufacture of electrical equipment",
+                "manufacture of machinery and equipment, not elsewhere classified",
+                "manufacture of motor vehicles, trailers and semi-trailers",
+                "manufacture of other vehicles",
+                "manufacture of furniture",
+                "manufacture of other products",
+                "repair and installation of machinery and equipment",
+                "supply of electricity, gas, steam and air conditioning",
+                "water supply; sewage, waste management",
+                "water collection, treatment and supply",
+                "sewage, wastewater collection and treatment",
+                "collection, treatment and disposal of waste; restoration of materials",
+                "other waste management activities"
               ]
             },
-            "title": "Ec_activ"
+            "title": "Еconomic activity"
           },
           {
             "name": "Value",
@@ -1468,15 +1468,15 @@
             "constraints": {
               "enum": [
                 "",
-                "11_bread",
-                "12_meat",
-                "13_milk",
-                "14_fish",
-                "15_veg",
-                "16_fruits",
-                "17_sugar",
-                "18_oil",
-                "19_eggs"
+                "bread and bakery products",
+                "meat and meat products",
+                "milk",
+                "fish and fish products",
+                "vegetables",
+                "fruits",
+                "sugar",
+                "sunflower oil",
+                "eggs"
               ]
             },
             "title": "by main product group"
@@ -1535,13 +1535,13 @@
             "constraints": {
               "enum": [
                 "",
-                "1_am_cartridges",
-                "2_am_grenades",
-                "3_am_mines",
-                "4_am_devic"
+                "cartridges",
+                "grenades",
+                "mines",
+                "improvised explosive devices"
               ]
             },
-            "title": "Ammunition"
+            "title": "Type of ammunition"
           },
           {
             "name": "Region",
@@ -1549,31 +1549,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -1642,11 +1642,11 @@
             "constraints": {
               "enum": [
                 "",
-                "1_free",
-                "2_part"
+                "barrier-free,%",
+                "partially barrier-free,%"
               ]
             },
-            "title": "1_Level"
+            "title": "Level"
           },
           {
             "name": "Object",
@@ -1654,16 +1654,16 @@
             "constraints": {
               "enum": [
                 "",
-                "1_health",
-                "2_educational",
-                "3_soc_prot",
-                "4_employ",
-                "5_admin",
-                "6_nation",
-                "7_transport",
-                "8_pension",
-                "99_judge",
-                "9_civ_prot"
+                "Health care facilities",
+                "Educational institutions",
+                "Structural subdivisions on social protection issues",
+                "Employment centers",
+                "Centers for administrative services",
+                "National institutions",
+                "Railway stations, airports, bus stations",
+                "Institutions of the pension fund",
+                "Judge",
+                "Civil protection structures"
               ]
             },
             "title": "Object"
@@ -1689,7 +1689,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -1698,21 +1698,21 @@
             "constraints": {
               "enum": [
                 "",
-                "s_11_indu",
-                "s_12_agri",
-                "s_13_fores",
-                "s_14_transp",
-                "s_15_commun",
-                "s_16_constr",
-                "s_17_trade",
-                "s_18_logis",
-                "s_19_resid",
-                "s_20_care",
-                "s_21_pub_ed",
-                "s_22_oth_sec"
+                "industry",
+                "agriculture",
+                "forestry",
+                "transport",
+                "communication",
+                "construction",
+                "trade and catering",
+                "logistics",
+                "residential sector",
+                "health care, physical education",
+                "public education",
+                "other sectors"
               ]
             },
-            "title": "Ec_activ"
+            "title": "Еconomic activity"
           },
           {
             "name": "Value",
@@ -1846,10 +1846,10 @@
             "constraints": {
               "enum": [
                 "",
-                "age_18",
-                "age_18_34",
-                "age_35_59",
-                "age_60"
+                "under 18 years old",
+                "18-34 years",
+                "35-59 years",
+                "over 60 years"
               ]
             },
             "title": "Age"
@@ -1872,8 +1872,8 @@
             "constraints": {
               "enum": [
                 "",
-                "hh_ch",
-                "hh_ch_0"
+                "households with children",
+                "households without children"
               ]
             },
             "title": "Households"
@@ -1908,8 +1908,8 @@
             "constraints": {
               "enum": [
                 "",
-                "1_tr_road",
-                "2_tr_urban"
+                "Road transport used by road hauliers",
+                "Urban electric transport"
               ]
             },
             "title": "Mode of transport"
@@ -1944,8 +1944,8 @@
             "constraints": {
               "enum": [
                 "",
-                "femal",
-                "mal"
+                "female",
+                "male"
               ]
             },
             "title": "Gender of the head of household"
@@ -1992,30 +1992,30 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv"
               ]
             },
             "title": "Region"
@@ -2050,10 +2050,10 @@
             "constraints": {
               "enum": [
                 "",
-                "1_army",
-                "2_trans",
-                "3_emerg",
-                "4_ngo"
+                "Armed Forces of Ukraine",
+                "State Special Transport Service",
+                "State Emergency Service",
+                "Non-governmental international organizations (The Halo Trust, DDG, FSD)"
               ]
             },
             "title": "Organization"
@@ -2064,9 +2064,9 @@
             "constraints": {
               "enum": [
                 "",
-                "1_hectares",
-                "2_roads",
-                "3_railways"
+                "hectares",
+                "сleared roads, km",
+                "сleared railways, km"
               ]
             },
             "title": "Unit"
@@ -2101,9 +2101,9 @@
             "constraints": {
               "enum": [
                 "",
-                "farms_1_all",
-                "farms_2_enterprise",
-                "farms_3_household"
+                "Farms of all categories",
+                "Enterprises",
+                "Households"
               ]
             },
             "title": "Farm caregory"
@@ -2114,9 +2114,9 @@
             "constraints": {
               "enum": [
                 "",
-                "prod_1_agri",
-                "prod_2_crop",
-                "prod_3_livestock"
+                "agricultural products",
+                "crop products",
+                "livestock products"
               ]
             },
             "title": "Products"
@@ -2346,7 +2346,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -2355,21 +2355,21 @@
             "constraints": {
               "enum": [
                 "",
-                "s_11_indu",
-                "s_12_agri",
-                "s_13_fores",
-                "s_14_transp",
-                "s_15_commun",
-                "s_16_constr",
-                "s_17_trade",
-                "s_18_logis",
-                "s_19_resid",
-                "s_20_care",
-                "s_21_pub_ed",
-                "s_22_oth_sec"
+                "industry",
+                "agriculture",
+                "forestry",
+                "transport",
+                "communication",
+                "construction",
+                "trade and catering",
+                "logistics",
+                "residential sector",
+                "health care, physical education",
+                "public education",
+                "other sectors"
               ]
             },
-            "title": "Ec_activ"
+            "title": "Еconomic activity"
           },
           {
             "name": "Value",
@@ -2563,15 +2563,15 @@
             "constraints": {
               "enum": [
                 "",
-                "tr_1_rail",
-                "tr_2_motor",
-                "tr_3_sea",
-                "tr_4_river",
-                "tr_5_pipeline",
-                "tr_6_air"
+                "rail",
+                "motor",
+                "sea",
+                "river",
+                "pipeline",
+                "air"
               ]
             },
-            "title": "m_trans"
+            "title": "Mode of transport"
           }
         ]
       },
@@ -2641,7 +2641,7 @@
                 "natural"
               ]
             },
-            "title": "inherit"
+            "title": "Type of inheritance"
           }
         ]
       },
@@ -2675,13 +2675,13 @@
             "constraints": {
               "enum": [
                 "",
-                "1_level",
-                "2_level",
-                "3_level",
-                "4_level"
+                "1st_level (basic, 0-3 points)",
+                "2nd level (intermediate, 4-6 points)",
+                "3rd level (adequate, 7-9 points)",
+                "4th level (high, 10-12 points)"
               ]
             },
-            "title": "Level"
+            "title": "Levels of academic achievement"
           },
           {
             "name": "Settlement",
@@ -2690,8 +2690,8 @@
               "enum": [
                 "",
                 "city",
-                "urban_settl",
-                "village_"
+                "urban settlement",
+                "settlement, village"
               ]
             },
             "title": "Settlement"
@@ -2760,10 +2760,10 @@
             "constraints": {
               "enum": [
                 "",
-                "1_all",
-                "2_females",
-                "3_adolescents",
-                "4_young"
+                "all",
+                "females",
+                "adolescents",
+                "young (under 14)"
               ]
             },
             "title": "Group"
@@ -2774,8 +2774,8 @@
             "constraints": {
               "enum": [
                 "",
-                "1_vic_100",
-                "2_vic_tot"
+                "Victims of crimes (per 100 thousand persons)",
+                "Victims of crimes (Art. 152), total"
               ]
             },
             "title": "Unit"
@@ -2810,12 +2810,12 @@
             "constraints": {
               "enum": [
                 "",
-                "art_1_262",
-                "art_2_263",
-                "art_3_263_1"
+                "Stealing, misappropriation, extortion of firearms, ammunition, explosives or radioactive materials, or acquisition by fraud or abuse of office, Art. 262",
+                "Illegal handling of weapons, ammunition or explosives, Art. 263",
+                "Illegal manufacture, processing or repair of firearms, or tampering, illegal removal or alteration of their marking, or illicit manufacture of ammunition, explosives or explosive devices, Art. 263-1"
               ]
             },
-            "title": "Article"
+            "title": "Article of the Criminal Code of Ukraine"
           },
           {
             "name": "Unit",
@@ -2823,8 +2823,8 @@
             "constraints": {
               "enum": [
                 "",
-                "1_total",
-                "2_per_100"
+                "Total criminal offenses (number)",
+                "Per 100 thousand persons"
               ]
             },
             "title": "Unit"
@@ -3011,13 +3011,13 @@
             "constraints": {
               "enum": [
                 "",
-                "1_per_student",
-                "2_per_student_job",
-                "3_per_graduate",
-                "4_per_doctoral"
+                "average cost per student, UAH",
+                "average costs per graduate student who study in the evening form of education, UAH",
+                "average cost per full-time graduate student, UAH",
+                "average cost per doctoral student, UAH"
               ]
             },
-            "title": "Cost_train"
+            "title": "Cost of training a specialist"
           },
           {
             "name": "Value",
@@ -3049,10 +3049,10 @@
             "constraints": {
               "enum": [
                 "",
-                "state"
+                "national budget"
               ]
             },
-            "title": "Fund"
+            "title": "Sources of funding"
           },
           {
             "name": "Value",
@@ -3118,13 +3118,13 @@
             "constraints": {
               "enum": [
                 "",
-                "age_15",
-                "age_15_17",
-                "age_18_24",
-                "age_25_35",
-                "age_36_59",
-                "age_60_74",
-                "age_75"
+                "up to 15 years",
+                "15-17 years",
+                "18-24 years",
+                "25-35 years",
+                "36-59 years",
+                "60-74 years",
+                "75 years and older"
               ]
             },
             "title": "Age"
@@ -3183,9 +3183,9 @@
             "constraints": {
               "enum": [
                 "",
-                "age_1_18_35",
-                "age_2_36_60",
-                "age_3_61"
+                "18-35 years",
+                "36-60 years",
+                "over 61 years"
               ]
             },
             "title": "Age"
@@ -3244,31 +3244,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -3361,8 +3361,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Percentage",
-                "min_day"
+                "percentage",
+                "minutes per day"
               ]
             },
             "title": "Unit"
@@ -3397,30 +3397,30 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv"
               ]
             },
             "title": "Region"
@@ -3489,14 +3489,14 @@
             "constraints": {
               "enum": [
                 "",
-                "weap_1_bore",
-                "weap_2_rifled",
-                "weap_3_oth",
-                "weap_4_grenade",
-                "weap_5_cold"
+                "smooth-bore",
+                "rifled",
+                "other firearms",
+                "grenade launchers and rocket systems",
+                "cold weapons"
               ]
             },
-            "title": "Type_weapon"
+            "title": "Type of weapons"
           },
           {
             "name": "Value",
@@ -3688,9 +3688,9 @@
             "constraints": {
               "enum": [
                 "",
-                "zone_1_polis",
-                "zone_2_fores_st",
-                "zone_3_st"
+                "Polissya",
+                "Forest-steppe",
+                "Steppe"
               ]
             },
             "title": "Zone"
@@ -3706,7 +3706,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -3715,24 +3715,24 @@
             "constraints": {
               "enum": [
                 "",
-                "11_agricul",
-                "12_indu",
-                "13_constr",
-                "14_motor_veh",
-                "15_courier",
-                "16_cater",
-                "17_telecom",
-                "18_insurance",
-                "19_estate",
-                "20_scientific",
-                "21_support",
-                "23_educ",
-                "24_health",
-                "25_arts",
-                "26_other_serv"
+                "agriculture, forestry and fisheries",
+                "industry",
+                "construction",
+                "wholesale and retail trade, repair of motor vehicles and motorcycles",
+                "transport, warehousing, post and courier services",
+                "temporary accommodation and catering",
+                "information and telecommunications",
+                "financial and insurance activities",
+                "real estate transactions",
+                "professional, scientific and technical activities",
+                "administrative and support service activities",
+                "education",
+                "health care and social assistance",
+                "arts, sports, entertainment and recreation",
+                "provision of other services"
               ]
             },
-            "title": "Ec_activ"
+            "title": "Еconomic activity"
           },
           {
             "name": "Value",
@@ -3755,7 +3755,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -3764,18 +3764,18 @@
             "constraints": {
               "enum": [
                 "",
-                "1_agr_and_rel",
-                "2_indus",
-                "3_mining",
-                "4_proc_ind",
-                "5_el_gas",
-                "6_water",
-                "7_constr",
-                "8_trans_act",
-                "9_telec"
+                "Agriculture and related services",
+                "Industry",
+                "Mining and quarrying",
+                "Processing industry",
+                "Supply of electricity, gas, steam and air conditioning",
+                "Water supply; sewage, waste management",
+                "Construction",
+                "Transport, warehousing, postal and courier activities",
+                "Telecommunications"
               ]
             },
-            "title": "Ec_activ"
+            "title": "Еconomic activity"
           },
           {
             "name": "Value",
@@ -3793,20 +3793,20 @@
             "constraints": {
               "enum": [
                 "",
-                "inc_11_coal",
-                "inc_12_food",
-                "inc_13_leather",
-                "inc_14_wood",
-                "inc_15_coke",
-                "inc_16_chem",
-                "inc_17_pharma",
-                "inc_18_plastic",
-                "inc_19_metall",
-                "inc_20_pc",
-                "inc_21_electro",
-                "inc_22_machinery",
-                "inc_23_motor",
-                "inc_24_furn"
+                "hard coal and brown coal extraction",
+                "manufacture of food, beverages and tobacco products",
+                "textile manufacturing, manufacture of clothing, leather, leather goods and other materials",
+                "manufacture of wood products, paper manufacturing and printing",
+                "manufacture of coke and refined petroleum products",
+                "manufacture of chemicals and chemical products",
+                "manufacture of main pharmaceutical products and preparations",
+                "manufacture of rubber and plastic products. other non-metallic mineral products",
+                "metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment",
+                "manufacture of computers, electronic and optical products",
+                "manufacture of electrical equipment",
+                "manufacture of machinery and equipment, not elsewhere classified",
+                "manufacture of motor vehicles, trailers and semi-trailers and other vehicles",
+                "manufacture of furniture, other products, repair and installation of machinery and equipment"
               ]
             },
             "title": "including"
@@ -3899,31 +3899,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -4026,31 +4026,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -4119,12 +4119,12 @@
             "constraints": {
               "enum": [
                 "",
-                "cat_A",
-                "cat_B",
-                "cat_C"
+                "A",
+                "B",
+                "C"
               ]
             },
-            "title": "Cat"
+            "title": "Category"
           },
           {
             "name": "Value",
@@ -4190,14 +4190,14 @@
             "constraints": {
               "enum": [
                 "",
-                "1_art_all",
-                "2_art_115_118",
-                "3_art_152",
-                "4_art_121",
-                "5_art_149"
+                "total number of victims of crimes, art. of CCU",
+                "intentional homicide (and relevant attempts), articles 115-118",
+                "rape (and relevant attempts), art. 152",
+                "intentional grievous bodily harm, art. 121",
+                "human trafficking or other illicit transactions involving the transfer of human beings, art. 149"
               ]
             },
-            "title": "Article"
+            "title": "Article of the Criminal Code of Ukraine"
           },
           {
             "name": "Group",
@@ -4205,10 +4205,10 @@
             "constraints": {
               "enum": [
                 "",
-                "1_all",
-                "2_females",
-                "3_adolescents",
-                "4_young"
+                "all",
+                "females",
+                "adolescents",
+                "young (under 14)"
               ]
             },
             "title": "Group"
@@ -4219,8 +4219,8 @@
             "constraints": {
               "enum": [
                 "",
-                "1_vict_per_100",
-                "2_vict_all"
+                "Victims of crimes (per 100 thousand persons)",
+                "Victims of crimes (total)"
               ]
             },
             "title": "Unit"
@@ -4289,10 +4289,10 @@
             "constraints": {
               "enum": [
                 "",
-                "age_18",
-                "age_1_18_35",
-                "age_2_36_60",
-                "age_3_61"
+                "under 18 years old",
+                "18-35 years",
+                "36-60 years",
+                "over 61 years"
               ]
             },
             "title": "Age"
@@ -4577,21 +4577,21 @@
             "constraints": {
               "enum": [
                 "",
-                "11_agricul",
-                "12_indu",
-                "13_constr",
-                "14_motor_veh",
-                "15_courier",
-                "16_cater",
-                "17_telecom",
-                "18_insurance",
-                "19_estate",
-                "20_scientific",
-                "21_support",
-                "23_educ",
-                "24_health",
-                "25_arts",
-                "26_other_serv"
+                "agriculture, forestry and fisheries",
+                "industry",
+                "construction",
+                "wholesale and retail trade, repair of motor vehicles and motorcycles",
+                "transport, warehousing, post and courier services",
+                "temporary accommodation and catering",
+                "information and telecommunications",
+                "financial and insurance activities",
+                "real estate transactions",
+                "professional, scientific and technical activities",
+                "administrative and support service activities",
+                "education",
+                "health care and social assistance",
+                "arts, sports, entertainment and recreation",
+                "provision of other services"
               ]
             },
             "title": "Group"
@@ -5112,31 +5112,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -5171,31 +5171,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -5322,15 +5322,15 @@
             "constraints": {
               "enum": [
                 "",
-                "1_сompl_higher",
-                "2_bas_higher",
-                "3_inсompl_higher",
-                "4_prof_ed",
-                "5_comp_aver",
-                "6_bas_ed"
+                "Complete higher",
+                "Basic higher",
+                "Incomplete higher",
+                "Professional and technical",
+                "Complete total average",
+                "Basic, elementary general or no education"
               ]
             },
-            "title": "Level_ed"
+            "title": "Level of education"
           },
           {
             "name": "Value",
@@ -5362,30 +5362,30 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv"
               ]
             },
             "title": "Region"
@@ -5468,22 +5468,22 @@
             "constraints": {
               "enum": [
                 "",
-                "11_agricul",
-                "12_indu",
-                "13_constr",
-                "14_motor_veh",
-                "15_courier",
-                "16_cater",
-                "17_telecom",
-                "18_insurance",
-                "19_estate",
-                "20_scientific",
-                "21_support",
-                "22_public",
-                "23_educ",
-                "24_health",
-                "25_arts",
-                "26_other_serv"
+                "agriculture, forestry and fisheries",
+                "industry",
+                "construction",
+                "wholesale and retail trade, repair of motor vehicles and motorcycles",
+                "transport, warehousing, post and courier services",
+                "temporary accommodation and catering",
+                "information and telecommunications",
+                "financial and insurance activities",
+                "real estate transactions",
+                "professional, scientific and technical activities",
+                "administrative and support service activities",
+                "public administration and defense, compulsory social insurance",
+                "education",
+                "health care and social assistance",
+                "arts, sports, entertainment and recreation",
+                "provision of other services"
               ]
             },
             "title": "Group"
@@ -5552,31 +5552,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -5623,30 +5623,30 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv"
               ]
             },
             "title": "Region"
@@ -5775,17 +5775,17 @@
             "constraints": {
               "enum": [
                 "",
-                "tr_1_rail",
-                "tr_2_motor",
-                "tr_3_sea",
-                "tr_4_river",
-                "tr_6_air",
-                "tr_7_tram",
-                "tr_8_trolley",
-                "tr_9_subway"
+                "rail",
+                "motor",
+                "sea",
+                "river",
+                "air",
+                "tram",
+                "trolleybus",
+                "subway"
               ]
             },
-            "title": "m_trans"
+            "title": "Mode of transport"
           }
         ]
       },
@@ -5807,14 +5807,14 @@
             "constraints": {
               "enum": [
                 "",
-                "int_1_energy",
-                "int_2_mater",
-                "int_3_carbon",
-                "int_4_water",
-                "int_5_waste"
+                "energy intensity",
+                "material intensity",
+                "carbon intensity",
+                "water intensity",
+                "waste intensity"
               ]
             },
-            "title": "Res_inten"
+            "title": "Resource intensity of GDP"
           },
           {
             "name": "Value",
@@ -5880,16 +5880,16 @@
             "constraints": {
               "enum": [
                 "",
-                "pol_11_dust",
-                "pol_12_sulfur",
-                "pol_13_carbon",
-                "pol_14_nitrogen",
-                "pol_15_nitrix",
-                "pol_16_phenol",
-                "pol_17_soot",
-                "pol_18_hydrogen",
-                "pol_19_ammonia",
-                "pol_20_form"
+                "suspended matter (dust)",
+                "sulfir dioxide",
+                "carbon monoxide",
+                "nitrogen dioxide",
+                "nitric oxide",
+                "phenol",
+                "soot",
+                "hydrogen fluoride",
+                "ammonia",
+                "formaldehide"
               ]
             },
             "title": "Pollutants"
@@ -5924,31 +5924,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -6017,31 +6017,31 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "Kyiv city"
               ]
             },
             "title": "Region"
@@ -6076,11 +6076,11 @@
             "constraints": {
               "enum": [
                 "",
-                "GHG_1_all",
-                "GHG_2_types"
+                "all",
+                "by main types of sources, including road transport"
               ]
             },
-            "title": "GHG_ratio"
+            "title": "Ratio of GHG emissions to 1990 level"
           },
           {
             "name": "Value",
@@ -6112,9 +6112,9 @@
             "constraints": {
               "enum": [
                 "",
-                "age_1_18_35",
-                "age_2_36_60",
-                "age_3_61"
+                "18-35 years",
+                "36-60 years",
+                "over 61 years"
               ]
             },
             "title": "Age"
@@ -6161,10 +6161,10 @@
             "constraints": {
               "enum": [
                 "",
-                "electr_1_supply",
-                "electr_2_pr_supply",
-                "electr_3_act_value",
-                "electr_4_tech_cons"
+                "Supply of electricity to the grid",
+                "Productive supply of electricity to the grid",
+                "Reported actual value of technological electric power consumption",
+                "Technological electric power consumption in distribution system"
               ]
             },
             "title": "Category"
@@ -6175,8 +6175,8 @@
             "constraints": {
               "enum": [
                 "",
-                "kWh",
-                "per"
+                "million kWh",
+                "percentage"
               ]
             },
             "title": "Unit"
@@ -6197,8 +6197,8 @@
             "constraints": {
               "enum": [
                 "",
-                "1_norm_val",
-                "2_exc_val"
+                "normative value of technological electric power consumption",
+                "excess value of technological electric power consumption"
               ]
             },
             "title": "including"
@@ -6223,30 +6223,30 @@
             "constraints": {
               "enum": [
                 "",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv"
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv"
               ]
             },
             "title": "Region"
@@ -6417,10 +6417,10 @@
             "constraints": {
               "enum": [
                 "",
-                "1_all",
-                "2_females",
-                "3_adolescents",
-                "4_young"
+                "all",
+                "females",
+                "adolescents",
+                "young (under 14)"
               ]
             },
             "title": "Group"
@@ -6431,8 +6431,8 @@
             "constraints": {
               "enum": [
                 "",
-                "1_vic_100",
-                "2_vic_149"
+                "Victims of crimes (per 100 thousand persons)",
+                "Victims of crimes (Art. 149), total"
               ]
             },
             "title": "Unit"
@@ -6545,14 +6545,14 @@
             "constraints": {
               "enum": [
                 "",
-                "tr_1_land_pipe",
-                "tr_2_warer",
-                "tr_3_air_tr",
-                "tr_4_ware",
-                "tr_5_post"
+                "Land and pipeline transport",
+                "Water transport",
+                "Air transport",
+                "Warehousing and auxiliary transport activities",
+                "Post and courier services"
               ]
             },
-            "title": "m_trans"
+            "title": "Mode of transport"
           }
         ]
       },
@@ -6565,7 +6565,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -6574,9 +6574,9 @@
             "constraints": {
               "enum": [
                 "",
-                "age_1_18_35",
-                "age_2_36_60",
-                "age_3_61"
+                "18-35 years",
+                "36-60 years",
+                "over 61 years"
               ]
             },
             "title": "Age"
@@ -6587,22 +6587,22 @@
             "constraints": {
               "enum": [
                 "",
-                "com_10_active",
-                "com_11_migrate",
-                "com_12_cooperation",
-                "com_13_pol_sec",
-                "com_1_cohension",
-                "com_2_tolerance",
-                "com_3_adapt",
-                "com_4_migration",
-                "com_5_dialogue",
-                "com_6_civic",
-                "com_7_relations",
-                "com_8_groups",
-                "com_9_psy"
+                "tolerant and active citizenship",
+                "propensity to migrate",
+                "cooperation in the community",
+                "political security",
+                "social cohesion and sense of ownership",
+                "tolerance and socially responsible citizenship",
+                "psycho-social adaptability",
+                "reducing negative migration trends",
+                "readiness for dialogue",
+                "civic behavior",
+                "relations with government and safety",
+                "relations between groups",
+                "psycho-social activity"
               ]
             },
-            "title": "Component"
+            "title": "Сomponent of the index"
           },
           {
             "name": "Gender",
@@ -6622,11 +6622,11 @@
             "constraints": {
               "enum": [
                 "",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "17_reg_Zaporizhya",
-                "21_reg_Luhansk",
-                "29_reg_Kharkiv"
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zaporizhya",
+                "Luhansk",
+                "Kharkiv"
               ]
             },
             "title": "Region"
@@ -6729,8 +6729,8 @@
             "constraints": {
               "enum": [
                 "",
-                "14_reg_Donetsk",
-                "21_reg_Luhansk"
+                "Donetsk",
+                "Luhansk"
               ]
             },
             "title": "Region"
@@ -6799,14 +6799,14 @@
             "constraints": {
               "enum": [
                 "",
-                "art_1_115",
-                "art_2_116",
-                "art_3_117",
-                "art_4_118",
-                "art_5_121"
+                "Intentional homicide, Art. 115",
+                "Intentional homicide committed in a state of intense emotional excitement, Srt. 116",
+                "Intentional murder of a newborn by mother, Art. 117",
+                "Intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the offender, Art. 118",
+                "Intentional grievous bodily harm, Art. 121"
               ]
             },
-            "title": "Article"
+            "title": "Article of the Criminal Code of Ukraine"
           },
           {
             "name": "Unit",
@@ -6814,8 +6814,8 @@
             "constraints": {
               "enum": [
                 "",
-                "1_total",
-                "2_per_100"
+                "Total criminal offenses (number)",
+                "Per 100 thousand persons"
               ]
             },
             "title": "Unit"
@@ -6986,22 +6986,22 @@
             "constraints": {
               "enum": [
                 "",
-                "prod_10_rusks",
-                "prod_11_other",
-                "prod_12_sugar",
-                "prod_13_cocoa",
-                "prod_14_tea",
-                "prod_15_spices",
-                "prod_16_not_else",
-                "prod_1_meat",
-                "prod_2_fish",
-                "prod_3_fru_veg",
-                "prod_4_oil",
-                "prod_5_dairy",
-                "prod_6_starch",
-                "prod_7_flour",
-                "prod_8_bread",
-                "prod_9_cakes"
+                "Production of rusks and biscuits; production of  long-term storage flour confectionery, cakes and pastries",
+                "Production of other food products",
+                "Production of sugar",
+                "Production of cocoa, chocolate and sugar confectionery",
+                "Production of tea and coffee",
+                "Production of spices and seasonings",
+                "Production of other food products not elsewhere classified",
+                "Production of meat and meat products",
+                "Processing and preserving of fish, crustaceans and molluscs",
+                "Processing and preserving of fruits and vegetables",
+                "Production of oil and animal fats",
+                "Production of dairy products",
+                "Production of  flour and cereal products, starches and starch products",
+                "Production of flour and cereal products",
+                "Production of bread, bakery and flour products",
+                "Production of bread and bakery products; production of  short-term storage flour confectionery, cakes and pastries"
               ]
             },
             "title": "Group"
@@ -7070,16 +7070,16 @@
             "constraints": {
               "enum": [
                 "",
-                "dg_01",
-                "dg_02",
-                "dg_03",
-                "dg_04",
-                "dg_05",
-                "dg_06",
-                "dg_07",
-                "dg_08",
-                "dg_09",
-                "dg_10"
+                "1 group (low income)",
+                "2 group",
+                "3 group",
+                "4 group",
+                "5 group",
+                "6 group",
+                "7 group",
+                "8 group",
+                "9 group",
+                "10 group (high income)"
               ]
             },
             "title": "Decile groups"
@@ -7194,9 +7194,9 @@
             "constraints": {
               "enum": [
                 "",
-                "1_pop",
-                "2_particip",
-                "3_exper"
+                "population",
+                "participants in court proceedings",
+                "experts (attorneys, lawyers)"
               ]
             },
             "title": "Group"
@@ -7290,7 +7290,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -7299,8 +7299,8 @@
             "constraints": {
               "enum": [
                 "",
-                "number",
-                "per"
+                "number of regions",
+                "percentage"
               ]
             },
             "title": "Unit"
@@ -7321,12 +7321,12 @@
             "constraints": {
               "enum": [
                 "",
-                "10_phase",
-                "11_phase",
-                "12_phase"
+                "Regional strategy",
+                "Regional strategy and action plan for the implementation of the regional strategy (first phase)",
+                "Regional strategy and action plan for the implementation of the regional strategy (second phase)"
               ]
             },
-            "title": "strategy"
+            "title": "Сomponents of regional strategy"
           }
         ]
       },
@@ -7443,7 +7443,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "cp1252",
       "schema": {
         "fields": [
           {
@@ -7452,25 +7452,25 @@
             "constraints": {
               "enum": [
                 "",
-                "11_agricul",
-                "12_indu",
-                "13_constr",
-                "14_motor_veh",
-                "15_courier",
-                "16_cater",
-                "17_telecom",
-                "18_insurance",
-                "19_estate",
-                "20_scientific",
-                "21_support",
-                "22_public",
-                "23_educ",
-                "24_health",
-                "25_arts",
-                "26_other_serv"
+                "agriculture, forestry and fisheries",
+                "industry",
+                "construction",
+                "wholesale and retail trade, repair of motor vehicles and motorcycles",
+                "transport, warehousing, post and courier services",
+                "temporary accommodation and catering",
+                "information and telecommunications",
+                "financial and insurance activities",
+                "real estate transactions",
+                "professional, scientific and technical activities",
+                "administrative and support service activities",
+                "public administration and defense, compulsory social insurance",
+                "education",
+                "health care and social assistance",
+                "arts, sports, entertainment and recreation",
+                "provision of other services"
               ]
             },
-            "title": "Ec_activ"
+            "title": "Еconomic activity"
           },
           {
             "name": "Value",
@@ -7502,10 +7502,10 @@
             "constraints": {
               "enum": [
                 "",
-                "age_18",
-                "age_18_34",
-                "age_35_59",
-                "age_60"
+                "under 18 years old",
+                "18-34 years",
+                "35-59 years",
+                "over 60 years"
               ]
             },
             "title": "Age"
@@ -7528,8 +7528,8 @@
             "constraints": {
               "enum": [
                 "",
-                "hh_ch",
-                "hh_ch_0"
+                "households with children",
+                "households without children"
               ]
             },
             "title": "Households"

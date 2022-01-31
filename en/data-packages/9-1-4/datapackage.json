@@ -26,14 +26,14 @@
             "constraints": {
               "enum": [
                 "",
-                "tr_1_land_pipe",
-                "tr_2_warer",
-                "tr_3_air_tr",
-                "tr_4_ware",
-                "tr_5_post"
+                "Land and pipeline transport",
+                "Water transport",
+                "Air transport",
+                "Warehousing and auxiliary transport activities",
+                "Post and courier services"
               ]
             },
-            "title": "m_trans"
+            "title": "Mode of transport"
           }
         ]
       }

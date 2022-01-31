@@ -16,21 +16,21 @@
             "constraints": {
               "enum": [
                 "",
-                "11_agricul",
-                "12_indu",
-                "13_constr",
-                "14_motor_veh",
-                "15_courier",
-                "16_cater",
-                "17_telecom",
-                "18_insurance",
-                "19_estate",
-                "20_scientific",
-                "21_support",
-                "23_educ",
-                "24_health",
-                "25_arts",
-                "26_other_serv"
+                "agriculture, forestry and fisheries",
+                "industry",
+                "construction",
+                "wholesale and retail trade, repair of motor vehicles and motorcycles",
+                "transport, warehousing, post and courier services",
+                "temporary accommodation and catering",
+                "information and telecommunications",
+                "financial and insurance activities",
+                "real estate transactions",
+                "professional, scientific and technical activities",
+                "administrative and support service activities",
+                "education",
+                "health care and social assistance",
+                "arts, sports, entertainment and recreation",
+                "provision of other services"
               ]
             },
             "title": "Group"

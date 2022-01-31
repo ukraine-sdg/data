@@ -36,15 +36,15 @@
             "constraints": {
               "enum": [
                 "",
-                "11_bread",
-                "12_meat",
-                "13_milk",
-                "14_fish",
-                "15_veg",
-                "16_fruits",
-                "17_sugar",
-                "18_oil",
-                "19_eggs"
+                "bread and bakery products",
+                "meat and meat products",
+                "milk",
+                "fish and fish products",
+                "vegetables",
+                "fruits",
+                "sugar",
+                "sunflower oil",
+                "eggs"
               ]
             },
             "title": "by main product group"

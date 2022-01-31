@@ -16,14 +16,14 @@
             "constraints": {
               "enum": [
                 "",
-                "weap_1_bore",
-                "weap_2_rifled",
-                "weap_3_oth",
-                "weap_4_grenade",
-                "weap_5_cold"
+                "smooth-bore",
+                "rifled",
+                "other firearms",
+                "grenade launchers and rocket systems",
+                "cold weapons"
               ]
             },
-            "title": "Type_weapon"
+            "title": "Type of weapons"
           },
           {
             "name": "Value",

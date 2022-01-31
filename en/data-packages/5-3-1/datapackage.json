@@ -40,8 +40,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Percentage",
-                "min_day"
+                "percentage",
+                "minutes per day"
               ]
             },
             "title": "Unit"

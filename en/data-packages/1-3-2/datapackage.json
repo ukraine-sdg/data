@@ -16,16 +16,16 @@
             "constraints": {
               "enum": [
                 "",
-                "dg_01",
-                "dg_02",
-                "dg_03",
-                "dg_04",
-                "dg_05",
-                "dg_06",
-                "dg_07",
-                "dg_08",
-                "dg_09",
-                "dg_10"
+                "1 group (low income)",
+                "2 group",
+                "3 group",
+                "4 group",
+                "5 group",
+                "6 group",
+                "7 group",
+                "8 group",
+                "9 group",
+                "10 group (high income)"
               ]
             },
             "title": "Decile groups"

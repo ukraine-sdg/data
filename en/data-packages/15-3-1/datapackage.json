@@ -26,9 +26,9 @@
             "constraints": {
               "enum": [
                 "",
-                "zone_1_polis",
-                "zone_2_fores_st",
-                "zone_3_st"
+                "Polissya",
+                "Forest-steppe",
+                "Steppe"
               ]
             },
             "title": "Zone"

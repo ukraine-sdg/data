@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "1_tr_road",
-                "2_tr_urban"
+                "Road transport used by road hauliers",
+                "Urban electric transport"
               ]
             },
             "title": "Mode of transport"

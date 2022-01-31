@@ -1,13 +1,13 @@
-Year,Fund,Value
+Year,Sources of funding,Value
 2015,,598.8
 2016,,710.0
 2017,,1002.6
 2018,,1147.3
 2019,,1156.5
 2020,,1260.0
-2015,state,598.8
-2016,state,710.0
-2017,state,1002.6
-2018,state,1147.3
-2019,state,1156.5
-2020,state,1260.0
+2015,national budget,598.8
+2016,national budget,710.0
+2017,national budget,1002.6
+2018,national budget,1147.3
+2019,national budget,1156.5
+2020,national budget,1260.0

@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "femal",
-                "mal"
+                "female",
+                "male"
               ]
             },
             "title": "Gender of the head of household"
