@@ -16,9 +16,25 @@
           },
           {
             "name": "Group",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "11_agricul",
+                "12_indu",
+                "13_constr",
+                "14_motor_veh",
+                "15_courier",
+                "16_cater",
+                "17_telecom",
+                "18_insurance",
+                "19_estate",
+                "20_scientific",
+                "21_support",
+                "22_public",
+                "23_educ",
+                "24_health",
+                "25_arts",
+                "26_other_serv",
                 ""
               ]
             }
