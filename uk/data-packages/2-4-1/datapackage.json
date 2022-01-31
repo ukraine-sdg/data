@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "The consumer price index for food. %",
@@ -23,26 +23,26 @@
                 ""
               ]
             },
-            "title": "The consumer price index for food. %"
+            "title": "Індекс споживчих цін на продукти харчування, %"
           },
           {
             "name": "by main product group",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_bread",
-                "12_meat",
-                "13_milk",
-                "14_fish",
-                "15_veg",
-                "16_fruits",
-                "17_sugar",
-                "18_oil",
-                "19_eggs",
+                "хліб і хлібопродукти",
+                "м’ясо і м’ясопродукти",
+                "молоко",
+                "риба та продукти з риби",
+                "овочі",
+                "фрукти",
+                "цукор",
+                "олія соняшникова",
+                "яйця",
                 ""
               ]
             },
-            "title": "by main product group"
+            "title": "за основними групами продуктів"
           },
           {
             "name": "Value",

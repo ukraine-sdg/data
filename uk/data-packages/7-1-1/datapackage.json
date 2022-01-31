@@ -13,24 +13,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Generation",
             "type": "string",
             "constraints": {
               "enum": [
-                "el_1_power",
-                "el_2_CHP",
-                "el_3_HPP",
-                "el_4_PSP",
-                "el_5_NPP",
-                "el_6_plants",
-                "el_7_alternative",
+                "ТЕС ГК",
+                "ТЕЦ та коген. установки",
+                "ГЕС",
+                "ГАЕС",
+                "АЕС",
+                "Блокстанції",
+                "Альтерн. джер. енергії (ВЕС, СЕС, Біомаса)",
                 ""
               ]
             },
-            "title": "Generation"
+            "title": "Виробіток електроенергії"
           },
           {
             "name": "Value",

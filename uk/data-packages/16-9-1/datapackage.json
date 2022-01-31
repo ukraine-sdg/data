@@ -13,70 +13,70 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Component",
             "type": "string",
             "constraints": {
               "enum": [
-                "com_1_cohension",
-                "com_2_tolerance",
-                "com_3_adapt",
-                "com_4_migration",
-                "com_5_dialogue",
-                "com_6_civic",
-                "com_7_relations",
-                "com_8_groups",
-                "com_9_psy",
-                "com_10_active",
-                "com_11_migrate",
-                "com_12_cooperation",
-                "com_13_pol_sec",
+                "Соціальна згуртованість і почуття співпричетності",
+                "Толерантність та соціально відповідальна громадянська позиція",
+                "Психо-соціальна адаптивність",
+                "Зниження негативних трендів міграції",
+                "Готовність до діалогу",
+                "Громадянська поведінка",
+                "Відносини з урядом і безпека",
+                "Відносини між групами",
+                "Психо-соціальна активність",
+                "Толерантна та активна громадянська позиція",
+                "Схильність до міграції",
+                "Співпраця в громаді",
+                "Політична безпека",
                 ""
               ]
             },
-            "title": "Component"
+            "title": "Компоненти індексу"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "14_reg_Donetsk",
-                "21_reg_Luhansk",
-                "13_reg_Dnipropetrovsk",
-                "17_reg_Zaporizhya",
-                "29_reg_Kharkiv",
+                "Донецька",
+                "Луганська",
+                "Дніпропетровська",
+                "Запорізька",
+                "Харківська",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_1_18_35",
-                "age_2_36_60",
-                "age_3_61",
+                "18 – 35 років",
+                "36 – 60 років",
+                "понад 61 рік",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "males",
-                "females",
+                "чоловіки",
+                "жінки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Value",

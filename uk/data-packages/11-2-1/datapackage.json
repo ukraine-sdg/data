@@ -13,32 +13,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "strategy",
             "type": "string",
             "constraints": {
               "enum": [
-                "10_phase",
-                "11_phase",
-                "12_phase",
+                "Регіональна стратегія",
+                "Регіональна стратегія та план заходів з її реалізації (перший етап)",
+                "Регіональна стратегія та план заходів з її реалізації (другий етап)",
                 ""
               ]
             },
-            "title": "strategy"
+            "title": "Складові регіональної стратегії"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "per",
-                "number",
+                "відсоток",
+                "кількість регіонів",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Value",

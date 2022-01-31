@@ -13,45 +13,45 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
-                "age_18_34",
-                "age_35_59",
-                "age_60",
+                "до 18 років",
+                "18 – 34 роки",
+                "35 – 59 років",
+                "понад 60 років",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "males",
-                "females",
+                "чоловіки",
+                "жінки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Households",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "домогосподарства з дітьми",
+                "домогосподарства без дітей",
                 ""
               ]
             },
-            "title": "Households"
+            "title": "Домогосподарства"
           },
           {
             "name": "Value",

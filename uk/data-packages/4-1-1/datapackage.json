@@ -13,46 +13,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Level",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_level",
-                "2_level",
-                "3_level",
-                "4_level",
+                "1-й рівень (початковий, 0-3 бали)",
+                "2-й рівень (середній, 4-6 балів)",
+                "3-й рівень (достатній, 7-9 балів)",
+                "4-й рівень (високий, 10-12 балів)",
                 ""
               ]
             },
-            "title": "Level"
+            "title": "Освітній рівень"
           },
           {
             "name": "Settlement",
             "type": "string",
             "constraints": {
               "enum": [
-                "village_",
-                "urban_settl",
-                "city",
+                "селище, село",
+                "селище міського типу",
+                "місто",
                 ""
               ]
             },
-            "title": "Settlement"
+            "title": "Тип населенного пункту"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Value",

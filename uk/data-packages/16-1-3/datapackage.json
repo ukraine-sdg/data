@@ -13,33 +13,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_vic_100",
-                "2_vic_tot",
+                "Потерпіло від кримінальних правопорушень (рівень на 100 тис. населення)",
+                "Потерпіло від кримінальних правопорушень (ст.152), усього",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_all",
-                "2_females",
-                "3_adolescents",
-                "4_young",
+                "всі",
+                "жінки",
+                "неповнолітні",
+                "малолітні (до 14 років)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",

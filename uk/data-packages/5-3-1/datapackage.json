@@ -13,43 +13,43 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "min_day",
+                "відсотків",
+                "хвилин на добу",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Value",

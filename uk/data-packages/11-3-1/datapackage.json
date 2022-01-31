@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "inherit",
             "type": "string",
             "constraints": {
               "enum": [
-                "cultural",
-                "natural",
+                "культурна",
+                "природна",
                 ""
               ]
             },
-            "title": "inherit"
+            "title": "Тип спадщини"
           },
           {
             "name": "Value",

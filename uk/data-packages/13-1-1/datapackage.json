@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "GHG_ratio",
             "type": "string",
             "constraints": {
               "enum": [
-                "GHG_1_all",
-                "GHG_2_types",
+                "всього",
+                "за основними типами джерел, зокрема автомобільного транспорту",
                 ""
               ]
             },
-            "title": "GHG_ratio"
+            "title": "Обсяг викидів парникових газів"
           },
           {
             "name": "Value",

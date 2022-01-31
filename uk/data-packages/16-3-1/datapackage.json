@@ -13,20 +13,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_pop",
-                "2_particip",
-                "3_exper",
+                "Населення",
+                "Учасники судових проваджень",
+                "Експертне середовище (адвокати, юристи)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",

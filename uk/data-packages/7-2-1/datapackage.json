@@ -13,20 +13,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Sou_en",
             "type": "string",
             "constraints": {
               "enum": [
-                "en_1_coal",
-                "en_2_petrol",
-                "en_3_gas",
+                "вугілля",
+                "нафта",
+                "газ природний",
                 ""
               ]
             },
-            "title": "Sou_en"
+            "title": "Вид енергоресурсів"
           },
           {
             "name": "Value",

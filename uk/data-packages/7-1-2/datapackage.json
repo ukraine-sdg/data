@@ -13,45 +13,45 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "electr_1_supply",
-                "electr_2_pr_supply",
-                "electr_3_act_value",
-                "electr_4_tech_cons",
+                "Відпуск електроенергії в мережу",
+                "Корисний відпуск електроенергії в мережу",
+                "Звітна фактична величина ТВЕ",
+                "ТВЕ в розподільчих електромережах",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категорія"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "kWh",
-                "per",
+                "млн кВтг",
+                "відсоток",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "including",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_norm_val",
-                "2_exc_val",
+                "нормативна величина ТВЕ",
+                "понаднормативна величина ТВЕ",
                 ""
               ]
             },
-            "title": "including"
+            "title": "включаючи"
           },
           {
             "name": "Value",

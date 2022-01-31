@@ -13,20 +13,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Cat",
             "type": "string",
             "constraints": {
               "enum": [
-                "cat_A",
-                "cat_B",
-                "cat_C",
+                "А",
+                "Б",
+                "В",
                 ""
               ]
             },
-            "title": "Cat"
+            "title": "Категорія"
           },
           {
             "name": "Value",

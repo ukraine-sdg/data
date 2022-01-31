@@ -13,25 +13,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "m_trans",
             "type": "string",
             "constraints": {
               "enum": [
-                "tr_1_rail",
-                "tr_2_motor",
-                "tr_3_sea",
-                "tr_4_river",
-                "tr_6_air",
-                "tr_7_tram",
-                "tr_8_trolley",
-                "tr_9_subway",
+                "залізничний",
+                "автомобільний",
+                "морський",
+                "річковий",
+                "авіаційний",
+                "трамвайний",
+                "тролейбусний",
+                "метрополітенівський",
                 ""
               ]
             },
-            "title": "m_trans"
+            "title": "Види транспорту"
           },
           {
             "name": "Value",

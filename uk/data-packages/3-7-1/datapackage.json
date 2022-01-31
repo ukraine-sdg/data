@@ -13,41 +13,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Infectious diseases",
             "type": "string",
             "constraints": {
               "enum": [
-                "ill_1_tub",
-                "ill_2_hep",
-                "ill_3_m_m_r",
-                "ill_4_diph",
-                "ill_5_pert",
-                "ill_6_polio",
-                "ill_7_hib",
+                "Туберкульоз",
+                "Гепатит В",
+                "Кір, паротит, краснуха",
+                "Дифтерія, правець",
+                "Кашлюк",
+                "Поліомієліт",
+                "Хіб-інфекція",
                 ""
               ]
             },
-            "title": "Infectious diseases"
+            "title": "Інфекційні захворювання"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_vac_1_under 1 year",
-                "age_vac_2_1 year",
-                "age_vac_4_6 years",
-                "age_vac_3_18 months",
-                "age_vac_6_16 years",
-                "age_vac_7_adult",
-                "age_vac_5_14 years",
+                "до 1 року",
+                "1 рік",
+                "6 років",
+                "18 місяців",
+                "16 років",
+                "дорослі",
+                "14 років",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Value",

@@ -13,27 +13,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Pollutants",
             "type": "string",
             "constraints": {
               "enum": [
-                "pol_11_dust",
-                "pol_12_sulfur",
-                "pol_13_carbon",
-                "pol_14_nitrogen",
-                "pol_15_nitrix",
-                "pol_16_phenol",
-                "pol_17_soot",
-                "pol_18_hydrogen",
-                "pol_19_ammonia",
-                "pol_20_form",
+                "Завислі речовини (пил)",
+                "Діоксид сірки",
+                "Оксид вуглецю",
+                "Діоксид азоту",
+                "Оксид азоту",
+                "Фенол",
+                "Сажа",
+                "Фтористий водень",
+                "Амiак",
+                "Формальдегiд",
                 ""
               ]
             },
-            "title": "Pollutants"
+            "title": "Забруднюючі речовини"
           },
           {
             "name": "Value",

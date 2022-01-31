@@ -15,7 +15,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -49,24 +49,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Generation",
             "type": "string",
             "constraints": {
               "enum": [
-                "el_1_power",
-                "el_2_CHP",
-                "el_3_HPP",
-                "el_4_PSP",
-                "el_5_NPP",
-                "el_6_plants",
-                "el_7_alternative",
+                "ТЕС ГК",
+                "ТЕЦ та коген. установки",
+                "ГЕС",
+                "ГАЕС",
+                "АЕС",
+                "Блокстанції",
+                "Альтерн. джер. енергії (ВЕС, СЕС, Біомаса)",
                 ""
               ]
             },
-            "title": "Generation"
+            "title": "Виробіток електроенергії"
           },
           {
             "name": "Value",
@@ -90,7 +90,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -100,7 +100,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -124,20 +124,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
-                "children",
+                "чоловіки",
+                "жінки",
+                "діти",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -161,7 +161,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -171,7 +171,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -195,7 +195,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -205,7 +205,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -229,58 +229,58 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "aged_15",
-                "aged_16",
-                "aged_17",
-                "aged_18",
-                "aged_19",
-                "aged_20_under",
+                "15 років",
+                "16 років",
+                "17 років",
+                "18 років",
+                "19 років",
+                "до 20 років",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Value",
@@ -304,7 +304,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -314,7 +314,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -338,7 +338,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -348,7 +348,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -372,7 +372,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -382,7 +382,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -406,7 +406,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -416,7 +416,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -440,7 +440,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -450,7 +450,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -474,19 +474,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -510,7 +510,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -520,7 +520,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -544,7 +544,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -554,7 +554,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -578,7 +578,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -588,7 +588,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -612,42 +612,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -671,7 +671,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -681,54 +681,54 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Value",
@@ -752,7 +752,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -762,7 +762,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -786,41 +786,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Infectious diseases",
             "type": "string",
             "constraints": {
               "enum": [
-                "ill_1_tub",
-                "ill_2_hep",
-                "ill_3_m_m_r",
-                "ill_4_diph",
-                "ill_5_pert",
-                "ill_6_polio",
-                "ill_7_hib",
+                "Туберкульоз",
+                "Гепатит В",
+                "Кір, паротит, краснуха",
+                "Дифтерія, правець",
+                "Кашлюк",
+                "Поліомієліт",
+                "Хіб-інфекція",
                 ""
               ]
             },
-            "title": "Infectious diseases"
+            "title": "Інфекційні захворювання"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_vac_1_under 1 year",
-                "age_vac_2_1 year",
-                "age_vac_4_6 years",
-                "age_vac_3_18 months",
-                "age_vac_6_16 years",
-                "age_vac_7_adult",
-                "age_vac_5_14 years",
+                "до 1 року",
+                "1 рік",
+                "6 років",
+                "18 місяців",
+                "16 років",
+                "дорослі",
+                "14 років",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Value",
@@ -844,7 +844,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -854,7 +854,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -878,7 +878,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -888,7 +888,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -912,7 +912,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -922,7 +922,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -946,42 +946,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -1005,19 +1005,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -1041,7 +1041,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1051,7 +1051,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1075,20 +1075,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Sou_en",
             "type": "string",
             "constraints": {
               "enum": [
-                "en_1_coal",
-                "en_2_petrol",
-                "en_3_gas",
+                "вугілля",
+                "нафта",
+                "газ природний",
                 ""
               ]
             },
-            "title": "Sou_en"
+            "title": "Вид енергоресурсів"
           },
           {
             "name": "Value",
@@ -1112,41 +1112,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -1170,7 +1170,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Ukraine",
@@ -1180,7 +1180,7 @@
                 ""
               ]
             },
-            "title": "Ukraine"
+            "title": "Україна"
           },
           {
             "name": "Value",
@@ -1204,7 +1204,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1214,7 +1214,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1238,7 +1238,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1248,7 +1248,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1272,7 +1272,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1282,7 +1282,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1306,7 +1306,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1316,7 +1316,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1340,54 +1340,54 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Ec_activ",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_ext_quar",
-                "12_ext_coal",
-                "13_ext_oil",
-                "14_ext_ores",
-                "15_ext_miner",
-                "16_serv",
-                "17_proc_ind",
-                "18_man_food",
-                "19_man_bev",
-                "20_man_tobac",
-                "21_man_text",
-                "22_man_cloth",
-                "23_man_leather",
-                "24_man_wood",
-                "25_man_paper",
-                "26_print",
-                "27_man_coke",
-                "28_man_chemic",
-                "29_man_pharmac",
-                "30_man_rubber",
-                "31_man_non_met",
-                "32_man_met",
-                "33_man_equip",
-                "34_man_pc",
-                "35_man_el_equip",
-                "36_not_class",
-                "37_man_motor",
-                "38_man_oth_veh",
-                "39_man_furn",
-                "40_man_oth_prod",
-                "41_repair",
-                "42_suppl_elec",
-                "43_suppl_wat",
-                "44_collec_wat",
-                "45_waste_wat",
-                "46_restor",
-                "47_waste_act",
+                "Добувна промисловість і розроблення кар'єрів",
+                "Добування кам'яного та бурого вугілля",
+                "Добування сирої нафти та природного газу",
+                "Добування металевих руд",
+                "Добування інших корисних копалин та розроблення кар'єрів",
+                "Надання допоміжних послуг у сфері добувної промисловості та розроблення кар'єрів",
+                "Переробна промисловість",
+                "Виробництво харчових продуктів",
+                "Виробництво напоїв",
+                "Виробництво тютюнових виробів",
+                "Текстильне виробництво",
+                "Виробництво одягу",
+                "Виробництво шкіри, виробів зі шкіри та інших матеріалів",
+                "Оброблення деревини та виготовлення виробів з деревини та корка, крім меблів; виготовлення виробів із соломки та рослинних матеріалів для плетіння",
+                "Виробництво паперу та паперових виробів",
+                "Поліграфічна діяльність, тиражування записаної інформації",
+                "Виробництво коксу та продуктів нафтоперероблення",
+                "Виробництво хімічних речовин і хімічної продукції",
+                "Виробництво основних фармацевтичних продуктів і фармацевтичних препаратів",
+                "Виробництво гумових і пластмасових виробів",
+                "Виробництво іншої неметалевої мінеральної продукції",
+                "Металургійне виробництво",
+                "Виробництво готових металевих виробів, крім машин і устатковання",
+                "Виробництво комп'ютерів, електронної та оптичної продукції",
+                "Виробництво електричного устатковання",
+                "Виробництво машин і устатковання, н.в.і.у.",
+                "Виробництво автотранспортних засобів, причепів і напівпричепів",
+                "Виробництво інших транспортних засобів",
+                "Виробництво меблів",
+                "Виробництво іншої продукції",
+                "Ремонт і монтаж машин і устатковання",
+                "Постачання електроенергії, газу, пари та кондиційованого повітря",
+                "Водопостачання каналізація, поводження з відходами",
+                "Забір, очищення та постачання води",
+                "Каналізація, відведення й очищення стічних вод",
+                "Збирання, оброблення й видалення відходів; відновлення матеріалів",
+                "Інша діяльність щодо поводження з відходами",
                 ""
               ]
             },
-            "title": "Ec_activ"
+            "title": "Види економічної діяльності"
           },
           {
             "name": "Value",
@@ -1411,7 +1411,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1421,7 +1421,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1445,7 +1445,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "The consumer price index for food. %",
@@ -1455,26 +1455,26 @@
                 ""
               ]
             },
-            "title": "The consumer price index for food. %"
+            "title": "Індекс споживчих цін на продукти харчування, %"
           },
           {
             "name": "by main product group",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_bread",
-                "12_meat",
-                "13_milk",
-                "14_fish",
-                "15_veg",
-                "16_fruits",
-                "17_sugar",
-                "18_oil",
-                "19_eggs",
+                "хліб і хлібопродукти",
+                "м’ясо і м’ясопродукти",
+                "молоко",
+                "риба та продукти з риби",
+                "овочі",
+                "фрукти",
+                "цукор",
+                "олія соняшникова",
+                "яйця",
                 ""
               ]
             },
-            "title": "by main product group"
+            "title": "за основними групами продуктів"
           },
           {
             "name": "Value",
@@ -1498,7 +1498,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1508,7 +1508,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1532,56 +1532,56 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Ammunition",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_am_cartridges",
-                "2_am_grenades",
-                "3_am_mines",
-                "4_am_devic",
+                "патрони",
+                "гранати",
+                "міни",
+                "саморобні вибухові пристрої",
                 ""
               ]
             },
-            "title": "Ammunition"
+            "title": "Види боєприпасів"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -1605,7 +1605,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1615,7 +1615,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1639,39 +1639,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Object",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_health",
-                "2_educational",
-                "3_soc_prot",
-                "4_employ",
-                "5_admin",
-                "6_nation",
-                "7_transport",
-                "8_pension",
-                "9_civ_prot",
-                "99_judge",
+                "Заклади охорони здоров'я",
+                "Заклади освіти",
+                "Структурні підрозділи з питань соцзахисту",
+                "Центри зайнятості",
+                "Центри надання адміністративних послуг",
+                "Національні заклади/установи",
+                "Залізничні вокзали, аеропорти, автовокзали",
+                "Установи пенсійного фонду",
+                "Споруди цивільного захисту",
+                "Суди",
                 ""
               ]
             },
-            "title": "Object"
+            "title": "Об'єкт"
           },
           {
             "name": "1_Level",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_free",
-                "2_part",
+                "безбар'єрних, %",
+                "частково безбар'єрних, %",
                 ""
               ]
             },
-            "title": "1_Level"
+            "title": "Рівень"
           },
           {
             "name": "Value",
@@ -1695,29 +1695,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Ec_activ",
             "type": "string",
             "constraints": {
               "enum": [
-                "s_11_indu",
-                "s_12_agri",
-                "s_13_fores",
-                "s_14_transp",
-                "s_15_commun",
-                "s_16_constr",
-                "s_17_trade",
-                "s_18_logis",
-                "s_19_resid",
-                "s_20_care",
-                "s_21_pub_ed",
-                "s_22_oth_sec",
+                "Промисловість",
+                "Сiльське господарство",
+                "Лiсове господарство",
+                "Транспорт",
+                "Зв'язок",
+                "Будівництво",
+                "Торгiвля i громадське харчування",
+                "Матеріально-технічне забезпечення",
+                "Житлове та побутове господарство",
+                "Охорона здоров’я, фізичне виховання",
+                "Народна освiта",
+                "Інші галузі",
                 ""
               ]
             },
-            "title": "Ec_activ"
+            "title": "Види економічної діяльності"
           },
           {
             "name": "Value",
@@ -1741,7 +1741,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1751,7 +1751,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1775,7 +1775,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1785,7 +1785,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1809,7 +1809,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -1819,7 +1819,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -1843,45 +1843,45 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
-                "age_18_34",
-                "age_35_59",
-                "age_60",
+                "до 18 років",
+                "18 – 34 роки",
+                "35 – 59 років",
+                "понад 60 років",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "males",
-                "females",
+                "чоловіки",
+                "жінки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Households",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "домогосподарства з дітьми",
+                "домогосподарства без дітей",
                 ""
               ]
             },
-            "title": "Households"
+            "title": "Домогосподарства"
           },
           {
             "name": "Value",
@@ -1905,19 +1905,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Mode of transport",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_tr_road",
-                "2_tr_urban",
+                "Автомобільний траснпорт, що використовують перевізники",
+                "Міський електричний транспорт",
                 ""
               ]
             },
-            "title": "Mode of transport"
+            "title": "Вид транспорту"
           },
           {
             "name": "Value",
@@ -1941,31 +1941,31 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Gender of the head of household",
             "type": "string",
             "constraints": {
               "enum": [
-                "mal",
-                "femal",
+                "чоловік",
+                "жінка",
                 ""
               ]
             },
-            "title": "Gender of the head of household"
+            "title": "Стать голови домогосподарства"
           },
           {
             "name": "Value",
@@ -1989,41 +1989,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -2047,34 +2047,34 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Organization",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_army",
-                "2_trans",
-                "3_emerg",
-                "4_ngo",
+                "Збройні сили України",
+                "Державна спеціальна служба транспорту",
+                "Державна служба надзвичайних ситуацій",
+                "Неурядові міжнародні організації (The Halo Trust, DDG, FSD)",
                 ""
               ]
             },
-            "title": "Organization"
+            "title": "Організація"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_hectares",
-                "2_roads",
-                "3_railways",
+                "га",
+                "розміновано доріг, км",
+                "розміновано залізничних шляхів, км",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Value",
@@ -2098,33 +2098,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Farm caregory",
             "type": "string",
             "constraints": {
               "enum": [
-                "farms_1_all",
-                "farms_2_enterprise",
-                "farms_3_household",
+                "Господарства усіх категорій",
+                "Підприємства",
+                "Господарства населення",
                 ""
               ]
             },
-            "title": "Farm caregory"
+            "title": "Категорія господарств"
           },
           {
             "name": "Products",
             "type": "string",
             "constraints": {
               "enum": [
-                "prod_1_agri",
-                "prod_2_crop",
-                "prod_3_livestock",
+                "продукція сільського господарства",
+                "продукція рослинництва",
+                "продукція тваринництва",
                 ""
               ]
             },
-            "title": "Products"
+            "title": "Продукція"
           },
           {
             "name": "Value",
@@ -2148,7 +2148,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2158,7 +2158,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2182,7 +2182,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2192,7 +2192,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2216,7 +2216,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2226,7 +2226,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2250,7 +2250,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2260,7 +2260,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2284,7 +2284,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2294,7 +2294,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2318,7 +2318,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2328,7 +2328,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2352,29 +2352,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Ec_activ",
             "type": "string",
             "constraints": {
               "enum": [
-                "s_11_indu",
-                "s_12_agri",
-                "s_13_fores",
-                "s_14_transp",
-                "s_15_commun",
-                "s_16_constr",
-                "s_17_trade",
-                "s_18_logis",
-                "s_19_resid",
-                "s_20_care",
-                "s_21_pub_ed",
-                "s_22_oth_sec",
+                "Промисловість",
+                "Сiльське господарство",
+                "Лiсове господарство",
+                "Транспорт",
+                "Зв'язок",
+                "Будівництво",
+                "Торгiвля i громадське харчування",
+                "Матеріально-технічне забезпечення",
+                "Житлове та побутове господарство",
+                "Охорона здоров’я, фізичне виховання",
+                "Народна освiта",
+                "Інші галузі",
                 ""
               ]
             },
-            "title": "Ec_activ"
+            "title": "Види економічної діяльності"
           },
           {
             "name": "Value",
@@ -2398,31 +2398,31 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -2446,19 +2446,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -2482,7 +2482,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2492,7 +2492,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2516,7 +2516,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2526,7 +2526,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2550,23 +2550,23 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "m_trans",
             "type": "string",
             "constraints": {
               "enum": [
-                "tr_1_rail",
-                "tr_2_motor",
-                "tr_3_sea",
-                "tr_4_river",
-                "tr_5_pipeline",
-                "tr_6_air",
+                "залізничний",
+                "автомобільний",
+                "морський",
+                "річковий",
+                "трубопровідний",
+                "авіаційний",
                 ""
               ]
             },
-            "title": "m_trans"
+            "title": "Види транспорту"
           },
           {
             "name": "Value",
@@ -2590,7 +2590,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2600,7 +2600,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2624,19 +2624,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "inherit",
             "type": "string",
             "constraints": {
               "enum": [
-                "cultural",
-                "natural",
+                "культурна",
+                "природна",
                 ""
               ]
             },
-            "title": "inherit"
+            "title": "Тип спадщини"
           },
           {
             "name": "Value",
@@ -2660,46 +2660,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Level",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_level",
-                "2_level",
-                "3_level",
-                "4_level",
+                "1-й рівень (початковий, 0-3 бали)",
+                "2-й рівень (середній, 4-6 балів)",
+                "3-й рівень (достатній, 7-9 балів)",
+                "4-й рівень (високий, 10-12 балів)",
                 ""
               ]
             },
-            "title": "Level"
+            "title": "Освітній рівень"
           },
           {
             "name": "Settlement",
             "type": "string",
             "constraints": {
               "enum": [
-                "village_",
-                "urban_settl",
-                "city",
+                "селище, село",
+                "селище міського типу",
+                "місто",
                 ""
               ]
             },
-            "title": "Settlement"
+            "title": "Тип населенного пункту"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Value",
@@ -2723,7 +2723,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2733,7 +2733,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2757,33 +2757,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_vic_100",
-                "2_vic_tot",
+                "Потерпіло від кримінальних правопорушень (рівень на 100 тис. населення)",
+                "Потерпіло від кримінальних правопорушень (ст.152), усього",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_all",
-                "2_females",
-                "3_adolescents",
-                "4_young",
+                "всі",
+                "жінки",
+                "неповнолітні",
+                "малолітні (до 14 років)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2807,32 +2807,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Article",
             "type": "string",
             "constraints": {
               "enum": [
-                "art_1_262",
-                "art_2_263",
-                "art_3_263_1",
+                "Викрадення, привласнення, вимагання вогнепальної зброї, бойових припасів, вибухових речовин чи радіоактивних матеріалів або заволодіння ними шляхом шахрайства або зловживанням службовим становищем, ст.262",
+                "Незаконне поводження зі зброєю, бойовими припасами або вибуховими речовинами, ст.263",
+                "Незаконне виготовлення, переробка чи ремонт вогнепальної зброї або фальсифікація, незаконне видалення чи зміна її маркування, або незаконне виготовлення бойових припасів, вибухових речовин чи вибухових пристроїв, ст.263-1",
                 ""
               ]
             },
-            "title": "Article"
+            "title": "Стаття Кримінального Кодексу України"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_total",
-                "2_per_100",
+                "Усього кримінальних правопорушень (кількість)",
+                "Рівень на 100 тис. населення",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Value",
@@ -2856,7 +2856,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2866,7 +2866,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2890,7 +2890,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -2900,7 +2900,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -2924,19 +2924,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -2960,31 +2960,31 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Type of water supply",
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
-                "decentralized",
+                "централізоване",
+                "децентралізоване",
                 ""
               ]
             },
-            "title": "Type of water supply"
+            "title": "Тип водопостачання"
           },
           {
             "name": "Value",
@@ -3008,21 +3008,21 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Cost_train",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_per_student",
-                "2_per_student_job",
-                "3_per_graduate",
-                "4_per_doctoral",
+                "середні витрати на одного приведеного студента, грн",
+                "середні витрати на одного аспіранта, які навчаються за вечірньою формою навчання, грн",
+                "середні витрати на одного аспіранта, які  навчаються з відривом від виробництва, грн",
+                "середні витрати на одного докторанта, грн",
                 ""
               ]
             },
-            "title": "Cost_train"
+            "title": "Витрати на підготовку фахівця"
           },
           {
             "name": "Value",
@@ -3046,18 +3046,18 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Fund",
             "type": "string",
             "constraints": {
               "enum": [
-                "state",
+                "державний бюджет",
                 ""
               ]
             },
-            "title": "Fund"
+            "title": "Джерела фінансування"
           },
           {
             "name": "Value",
@@ -3081,7 +3081,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -3091,7 +3091,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -3115,48 +3115,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_15",
-                "age_15_17",
-                "age_18_24",
-                "age_25_35",
-                "age_36_59",
-                "age_60_74",
-                "age_75",
+                "до 15 років",
+                "15 - 17 років",
+                "18 - 24 роки",
+                "25 - 35 років",
+                "36 - 59 років",
+                "60 - 74 років",
+                "75 років і старші",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Value",
@@ -3180,44 +3180,44 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_1_18_35",
-                "age_2_36_60",
-                "age_3_61",
+                "18 – 35 років",
+                "36 – 60 років",
+                "понад 61 рік",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "чоловіки",
+                "жінки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -3241,42 +3241,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -3300,7 +3300,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -3310,7 +3310,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -3334,43 +3334,43 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "min_day",
+                "відсотків",
+                "хвилин на добу",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Value",
@@ -3394,41 +3394,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -3452,7 +3452,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -3462,7 +3462,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -3486,22 +3486,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type_weapon",
             "type": "string",
             "constraints": {
               "enum": [
-                "weap_1_bore",
-                "weap_2_rifled",
-                "weap_3_oth",
-                "weap_4_grenade",
-                "weap_5_cold",
+                "гладкоствольна",
+                "нарізна",
+                "інша вогнепальна зброя",
+                "гранатомети та реактивны системи",
+                "холодна зброя",
                 ""
               ]
             },
-            "title": "Type_weapon"
+            "title": "Види зброї"
           },
           {
             "name": "Value",
@@ -3525,7 +3525,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -3535,7 +3535,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -3559,7 +3559,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -3569,7 +3569,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -3593,7 +3593,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -3603,7 +3603,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -3627,31 +3627,31 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Type of water supply",
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
-                "decentralized",
+                "централізоване",
+                "децентралізоване",
                 ""
               ]
             },
-            "title": "Type of water supply"
+            "title": "Тип водопостачання"
           },
           {
             "name": "Value",
@@ -3675,20 +3675,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Zone",
             "type": "string",
             "constraints": {
               "enum": [
-                "zone_1_polis",
-                "zone_2_fores_st",
-                "zone_3_st",
+                "Полісся",
+                "Лісоспеп",
+                "Степ",
                 ""
               ]
             },
-            "title": "Zone"
+            "title": "Природні зони"
           },
           {
             "name": "Value",
@@ -3712,32 +3712,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Ec_activ",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_agricul",
-                "12_indu",
-                "13_constr",
-                "14_motor_veh",
-                "15_courier",
-                "16_cater",
-                "17_telecom",
-                "18_insurance",
-                "19_estate",
-                "20_scientific",
-                "21_support",
-                "23_educ",
-                "24_health",
-                "25_arts",
-                "26_other_serv",
+                "Сільське господарство, лісове господарство та рибне господарство",
+                "Промисловість",
+                "Будівництво",
+                "Оптова та роздрібна торгівля; ремонт автотранспортних засобів і мотоциклів",
+                "Транспорт, складське господарство, поштова та кур`єрська діяльність",
+                "Тимчасове розміщування й організація харчування",
+                "Інформація та телекомунікації",
+                "Фінансова та страхова діяльність",
+                "Операції з нерухомим майном",
+                "Професійна, наукова та технічна діяльність",
+                "Діяльність у сфері адміністративного та допоміжного обслуговування",
+                "Освіта",
+                "Охорона здоров`я та надання соціальної допомоги",
+                "Мистецтво, спорт, розваги та відпочинок",
+                "Надання інших видів послуг",
                 ""
               ]
             },
-            "title": "Ec_activ"
+            "title": "Види економічної діяльності"
           },
           {
             "name": "Value",
@@ -3761,50 +3761,50 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Ec_activ",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_agr_and_rel",
-                "2_indus",
-                "3_mining",
-                "4_proc_ind",
-                "5_el_gas",
-                "6_water",
-                "7_constr",
-                "8_trans_act",
-                "9_telec",
+                "Сільське господарство та надання пов’язаних із ним послуг",
+                "Промисловість",
+                "Добувна промисловість і розроблення кар’єрів",
+                "Переробна промисловість",
+                "Постачання електроенергії, газу, пари та кондиційованого повітря",
+                "Водопостачання; каналізація, поводження з відходами",
+                "Будівництво",
+                "Транспорт, складське господарство, поштова та кур’єрська діяльність",
+                "Телекомунікації (електрозв’язок)",
                 ""
               ]
             },
-            "title": "Ec_activ"
+            "title": "Види економічної діяльності"
           },
           {
             "name": "including",
             "type": "string",
             "constraints": {
               "enum": [
-                "inc_11_coal",
-                "inc_12_food",
-                "inc_13_leather",
-                "inc_14_wood",
-                "inc_15_coke",
-                "inc_16_chem",
-                "inc_17_pharma",
-                "inc_18_plastic",
-                "inc_19_metall",
-                "inc_20_pc",
-                "inc_21_electro",
-                "inc_22_machinery",
-                "inc_23_motor",
-                "inc_24_furn",
+                "добування кам’яного та бурого вугілля",
+                "виробництво харчових продуктів, напоїв та тютюнових виробів",
+                "текстильне виробництво, виробництво одягу, шкіри, виробів зі шкіри та інших матеріалів",
+                "виготовлення виробів з деревини, виробництво паперу та поліграфічна діяльність",
+                "виробництво коксу та продуктів нафтоперероблення",
+                "виробництво хімічних речовин і хімічної продукції",
+                "виробництво основних фармацевтичних продуктів і фармацевтичних препаратів",
+                "виробництво гумових і пластмасових виробів, іншої неметалевої мінеральної продукції",
+                "металургійне виробництво, виробництво готових металевих виробів, крім машин і устатковання",
+                "виробництво комп’ютерів, електронної та оптичної продукції",
+                "виробництво електричного устатковання",
+                "виробництво машин і устатковання, не віднесених до інших угруповань",
+                "виробництво автотранспортних засобів, причепів і напівпричепів та інших транспортних засобів",
+                "виробництво меблів, іншої продукції, ремонт і монтаж машин і устатковання",
                 ""
               ]
             },
-            "title": "including"
+            "title": "включаючи"
           },
           {
             "name": "Value",
@@ -3828,7 +3828,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -3838,7 +3838,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -3862,7 +3862,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -3872,7 +3872,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -3896,42 +3896,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -3955,7 +3955,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -3965,7 +3965,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -3989,7 +3989,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -3999,7 +3999,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4023,42 +4023,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -4082,7 +4082,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4092,7 +4092,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4116,20 +4116,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Cat",
             "type": "string",
             "constraints": {
               "enum": [
-                "cat_A",
-                "cat_B",
-                "cat_C",
+                "А",
+                "Б",
+                "В",
                 ""
               ]
             },
-            "title": "Cat"
+            "title": "Категорія"
           },
           {
             "name": "Value",
@@ -4153,7 +4153,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4163,7 +4163,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4187,48 +4187,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Article",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_art_all",
-                "2_art_115_118",
-                "3_art_152",
-                "4_art_121",
-                "5_art_149",
+                "усього осіб, які потерпіли від кримінальних правопорушень, ст. ККУ",
+                "умисних убивств (та замахів), ст.115-118",
+                "згвалтувань (та замахів), ст.152",
+                "умисних тяжких тілесних ушкоджень, ст.121",
+                "торгівлі людьми або інших незаконних угод щодо передачі людини, ст.149",
                 ""
               ]
             },
-            "title": "Article"
+            "title": "Стаття Кримінального Кодексу України"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_all",
-                "2_females",
-                "3_adolescents",
-                "4_young",
+                "всі",
+                "жінки",
+                "неповнолітні",
+                "малолітні (до 14 років)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_vict_per_100",
-                "2_vict_all",
+                "Потерпіло від кримінальних правопорушень (рівень на 100 тис. населення)",
+                "Потерпіло від  кримінальних правопорушень (усього)",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Value",
@@ -4252,7 +4252,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4262,7 +4262,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4286,33 +4286,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
-                "age_1_18_35",
-                "age_2_36_60",
-                "age_3_61",
+                "до 18 років",
+                "18 – 35 років",
+                "36 – 60 років",
+                "понад 61 рік",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "чоловіки",
+                "жінки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Value",
@@ -4336,7 +4336,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4346,7 +4346,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4370,7 +4370,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4380,7 +4380,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4404,7 +4404,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4414,7 +4414,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4438,7 +4438,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4448,7 +4448,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4472,7 +4472,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4482,7 +4482,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4506,7 +4506,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4516,7 +4516,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4540,7 +4540,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4550,7 +4550,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4574,32 +4574,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_agricul",
-                "12_indu",
-                "13_constr",
-                "14_motor_veh",
-                "15_courier",
-                "16_cater",
-                "17_telecom",
-                "18_insurance",
-                "19_estate",
-                "20_scientific",
-                "21_support",
-                "23_educ",
-                "24_health",
-                "25_arts",
-                "26_other_serv",
+                "Сільське господарство, лісове господарство та рибне господарство",
+                "Промисловість",
+                "Будівництво",
+                "Оптова та роздрібна торгівля; ремонт автотранспортних засобів і мотоциклів",
+                "Транспорт, складське господарство, поштова та кур`єрська діяльність",
+                "Тимчасове розміщування й організація харчування",
+                "Інформація та телекомунікації",
+                "Фінансова та страхова діяльність",
+                "Операції з нерухомим майном",
+                "Професійна, наукова та технічна діяльність",
+                "Діяльність у сфері адміністративного та допоміжного обслуговування",
+                "Освіта",
+                "Охорона здоров`я та надання соціальної допомоги",
+                "Мистецтво, спорт, розваги та відпочинок",
+                "Надання інших видів послуг",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4623,7 +4623,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4633,7 +4633,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4657,7 +4657,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4667,7 +4667,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4691,7 +4691,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4701,7 +4701,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4725,19 +4725,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -4761,7 +4761,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4771,7 +4771,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4795,19 +4795,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -4831,7 +4831,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4841,7 +4841,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4865,19 +4865,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -4901,7 +4901,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4911,7 +4911,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4935,7 +4935,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -4945,7 +4945,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -4969,19 +4969,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -5005,7 +5005,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -5015,7 +5015,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -5039,19 +5039,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -5075,7 +5075,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -5085,7 +5085,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -5109,42 +5109,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -5168,42 +5168,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -5227,7 +5227,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -5237,7 +5237,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -5261,7 +5261,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -5271,7 +5271,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -5295,47 +5295,47 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Level_ed",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_сompl_higher",
-                "2_bas_higher",
-                "3_inсompl_higher",
-                "4_prof_ed",
-                "5_comp_aver",
-                "6_bas_ed",
+                "Повна вища",
+                "Базова вища",
+                "Неповна вища",
+                "Професійно-технічна",
+                "Повна загальна середня",
+                "Базова, початкова загальна або не мають освіти",
                 ""
               ]
             },
-            "title": "Level_ed"
+            "title": "Рівень освіти"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 years",
-                "25-64 years",
+                "15-24 роки",
+                "25-64 роки",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Value",
@@ -5359,41 +5359,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -5417,31 +5417,31 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Type of water supply",
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
-                "decentralized",
+                "централізоване",
+                "децентралізоване",
                 ""
               ]
             },
-            "title": "Type of water supply"
+            "title": "Тип водопостачання"
           },
           {
             "name": "Value",
@@ -5465,33 +5465,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_agricul",
-                "12_indu",
-                "13_constr",
-                "14_motor_veh",
-                "15_courier",
-                "16_cater",
-                "17_telecom",
-                "18_insurance",
-                "19_estate",
-                "20_scientific",
-                "21_support",
-                "22_public",
-                "23_educ",
-                "24_health",
-                "25_arts",
-                "26_other_serv",
+                "Сільське господарство, лісове господарство та рибне господарство",
+                "Промисловість",
+                "Будівництво",
+                "Оптова та роздрібна торгівля; ремонт автотранспортних засобів і мотоциклів",
+                "Транспорт, складське господарство, поштова та кур`єрська діяльність",
+                "Тимчасове розміщування й організація харчування",
+                "Інформація та телекомунікації",
+                "Фінансова та страхова діяльність",
+                "Операції з нерухомим майном",
+                "Професійна, наукова та технічна діяльність",
+                "Діяльність у сфері адміністративного та допоміжного обслуговування",
+                "Державне управління й оборона; обов`язкове соціальне страхування",
+                "Освіта",
+                "Охорона здоров`я та надання соціальної допомоги",
+                "Мистецтво, спорт, розваги та відпочинок",
+                "Надання інших видів послуг",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -5515,7 +5515,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -5525,7 +5525,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -5549,54 +5549,54 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -5620,41 +5620,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -5678,31 +5678,31 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-24 years",
-                "25-64 years",
+                "15-24 роки",
+                "25-64 роки",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Value",
@@ -5726,19 +5726,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Value",
@@ -5762,25 +5762,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "m_trans",
             "type": "string",
             "constraints": {
               "enum": [
-                "tr_1_rail",
-                "tr_2_motor",
-                "tr_3_sea",
-                "tr_4_river",
-                "tr_6_air",
-                "tr_7_tram",
-                "tr_8_trolley",
-                "tr_9_subway",
+                "залізничний",
+                "автомобільний",
+                "морський",
+                "річковий",
+                "авіаційний",
+                "трамвайний",
+                "тролейбусний",
+                "метрополітенівський",
                 ""
               ]
             },
-            "title": "m_trans"
+            "title": "Види транспорту"
           },
           {
             "name": "Value",
@@ -5804,22 +5804,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Res_inten",
             "type": "string",
             "constraints": {
               "enum": [
-                "int_1_energy",
-                "int_2_mater",
-                "int_3_carbon",
-                "int_4_water",
-                "int_5_waste",
+                "Енергоємність",
+                "Матеріалоємність",
+                "Вуглецевоємність",
+                "Водоємність",
+                "Відходоємність",
                 ""
               ]
             },
-            "title": "Res_inten"
+            "title": "Ресурсоємність ВВП"
           },
           {
             "name": "Value",
@@ -5843,7 +5843,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -5853,7 +5853,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -5877,27 +5877,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Pollutants",
             "type": "string",
             "constraints": {
               "enum": [
-                "pol_11_dust",
-                "pol_12_sulfur",
-                "pol_13_carbon",
-                "pol_14_nitrogen",
-                "pol_15_nitrix",
-                "pol_16_phenol",
-                "pol_17_soot",
-                "pol_18_hydrogen",
-                "pol_19_ammonia",
-                "pol_20_form",
+                "Завислі речовини (пил)",
+                "Діоксид сірки",
+                "Оксид вуглецю",
+                "Діоксид азоту",
+                "Оксид азоту",
+                "Фенол",
+                "Сажа",
+                "Фтористий водень",
+                "Амiак",
+                "Формальдегiд",
                 ""
               ]
             },
-            "title": "Pollutants"
+            "title": "Забруднюючі речовини"
           },
           {
             "name": "Value",
@@ -5921,42 +5921,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -5980,7 +5980,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -5990,7 +5990,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6014,42 +6014,42 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "місто Київ",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -6073,19 +6073,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "GHG_ratio",
             "type": "string",
             "constraints": {
               "enum": [
-                "GHG_1_all",
-                "GHG_2_types",
+                "всього",
+                "за основними типами джерел, зокрема автомобільного транспорту",
                 ""
               ]
             },
-            "title": "GHG_ratio"
+            "title": "Обсяг викидів парникових газів"
           },
           {
             "name": "Value",
@@ -6109,32 +6109,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_1_18_35",
-                "age_2_36_60",
-                "age_3_61",
+                "18 – 35 років",
+                "36 – 60 років",
+                "понад 61 рік",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "чоловіки",
+                "жінки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Value",
@@ -6158,45 +6158,45 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "electr_1_supply",
-                "electr_2_pr_supply",
-                "electr_3_act_value",
-                "electr_4_tech_cons",
+                "Відпуск електроенергії в мережу",
+                "Корисний відпуск електроенергії в мережу",
+                "Звітна фактична величина ТВЕ",
+                "ТВЕ в розподільчих електромережах",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Категорія"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "kWh",
-                "per",
+                "млн кВтг",
+                "відсоток",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "including",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_norm_val",
-                "2_exc_val",
+                "нормативна величина ТВЕ",
+                "понаднормативна величина ТВЕ",
                 ""
               ]
             },
-            "title": "including"
+            "title": "включаючи"
           },
           {
             "name": "Value",
@@ -6220,41 +6220,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Миколаївська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Хмельницька",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -6278,7 +6278,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6288,7 +6288,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6312,7 +6312,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6322,7 +6322,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6346,7 +6346,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6356,7 +6356,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6380,7 +6380,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6390,7 +6390,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6414,33 +6414,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_vic_100",
-                "2_vic_149",
+                "Потерпіло від кримінальних правопорушень (рівень на 100 тис. населення)",
+                "Потерпіло від кримінальних правопорушень (ст.149), усього",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_all",
-                "2_females",
-                "3_adolescents",
-                "4_young",
+                "всі",
+                "жінки",
+                "неповнолітні",
+                "малолітні (до 14 років)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6464,7 +6464,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6474,7 +6474,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6498,7 +6498,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6508,7 +6508,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6532,22 +6532,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "m_trans",
             "type": "string",
             "constraints": {
               "enum": [
-                "tr_1_land_pipe",
-                "tr_2_warer",
-                "tr_3_air_tr",
-                "tr_4_ware",
-                "tr_5_post",
+                "Наземний і трубопровідний транспорт",
+                "Водний транспорт",
+                "Авіаційний транспорт",
+                "Складське господарство та допоміжна діяльність у сфері транспорту",
+                "Поштова та кур`єрська діяльність",
                 ""
               ]
             },
-            "title": "m_trans"
+            "title": "Види транспорту"
           },
           {
             "name": "Value",
@@ -6571,70 +6571,70 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Component",
             "type": "string",
             "constraints": {
               "enum": [
-                "com_1_cohension",
-                "com_2_tolerance",
-                "com_3_adapt",
-                "com_4_migration",
-                "com_5_dialogue",
-                "com_6_civic",
-                "com_7_relations",
-                "com_8_groups",
-                "com_9_psy",
-                "com_10_active",
-                "com_11_migrate",
-                "com_12_cooperation",
-                "com_13_pol_sec",
+                "Соціальна згуртованість і почуття співпричетності",
+                "Толерантність та соціально відповідальна громадянська позиція",
+                "Психо-соціальна адаптивність",
+                "Зниження негативних трендів міграції",
+                "Готовність до діалогу",
+                "Громадянська поведінка",
+                "Відносини з урядом і безпека",
+                "Відносини між групами",
+                "Психо-соціальна активність",
+                "Толерантна та активна громадянська позиція",
+                "Схильність до міграції",
+                "Співпраця в громаді",
+                "Політична безпека",
                 ""
               ]
             },
-            "title": "Component"
+            "title": "Компоненти індексу"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "14_reg_Donetsk",
-                "21_reg_Luhansk",
-                "13_reg_Dnipropetrovsk",
-                "17_reg_Zaporizhya",
-                "29_reg_Kharkiv",
+                "Донецька",
+                "Луганська",
+                "Дніпропетровська",
+                "Запорізька",
+                "Харківська",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_1_18_35",
-                "age_2_36_60",
-                "age_3_61",
+                "18 – 35 років",
+                "36 – 60 років",
+                "понад 61 рік",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "males",
-                "females",
+                "чоловіки",
+                "жінки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Value",
@@ -6658,7 +6658,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6668,7 +6668,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6692,7 +6692,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6702,7 +6702,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6726,19 +6726,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "14_reg_Donetsk",
-                "21_reg_Luhansk",
+                "Донецька",
+                "Луганська",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Область"
           },
           {
             "name": "Value",
@@ -6762,7 +6762,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6772,7 +6772,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6796,34 +6796,34 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Article",
             "type": "string",
             "constraints": {
               "enum": [
-                "art_1_115",
-                "art_2_116",
-                "art_3_117",
-                "art_4_118",
-                "art_5_121",
+                "Умисне вбивство, ст.115",
+                "Умисне вбивство, вчинене в стані сильного душевного хвилювання, ст.116",
+                "Умисне вбивство матір’ю своєї новонародженої дитини, ст.117",
+                "Умисне вбивство при перевищенні меж необхідної оборони або у разі перевищення заходів, необхідних для затримання злочинця, ст.118",
+                "Умисне тяжке тілесне ушкодження, ст.121",
                 ""
               ]
             },
-            "title": "Article"
+            "title": "Стаття Кримінального Кодексу України"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_total",
-                "2_per_100",
+                "Усього кримінальних правопорушень (кількість)",
+                "Рівень на 100 тис. населення",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Value",
@@ -6847,7 +6847,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6857,7 +6857,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6881,7 +6881,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6891,7 +6891,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6915,7 +6915,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6925,7 +6925,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6949,7 +6949,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -6959,7 +6959,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -6983,33 +6983,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "prod_1_meat",
-                "prod_2_fish",
-                "prod_3_fru_veg",
-                "prod_4_oil",
-                "prod_5_dairy",
-                "prod_6_starch",
-                "prod_7_flour",
-                "prod_8_bread",
-                "prod_9_cakes",
-                "prod_10_rusks",
-                "prod_11_other",
-                "prod_12_sugar",
-                "prod_13_cocoa",
-                "prod_14_tea",
-                "prod_15_spices",
-                "prod_16_not_else",
+                "Виробництво м’яса та м’ясних продуктів",
+                "Перероблення та консервування риби, ракоподібних і молюсків",
+                "Перероблення та консервування фруктів і овочів",
+                "Виробництво олії та тваринних жирів",
+                "Виробництво молочних продуктів",
+                "Виробництво продуктів борошномельно-круп'яної промисловості, крохмалів та крохмальних продуктів",
+                "Виробництво продуктів борошномельно-круп'яної промисловості",
+                "Виробництво хліба, хлібобулочних і борошняних виробів",
+                "Виробництво хліба та хлібобулочних виробів; виробництво борошняних кондитерських виробів, тортів і тістечок нетривалого зберігання",
+                "Виробництво сухарів і сухого печива; виробництво борошняних кондитерських виробів, тортів і тістечок тривалого зберігання",
+                "Виробництво інших харчових продуктів",
+                "Виробництво цукру",
+                "Виробництво какао, шоколаду та цукрових кондитерських виробів",
+                "Виробництво чаю та кави",
+                "Виробництво прянощів і приправ",
+                "Виробництво інших харчових продуктів, н.в.і.у.",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7033,7 +7033,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -7043,7 +7043,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7067,39 +7067,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Decile groups",
             "type": "string",
             "constraints": {
               "enum": [
-                "dg_01",
-                "dg_02",
-                "dg_03",
-                "dg_04",
-                "dg_05",
-                "dg_06",
-                "dg_07",
-                "dg_08",
-                "dg_09",
-                "dg_10",
+                "перша (нижча)",
+                "друга",
+                "третя",
+                "четверта",
+                "п'ята",
+                "шоста",
+                "сьома",
+                "восьма",
+                "дев'ята",
+                "десята (вища)",
                 ""
               ]
             },
-            "title": "Decile groups"
+            "title": "Децильні (10%-ні) групи за рівнем середньодушових еквівалентних загальних доходів у місяць"
           },
           {
             "name": "Value",
@@ -7123,7 +7123,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -7133,7 +7133,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7157,7 +7157,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -7167,7 +7167,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7191,20 +7191,20 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "1_pop",
-                "2_particip",
-                "3_exper",
+                "Населення",
+                "Учасники судових проваджень",
+                "Експертне середовище (адвокати, юристи)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7228,7 +7228,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -7238,7 +7238,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7262,7 +7262,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -7272,7 +7272,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7296,32 +7296,32 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "strategy",
             "type": "string",
             "constraints": {
               "enum": [
-                "10_phase",
-                "11_phase",
-                "12_phase",
+                "Регіональна стратегія",
+                "Регіональна стратегія та план заходів з її реалізації (перший етап)",
+                "Регіональна стратегія та план заходів з її реалізації (другий етап)",
                 ""
               ]
             },
-            "title": "strategy"
+            "title": "Складові регіональної стратегії"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "per",
-                "number",
+                "відсоток",
+                "кількість регіонів",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Одиниця виміру"
           },
           {
             "name": "Value",
@@ -7345,7 +7345,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -7355,7 +7355,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7379,19 +7379,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "міська",
+                "сільська",
                 ""
               ]
             },
-            "title": "Type of residence"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",
@@ -7415,7 +7415,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -7425,7 +7425,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7449,33 +7449,33 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Ec_activ",
             "type": "string",
             "constraints": {
               "enum": [
-                "11_agricul",
-                "12_indu",
-                "13_constr",
-                "14_motor_veh",
-                "15_courier",
-                "16_cater",
-                "17_telecom",
-                "18_insurance",
-                "19_estate",
-                "20_scientific",
-                "21_support",
-                "22_public",
-                "23_educ",
-                "24_health",
-                "25_arts",
-                "26_other_serv",
+                "Сільське господарство, лісове господарство та рибне господарство",
+                "Промисловість",
+                "Будівництво",
+                "Оптова та роздрібна торгівля; ремонт автотранспортних засобів і мотоциклів",
+                "Транспорт, складське господарство, поштова та кур`єрська діяльність",
+                "Тимчасове розміщування й організація харчування",
+                "Інформація та телекомунікації",
+                "Фінансова та страхова діяльність",
+                "Операції з нерухомим майном",
+                "Професійна, наукова та технічна діяльність",
+                "Діяльність у сфері адміністративного та допоміжного обслуговування",
+                "Державне управління й оборона; обов`язкове соціальне страхування",
+                "Освіта",
+                "Охорона здоров`я та надання соціальної допомоги",
+                "Мистецтво, спорт, розваги та відпочинок",
+                "Надання інших видів послуг",
                 ""
               ]
             },
-            "title": "Ec_activ"
+            "title": "Види економічної діяльності"
           },
           {
             "name": "Value",
@@ -7499,45 +7499,45 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
-                "age_18_34",
-                "age_35_59",
-                "age_60",
+                "до 18 років",
+                "18 – 34 роки",
+                "35 – 59 років",
+                "понад 60 років",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Вік"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "males",
-                "females",
+                "чоловіки",
+                "жінки",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Households",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "домогосподарства з дітьми",
+                "домогосподарства без дітей",
                 ""
               ]
             },
-            "title": "Households"
+            "title": "Домогосподарства"
           },
           {
             "name": "Value",
@@ -7561,7 +7561,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -7571,7 +7571,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7595,7 +7595,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -7605,7 +7605,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",
@@ -7629,7 +7629,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Group",
@@ -7639,7 +7639,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Група"
           },
           {
             "name": "Value",

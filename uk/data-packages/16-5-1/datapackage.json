@@ -13,22 +13,22 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Рік"
           },
           {
             "name": "Type_weapon",
             "type": "string",
             "constraints": {
               "enum": [
-                "weap_1_bore",
-                "weap_2_rifled",
-                "weap_3_oth",
-                "weap_4_grenade",
-                "weap_5_cold",
+                "гладкоствольна",
+                "нарізна",
+                "інша вогнепальна зброя",
+                "гранатомети та реактивны системи",
+                "холодна зброя",
                 ""
               ]
             },
-            "title": "Type_weapon"
+            "title": "Види зброї"
           },
           {
             "name": "Value",
