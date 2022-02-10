@@ -4655,7 +4655,7 @@
             "constraints": {
               "enum": [
                 "",
-                "hectares",
+                "Demined area, hectares",
                 "сleared roads, km",
                 "сleared railways, km"
               ]
