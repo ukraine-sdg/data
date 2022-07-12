@@ -72,7 +72,7 @@ weap_5_cold: cold weapons
 2_vict_all: Victims of crimes (total)
 
 1_total: Total criminal offenses (number)
-2_per_100: Per 100 thousand persons
+2_per_100: Per 100 thousand population
 
 1_all: all
 2_females: females
@@ -88,9 +88,9 @@ weap_5_cold: cold weapons
 
 Article: Article of the Criminal Code of Ukraine 
 art_1_115: Intentional homicide, Art. 115
-art_2_116: Intentional homicide committed in a state of intense emotional excitement, Srt. 116
+art_2_116: Intentional homicide committed in a state of intense emotional excitement, Art. 116
 art_3_117: Intentional murder of a newborn by mother, Art. 117
-art_4_118: Intentional homicide in excess of the limits of necessary defense or in case of exceeding the measures necessary to detain a person who has committed a criminal offense, Art. 118
+art_4_118: Intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the the person who committed the criminal offense, Art. 118
 art_5_121: Intentional grievous bodily harm, Art. 121
 
 zone_1_polis: Polissya
