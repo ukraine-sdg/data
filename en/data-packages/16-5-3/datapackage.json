@@ -30,7 +30,7 @@
               "enum": [
                 "",
                 "Total criminal offenses (number)",
-                "Per 100 thousand persons"
+                "Per 100 thousand population"
               ]
             },
             "title": "Unit"

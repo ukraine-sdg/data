@@ -3985,9 +3985,9 @@
               "enum": [
                 "",
                 "Intentional homicide, Art. 115",
-                "Intentional homicide committed in a state of intense emotional excitement, Srt. 116",
+                "Intentional homicide committed in a state of intense emotional excitement, Art. 116",
                 "Intentional murder of a newborn by mother, Art. 117",
-                "Intentional homicide in excess of the limits of necessary defense or in case of exceeding the measures necessary to detain a person who has committed a criminal offense, Art. 118",
+                "Intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the the person who committed the criminal offense, Art. 118",
                 "Intentional grievous bodily harm, Art. 121"
               ]
             },
@@ -4000,7 +4000,7 @@
               "enum": [
                 "",
                 "Total criminal offenses (number)",
-                "Per 100 thousand persons"
+                "Per 100 thousand population"
               ]
             },
             "title": "Unit"
@@ -5182,7 +5182,7 @@
               "enum": [
                 "",
                 "Total criminal offenses (number)",
-                "Per 100 thousand persons"
+                "Per 100 thousand population"
               ]
             },
             "title": "Unit"
