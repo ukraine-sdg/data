@@ -5,12 +5,12 @@ Year,Age,Gender,Households,Value
 2018,,,,43.2
 2019,,,,41.3
 2020,,,,47.2
-2015,under 18 years old,,,66.6
-2016,under 18 years old,,,65.5
-2017,under 18 years old,,,56.7
-2018,under 18 years old,,,51.1
-2019,under 18 years old,,,47.8
-2020,under 18 years old,,,53.0
+2015,under 18 years,,,66.6
+2016,under 18 years,,,65.5
+2017,under 18 years,,,56.7
+2018,under 18 years,,,51.1
+2019,under 18 years,,,47.8
+2020,under 18 years,,,53.0
 2015,18-34 years,,,59.4
 2016,18-34 years,,,57.9
 2017,18-34 years,,,47.4
@@ -23,12 +23,12 @@ Year,Age,Gender,Households,Value
 2018,35-59 years,,,38.1
 2019,35-59 years,,,36.6
 2020,35-59 years,,,43.8
-2015,over 60 years,,,57.0
-2016,over 60 years,,,58.9
-2017,over 60 years,,,47.6
-2018,over 60 years,,,43.5
-2019,over 60 years,,,44.4
-2020,over 60 years,,,50.6
+2015,60 years and older,,,57.0
+2016,60 years and older,,,58.9
+2017,60 years and older,,,47.6
+2018,60 years and older,,,43.5
+2019,60 years and older,,,44.4
+2020,60 years and older,,,50.6
 2015,,males,,58.0
 2016,,males,,58.5
 2017,,males,,47.3

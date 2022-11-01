@@ -17,12 +17,12 @@
               "enum": [
                 "",
                 "Power generating companies of TPP",
-                "CHP",
-                "HPP",
-                "PSP",
+                "TPP and cogeneration units",
+                "HPS",
+                "HAPP",
                 "NPP",
-                "Captive power plants",
-                "Alternative energy sources (WSP, SPP, Biomass)"
+                "Block stations",
+                "Alternative energy sources (WPS, SPS, Biomass)"
               ]
             },
             "title": "Electricity generation"

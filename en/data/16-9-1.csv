@@ -5,9 +5,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,social cohesion and sense of ownership,Donetsk,36-60 years,,6.7
 2018,social cohesion and sense of ownership,Donetsk,36-60 years,,
 2019,social cohesion and sense of ownership,Donetsk,36-60 years,,
-2017,social cohesion and sense of ownership,Donetsk,over 61 years,,7.0
-2018,social cohesion and sense of ownership,Donetsk,over 61 years,,
-2019,social cohesion and sense of ownership,Donetsk,over 61 years,,
+2017,social cohesion and sense of ownership,Donetsk,61 years and older,,7.0
+2018,social cohesion and sense of ownership,Donetsk,61 years and older,,
+2019,social cohesion and sense of ownership,Donetsk,61 years and older,,
 2017,social cohesion and sense of ownership,Donetsk,,males,6.7
 2018,social cohesion and sense of ownership,Donetsk,,males,
 2019,social cohesion and sense of ownership,Donetsk,,males,
@@ -20,9 +20,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,social cohesion and sense of ownership,Luhansk,36-60 years,,6.7
 2018,social cohesion and sense of ownership,Luhansk,36-60 years,,
 2019,social cohesion and sense of ownership,Luhansk,36-60 years,,
-2017,social cohesion and sense of ownership,Luhansk,over 61 years,,6.9
-2018,social cohesion and sense of ownership,Luhansk,over 61 years,,
-2019,social cohesion and sense of ownership,Luhansk,over 61 years,,
+2017,social cohesion and sense of ownership,Luhansk,61 years and older,,6.9
+2018,social cohesion and sense of ownership,Luhansk,61 years and older,,
+2019,social cohesion and sense of ownership,Luhansk,61 years and older,,
 2017,social cohesion and sense of ownership,Luhansk,,males,6.7
 2018,social cohesion and sense of ownership,Luhansk,,males,
 2019,social cohesion and sense of ownership,Luhansk,,males,
@@ -35,39 +35,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,social cohesion and sense of ownership,Dnipropetrovsk,36-60 years,,6.6
 2018,social cohesion and sense of ownership,Dnipropetrovsk,36-60 years,,
 2019,social cohesion and sense of ownership,Dnipropetrovsk,36-60 years,,
-2017,social cohesion and sense of ownership,Dnipropetrovsk,over 61 years,,7.0
-2018,social cohesion and sense of ownership,Dnipropetrovsk,over 61 years,,
-2019,social cohesion and sense of ownership,Dnipropetrovsk,over 61 years,,
+2017,social cohesion and sense of ownership,Dnipropetrovsk,61 years and older,,7.0
+2018,social cohesion and sense of ownership,Dnipropetrovsk,61 years and older,,
+2019,social cohesion and sense of ownership,Dnipropetrovsk,61 years and older,,
 2017,social cohesion and sense of ownership,Dnipropetrovsk,,males,6.6
 2018,social cohesion and sense of ownership,Dnipropetrovsk,,males,
 2019,social cohesion and sense of ownership,Dnipropetrovsk,,males,
 2017,social cohesion and sense of ownership,Dnipropetrovsk,,females,6.6
 2018,social cohesion and sense of ownership,Dnipropetrovsk,,females,
 2019,social cohesion and sense of ownership,Dnipropetrovsk,,females,
-2017,social cohesion and sense of ownership,Zaporizhya,18-35 years,,6.3
-2018,social cohesion and sense of ownership,Zaporizhya,18-35 years,,
-2019,social cohesion and sense of ownership,Zaporizhya,18-35 years,,
-2017,social cohesion and sense of ownership,Zaporizhya,36-60 years,,6.5
-2018,social cohesion and sense of ownership,Zaporizhya,36-60 years,,
-2019,social cohesion and sense of ownership,Zaporizhya,36-60 years,,
-2017,social cohesion and sense of ownership,Zaporizhya,over 61 years,,6.8
-2018,social cohesion and sense of ownership,Zaporizhya,over 61 years,,
-2019,social cohesion and sense of ownership,Zaporizhya,over 61 years,,
-2017,social cohesion and sense of ownership,Zaporizhya,,males,6.4
-2018,social cohesion and sense of ownership,Zaporizhya,,males,
-2019,social cohesion and sense of ownership,Zaporizhya,,males,
-2017,social cohesion and sense of ownership,Zaporizhya,,females,6.6
-2018,social cohesion and sense of ownership,Zaporizhya,,females,
-2019,social cohesion and sense of ownership,Zaporizhya,,females,
+2017,social cohesion and sense of ownership,17_reg_Zaporizhya,18-35 years,,6.3
+2018,social cohesion and sense of ownership,17_reg_Zaporizhya,18-35 years,,
+2019,social cohesion and sense of ownership,17_reg_Zaporizhya,18-35 years,,
+2017,social cohesion and sense of ownership,17_reg_Zaporizhya,36-60 years,,6.5
+2018,social cohesion and sense of ownership,17_reg_Zaporizhya,36-60 years,,
+2019,social cohesion and sense of ownership,17_reg_Zaporizhya,36-60 years,,
+2017,social cohesion and sense of ownership,17_reg_Zaporizhya,61 years and older,,6.8
+2018,social cohesion and sense of ownership,17_reg_Zaporizhya,61 years and older,,
+2019,social cohesion and sense of ownership,17_reg_Zaporizhya,61 years and older,,
+2017,social cohesion and sense of ownership,17_reg_Zaporizhya,,males,6.4
+2018,social cohesion and sense of ownership,17_reg_Zaporizhya,,males,
+2019,social cohesion and sense of ownership,17_reg_Zaporizhya,,males,
+2017,social cohesion and sense of ownership,17_reg_Zaporizhya,,females,6.6
+2018,social cohesion and sense of ownership,17_reg_Zaporizhya,,females,
+2019,social cohesion and sense of ownership,17_reg_Zaporizhya,,females,
 2017,social cohesion and sense of ownership,Kharkiv,18-35 years,,6.4
 2018,social cohesion and sense of ownership,Kharkiv,18-35 years,,
 2019,social cohesion and sense of ownership,Kharkiv,18-35 years,,
 2017,social cohesion and sense of ownership,Kharkiv,36-60 years,,6.6
 2018,social cohesion and sense of ownership,Kharkiv,36-60 years,,
 2019,social cohesion and sense of ownership,Kharkiv,36-60 years,,
-2017,social cohesion and sense of ownership,Kharkiv,over 61 years,,6.7
-2018,social cohesion and sense of ownership,Kharkiv,over 61 years,,
-2019,social cohesion and sense of ownership,Kharkiv,over 61 years,,
+2017,social cohesion and sense of ownership,Kharkiv,61 years and older,,6.7
+2018,social cohesion and sense of ownership,Kharkiv,61 years and older,,
+2019,social cohesion and sense of ownership,Kharkiv,61 years and older,,
 2017,social cohesion and sense of ownership,Kharkiv,,males,6.5
 2018,social cohesion and sense of ownership,Kharkiv,,males,
 2019,social cohesion and sense of ownership,Kharkiv,,males,
@@ -80,9 +80,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,tolerance and socially responsible citizenship,Donetsk,36-60 years,,5.0
 2018,tolerance and socially responsible citizenship,Donetsk,36-60 years,,
 2019,tolerance and socially responsible citizenship,Donetsk,36-60 years,,
-2017,tolerance and socially responsible citizenship,Donetsk,over 61 years,,4.8
-2018,tolerance and socially responsible citizenship,Donetsk,over 61 years,,
-2019,tolerance and socially responsible citizenship,Donetsk,over 61 years,,
+2017,tolerance and socially responsible citizenship,Donetsk,61 years and older,,4.8
+2018,tolerance and socially responsible citizenship,Donetsk,61 years and older,,
+2019,tolerance and socially responsible citizenship,Donetsk,61 years and older,,
 2017,tolerance and socially responsible citizenship,Donetsk,,males,4.9
 2018,tolerance and socially responsible citizenship,Donetsk,,males,
 2019,tolerance and socially responsible citizenship,Donetsk,,males,
@@ -95,9 +95,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,tolerance and socially responsible citizenship,Luhansk,36-60 years,,4.9
 2018,tolerance and socially responsible citizenship,Luhansk,36-60 years,,
 2019,tolerance and socially responsible citizenship,Luhansk,36-60 years,,
-2017,tolerance and socially responsible citizenship,Luhansk,over 61 years,,4.6
-2018,tolerance and socially responsible citizenship,Luhansk,over 61 years,,
-2019,tolerance and socially responsible citizenship,Luhansk,over 61 years,,
+2017,tolerance and socially responsible citizenship,Luhansk,61 years and older,,4.6
+2018,tolerance and socially responsible citizenship,Luhansk,61 years and older,,
+2019,tolerance and socially responsible citizenship,Luhansk,61 years and older,,
 2017,tolerance and socially responsible citizenship,Luhansk,,males,4.7
 2018,tolerance and socially responsible citizenship,Luhansk,,males,
 2019,tolerance and socially responsible citizenship,Luhansk,,males,
@@ -110,39 +110,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,tolerance and socially responsible citizenship,Dnipropetrovsk,36-60 years,,4.8
 2018,tolerance and socially responsible citizenship,Dnipropetrovsk,36-60 years,,
 2019,tolerance and socially responsible citizenship,Dnipropetrovsk,36-60 years,,
-2017,tolerance and socially responsible citizenship,Dnipropetrovsk,over 61 years,,4.7
-2018,tolerance and socially responsible citizenship,Dnipropetrovsk,over 61 years,,
-2019,tolerance and socially responsible citizenship,Dnipropetrovsk,over 61 years,,
+2017,tolerance and socially responsible citizenship,Dnipropetrovsk,61 years and older,,4.7
+2018,tolerance and socially responsible citizenship,Dnipropetrovsk,61 years and older,,
+2019,tolerance and socially responsible citizenship,Dnipropetrovsk,61 years and older,,
 2017,tolerance and socially responsible citizenship,Dnipropetrovsk,,males,4.7
 2018,tolerance and socially responsible citizenship,Dnipropetrovsk,,males,
 2019,tolerance and socially responsible citizenship,Dnipropetrovsk,,males,
 2017,tolerance and socially responsible citizenship,Dnipropetrovsk,,females,4.8
 2018,tolerance and socially responsible citizenship,Dnipropetrovsk,,females,
 2019,tolerance and socially responsible citizenship,Dnipropetrovsk,,females,
-2017,tolerance and socially responsible citizenship,Zaporizhya,18-35 years,,4.9
-2018,tolerance and socially responsible citizenship,Zaporizhya,18-35 years,,
-2019,tolerance and socially responsible citizenship,Zaporizhya,18-35 years,,
-2017,tolerance and socially responsible citizenship,Zaporizhya,36-60 years,,4.8
-2018,tolerance and socially responsible citizenship,Zaporizhya,36-60 years,,
-2019,tolerance and socially responsible citizenship,Zaporizhya,36-60 years,,
-2017,tolerance and socially responsible citizenship,Zaporizhya,over 61 years,,4.8
-2018,tolerance and socially responsible citizenship,Zaporizhya,over 61 years,,
-2019,tolerance and socially responsible citizenship,Zaporizhya,over 61 years,,
-2017,tolerance and socially responsible citizenship,Zaporizhya,,males,4.7
-2018,tolerance and socially responsible citizenship,Zaporizhya,,males,
-2019,tolerance and socially responsible citizenship,Zaporizhya,,males,
-2017,tolerance and socially responsible citizenship,Zaporizhya,,females,5.0
-2018,tolerance and socially responsible citizenship,Zaporizhya,,females,
-2019,tolerance and socially responsible citizenship,Zaporizhya,,females,
+2017,tolerance and socially responsible citizenship,17_reg_Zaporizhya,18-35 years,,4.9
+2018,tolerance and socially responsible citizenship,17_reg_Zaporizhya,18-35 years,,
+2019,tolerance and socially responsible citizenship,17_reg_Zaporizhya,18-35 years,,
+2017,tolerance and socially responsible citizenship,17_reg_Zaporizhya,36-60 years,,4.8
+2018,tolerance and socially responsible citizenship,17_reg_Zaporizhya,36-60 years,,
+2019,tolerance and socially responsible citizenship,17_reg_Zaporizhya,36-60 years,,
+2017,tolerance and socially responsible citizenship,17_reg_Zaporizhya,61 years and older,,4.8
+2018,tolerance and socially responsible citizenship,17_reg_Zaporizhya,61 years and older,,
+2019,tolerance and socially responsible citizenship,17_reg_Zaporizhya,61 years and older,,
+2017,tolerance and socially responsible citizenship,17_reg_Zaporizhya,,males,4.7
+2018,tolerance and socially responsible citizenship,17_reg_Zaporizhya,,males,
+2019,tolerance and socially responsible citizenship,17_reg_Zaporizhya,,males,
+2017,tolerance and socially responsible citizenship,17_reg_Zaporizhya,,females,5.0
+2018,tolerance and socially responsible citizenship,17_reg_Zaporizhya,,females,
+2019,tolerance and socially responsible citizenship,17_reg_Zaporizhya,,females,
 2017,tolerance and socially responsible citizenship,Kharkiv,18-35 years,,4.7
 2018,tolerance and socially responsible citizenship,Kharkiv,18-35 years,,
 2019,tolerance and socially responsible citizenship,Kharkiv,18-35 years,,
 2017,tolerance and socially responsible citizenship,Kharkiv,36-60 years,,4.8
 2018,tolerance and socially responsible citizenship,Kharkiv,36-60 years,,
 2019,tolerance and socially responsible citizenship,Kharkiv,36-60 years,,
-2017,tolerance and socially responsible citizenship,Kharkiv,over 61 years,,4.7
-2018,tolerance and socially responsible citizenship,Kharkiv,over 61 years,,
-2019,tolerance and socially responsible citizenship,Kharkiv,over 61 years,,
+2017,tolerance and socially responsible citizenship,Kharkiv,61 years and older,,4.7
+2018,tolerance and socially responsible citizenship,Kharkiv,61 years and older,,
+2019,tolerance and socially responsible citizenship,Kharkiv,61 years and older,,
 2017,tolerance and socially responsible citizenship,Kharkiv,,males,4.6
 2018,tolerance and socially responsible citizenship,Kharkiv,,males,
 2019,tolerance and socially responsible citizenship,Kharkiv,,males,
@@ -155,9 +155,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,psycho-social adaptability,Donetsk,36-60 years,,7.8
 2018,psycho-social adaptability,Donetsk,36-60 years,,
 2019,psycho-social adaptability,Donetsk,36-60 years,,
-2017,psycho-social adaptability,Donetsk,over 61 years,,7.8
-2018,psycho-social adaptability,Donetsk,over 61 years,,
-2019,psycho-social adaptability,Donetsk,over 61 years,,
+2017,psycho-social adaptability,Donetsk,61 years and older,,7.8
+2018,psycho-social adaptability,Donetsk,61 years and older,,
+2019,psycho-social adaptability,Donetsk,61 years and older,,
 2017,psycho-social adaptability,Donetsk,,males,7.7
 2018,psycho-social adaptability,Donetsk,,males,
 2019,psycho-social adaptability,Donetsk,,males,
@@ -170,9 +170,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,psycho-social adaptability,Luhansk,36-60 years,,7.9
 2018,psycho-social adaptability,Luhansk,36-60 years,,
 2019,psycho-social adaptability,Luhansk,36-60 years,,
-2017,psycho-social adaptability,Luhansk,over 61 years,,7.8
-2018,psycho-social adaptability,Luhansk,over 61 years,,
-2019,psycho-social adaptability,Luhansk,over 61 years,,
+2017,psycho-social adaptability,Luhansk,61 years and older,,7.8
+2018,psycho-social adaptability,Luhansk,61 years and older,,
+2019,psycho-social adaptability,Luhansk,61 years and older,,
 2017,psycho-social adaptability,Luhansk,,males,7.8
 2018,psycho-social adaptability,Luhansk,,males,
 2019,psycho-social adaptability,Luhansk,,males,
@@ -185,39 +185,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,psycho-social adaptability,Dnipropetrovsk,36-60 years,,7.7
 2018,psycho-social adaptability,Dnipropetrovsk,36-60 years,,
 2019,psycho-social adaptability,Dnipropetrovsk,36-60 years,,
-2017,psycho-social adaptability,Dnipropetrovsk,over 61 years,,7.7
-2018,psycho-social adaptability,Dnipropetrovsk,over 61 years,,
-2019,psycho-social adaptability,Dnipropetrovsk,over 61 years,,
+2017,psycho-social adaptability,Dnipropetrovsk,61 years and older,,7.7
+2018,psycho-social adaptability,Dnipropetrovsk,61 years and older,,
+2019,psycho-social adaptability,Dnipropetrovsk,61 years and older,,
 2017,psycho-social adaptability,Dnipropetrovsk,,males,7.6
 2018,psycho-social adaptability,Dnipropetrovsk,,males,
 2019,psycho-social adaptability,Dnipropetrovsk,,males,
 2017,psycho-social adaptability,Dnipropetrovsk,,females,7.7
 2018,psycho-social adaptability,Dnipropetrovsk,,females,
 2019,psycho-social adaptability,Dnipropetrovsk,,females,
-2017,psycho-social adaptability,Zaporizhya,18-35 years,,7.8
-2018,psycho-social adaptability,Zaporizhya,18-35 years,,
-2019,psycho-social adaptability,Zaporizhya,18-35 years,,
-2017,psycho-social adaptability,Zaporizhya,36-60 years,,7.8
-2018,psycho-social adaptability,Zaporizhya,36-60 years,,
-2019,psycho-social adaptability,Zaporizhya,36-60 years,,
-2017,psycho-social adaptability,Zaporizhya,over 61 years,,7.8
-2018,psycho-social adaptability,Zaporizhya,over 61 years,,
-2019,psycho-social adaptability,Zaporizhya,over 61 years,,
-2017,psycho-social adaptability,Zaporizhya,,males,7.6
-2018,psycho-social adaptability,Zaporizhya,,males,
-2019,psycho-social adaptability,Zaporizhya,,males,
-2017,psycho-social adaptability,Zaporizhya,,females,8.0
-2018,psycho-social adaptability,Zaporizhya,,females,
-2019,psycho-social adaptability,Zaporizhya,,females,
+2017,psycho-social adaptability,17_reg_Zaporizhya,18-35 years,,7.8
+2018,psycho-social adaptability,17_reg_Zaporizhya,18-35 years,,
+2019,psycho-social adaptability,17_reg_Zaporizhya,18-35 years,,
+2017,psycho-social adaptability,17_reg_Zaporizhya,36-60 years,,7.8
+2018,psycho-social adaptability,17_reg_Zaporizhya,36-60 years,,
+2019,psycho-social adaptability,17_reg_Zaporizhya,36-60 years,,
+2017,psycho-social adaptability,17_reg_Zaporizhya,61 years and older,,7.8
+2018,psycho-social adaptability,17_reg_Zaporizhya,61 years and older,,
+2019,psycho-social adaptability,17_reg_Zaporizhya,61 years and older,,
+2017,psycho-social adaptability,17_reg_Zaporizhya,,males,7.6
+2018,psycho-social adaptability,17_reg_Zaporizhya,,males,
+2019,psycho-social adaptability,17_reg_Zaporizhya,,males,
+2017,psycho-social adaptability,17_reg_Zaporizhya,,females,8.0
+2018,psycho-social adaptability,17_reg_Zaporizhya,,females,
+2019,psycho-social adaptability,17_reg_Zaporizhya,,females,
 2017,psycho-social adaptability,Kharkiv,18-35 years,,7.7
 2018,psycho-social adaptability,Kharkiv,18-35 years,,
 2019,psycho-social adaptability,Kharkiv,18-35 years,,
 2017,psycho-social adaptability,Kharkiv,36-60 years,,7.8
 2018,psycho-social adaptability,Kharkiv,36-60 years,,
 2019,psycho-social adaptability,Kharkiv,36-60 years,,
-2017,psycho-social adaptability,Kharkiv,over 61 years,,7.8
-2018,psycho-social adaptability,Kharkiv,over 61 years,,
-2019,psycho-social adaptability,Kharkiv,over 61 years,,
+2017,psycho-social adaptability,Kharkiv,61 years and older,,7.8
+2018,psycho-social adaptability,Kharkiv,61 years and older,,
+2019,psycho-social adaptability,Kharkiv,61 years and older,,
 2017,psycho-social adaptability,Kharkiv,,males,7.6
 2018,psycho-social adaptability,Kharkiv,,males,
 2019,psycho-social adaptability,Kharkiv,,males,
@@ -230,9 +230,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,reducing negative migration trends,Donetsk,36-60 years,,4.1
 2018,reducing negative migration trends,Donetsk,36-60 years,,4.8
 2019,reducing negative migration trends,Donetsk,36-60 years,,
-2017,reducing negative migration trends,Donetsk,over 61 years,,3.3
-2018,reducing negative migration trends,Donetsk,over 61 years,,3.8
-2019,reducing negative migration trends,Donetsk,over 61 years,,
+2017,reducing negative migration trends,Donetsk,61 years and older,,3.3
+2018,reducing negative migration trends,Donetsk,61 years and older,,3.8
+2019,reducing negative migration trends,Donetsk,61 years and older,,
 2017,reducing negative migration trends,Donetsk,,males,4.2
 2018,reducing negative migration trends,Donetsk,,males,4.9
 2019,reducing negative migration trends,Donetsk,,males,
@@ -245,9 +245,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,reducing negative migration trends,Luhansk,36-60 years,,4.4
 2018,reducing negative migration trends,Luhansk,36-60 years,,5.4
 2019,reducing negative migration trends,Luhansk,36-60 years,,
-2017,reducing negative migration trends,Luhansk,over 61 years,,3.5
-2018,reducing negative migration trends,Luhansk,over 61 years,,4.3
-2019,reducing negative migration trends,Luhansk,over 61 years,,
+2017,reducing negative migration trends,Luhansk,61 years and older,,3.5
+2018,reducing negative migration trends,Luhansk,61 years and older,,4.3
+2019,reducing negative migration trends,Luhansk,61 years and older,,
 2017,reducing negative migration trends,Luhansk,,males,4.4
 2018,reducing negative migration trends,Luhansk,,males,5.3
 2019,reducing negative migration trends,Luhansk,,males,
@@ -260,39 +260,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,reducing negative migration trends,Dnipropetrovsk,36-60 years,,4.0
 2018,reducing negative migration trends,Dnipropetrovsk,36-60 years,,4.6
 2019,reducing negative migration trends,Dnipropetrovsk,36-60 years,,
-2017,reducing negative migration trends,Dnipropetrovsk,over 61 years,,3.2
-2018,reducing negative migration trends,Dnipropetrovsk,over 61 years,,3.5
-2019,reducing negative migration trends,Dnipropetrovsk,over 61 years,,
+2017,reducing negative migration trends,Dnipropetrovsk,61 years and older,,3.2
+2018,reducing negative migration trends,Dnipropetrovsk,61 years and older,,3.5
+2019,reducing negative migration trends,Dnipropetrovsk,61 years and older,,
 2017,reducing negative migration trends,Dnipropetrovsk,,males,4.3
 2018,reducing negative migration trends,Dnipropetrovsk,,males,4.8
 2019,reducing negative migration trends,Dnipropetrovsk,,males,
 2017,reducing negative migration trends,Dnipropetrovsk,,females,3.9
 2018,reducing negative migration trends,Dnipropetrovsk,,females,4.6
 2019,reducing negative migration trends,Dnipropetrovsk,,females,
-2017,reducing negative migration trends,Zaporizhya,18-35 years,,5.4
-2018,reducing negative migration trends,Zaporizhya,18-35 years,,5.4
-2019,reducing negative migration trends,Zaporizhya,18-35 years,,
-2017,reducing negative migration trends,Zaporizhya,36-60 years,,4.1
-2018,reducing negative migration trends,Zaporizhya,36-60 years,,4.4
-2019,reducing negative migration trends,Zaporizhya,36-60 years,,
-2017,reducing negative migration trends,Zaporizhya,over 61 years,,3.0
-2018,reducing negative migration trends,Zaporizhya,over 61 years,,3.4
-2019,reducing negative migration trends,Zaporizhya,over 61 years,,
-2017,reducing negative migration trends,Zaporizhya,,males,4.2
-2018,reducing negative migration trends,Zaporizhya,,males,4.6
-2019,reducing negative migration trends,Zaporizhya,,males,
-2017,reducing negative migration trends,Zaporizhya,,females,4.2
-2018,reducing negative migration trends,Zaporizhya,,females,4.4
-2019,reducing negative migration trends,Zaporizhya,,females,
+2017,reducing negative migration trends,17_reg_Zaporizhya,18-35 years,,5.4
+2018,reducing negative migration trends,17_reg_Zaporizhya,18-35 years,,5.4
+2019,reducing negative migration trends,17_reg_Zaporizhya,18-35 years,,
+2017,reducing negative migration trends,17_reg_Zaporizhya,36-60 years,,4.1
+2018,reducing negative migration trends,17_reg_Zaporizhya,36-60 years,,4.4
+2019,reducing negative migration trends,17_reg_Zaporizhya,36-60 years,,
+2017,reducing negative migration trends,17_reg_Zaporizhya,61 years and older,,3.0
+2018,reducing negative migration trends,17_reg_Zaporizhya,61 years and older,,3.4
+2019,reducing negative migration trends,17_reg_Zaporizhya,61 years and older,,
+2017,reducing negative migration trends,17_reg_Zaporizhya,,males,4.2
+2018,reducing negative migration trends,17_reg_Zaporizhya,,males,4.6
+2019,reducing negative migration trends,17_reg_Zaporizhya,,males,
+2017,reducing negative migration trends,17_reg_Zaporizhya,,females,4.2
+2018,reducing negative migration trends,17_reg_Zaporizhya,,females,4.4
+2019,reducing negative migration trends,17_reg_Zaporizhya,,females,
 2017,reducing negative migration trends,Kharkiv,18-35 years,,5.0
 2018,reducing negative migration trends,Kharkiv,18-35 years,,5.7
 2019,reducing negative migration trends,Kharkiv,18-35 years,,
 2017,reducing negative migration trends,Kharkiv,36-60 years,,4.1
 2018,reducing negative migration trends,Kharkiv,36-60 years,,4.7
 2019,reducing negative migration trends,Kharkiv,36-60 years,,
-2017,reducing negative migration trends,Kharkiv,over 61 years,,3.2
-2018,reducing negative migration trends,Kharkiv,over 61 years,,4.2
-2019,reducing negative migration trends,Kharkiv,over 61 years,,
+2017,reducing negative migration trends,Kharkiv,61 years and older,,3.2
+2018,reducing negative migration trends,Kharkiv,61 years and older,,4.2
+2019,reducing negative migration trends,Kharkiv,61 years and older,,
 2017,reducing negative migration trends,Kharkiv,,males,4.3
 2018,reducing negative migration trends,Kharkiv,,males,5.1
 2019,reducing negative migration trends,Kharkiv,,males,
@@ -305,9 +305,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,readiness for dialogue,Donetsk,36-60 years,,
 2018,readiness for dialogue,Donetsk,36-60 years,,6.7
 2019,readiness for dialogue,Donetsk,36-60 years,,
-2017,readiness for dialogue,Donetsk,over 61 years,,
-2018,readiness for dialogue,Donetsk,over 61 years,,6.8
-2019,readiness for dialogue,Donetsk,over 61 years,,
+2017,readiness for dialogue,Donetsk,61 years and older,,
+2018,readiness for dialogue,Donetsk,61 years and older,,6.8
+2019,readiness for dialogue,Donetsk,61 years and older,,
 2017,readiness for dialogue,Donetsk,,males,
 2018,readiness for dialogue,Donetsk,,males,6.6
 2019,readiness for dialogue,Donetsk,,males,
@@ -320,9 +320,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,readiness for dialogue,Luhansk,36-60 years,,
 2018,readiness for dialogue,Luhansk,36-60 years,,6.3
 2019,readiness for dialogue,Luhansk,36-60 years,,
-2017,readiness for dialogue,Luhansk,over 61 years,,
-2018,readiness for dialogue,Luhansk,over 61 years,,6.0
-2019,readiness for dialogue,Luhansk,over 61 years,,
+2017,readiness for dialogue,Luhansk,61 years and older,,
+2018,readiness for dialogue,Luhansk,61 years and older,,6.0
+2019,readiness for dialogue,Luhansk,61 years and older,,
 2017,readiness for dialogue,Luhansk,,males,
 2018,readiness for dialogue,Luhansk,,males,6.2
 2019,readiness for dialogue,Luhansk,,males,
@@ -335,39 +335,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,readiness for dialogue,Dnipropetrovsk,36-60 years,,
 2018,readiness for dialogue,Dnipropetrovsk,36-60 years,,5.9
 2019,readiness for dialogue,Dnipropetrovsk,36-60 years,,
-2017,readiness for dialogue,Dnipropetrovsk,over 61 years,,
-2018,readiness for dialogue,Dnipropetrovsk,over 61 years,,5.6
-2019,readiness for dialogue,Dnipropetrovsk,over 61 years,,
+2017,readiness for dialogue,Dnipropetrovsk,61 years and older,,
+2018,readiness for dialogue,Dnipropetrovsk,61 years and older,,5.6
+2019,readiness for dialogue,Dnipropetrovsk,61 years and older,,
 2017,readiness for dialogue,Dnipropetrovsk,,males,
 2018,readiness for dialogue,Dnipropetrovsk,,males,6.0
 2019,readiness for dialogue,Dnipropetrovsk,,males,
 2017,readiness for dialogue,Dnipropetrovsk,,females,
 2018,readiness for dialogue,Dnipropetrovsk,,females,5.7
 2019,readiness for dialogue,Dnipropetrovsk,,females,
-2017,readiness for dialogue,Zaporizhya,18-35 years,,
-2018,readiness for dialogue,Zaporizhya,18-35 years,,5.8
-2019,readiness for dialogue,Zaporizhya,18-35 years,,
-2017,readiness for dialogue,Zaporizhya,36-60 years,,
-2018,readiness for dialogue,Zaporizhya,36-60 years,,6.5
-2019,readiness for dialogue,Zaporizhya,36-60 years,,
-2017,readiness for dialogue,Zaporizhya,over 61 years,,
-2018,readiness for dialogue,Zaporizhya,over 61 years,,6.2
-2019,readiness for dialogue,Zaporizhya,over 61 years,,
-2017,readiness for dialogue,Zaporizhya,,males,
-2018,readiness for dialogue,Zaporizhya,,males,6.2
-2019,readiness for dialogue,Zaporizhya,,males,
-2017,readiness for dialogue,Zaporizhya,,females,
-2018,readiness for dialogue,Zaporizhya,,females,6.2
-2019,readiness for dialogue,Zaporizhya,,females,
+2017,readiness for dialogue,17_reg_Zaporizhya,18-35 years,,
+2018,readiness for dialogue,17_reg_Zaporizhya,18-35 years,,5.8
+2019,readiness for dialogue,17_reg_Zaporizhya,18-35 years,,
+2017,readiness for dialogue,17_reg_Zaporizhya,36-60 years,,
+2018,readiness for dialogue,17_reg_Zaporizhya,36-60 years,,6.5
+2019,readiness for dialogue,17_reg_Zaporizhya,36-60 years,,
+2017,readiness for dialogue,17_reg_Zaporizhya,61 years and older,,
+2018,readiness for dialogue,17_reg_Zaporizhya,61 years and older,,6.2
+2019,readiness for dialogue,17_reg_Zaporizhya,61 years and older,,
+2017,readiness for dialogue,17_reg_Zaporizhya,,males,
+2018,readiness for dialogue,17_reg_Zaporizhya,,males,6.2
+2019,readiness for dialogue,17_reg_Zaporizhya,,males,
+2017,readiness for dialogue,17_reg_Zaporizhya,,females,
+2018,readiness for dialogue,17_reg_Zaporizhya,,females,6.2
+2019,readiness for dialogue,17_reg_Zaporizhya,,females,
 2017,readiness for dialogue,Kharkiv,18-35 years,,
 2018,readiness for dialogue,Kharkiv,18-35 years,,6.2
 2019,readiness for dialogue,Kharkiv,18-35 years,,
 2017,readiness for dialogue,Kharkiv,36-60 years,,
 2018,readiness for dialogue,Kharkiv,36-60 years,,6.3
 2019,readiness for dialogue,Kharkiv,36-60 years,,
-2017,readiness for dialogue,Kharkiv,over 61 years,,
-2018,readiness for dialogue,Kharkiv,over 61 years,,6.6
-2019,readiness for dialogue,Kharkiv,over 61 years,,
+2017,readiness for dialogue,Kharkiv,61 years and older,,
+2018,readiness for dialogue,Kharkiv,61 years and older,,6.6
+2019,readiness for dialogue,Kharkiv,61 years and older,,
 2017,readiness for dialogue,Kharkiv,,males,
 2018,readiness for dialogue,Kharkiv,,males,6.8
 2019,readiness for dialogue,Kharkiv,,males,
@@ -380,9 +380,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,civic behavior,Donetsk,36-60 years,,
 2018,civic behavior,Donetsk,36-60 years,,3.4
 2019,civic behavior,Donetsk,36-60 years,,6.5
-2017,civic behavior,Donetsk,over 61 years,,
-2018,civic behavior,Donetsk,over 61 years,,2.2
-2019,civic behavior,Donetsk,over 61 years,,6.3
+2017,civic behavior,Donetsk,61 years and older,,
+2018,civic behavior,Donetsk,61 years and older,,2.2
+2019,civic behavior,Donetsk,61 years and older,,6.3
 2017,civic behavior,Donetsk,,males,
 2018,civic behavior,Donetsk,,males,3.8
 2019,civic behavior,Donetsk,,males,6.6
@@ -395,9 +395,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,civic behavior,Luhansk,36-60 years,,
 2018,civic behavior,Luhansk,36-60 years,,4.3
 2019,civic behavior,Luhansk,36-60 years,,6.2
-2017,civic behavior,Luhansk,over 61 years,,
-2018,civic behavior,Luhansk,over 61 years,,2.3
-2019,civic behavior,Luhansk,over 61 years,,5.8
+2017,civic behavior,Luhansk,61 years and older,,
+2018,civic behavior,Luhansk,61 years and older,,2.3
+2019,civic behavior,Luhansk,61 years and older,,5.8
 2017,civic behavior,Luhansk,,males,
 2018,civic behavior,Luhansk,,males,4.2
 2019,civic behavior,Luhansk,,males,6.2
@@ -410,39 +410,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,civic behavior,Dnipropetrovsk,36-60 years,,
 2018,civic behavior,Dnipropetrovsk,36-60 years,,4.7
 2019,civic behavior,Dnipropetrovsk,36-60 years,,
-2017,civic behavior,Dnipropetrovsk,over 61 years,,
-2018,civic behavior,Dnipropetrovsk,over 61 years,,4.2
-2019,civic behavior,Dnipropetrovsk,over 61 years,,
+2017,civic behavior,Dnipropetrovsk,61 years and older,,
+2018,civic behavior,Dnipropetrovsk,61 years and older,,4.2
+2019,civic behavior,Dnipropetrovsk,61 years and older,,
 2017,civic behavior,Dnipropetrovsk,,males,
 2018,civic behavior,Dnipropetrovsk,,males,5.3
 2019,civic behavior,Dnipropetrovsk,,males,
 2017,civic behavior,Dnipropetrovsk,,females,
 2018,civic behavior,Dnipropetrovsk,,females,4.1
 2019,civic behavior,Dnipropetrovsk,,females,
-2017,civic behavior,Zaporizhya,18-35 years,,
-2018,civic behavior,Zaporizhya,18-35 years,,4.8
-2019,civic behavior,Zaporizhya,18-35 years,,
-2017,civic behavior,Zaporizhya,36-60 years,,
-2018,civic behavior,Zaporizhya,36-60 years,,4.6
-2019,civic behavior,Zaporizhya,36-60 years,,
-2017,civic behavior,Zaporizhya,over 61 years,,
-2018,civic behavior,Zaporizhya,over 61 years,,3.4
-2019,civic behavior,Zaporizhya,over 61 years,,
-2017,civic behavior,Zaporizhya,,males,
-2018,civic behavior,Zaporizhya,,males,4.5
-2019,civic behavior,Zaporizhya,,males,
-2017,civic behavior,Zaporizhya,,females,
-2018,civic behavior,Zaporizhya,,females,4.2
-2019,civic behavior,Zaporizhya,,females,
+2017,civic behavior,17_reg_Zaporizhya,18-35 years,,
+2018,civic behavior,17_reg_Zaporizhya,18-35 years,,4.8
+2019,civic behavior,17_reg_Zaporizhya,18-35 years,,
+2017,civic behavior,17_reg_Zaporizhya,36-60 years,,
+2018,civic behavior,17_reg_Zaporizhya,36-60 years,,4.6
+2019,civic behavior,17_reg_Zaporizhya,36-60 years,,
+2017,civic behavior,17_reg_Zaporizhya,61 years and older,,
+2018,civic behavior,17_reg_Zaporizhya,61 years and older,,3.4
+2019,civic behavior,17_reg_Zaporizhya,61 years and older,,
+2017,civic behavior,17_reg_Zaporizhya,,males,
+2018,civic behavior,17_reg_Zaporizhya,,males,4.5
+2019,civic behavior,17_reg_Zaporizhya,,males,
+2017,civic behavior,17_reg_Zaporizhya,,females,
+2018,civic behavior,17_reg_Zaporizhya,,females,4.2
+2019,civic behavior,17_reg_Zaporizhya,,females,
 2017,civic behavior,Kharkiv,18-35 years,,
 2018,civic behavior,Kharkiv,18-35 years,,4.4
 2019,civic behavior,Kharkiv,18-35 years,,
 2017,civic behavior,Kharkiv,36-60 years,,
 2018,civic behavior,Kharkiv,36-60 years,,4.1
 2019,civic behavior,Kharkiv,36-60 years,,
-2017,civic behavior,Kharkiv,over 61 years,,
-2018,civic behavior,Kharkiv,over 61 years,,2.1
-2019,civic behavior,Kharkiv,over 61 years,,
+2017,civic behavior,Kharkiv,61 years and older,,
+2018,civic behavior,Kharkiv,61 years and older,,2.1
+2019,civic behavior,Kharkiv,61 years and older,,
 2017,civic behavior,Kharkiv,,males,
 2018,civic behavior,Kharkiv,,males,3.9
 2019,civic behavior,Kharkiv,,males,
@@ -455,9 +455,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,relations with government and safety,Donetsk,36-60 years,,
 2018,relations with government and safety,Donetsk,36-60 years,,0.9
 2019,relations with government and safety,Donetsk,36-60 years,,
-2017,relations with government and safety,Donetsk,over 61 years,,
-2018,relations with government and safety,Donetsk,over 61 years,,0.6
-2019,relations with government and safety,Donetsk,over 61 years,,
+2017,relations with government and safety,Donetsk,61 years and older,,
+2018,relations with government and safety,Donetsk,61 years and older,,0.6
+2019,relations with government and safety,Donetsk,61 years and older,,
 2017,relations with government and safety,Donetsk,,males,
 2018,relations with government and safety,Donetsk,,males,0.9
 2019,relations with government and safety,Donetsk,,males,
@@ -470,9 +470,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,relations with government and safety,Luhansk,36-60 years,,
 2018,relations with government and safety,Luhansk,36-60 years,,0.9
 2019,relations with government and safety,Luhansk,36-60 years,,
-2017,relations with government and safety,Luhansk,over 61 years,,
-2018,relations with government and safety,Luhansk,over 61 years,,0.6
-2019,relations with government and safety,Luhansk,over 61 years,,
+2017,relations with government and safety,Luhansk,61 years and older,,
+2018,relations with government and safety,Luhansk,61 years and older,,0.6
+2019,relations with government and safety,Luhansk,61 years and older,,
 2017,relations with government and safety,Luhansk,,males,
 2018,relations with government and safety,Luhansk,,males,0.9
 2019,relations with government and safety,Luhansk,,males,
@@ -485,39 +485,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,relations with government and safety,Dnipropetrovsk,36-60 years,,
 2018,relations with government and safety,Dnipropetrovsk,36-60 years,,0.8
 2019,relations with government and safety,Dnipropetrovsk,36-60 years,,
-2017,relations with government and safety,Dnipropetrovsk,over 61 years,,
-2018,relations with government and safety,Dnipropetrovsk,over 61 years,,0.6
-2019,relations with government and safety,Dnipropetrovsk,over 61 years,,
+2017,relations with government and safety,Dnipropetrovsk,61 years and older,,
+2018,relations with government and safety,Dnipropetrovsk,61 years and older,,0.6
+2019,relations with government and safety,Dnipropetrovsk,61 years and older,,
 2017,relations with government and safety,Dnipropetrovsk,,males,
 2018,relations with government and safety,Dnipropetrovsk,,males,0.9
 2019,relations with government and safety,Dnipropetrovsk,,males,
 2017,relations with government and safety,Dnipropetrovsk,,females,
 2018,relations with government and safety,Dnipropetrovsk,,females,0.8
 2019,relations with government and safety,Dnipropetrovsk,,females,
-2017,relations with government and safety,Zaporizhya,18-35 years,,
-2018,relations with government and safety,Zaporizhya,18-35 years,,1.4
-2019,relations with government and safety,Zaporizhya,18-35 years,,
-2017,relations with government and safety,Zaporizhya,36-60 years,,
-2018,relations with government and safety,Zaporizhya,36-60 years,,1.3
-2019,relations with government and safety,Zaporizhya,36-60 years,,
-2017,relations with government and safety,Zaporizhya,over 61 years,,
-2018,relations with government and safety,Zaporizhya,over 61 years,,0.7
-2019,relations with government and safety,Zaporizhya,over 61 years,,
-2017,relations with government and safety,Zaporizhya,,males,
-2018,relations with government and safety,Zaporizhya,,males,1.2
-2019,relations with government and safety,Zaporizhya,,males,
-2017,relations with government and safety,Zaporizhya,,females,
-2018,relations with government and safety,Zaporizhya,,females,1.1
-2019,relations with government and safety,Zaporizhya,,females,
+2017,relations with government and safety,17_reg_Zaporizhya,18-35 years,,
+2018,relations with government and safety,17_reg_Zaporizhya,18-35 years,,1.4
+2019,relations with government and safety,17_reg_Zaporizhya,18-35 years,,
+2017,relations with government and safety,17_reg_Zaporizhya,36-60 years,,
+2018,relations with government and safety,17_reg_Zaporizhya,36-60 years,,1.3
+2019,relations with government and safety,17_reg_Zaporizhya,36-60 years,,
+2017,relations with government and safety,17_reg_Zaporizhya,61 years and older,,
+2018,relations with government and safety,17_reg_Zaporizhya,61 years and older,,0.7
+2019,relations with government and safety,17_reg_Zaporizhya,61 years and older,,
+2017,relations with government and safety,17_reg_Zaporizhya,,males,
+2018,relations with government and safety,17_reg_Zaporizhya,,males,1.2
+2019,relations with government and safety,17_reg_Zaporizhya,,males,
+2017,relations with government and safety,17_reg_Zaporizhya,,females,
+2018,relations with government and safety,17_reg_Zaporizhya,,females,1.1
+2019,relations with government and safety,17_reg_Zaporizhya,,females,
 2017,relations with government and safety,Kharkiv,18-35 years,,
 2018,relations with government and safety,Kharkiv,18-35 years,,1.5
 2019,relations with government and safety,Kharkiv,18-35 years,,
 2017,relations with government and safety,Kharkiv,36-60 years,,
 2018,relations with government and safety,Kharkiv,36-60 years,,1.3
 2019,relations with government and safety,Kharkiv,36-60 years,,
-2017,relations with government and safety,Kharkiv,over 61 years,,
-2018,relations with government and safety,Kharkiv,over 61 years,,0.8
-2019,relations with government and safety,Kharkiv,over 61 years,,
+2017,relations with government and safety,Kharkiv,61 years and older,,
+2018,relations with government and safety,Kharkiv,61 years and older,,0.8
+2019,relations with government and safety,Kharkiv,61 years and older,,
 2017,relations with government and safety,Kharkiv,,males,
 2018,relations with government and safety,Kharkiv,,males,1.3
 2019,relations with government and safety,Kharkiv,,males,
@@ -530,9 +530,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,relations between groups,Donetsk,36-60 years,,
 2018,relations between groups,Donetsk,36-60 years,,2.4
 2019,relations between groups,Donetsk,36-60 years,,6.4
-2017,relations between groups,Donetsk,over 61 years,,
-2018,relations between groups,Donetsk,over 61 years,,1.7
-2019,relations between groups,Donetsk,over 61 years,,5.9
+2017,relations between groups,Donetsk,61 years and older,,
+2018,relations between groups,Donetsk,61 years and older,,1.7
+2019,relations between groups,Donetsk,61 years and older,,5.9
 2017,relations between groups,Donetsk,,males,
 2018,relations between groups,Donetsk,,males,2.4
 2019,relations between groups,Donetsk,,males,6.5
@@ -545,9 +545,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,relations between groups,Luhansk,36-60 years,,
 2018,relations between groups,Luhansk,36-60 years,,2.7
 2019,relations between groups,Luhansk,36-60 years,,6.0
-2017,relations between groups,Luhansk,over 61 years,,
-2018,relations between groups,Luhansk,over 61 years,,2.1
-2019,relations between groups,Luhansk,over 61 years,,5.1
+2017,relations between groups,Luhansk,61 years and older,,
+2018,relations between groups,Luhansk,61 years and older,,2.1
+2019,relations between groups,Luhansk,61 years and older,,5.1
 2017,relations between groups,Luhansk,,males,
 2018,relations between groups,Luhansk,,males,2.8
 2019,relations between groups,Luhansk,,males,5.9
@@ -560,39 +560,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,relations between groups,Dnipropetrovsk,36-60 years,,
 2018,relations between groups,Dnipropetrovsk,36-60 years,,2.2
 2019,relations between groups,Dnipropetrovsk,36-60 years,,
-2017,relations between groups,Dnipropetrovsk,over 61 years,,
-2018,relations between groups,Dnipropetrovsk,over 61 years,,1.7
-2019,relations between groups,Dnipropetrovsk,over 61 years,,
+2017,relations between groups,Dnipropetrovsk,61 years and older,,
+2018,relations between groups,Dnipropetrovsk,61 years and older,,1.7
+2019,relations between groups,Dnipropetrovsk,61 years and older,,
 2017,relations between groups,Dnipropetrovsk,,males,
 2018,relations between groups,Dnipropetrovsk,,males,2.5
 2019,relations between groups,Dnipropetrovsk,,males,
 2017,relations between groups,Dnipropetrovsk,,females,
 2018,relations between groups,Dnipropetrovsk,,females,2.0
 2019,relations between groups,Dnipropetrovsk,,females,
-2017,relations between groups,Zaporizhya,18-35 years,,
-2018,relations between groups,Zaporizhya,18-35 years,,2.9
-2019,relations between groups,Zaporizhya,18-35 years,,
-2017,relations between groups,Zaporizhya,36-60 years,,
-2018,relations between groups,Zaporizhya,36-60 years,,2.9
-2019,relations between groups,Zaporizhya,36-60 years,,
-2017,relations between groups,Zaporizhya,over 61 years,,
-2018,relations between groups,Zaporizhya,over 61 years,,2.3
-2019,relations between groups,Zaporizhya,over 61 years,,
-2017,relations between groups,Zaporizhya,,males,
-2018,relations between groups,Zaporizhya,,males,3.0
-2019,relations between groups,Zaporizhya,,males,
-2017,relations between groups,Zaporizhya,,females,
-2018,relations between groups,Zaporizhya,,females,2.5
-2019,relations between groups,Zaporizhya,,females,
+2017,relations between groups,17_reg_Zaporizhya,18-35 years,,
+2018,relations between groups,17_reg_Zaporizhya,18-35 years,,2.9
+2019,relations between groups,17_reg_Zaporizhya,18-35 years,,
+2017,relations between groups,17_reg_Zaporizhya,36-60 years,,
+2018,relations between groups,17_reg_Zaporizhya,36-60 years,,2.9
+2019,relations between groups,17_reg_Zaporizhya,36-60 years,,
+2017,relations between groups,17_reg_Zaporizhya,61 years and older,,
+2018,relations between groups,17_reg_Zaporizhya,61 years and older,,2.3
+2019,relations between groups,17_reg_Zaporizhya,61 years and older,,
+2017,relations between groups,17_reg_Zaporizhya,,males,
+2018,relations between groups,17_reg_Zaporizhya,,males,3.0
+2019,relations between groups,17_reg_Zaporizhya,,males,
+2017,relations between groups,17_reg_Zaporizhya,,females,
+2018,relations between groups,17_reg_Zaporizhya,,females,2.5
+2019,relations between groups,17_reg_Zaporizhya,,females,
 2017,relations between groups,Kharkiv,18-35 years,,
 2018,relations between groups,Kharkiv,18-35 years,,2.9
 2019,relations between groups,Kharkiv,18-35 years,,
 2017,relations between groups,Kharkiv,36-60 years,,
 2018,relations between groups,Kharkiv,36-60 years,,2.7
 2019,relations between groups,Kharkiv,36-60 years,,
-2017,relations between groups,Kharkiv,over 61 years,,
-2018,relations between groups,Kharkiv,over 61 years,,2.0
-2019,relations between groups,Kharkiv,over 61 years,,
+2017,relations between groups,Kharkiv,61 years and older,,
+2018,relations between groups,Kharkiv,61 years and older,,2.0
+2019,relations between groups,Kharkiv,61 years and older,,
 2017,relations between groups,Kharkiv,,males,
 2018,relations between groups,Kharkiv,,males,2.8
 2019,relations between groups,Kharkiv,,males,
@@ -605,9 +605,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,psycho-social activity,Donetsk,36-60 years,,
 2018,psycho-social activity,Donetsk,36-60 years,,1.9
 2019,psycho-social activity,Donetsk,36-60 years,,4.8
-2017,psycho-social activity,Donetsk,over 61 years,,
-2018,psycho-social activity,Donetsk,over 61 years,,1.0
-2019,psycho-social activity,Donetsk,over 61 years,,4.8
+2017,psycho-social activity,Donetsk,61 years and older,,
+2018,psycho-social activity,Donetsk,61 years and older,,1.0
+2019,psycho-social activity,Donetsk,61 years and older,,4.8
 2017,psycho-social activity,Donetsk,,males,
 2018,psycho-social activity,Donetsk,,males,2.5
 2019,psycho-social activity,Donetsk,,males,5.2
@@ -620,9 +620,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,psycho-social activity,Luhansk,36-60 years,,
 2018,psycho-social activity,Luhansk,36-60 years,,1.7
 2019,psycho-social activity,Luhansk,36-60 years,,4.6
-2017,psycho-social activity,Luhansk,over 61 years,,
-2018,psycho-social activity,Luhansk,over 61 years,,1.0
-2019,psycho-social activity,Luhansk,over 61 years,,4.4
+2017,psycho-social activity,Luhansk,61 years and older,,
+2018,psycho-social activity,Luhansk,61 years and older,,1.0
+2019,psycho-social activity,Luhansk,61 years and older,,4.4
 2017,psycho-social activity,Luhansk,,males,
 2018,psycho-social activity,Luhansk,,males,2.4
 2019,psycho-social activity,Luhansk,,males,5.0
@@ -635,39 +635,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,psycho-social activity,Dnipropetrovsk,36-60 years,,
 2018,psycho-social activity,Dnipropetrovsk,36-60 years,,2.0
 2019,psycho-social activity,Dnipropetrovsk,36-60 years,,
-2017,psycho-social activity,Dnipropetrovsk,over 61 years,,
-2018,psycho-social activity,Dnipropetrovsk,over 61 years,,1.4
-2019,psycho-social activity,Dnipropetrovsk,over 61 years,,
+2017,psycho-social activity,Dnipropetrovsk,61 years and older,,
+2018,psycho-social activity,Dnipropetrovsk,61 years and older,,1.4
+2019,psycho-social activity,Dnipropetrovsk,61 years and older,,
 2017,psycho-social activity,Dnipropetrovsk,,males,
 2018,psycho-social activity,Dnipropetrovsk,,males,2.5
 2019,psycho-social activity,Dnipropetrovsk,,males,
 2017,psycho-social activity,Dnipropetrovsk,,females,
 2018,psycho-social activity,Dnipropetrovsk,,females,1.4
 2019,psycho-social activity,Dnipropetrovsk,,females,
-2017,psycho-social activity,Zaporizhya,18-35 years,,
-2018,psycho-social activity,Zaporizhya,18-35 years,,2.5
-2019,psycho-social activity,Zaporizhya,18-35 years,,
-2017,psycho-social activity,Zaporizhya,36-60 years,,
-2018,psycho-social activity,Zaporizhya,36-60 years,,2.2
-2019,psycho-social activity,Zaporizhya,36-60 years,,
-2017,psycho-social activity,Zaporizhya,over 61 years,,
-2018,psycho-social activity,Zaporizhya,over 61 years,,1.1
-2019,psycho-social activity,Zaporizhya,over 61 years,,
-2017,psycho-social activity,Zaporizhya,,males,
-2018,psycho-social activity,Zaporizhya,,males,2.9
-2019,psycho-social activity,Zaporizhya,,males,
-2017,psycho-social activity,Zaporizhya,,females,
-2018,psycho-social activity,Zaporizhya,,females,1.2
-2019,psycho-social activity,Zaporizhya,,females,
+2017,psycho-social activity,17_reg_Zaporizhya,18-35 years,,
+2018,psycho-social activity,17_reg_Zaporizhya,18-35 years,,2.5
+2019,psycho-social activity,17_reg_Zaporizhya,18-35 years,,
+2017,psycho-social activity,17_reg_Zaporizhya,36-60 years,,
+2018,psycho-social activity,17_reg_Zaporizhya,36-60 years,,2.2
+2019,psycho-social activity,17_reg_Zaporizhya,36-60 years,,
+2017,psycho-social activity,17_reg_Zaporizhya,61 years and older,,
+2018,psycho-social activity,17_reg_Zaporizhya,61 years and older,,1.1
+2019,psycho-social activity,17_reg_Zaporizhya,61 years and older,,
+2017,psycho-social activity,17_reg_Zaporizhya,,males,
+2018,psycho-social activity,17_reg_Zaporizhya,,males,2.9
+2019,psycho-social activity,17_reg_Zaporizhya,,males,
+2017,psycho-social activity,17_reg_Zaporizhya,,females,
+2018,psycho-social activity,17_reg_Zaporizhya,,females,1.2
+2019,psycho-social activity,17_reg_Zaporizhya,,females,
 2017,psycho-social activity,Kharkiv,18-35 years,,
 2018,psycho-social activity,Kharkiv,18-35 years,,2.3
 2019,psycho-social activity,Kharkiv,18-35 years,,
 2017,psycho-social activity,Kharkiv,36-60 years,,
 2018,psycho-social activity,Kharkiv,36-60 years,,1.9
 2019,psycho-social activity,Kharkiv,36-60 years,,
-2017,psycho-social activity,Kharkiv,over 61 years,,
-2018,psycho-social activity,Kharkiv,over 61 years,,1.0
-2019,psycho-social activity,Kharkiv,over 61 years,,
+2017,psycho-social activity,Kharkiv,61 years and older,,
+2018,psycho-social activity,Kharkiv,61 years and older,,1.0
+2019,psycho-social activity,Kharkiv,61 years and older,,
 2017,psycho-social activity,Kharkiv,,males,
 2018,psycho-social activity,Kharkiv,,males,2.5
 2019,psycho-social activity,Kharkiv,,males,
@@ -680,9 +680,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,tolerant and active citizenship,Donetsk,36-60 years,,
 2018,tolerant and active citizenship,Donetsk,36-60 years,,2.3
 2019,tolerant and active citizenship,Donetsk,36-60 years,,4.0
-2017,tolerant and active citizenship,Donetsk,over 61 years,,
-2018,tolerant and active citizenship,Donetsk,over 61 years,,2.3
-2019,tolerant and active citizenship,Donetsk,over 61 years,,2.3
+2017,tolerant and active citizenship,Donetsk,61 years and older,,
+2018,tolerant and active citizenship,Donetsk,61 years and older,,2.3
+2019,tolerant and active citizenship,Donetsk,61 years and older,,2.3
 2017,tolerant and active citizenship,Donetsk,,males,
 2018,tolerant and active citizenship,Donetsk,,males,2.0
 2019,tolerant and active citizenship,Donetsk,,males,4.3
@@ -695,9 +695,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,tolerant and active citizenship,Luhansk,36-60 years,,
 2018,tolerant and active citizenship,Luhansk,36-60 years,,2.5
 2019,tolerant and active citizenship,Luhansk,36-60 years,,5.0
-2017,tolerant and active citizenship,Luhansk,over 61 years,,
-2018,tolerant and active citizenship,Luhansk,over 61 years,,2.2
-2019,tolerant and active citizenship,Luhansk,over 61 years,,3.0
+2017,tolerant and active citizenship,Luhansk,61 years and older,,
+2018,tolerant and active citizenship,Luhansk,61 years and older,,2.2
+2019,tolerant and active citizenship,Luhansk,61 years and older,,3.0
 2017,tolerant and active citizenship,Luhansk,,males,
 2018,tolerant and active citizenship,Luhansk,,males,2.1
 2019,tolerant and active citizenship,Luhansk,,males,5.4
@@ -710,39 +710,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,tolerant and active citizenship,Dnipropetrovsk,36-60 years,,
 2018,tolerant and active citizenship,Dnipropetrovsk,36-60 years,,2.8
 2019,tolerant and active citizenship,Dnipropetrovsk,36-60 years,,
-2017,tolerant and active citizenship,Dnipropetrovsk,over 61 years,,
-2018,tolerant and active citizenship,Dnipropetrovsk,over 61 years,,3.1
-2019,tolerant and active citizenship,Dnipropetrovsk,over 61 years,,
+2017,tolerant and active citizenship,Dnipropetrovsk,61 years and older,,
+2018,tolerant and active citizenship,Dnipropetrovsk,61 years and older,,3.1
+2019,tolerant and active citizenship,Dnipropetrovsk,61 years and older,,
 2017,tolerant and active citizenship,Dnipropetrovsk,,males,
 2018,tolerant and active citizenship,Dnipropetrovsk,,males,2.5
 2019,tolerant and active citizenship,Dnipropetrovsk,,males,
 2017,tolerant and active citizenship,Dnipropetrovsk,,females,
 2018,tolerant and active citizenship,Dnipropetrovsk,,females,2.8
 2019,tolerant and active citizenship,Dnipropetrovsk,,females,
-2017,tolerant and active citizenship,Zaporizhya,18-35 years,,
-2018,tolerant and active citizenship,Zaporizhya,18-35 years,,2.2
-2019,tolerant and active citizenship,Zaporizhya,18-35 years,,
-2017,tolerant and active citizenship,Zaporizhya,36-60 years,,
-2018,tolerant and active citizenship,Zaporizhya,36-60 years,,2.8
-2019,tolerant and active citizenship,Zaporizhya,36-60 years,,
-2017,tolerant and active citizenship,Zaporizhya,over 61 years,,
-2018,tolerant and active citizenship,Zaporizhya,over 61 years,,2.6
-2019,tolerant and active citizenship,Zaporizhya,over 61 years,,
-2017,tolerant and active citizenship,Zaporizhya,,males,
-2018,tolerant and active citizenship,Zaporizhya,,males,2.3
-2019,tolerant and active citizenship,Zaporizhya,,males,
-2017,tolerant and active citizenship,Zaporizhya,,females,
-2018,tolerant and active citizenship,Zaporizhya,,females,2.7
-2019,tolerant and active citizenship,Zaporizhya,,females,
+2017,tolerant and active citizenship,17_reg_Zaporizhya,18-35 years,,
+2018,tolerant and active citizenship,17_reg_Zaporizhya,18-35 years,,2.2
+2019,tolerant and active citizenship,17_reg_Zaporizhya,18-35 years,,
+2017,tolerant and active citizenship,17_reg_Zaporizhya,36-60 years,,
+2018,tolerant and active citizenship,17_reg_Zaporizhya,36-60 years,,2.8
+2019,tolerant and active citizenship,17_reg_Zaporizhya,36-60 years,,
+2017,tolerant and active citizenship,17_reg_Zaporizhya,61 years and older,,
+2018,tolerant and active citizenship,17_reg_Zaporizhya,61 years and older,,2.6
+2019,tolerant and active citizenship,17_reg_Zaporizhya,61 years and older,,
+2017,tolerant and active citizenship,17_reg_Zaporizhya,,males,
+2018,tolerant and active citizenship,17_reg_Zaporizhya,,males,2.3
+2019,tolerant and active citizenship,17_reg_Zaporizhya,,males,
+2017,tolerant and active citizenship,17_reg_Zaporizhya,,females,
+2018,tolerant and active citizenship,17_reg_Zaporizhya,,females,2.7
+2019,tolerant and active citizenship,17_reg_Zaporizhya,,females,
 2017,tolerant and active citizenship,Kharkiv,18-35 years,,
 2018,tolerant and active citizenship,Kharkiv,18-35 years,,1.9
 2019,tolerant and active citizenship,Kharkiv,18-35 years,,
 2017,tolerant and active citizenship,Kharkiv,36-60 years,,
 2018,tolerant and active citizenship,Kharkiv,36-60 years,,2.3
 2019,tolerant and active citizenship,Kharkiv,36-60 years,,
-2017,tolerant and active citizenship,Kharkiv,over 61 years,,
-2018,tolerant and active citizenship,Kharkiv,over 61 years,,2.6
-2019,tolerant and active citizenship,Kharkiv,over 61 years,,
+2017,tolerant and active citizenship,Kharkiv,61 years and older,,
+2018,tolerant and active citizenship,Kharkiv,61 years and older,,2.6
+2019,tolerant and active citizenship,Kharkiv,61 years and older,,
 2017,tolerant and active citizenship,Kharkiv,,males,
 2018,tolerant and active citizenship,Kharkiv,,males,2.1
 2019,tolerant and active citizenship,Kharkiv,,males,
@@ -755,9 +755,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,propensity to migrate,Donetsk,36-60 years,,
 2018,propensity to migrate,Donetsk,36-60 years,,
 2019,propensity to migrate,Donetsk,36-60 years,,3.9
-2017,propensity to migrate,Donetsk,over 61 years,,
-2018,propensity to migrate,Donetsk,over 61 years,,
-2019,propensity to migrate,Donetsk,over 61 years,,2.3
+2017,propensity to migrate,Donetsk,61 years and older,,
+2018,propensity to migrate,Donetsk,61 years and older,,
+2019,propensity to migrate,Donetsk,61 years and older,,2.3
 2017,propensity to migrate,Donetsk,,males,
 2018,propensity to migrate,Donetsk,,males,
 2019,propensity to migrate,Donetsk,,males,3.9
@@ -770,9 +770,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,propensity to migrate,Luhansk,36-60 years,,
 2018,propensity to migrate,Luhansk,36-60 years,,
 2019,propensity to migrate,Luhansk,36-60 years,,4.4
-2017,propensity to migrate,Luhansk,over 61 years,,
-2018,propensity to migrate,Luhansk,over 61 years,,
-2019,propensity to migrate,Luhansk,over 61 years,,1.7
+2017,propensity to migrate,Luhansk,61 years and older,,
+2018,propensity to migrate,Luhansk,61 years and older,,
+2019,propensity to migrate,Luhansk,61 years and older,,1.7
 2017,propensity to migrate,Luhansk,,males,
 2018,propensity to migrate,Luhansk,,males,
 2019,propensity to migrate,Luhansk,,males,4.4
@@ -785,39 +785,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,propensity to migrate,Dnipropetrovsk,36-60 years,,
 2018,propensity to migrate,Dnipropetrovsk,36-60 years,,
 2019,propensity to migrate,Dnipropetrovsk,36-60 years,,
-2017,propensity to migrate,Dnipropetrovsk,over 61 years,,
-2018,propensity to migrate,Dnipropetrovsk,over 61 years,,
-2019,propensity to migrate,Dnipropetrovsk,over 61 years,,
+2017,propensity to migrate,Dnipropetrovsk,61 years and older,,
+2018,propensity to migrate,Dnipropetrovsk,61 years and older,,
+2019,propensity to migrate,Dnipropetrovsk,61 years and older,,
 2017,propensity to migrate,Dnipropetrovsk,,males,
 2018,propensity to migrate,Dnipropetrovsk,,males,
 2019,propensity to migrate,Dnipropetrovsk,,males,
 2017,propensity to migrate,Dnipropetrovsk,,females,
 2018,propensity to migrate,Dnipropetrovsk,,females,
 2019,propensity to migrate,Dnipropetrovsk,,females,
-2017,propensity to migrate,Zaporizhya,18-35 years,,
-2018,propensity to migrate,Zaporizhya,18-35 years,,
-2019,propensity to migrate,Zaporizhya,18-35 years,,
-2017,propensity to migrate,Zaporizhya,36-60 years,,
-2018,propensity to migrate,Zaporizhya,36-60 years,,
-2019,propensity to migrate,Zaporizhya,36-60 years,,
-2017,propensity to migrate,Zaporizhya,over 61 years,,
-2018,propensity to migrate,Zaporizhya,over 61 years,,
-2019,propensity to migrate,Zaporizhya,over 61 years,,
-2017,propensity to migrate,Zaporizhya,,males,
-2018,propensity to migrate,Zaporizhya,,males,
-2019,propensity to migrate,Zaporizhya,,males,
-2017,propensity to migrate,Zaporizhya,,females,
-2018,propensity to migrate,Zaporizhya,,females,
-2019,propensity to migrate,Zaporizhya,,females,
+2017,propensity to migrate,17_reg_Zaporizhya,18-35 years,,
+2018,propensity to migrate,17_reg_Zaporizhya,18-35 years,,
+2019,propensity to migrate,17_reg_Zaporizhya,18-35 years,,
+2017,propensity to migrate,17_reg_Zaporizhya,36-60 years,,
+2018,propensity to migrate,17_reg_Zaporizhya,36-60 years,,
+2019,propensity to migrate,17_reg_Zaporizhya,36-60 years,,
+2017,propensity to migrate,17_reg_Zaporizhya,61 years and older,,
+2018,propensity to migrate,17_reg_Zaporizhya,61 years and older,,
+2019,propensity to migrate,17_reg_Zaporizhya,61 years and older,,
+2017,propensity to migrate,17_reg_Zaporizhya,,males,
+2018,propensity to migrate,17_reg_Zaporizhya,,males,
+2019,propensity to migrate,17_reg_Zaporizhya,,males,
+2017,propensity to migrate,17_reg_Zaporizhya,,females,
+2018,propensity to migrate,17_reg_Zaporizhya,,females,
+2019,propensity to migrate,17_reg_Zaporizhya,,females,
 2017,propensity to migrate,Kharkiv,18-35 years,,
 2018,propensity to migrate,Kharkiv,18-35 years,,
 2019,propensity to migrate,Kharkiv,18-35 years,,
 2017,propensity to migrate,Kharkiv,36-60 years,,
 2018,propensity to migrate,Kharkiv,36-60 years,,
 2019,propensity to migrate,Kharkiv,36-60 years,,
-2017,propensity to migrate,Kharkiv,over 61 years,,
-2018,propensity to migrate,Kharkiv,over 61 years,,
-2019,propensity to migrate,Kharkiv,over 61 years,,
+2017,propensity to migrate,Kharkiv,61 years and older,,
+2018,propensity to migrate,Kharkiv,61 years and older,,
+2019,propensity to migrate,Kharkiv,61 years and older,,
 2017,propensity to migrate,Kharkiv,,males,
 2018,propensity to migrate,Kharkiv,,males,
 2019,propensity to migrate,Kharkiv,,males,
@@ -830,9 +830,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,cooperation in the community,Donetsk,36-60 years,,
 2018,cooperation in the community,Donetsk,36-60 years,,
 2019,cooperation in the community,Donetsk,36-60 years,,5.2
-2017,cooperation in the community,Donetsk,over 61 years,,
-2018,cooperation in the community,Donetsk,over 61 years,,
-2019,cooperation in the community,Donetsk,over 61 years,,5.9
+2017,cooperation in the community,Donetsk,61 years and older,,
+2018,cooperation in the community,Donetsk,61 years and older,,
+2019,cooperation in the community,Donetsk,61 years and older,,5.9
 2017,cooperation in the community,Donetsk,,males,
 2018,cooperation in the community,Donetsk,,males,
 2019,cooperation in the community,Donetsk,,males,5.0
@@ -845,9 +845,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,cooperation in the community,Luhansk,36-60 years,,
 2018,cooperation in the community,Luhansk,36-60 years,,
 2019,cooperation in the community,Luhansk,36-60 years,,5.4
-2017,cooperation in the community,Luhansk,over 61 years,,
-2018,cooperation in the community,Luhansk,over 61 years,,
-2019,cooperation in the community,Luhansk,over 61 years,,5.9
+2017,cooperation in the community,Luhansk,61 years and older,,
+2018,cooperation in the community,Luhansk,61 years and older,,
+2019,cooperation in the community,Luhansk,61 years and older,,5.9
 2017,cooperation in the community,Luhansk,,males,
 2018,cooperation in the community,Luhansk,,males,
 2019,cooperation in the community,Luhansk,,males,5.1
@@ -860,39 +860,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,cooperation in the community,Dnipropetrovsk,36-60 years,,
 2018,cooperation in the community,Dnipropetrovsk,36-60 years,,
 2019,cooperation in the community,Dnipropetrovsk,36-60 years,,
-2017,cooperation in the community,Dnipropetrovsk,over 61 years,,
-2018,cooperation in the community,Dnipropetrovsk,over 61 years,,
-2019,cooperation in the community,Dnipropetrovsk,over 61 years,,
+2017,cooperation in the community,Dnipropetrovsk,61 years and older,,
+2018,cooperation in the community,Dnipropetrovsk,61 years and older,,
+2019,cooperation in the community,Dnipropetrovsk,61 years and older,,
 2017,cooperation in the community,Dnipropetrovsk,,males,
 2018,cooperation in the community,Dnipropetrovsk,,males,
 2019,cooperation in the community,Dnipropetrovsk,,males,
 2017,cooperation in the community,Dnipropetrovsk,,females,
 2018,cooperation in the community,Dnipropetrovsk,,females,
 2019,cooperation in the community,Dnipropetrovsk,,females,
-2017,cooperation in the community,Zaporizhya,18-35 years,,
-2018,cooperation in the community,Zaporizhya,18-35 years,,
-2019,cooperation in the community,Zaporizhya,18-35 years,,
-2017,cooperation in the community,Zaporizhya,36-60 years,,
-2018,cooperation in the community,Zaporizhya,36-60 years,,
-2019,cooperation in the community,Zaporizhya,36-60 years,,
-2017,cooperation in the community,Zaporizhya,over 61 years,,
-2018,cooperation in the community,Zaporizhya,over 61 years,,
-2019,cooperation in the community,Zaporizhya,over 61 years,,
-2017,cooperation in the community,Zaporizhya,,males,
-2018,cooperation in the community,Zaporizhya,,males,
-2019,cooperation in the community,Zaporizhya,,males,
-2017,cooperation in the community,Zaporizhya,,females,
-2018,cooperation in the community,Zaporizhya,,females,
-2019,cooperation in the community,Zaporizhya,,females,
+2017,cooperation in the community,17_reg_Zaporizhya,18-35 years,,
+2018,cooperation in the community,17_reg_Zaporizhya,18-35 years,,
+2019,cooperation in the community,17_reg_Zaporizhya,18-35 years,,
+2017,cooperation in the community,17_reg_Zaporizhya,36-60 years,,
+2018,cooperation in the community,17_reg_Zaporizhya,36-60 years,,
+2019,cooperation in the community,17_reg_Zaporizhya,36-60 years,,
+2017,cooperation in the community,17_reg_Zaporizhya,61 years and older,,
+2018,cooperation in the community,17_reg_Zaporizhya,61 years and older,,
+2019,cooperation in the community,17_reg_Zaporizhya,61 years and older,,
+2017,cooperation in the community,17_reg_Zaporizhya,,males,
+2018,cooperation in the community,17_reg_Zaporizhya,,males,
+2019,cooperation in the community,17_reg_Zaporizhya,,males,
+2017,cooperation in the community,17_reg_Zaporizhya,,females,
+2018,cooperation in the community,17_reg_Zaporizhya,,females,
+2019,cooperation in the community,17_reg_Zaporizhya,,females,
 2017,cooperation in the community,Kharkiv,18-35 years,,
 2018,cooperation in the community,Kharkiv,18-35 years,,
 2019,cooperation in the community,Kharkiv,18-35 years,,
 2017,cooperation in the community,Kharkiv,36-60 years,,
 2018,cooperation in the community,Kharkiv,36-60 years,,
 2019,cooperation in the community,Kharkiv,36-60 years,,
-2017,cooperation in the community,Kharkiv,over 61 years,,
-2018,cooperation in the community,Kharkiv,over 61 years,,
-2019,cooperation in the community,Kharkiv,over 61 years,,
+2017,cooperation in the community,Kharkiv,61 years and older,,
+2018,cooperation in the community,Kharkiv,61 years and older,,
+2019,cooperation in the community,Kharkiv,61 years and older,,
 2017,cooperation in the community,Kharkiv,,males,
 2018,cooperation in the community,Kharkiv,,males,
 2019,cooperation in the community,Kharkiv,,males,
@@ -905,9 +905,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,political security,Donetsk,36-60 years,,
 2018,political security,Donetsk,36-60 years,,
 2019,political security,Donetsk,36-60 years,,4.8
-2017,political security,Donetsk,over 61 years,,
-2018,political security,Donetsk,over 61 years,,
-2019,political security,Donetsk,over 61 years,,4.8
+2017,political security,Donetsk,61 years and older,,
+2018,political security,Donetsk,61 years and older,,
+2019,political security,Donetsk,61 years and older,,4.8
 2017,political security,Donetsk,,males,
 2018,political security,Donetsk,,males,
 2019,political security,Donetsk,,males,5.2
@@ -920,9 +920,9 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,political security,Luhansk,36-60 years,,
 2018,political security,Luhansk,36-60 years,,
 2019,political security,Luhansk,36-60 years,,4.6
-2017,political security,Luhansk,over 61 years,,
-2018,political security,Luhansk,over 61 years,,
-2019,political security,Luhansk,over 61 years,,4.4
+2017,political security,Luhansk,61 years and older,,
+2018,political security,Luhansk,61 years and older,,
+2019,political security,Luhansk,61 years and older,,4.4
 2017,political security,Luhansk,,males,
 2018,political security,Luhansk,,males,
 2019,political security,Luhansk,,males,5.0
@@ -935,39 +935,39 @@ Year,Сomponent of the index,Region,Age,Gender,Value
 2017,political security,Dnipropetrovsk,36-60 years,,
 2018,political security,Dnipropetrovsk,36-60 years,,
 2019,political security,Dnipropetrovsk,36-60 years,,
-2017,political security,Dnipropetrovsk,over 61 years,,
-2018,political security,Dnipropetrovsk,over 61 years,,
-2019,political security,Dnipropetrovsk,over 61 years,,
+2017,political security,Dnipropetrovsk,61 years and older,,
+2018,political security,Dnipropetrovsk,61 years and older,,
+2019,political security,Dnipropetrovsk,61 years and older,,
 2017,political security,Dnipropetrovsk,,males,
 2018,political security,Dnipropetrovsk,,males,
 2019,political security,Dnipropetrovsk,,males,
 2017,political security,Dnipropetrovsk,,females,
 2018,political security,Dnipropetrovsk,,females,
 2019,political security,Dnipropetrovsk,,females,
-2017,political security,Zaporizhya,18-35 years,,
-2018,political security,Zaporizhya,18-35 years,,
-2019,political security,Zaporizhya,18-35 years,,
-2017,political security,Zaporizhya,36-60 years,,
-2018,political security,Zaporizhya,36-60 years,,
-2019,political security,Zaporizhya,36-60 years,,
-2017,political security,Zaporizhya,over 61 years,,
-2018,political security,Zaporizhya,over 61 years,,
-2019,political security,Zaporizhya,over 61 years,,
-2017,political security,Zaporizhya,,males,
-2018,political security,Zaporizhya,,males,
-2019,political security,Zaporizhya,,males,
-2017,political security,Zaporizhya,,females,
-2018,political security,Zaporizhya,,females,
-2019,political security,Zaporizhya,,females,
+2017,political security,17_reg_Zaporizhya,18-35 years,,
+2018,political security,17_reg_Zaporizhya,18-35 years,,
+2019,political security,17_reg_Zaporizhya,18-35 years,,
+2017,political security,17_reg_Zaporizhya,36-60 years,,
+2018,political security,17_reg_Zaporizhya,36-60 years,,
+2019,political security,17_reg_Zaporizhya,36-60 years,,
+2017,political security,17_reg_Zaporizhya,61 years and older,,
+2018,political security,17_reg_Zaporizhya,61 years and older,,
+2019,political security,17_reg_Zaporizhya,61 years and older,,
+2017,political security,17_reg_Zaporizhya,,males,
+2018,political security,17_reg_Zaporizhya,,males,
+2019,political security,17_reg_Zaporizhya,,males,
+2017,political security,17_reg_Zaporizhya,,females,
+2018,political security,17_reg_Zaporizhya,,females,
+2019,political security,17_reg_Zaporizhya,,females,
 2017,political security,Kharkiv,18-35 years,,
 2018,political security,Kharkiv,18-35 years,,
 2019,political security,Kharkiv,18-35 years,,
 2017,political security,Kharkiv,36-60 years,,
 2018,political security,Kharkiv,36-60 years,,
 2019,political security,Kharkiv,36-60 years,,
-2017,political security,Kharkiv,over 61 years,,
-2018,political security,Kharkiv,over 61 years,,
-2019,political security,Kharkiv,over 61 years,,
+2017,political security,Kharkiv,61 years and older,,
+2018,political security,Kharkiv,61 years and older,,
+2019,political security,Kharkiv,61 years and older,,
 2017,political security,Kharkiv,,males,
 2018,political security,Kharkiv,,males,
 2019,political security,Kharkiv,,males,

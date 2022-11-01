@@ -5,12 +5,12 @@ Year,Age,Gender,Value
 2018,,,400478
 2019,,,404030
 2020,,,354018
-2015,under 18 years old,,169
-2016,under 18 years old,,1413
-2017,under 18 years old,,1803
-2018,under 18 years old,,2051
-2019,under 18 years old,,1976
-2020,under 18 years old,,1893
+2015,under 18 years,,169
+2016,under 18 years,,1413
+2017,under 18 years,,1803
+2018,under 18 years,,2051
+2019,under 18 years,,1976
+2020,under 18 years,,1893
 2015,18-35 years,,5827
 2016,18-35 years,,48456
 2017,18-35 years,,88404
@@ -23,12 +23,12 @@ Year,Age,Gender,Value
 2018,36-60 years,,193433
 2019,36-60 years,,185227
 2020,36-60 years,,172036
-2015,over 61 years,,14298
-2016,over 61 years,,59624
-2017,over 61 years,,106710
-2018,over 61 years,,118202
-2019,over 61 years,,146071
-2020,over 61 years,,108144
+2015,61 years and older,,14298
+2016,61 years and older,,59624
+2017,61 years and older,,106710
+2018,61 years and older,,118202
+2019,61 years and older,,146071
+2020,61 years and older,,108144
 2015,,male,15673
 2016,,male,93488
 2017,,male,158462

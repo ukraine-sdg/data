@@ -41,12 +41,12 @@ Year,Region,Value
 2018,Zakarpattya,18.9
 2019,Zakarpattya,25.0
 2020,Zakarpattya,21.8
-2015,Zaporizhya,33.5
-2016,Zaporizhya,29.7
-2017,Zaporizhya,22.8
-2018,Zaporizhya,28.9
-2019,Zaporizhya,26.5
-2020,Zaporizhya,24.5
+2015,17_reg_Zaporizhya,33.5
+2016,17_reg_Zaporizhya,29.7
+2017,17_reg_Zaporizhya,22.8
+2018,17_reg_Zaporizhya,28.9
+2019,17_reg_Zaporizhya,26.5
+2020,17_reg_Zaporizhya,24.5
 2015,Ivano-Frankivsk,24.4
 2016,Ivano-Frankivsk,17.4
 2017,Ivano-Frankivsk,24.8
@@ -149,9 +149,9 @@ Year,Region,Value
 2018,Chernihiv,21.9
 2019,Chernihiv,19.5
 2020,Chernihiv,22.1
-2015,Kyiv city,25.7
-2016,Kyiv city,22.4
-2017,Kyiv city,22.7
-2018,Kyiv city,27.6
-2019,Kyiv city,21.9
-2020,Kyiv city,22.4
+2015,the city of Kyiv,25.7
+2016,the city of Kyiv,22.4
+2017,the city of Kyiv,22.7
+2018,the city of Kyiv,27.6
+2019,the city of Kyiv,21.9
+2020,the city of Kyiv,22.4

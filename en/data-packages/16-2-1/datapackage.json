@@ -30,8 +30,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Victims of crimes (per 100 thousand persons)",
-                "Victims of crimes (Art. 149), total"
+                "Victims of criminal offenses (per 100 thousand population)",
+                "Victims of criminal offenses (Art. 149), total"
               ]
             },
             "title": "Unit"

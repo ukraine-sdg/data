@@ -16,11 +16,11 @@
             "constraints": {
               "enum": [
                 "",
-                "energy intensity",
-                "material intensity",
-                "carbon intensity",
-                "water intensity",
-                "waste intensity"
+                "GDP energy intensity",
+                "GDP material intensity",
+                "GDP carbon intensity",
+                "GDP water intensity",
+                "GDP waste intensity"
               ]
             },
             "title": "Resource intensity of GDP"

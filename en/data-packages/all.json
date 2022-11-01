@@ -564,7 +564,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -582,7 +582,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -1616,7 +1616,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -1634,7 +1634,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -1703,11 +1703,11 @@
             "constraints": {
               "enum": [
                 "",
-                "energy intensity",
-                "material intensity",
-                "carbon intensity",
-                "water intensity",
-                "waste intensity"
+                "GDP energy intensity",
+                "GDP material intensity",
+                "GDP carbon intensity",
+                "GDP water intensity",
+                "GDP waste intensity"
               ]
             },
             "title": "Resource intensity of GDP"
@@ -1743,12 +1743,12 @@
               "enum": [
                 "",
                 "Power generating companies of TPP",
-                "CHP",
-                "HPP",
-                "PSP",
+                "TPP and cogeneration units",
+                "HPS",
+                "HAPP",
                 "NPP",
-                "Captive power plants",
-                "Alternative energy sources (WSP, SPP, Biomass)"
+                "Block stations",
+                "Alternative energy sources (WPS, SPS, Biomass)"
               ]
             },
             "title": "Electricity generation"
@@ -1873,7 +1873,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -2027,7 +2027,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -2045,7 +2045,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -2415,7 +2415,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -2707,7 +2707,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Production of rusks and biscuits; production of  long-term storage flour confectionery, cakes and pastries",
+                "Production of rusks and biscuits; production of long-term storage flour confectionery, cakes and pastries",
                 "Production of other food products",
                 "Production of sugar",
                 "Production of cocoa, chocolate and sugar confectionery",
@@ -2719,10 +2719,10 @@
                 "Processing and preserving of fruits and vegetables",
                 "Production of oil and animal fats",
                 "Production of dairy products",
-                "Production of  flour and cereal products, starches and starch products",
+                "Production of flour and cereal products, starches and starch products",
                 "Production of flour and cereal products",
                 "Production of bread, bakery and flour products",
-                "Production of bread and bakery products; production of  short-term storage flour confectionery, cakes and pastries"
+                "Production of bread and bakery products; production of short-term storage flour confectionery, cakes and pastries"
               ]
             },
             "title": "Group"
@@ -2771,8 +2771,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Victims of crimes (per 100 thousand persons)",
-                "Victims of crimes (Art. 152), total"
+                "Victims of criminal offenses (per 100 thousand population)",
+                "Victims of criminal offenses (Art. 152), total"
               ]
             },
             "title": "Unit"
@@ -3025,7 +3025,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -3043,7 +3043,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -3078,10 +3078,10 @@
             "constraints": {
               "enum": [
                 "",
-                "under 18 years old",
+                "under 18 years",
                 "18-34 years",
                 "35-59 years",
-                "over 60 years"
+                "60 years and older"
               ]
             },
             "title": "Age"
@@ -3287,7 +3287,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -3305,7 +3305,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -3482,7 +3482,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -3500,7 +3500,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -3612,7 +3612,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -3670,7 +3670,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -3688,7 +3688,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -3737,7 +3737,7 @@
                 "",
                 "18-35 years",
                 "36-60 years",
-                "over 61 years"
+                "61 years and older"
               ]
             },
             "title": "Age"
@@ -4201,7 +4201,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -4273,7 +4273,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -4291,7 +4291,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -4580,10 +4580,10 @@
             "constraints": {
               "enum": [
                 "",
-                "under 18 years old",
+                "under 18 years",
                 "18-34 years",
                 "35-59 years",
-                "over 60 years"
+                "60 years and older"
               ]
             },
             "title": "Age"
@@ -4648,7 +4648,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -4666,7 +4666,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -4741,7 +4741,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -4759,7 +4759,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -5187,7 +5187,7 @@
                 "",
                 "18-35 years",
                 "36-60 years",
-                "over 61 years"
+                "61 years and older"
               ]
             },
             "title": "Age"
@@ -5346,7 +5346,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -5506,7 +5506,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -5992,7 +5992,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -6010,7 +6010,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -6177,7 +6177,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -6195,7 +6195,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -6230,11 +6230,11 @@
             "constraints": {
               "enum": [
                 "",
-                "total number of victims of crimes, art. of CCU",
-                "intentional homicide (and relevant attempts), articles 115-118",
-                "rape (and relevant attempts), art. 152",
-                "intentional grievous bodily harm, art. 121",
-                "human trafficking or other illicit transactions involving the transfer of human beings, art. 149"
+                "total number of victims of criminal offenses, Аrt. of CCU",
+                "intentional homicide (and relevant attempts), Аrticles 115-118",
+                "rape (and relevant attempts), Аrt. 152",
+                "intentional grievous bodily harm, Аrt. 121",
+                "human trafficking or other illicit transactions involving the transfer of human beings, Аrt. 149"
               ]
             },
             "title": "Article of the Criminal Code of Ukraine"
@@ -6259,8 +6259,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Victims of crimes (per 100 thousand persons)",
-                "Victims of crimes (total)"
+                "Victims of criminal offenses (per 100 thousand population)",
+                "Victims of criminal offenses (total)"
               ]
             },
             "title": "Unit"
@@ -6329,10 +6329,10 @@
             "constraints": {
               "enum": [
                 "",
-                "under 18 years old",
+                "under 18 years",
                 "18-35 years",
                 "36-60 years",
-                "over 61 years"
+                "61 years and older"
               ]
             },
             "title": "Age"
@@ -6741,7 +6741,7 @@
                 "Donetsk",
                 "Zhytomyr",
                 "Zakarpattya",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Ivano-Frankivsk",
                 "Kyiv",
                 "Kirovohrad",
@@ -6759,7 +6759,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "Kyiv city"
+                "the city of Kyiv"
               ]
             },
             "title": "Region"
@@ -7159,7 +7159,7 @@
                 "",
                 "18-35 years",
                 "36-60 years",
-                "over 61 years"
+                "61 years and older"
               ]
             },
             "title": "Age"
@@ -7207,7 +7207,7 @@
                 "",
                 "Dnipropetrovsk",
                 "Donetsk",
-                "Zaporizhya",
+                "17_reg_Zaporizhya",
                 "Luhansk",
                 "Kharkiv"
               ]
@@ -7630,8 +7630,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Victims of crimes (per 100 thousand persons)",
-                "Victims of crimes (Art. 149), total"
+                "Victims of criminal offenses (per 100 thousand population)",
+                "Victims of criminal offenses (Art. 149), total"
               ]
             },
             "title": "Unit"

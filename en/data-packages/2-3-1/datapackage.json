@@ -16,7 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Production of rusks and biscuits; production of  long-term storage flour confectionery, cakes and pastries",
+                "Production of rusks and biscuits; production of long-term storage flour confectionery, cakes and pastries",
                 "Production of other food products",
                 "Production of sugar",
                 "Production of cocoa, chocolate and sugar confectionery",
@@ -28,10 +28,10 @@
                 "Processing and preserving of fruits and vegetables",
                 "Production of oil and animal fats",
                 "Production of dairy products",
-                "Production of  flour and cereal products, starches and starch products",
+                "Production of flour and cereal products, starches and starch products",
                 "Production of flour and cereal products",
                 "Production of bread, bakery and flour products",
-                "Production of bread and bakery products; production of  short-term storage flour confectionery, cakes and pastries"
+                "Production of bread and bakery products; production of short-term storage flour confectionery, cakes and pastries"
               ]
             },
             "title": "Group"
