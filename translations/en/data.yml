@@ -34,6 +34,10 @@ com_10_active: tolerant and active citizenship
 com_11_migrate: propensity to migrate
 com_12_cooperation: cooperation in the community
 com_13_pol_sec: political security
+com_14_dialog_gr: readiness for dialogue with different groups
+com_15_belief_changes: the belief that everyone can influence changes in the country
+com_16_soc_tolerance: social tolerance
+com_17_active_position: active civic position
 
 1_hectares: Demined area, hectares
 2_roads: сleared roads, km
@@ -46,7 +50,6 @@ com_13_pol_sec: political security
 art_1_262: Stealing, misappropriation, extortion of firearms, ammunition, explosives or radioactive materials, or acquisition by fraud or abuse of office, Art. 262
 art_2_263: Illegal handling of weapons, ammunition or explosives, Art. 263
 art_3_263_1: Illegal manufacture, processing or repair of firearms, or tampering, illegal removal or alteration of their marking, or illicit manufacture of ammunition, explosives or explosive devices, Art. 263-1
-
 Ammunition: Type of ammunition
 1_am_cartridges: cartridges
 2_am_grenades: grenades
@@ -64,12 +67,12 @@ weap_5_cold: cold weapons
 2_particip: participants in court proceedings
 3_exper: experts (attorneys, lawyers)
 
-1_vic_100: Victims of crimes (per 100 thousand persons)
-2_vic_tot: Victims of crimes (Art. 152), total
-2_vic_149: Victims of crimes (Art. 149), total
+1_vic_100: Victims of criminal offenses (per 100 thousand population)
+2_vic_tot: Victims of criminal offenses (Art. 152), total
+2_vic_149: Victims of criminal offenses (Art. 149), total
 
-1_vict_per_100: Victims of crimes (per 100 thousand persons)
-2_vict_all: Victims of crimes (total)
+1_vict_per_100: Victims of criminal offenses (per 100 thousand population)
+2_vict_all: Victims of criminal offenses (total)
 
 1_total: Total criminal offenses (number)
 2_per_100: Per 100 thousand population
@@ -79,12 +82,11 @@ weap_5_cold: cold weapons
 3_adolescents: adolescents
 4_young: young (under 14)
 
-1_art_all: total number of victims of crimes, art. of CCU
-2_art_115_118: intentional homicide (and relevant attempts), articles 115-118
-3_art_152: rape (and relevant attempts), art. 152
-4_art_121: intentional grievous bodily harm, art. 121
-5_art_149: human trafficking or other illicit transactions involving the transfer of human beings, art. 149
-
+1_art_all: total number of victims of criminal offenses, Аrt. of CCU
+2_art_115_118: intentional homicide (and relevant attempts), Аrticles 115-118
+3_art_152: rape (and relevant attempts), Аrt. 152
+4_art_121: intentional grievous bodily harm, Аrt. 121
+5_art_149: human trafficking or other illicit transactions involving the transfer of human beings, Аrt. 149
 
 Article: Article of the Criminal Code of Ukraine 
 art_1_115: Intentional homicide, Art. 115
@@ -102,11 +104,11 @@ GHG_1_all: all
 GHG_2_types: by main types of sources, including road transport
 
 Res_inten: Resource intensity of GDP
-int_1_energy: energy intensity
-int_2_mater: material intensity
-int_3_carbon: carbon intensity
-int_4_water: water intensity
-int_5_waste: waste intensity
+int_1_energy: GDP energy intensity
+int_2_mater: GDP material intensity
+int_3_carbon: GDP carbon intensity
+int_4_water: GDP water intensity
+int_5_waste: GDP waste intensity
 
 pol_11_dust: suspended matter (dust)
 pol_12_sulfur: sulfir dioxide
@@ -229,15 +231,16 @@ Cost_train: Cost of training a specialist
 age_18: under 18 years old
 age_18_35: from 18 years to 35 years inclusive
 age_36_60: from 36 years to 60 years inclusive
-age_60: over 60 years
+age_60: 60 years and older
 
+age_18: under 18 years 
 age_1_18_35: 18-35 years
 age_2_36_60: 36-60 years
-age_3_61: over 61 years
+age_3_61: 61 years and older
 
 age_18_34: 18-34 years
 age_35_59: 35-59 years
-age_60: over 60 years
+age_60: 60 years and older
 age_15: up to 15 years
 age_15_17: 15-17 years
 age_18_24: 18-24 years
@@ -298,7 +301,7 @@ dg_10: 10 group (high income)
 14_reg_Donetsk: Donetsk
 15_reg_Zhytomyr: Zhytomyr
 16_reg_Zakarpattya: Zakarpattya
-17_reg_Zaporizhya: Zaporizhya
+17_reg_ Zaporizhzhya: Zaporizhzhya
 18_reg_Ivano-Frankivsk: Ivano-Frankivsk
 19_reg_Kyiv: Kyiv
 20_reg_Kirovohrad: Kirovohrad
@@ -316,7 +319,7 @@ dg_10: 10 group (high income)
 32_reg_Cherkasy: Cherkasy
 33_reg_Chernivtsi: Chernivtsi
 34_reg_Chernihiv: Chernihiv
-35_reg_Kyiv_city: Kyiv city
+35_reg_Kyiv_city: the city of Kyiv
 
 farms_1_all: Farms of all categories
 farms_2_enterprise: Enterprises
@@ -339,11 +342,11 @@ prod_2_fish: Processing and preserving of fish, crustaceans and molluscs
 prod_3_fru_veg: Processing and preserving of fruits and vegetables
 prod_4_oil: Production of oil and animal fats
 prod_5_dairy: Production of dairy products
-prod_6_starch: Production of  flour and cereal products, starches and starch products
+prod_6_starch: Production of flour and cereal products, starches and starch products
 prod_7_flour: Production of flour and cereal products
 prod_8_bread: Production of bread, bakery and flour products
-prod_9_cakes: Production of bread and bakery products; production of  short-term storage flour confectionery, cakes and pastries
-prod_10_rusks: Production of rusks and biscuits; production of  long-term storage flour confectionery, cakes and pastries
+prod_9_cakes: Production of bread and bakery products; production of short-term storage flour confectionery, cakes and pastries
+prod_10_rusks: Production of rusks and biscuits; production of long-term storage flour confectionery, cakes and pastries
 prod_11_other: Production of other food products
 prod_12_sugar: Production of sugar
 prod_13_cocoa: Production of cocoa, chocolate and sugar confectionery
@@ -363,7 +366,6 @@ prod_16_not_else: Production of other food products not elsewhere classified
 
 Ec_activ: Еconomic activity
 s_11_indu: industry
-
 s_12_agri: agriculture
 s_13_fores: forestry
 s_14_transp: transport
@@ -406,9 +408,9 @@ ill_7_hib: Hib infection
 
 Generation: Electricity generation
 el_1_power: Power generating companies of TPP
-el_2_CHP: CHP
-el_3_HPP: HPP
-el_4_PSP: PSP
+el_2_CHP: TPP and cogeneration units
+el_3_HPP: HPS
+el_4_PSP: HAPP
 el_5_NPP: NPP
-el_6_plants: Captive power plants
-el_7_alternative: Alternative energy sources (WSP, SPP, Biomass)
+el_6_plants: Block stations
+el_7_alternative: Alternative energy sources (WPS, SPS, Biomass)
