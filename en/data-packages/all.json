@@ -7175,17 +7175,35 @@
             "constraints": {
               "enum": [
                 "",
-                "social cohesion and sense of ownership"
+                "tolerant and active citizenship",
+                "propensity to migrate",
+                "cooperation in the community",
+                "political security",
+                "readiness for dialogue with different groups",
+                "the belief that everyone can influence changes in the country",
+                "social tolerance",
+                "active civic position",
+                "social cohesion and sense of ownership",
+                "tolerance and socially responsible citizenship",
+                "psycho-social adaptability",
+                "reducing negative migration trends",
+                "readiness for dialogue",
+                "civic behavior",
+                "relations with government and safety",
+                "relations between groups",
+                "psycho-social activity"
               ]
             },
             "title": "Сomponent of the index"
           },
           {
             "name": "Gender",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
-                ""
+                "",
+                "females",
+                "males"
               ]
             },
             "title": "Gender"
@@ -7196,7 +7214,11 @@
             "constraints": {
               "enum": [
                 "",
-                "Donetsk"
+                "Dnipropetrovsk",
+                "Donetsk",
+                "17_reg_Zaporizhzhya",
+                "Luhansk",
+                "Kharkiv"
               ]
             },
             "title": "Region"
