@@ -244,48 +244,48 @@ Year,Type of ammunition,Region,Value
 2019,improvised explosive devices,Zakarpattya,
 2020,improvised explosive devices,Zakarpattya,
 2021,improvised explosive devices,Zakarpattya,
-2015,,17_reg_Zaporizhya,6385.0
-2016,,17_reg_Zaporizhya,40202.0
-2017,,17_reg_Zaporizhya,34304.0
-2018,,17_reg_Zaporizhya,5202.0
-2019,,17_reg_Zaporizhya,5231.0
-2020,,17_reg_Zaporizhya,9316.0
-2021,,17_reg_Zaporizhya,5797.0
-2015,cartridges,17_reg_Zaporizhya,6267.0
-2016,cartridges,17_reg_Zaporizhya,39459.0
-2017,cartridges,17_reg_Zaporizhya,34052.0
-2018,cartridges,17_reg_Zaporizhya,5086.0
-2019,cartridges,17_reg_Zaporizhya,5115.0
-2020,cartridges,17_reg_Zaporizhya,9285.0
-2021,cartridges,17_reg_Zaporizhya,5743.0
-2015,grenades,17_reg_Zaporizhya,110.0
-2016,grenades,17_reg_Zaporizhya,731.0
-2017,grenades,17_reg_Zaporizhya,251.0
-2018,grenades,17_reg_Zaporizhya,115.0
-2019,grenades,17_reg_Zaporizhya,113.0
-2020,grenades,17_reg_Zaporizhya,26.0
-2021,grenades,17_reg_Zaporizhya,50.0
-2015,mines,17_reg_Zaporizhya,
-2016,mines,17_reg_Zaporizhya,8.0
-2017,mines,17_reg_Zaporizhya,1.0
-2018,mines,17_reg_Zaporizhya,
-2019,mines,17_reg_Zaporizhya,
-2020,mines,17_reg_Zaporizhya,3.0
-2021,mines,17_reg_Zaporizhya,4.0
-2015,improvised explosive devices,17_reg_Zaporizhya,8.0
-2016,improvised explosive devices,17_reg_Zaporizhya,4.0
-2017,improvised explosive devices,17_reg_Zaporizhya,
-2018,improvised explosive devices,17_reg_Zaporizhya,1.0
-2019,improvised explosive devices,17_reg_Zaporizhya,3.0
-2020,improvised explosive devices,17_reg_Zaporizhya,2.0
-2021,improvised explosive devices,17_reg_Zaporizhya,
+2015,,17_reg_Zaporizhzhya,6385.0
+2016,,17_reg_Zaporizhzhya,40202.0
+2017,,17_reg_Zaporizhzhya,34304.0
+2018,,17_reg_Zaporizhzhya,5202.0
+2019,,17_reg_Zaporizhzhya,5231.0
+2020,,17_reg_Zaporizhzhya,9316.0
+2021,,17_reg_Zaporizhzhya,5797.0
+2015,cartridges,17_reg_Zaporizhzhya,6267.0
+2016,cartridges,17_reg_Zaporizhzhya,39459.0
+2017,cartridges,17_reg_Zaporizhzhya,34052.0
+2018,cartridges,17_reg_Zaporizhzhya,5086.0
+2019,cartridges,17_reg_Zaporizhzhya,5115.0
+2020,cartridges,17_reg_Zaporizhzhya,9285.0
+2021,cartridges,17_reg_Zaporizhzhya,5743.0
+2015,grenades,Zaporizhzhya,110.0
+2016,grenades,Zaporizhzhya,731.0
+2017,grenades,Zaporizhzhya,251.0
+2018,grenades,Zaporizhzhya,115.0
+2019,grenades,Zaporizhzhya,113.0
+2020,grenades,Zaporizhzhya,26.0
+2021,grenades,Zaporizhzhya,50.0
+2015,mines,Zaporizhzhya,
+2016,mines,Zaporizhzhya,8.0
+2017,mines,Zaporizhzhya,1.0
+2018,mines,Zaporizhzhya,
+2019,mines,Zaporizhzhya,
+2020,mines,Zaporizhzhya,3.0
+2021,mines,Zaporizhzhya,4.0
+2015,improvised explosive devices,Zaporizhzhya,8.0
+2016,improvised explosive devices,Zaporizhzhya,4.0
+2017,improvised explosive devices,Zaporizhzhya,
+2018,improvised explosive devices,Zaporizhzhya,1.0
+2019,improvised explosive devices,Zaporizhzhya,3.0
+2020,improvised explosive devices,Zaporizhzhya,2.0
+2021,improvised explosive devices,Zaporizhzhya,
 2015,,Ivano-Frankivsk,3573.0
 2016,,Ivano-Frankivsk,3317.0
 2017,,Ivano-Frankivsk,5177.0
 2018,,Ivano-Frankivsk,17075.0
 2019,,Ivano-Frankivsk,5996.0
 2020,,Ivano-Frankivsk,2695.0
-2021,,Ivano-Frankivsk,2660.0
+2021,,Ivano-Frankivsk,2960.0
 2015,cartridges,Ivano-Frankivsk,3546.0
 2016,cartridges,Ivano-Frankivsk,3284.0
 2017,cartridges,Ivano-Frankivsk,5150.0
@@ -530,7 +530,7 @@ Year,Type of ammunition,Region,Value
 2018,,Poltava,5369.0
 2019,,Poltava,3343.0
 2020,,Poltava,5730.0
-2021,,Poltava,2392.0
+2021,,Poltava,2393.0
 2015,cartridges,Poltava,5588.0
 2016,cartridges,Poltava,7025.0
 2017,cartridges,Poltava,6219.0
