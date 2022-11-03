@@ -244,48 +244,48 @@ Year,Ammunition,Region,Value
 2019,4_am_devic,16_reg_Zakarpattya,
 2020,4_am_devic,16_reg_Zakarpattya,
 2021,4_am_devic,16_reg_Zakarpattya,
-2015,,17_reg_Zaporizhya,6385
-2016,,17_reg_Zaporizhya,40202
-2017,,17_reg_Zaporizhya,34304
-2018,,17_reg_Zaporizhya,5202
-2019,,17_reg_Zaporizhya,5231
-2020,,17_reg_Zaporizhya,9316
-2021,,17_reg_Zaporizhya,5797
-2015,1_am_cartridges,17_reg_Zaporizhya,6267
-2016,1_am_cartridges,17_reg_Zaporizhya,39459
-2017,1_am_cartridges,17_reg_Zaporizhya,34052
-2018,1_am_cartridges,17_reg_Zaporizhya,5086
-2019,1_am_cartridges,17_reg_Zaporizhya,5115
-2020,1_am_cartridges,17_reg_Zaporizhya,9285
-2021,1_am_cartridges,17_reg_Zaporizhya,5743
-2015,2_am_grenades,17_reg_Zaporizhya,110
-2016,2_am_grenades,17_reg_Zaporizhya,731
-2017,2_am_grenades,17_reg_Zaporizhya,251
-2018,2_am_grenades,17_reg_Zaporizhya,115
-2019,2_am_grenades,17_reg_Zaporizhya,113
-2020,2_am_grenades,17_reg_Zaporizhya,26
-2021,2_am_grenades,17_reg_Zaporizhya,50
-2015,3_am_mines,17_reg_Zaporizhya,
-2016,3_am_mines,17_reg_Zaporizhya,8
-2017,3_am_mines,17_reg_Zaporizhya,1
-2018,3_am_mines,17_reg_Zaporizhya,
-2019,3_am_mines,17_reg_Zaporizhya,
-2020,3_am_mines,17_reg_Zaporizhya,3
-2021,3_am_mines,17_reg_Zaporizhya,4
-2015,4_am_devic,17_reg_Zaporizhya,8
-2016,4_am_devic,17_reg_Zaporizhya,4
-2017,4_am_devic,17_reg_Zaporizhya,
-2018,4_am_devic,17_reg_Zaporizhya,1
-2019,4_am_devic,17_reg_Zaporizhya,3
-2020,4_am_devic,17_reg_Zaporizhya,2
-2021,4_am_devic,17_reg_Zaporizhya,
+2015,,17_reg_Zaporizhzhya,6385
+2016,,17_reg_Zaporizhzhya,40202
+2017,,17_reg_Zaporizhzhya,34304
+2018,,17_reg_Zaporizhzhya,5202
+2019,,17_reg_Zaporizhzhya,5231
+2020,,17_reg_Zaporizhzhya,9316
+2021,,17_reg_Zaporizhzhya,5797
+2015,1_am_cartridges,17_reg_Zaporizhzhya,6267
+2016,1_am_cartridges,17_reg_Zaporizhzhya,39459
+2017,1_am_cartridges,17_reg_Zaporizhzhya,34052
+2018,1_am_cartridges,17_reg_Zaporizhzhya,5086
+2019,1_am_cartridges,17_reg_Zaporizhzhya,5115
+2020,1_am_cartridges,17_reg_Zaporizhzhya,9285
+2021,1_am_cartridges,17_reg_Zaporizhzhya,5743
+2015,2_am_grenades,17_reg_ Zaporizhzhya,110
+2016,2_am_grenades,17_reg_ Zaporizhzhya,731
+2017,2_am_grenades,17_reg_ Zaporizhzhya,251
+2018,2_am_grenades,17_reg_ Zaporizhzhya,115
+2019,2_am_grenades,17_reg_ Zaporizhzhya,113
+2020,2_am_grenades,17_reg_ Zaporizhzhya,26
+2021,2_am_grenades,17_reg_ Zaporizhzhya,50
+2015,3_am_mines,17_reg_ Zaporizhzhya,
+2016,3_am_mines,17_reg_ Zaporizhzhya,8
+2017,3_am_mines,17_reg_ Zaporizhzhya,1
+2018,3_am_mines,17_reg_ Zaporizhzhya,
+2019,3_am_mines,17_reg_ Zaporizhzhya,
+2020,3_am_mines,17_reg_ Zaporizhzhya,3
+2021,3_am_mines,17_reg_ Zaporizhzhya,4
+2015,4_am_devic,17_reg_ Zaporizhzhya,8
+2016,4_am_devic,17_reg_ Zaporizhzhya,4
+2017,4_am_devic,17_reg_ Zaporizhzhya,
+2018,4_am_devic,17_reg_ Zaporizhzhya,1
+2019,4_am_devic,17_reg_ Zaporizhzhya,3
+2020,4_am_devic,17_reg_ Zaporizhzhya,2
+2021,4_am_devic,17_reg_ Zaporizhzhya,
 2015,,18_reg_Ivano-Frankivsk,3573
 2016,,18_reg_Ivano-Frankivsk,3317
 2017,,18_reg_Ivano-Frankivsk,5177
 2018,,18_reg_Ivano-Frankivsk,17075
 2019,,18_reg_Ivano-Frankivsk,5996
 2020,,18_reg_Ivano-Frankivsk,2695
-2021,,18_reg_Ivano-Frankivsk,2660
+2021,,18_reg_Ivano-Frankivsk,2960
 2015,1_am_cartridges,18_reg_Ivano-Frankivsk,3546
 2016,1_am_cartridges,18_reg_Ivano-Frankivsk,3284
 2017,1_am_cartridges,18_reg_Ivano-Frankivsk,5150
@@ -530,7 +530,7 @@ Year,Ammunition,Region,Value
 2018,,25_reg_Poltava,5369
 2019,,25_reg_Poltava,3343
 2020,,25_reg_Poltava,5730
-2021,,25_reg_Poltava,2392
+2021,,25_reg_Poltava,2393
 2015,1_am_cartridges,25_reg_Poltava,5588
 2016,1_am_cartridges,25_reg_Poltava,7025
 2017,1_am_cartridges,25_reg_Poltava,6219
@@ -909,4 +909,3 @@ Year,Ammunition,Region,Value
 2019,4_am_devic,35_reg_Kyiv_city,5
 2020,4_am_devic,35_reg_Kyiv_city,13
 2021,4_am_devic,35_reg_Kyiv_city,27
-
