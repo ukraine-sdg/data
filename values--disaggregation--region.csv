@@ -2,6 +2,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 11_reg_Vinnytsya,25,19
 12_reg_Volyn,25,19
 13_reg_Dnipropetrovsk,90,20
+14_reg_ Donetsk,1,1
 14_reg_Donetsk,91,21
 15_reg_Zhytomyr,25,19
 16_reg_Zakarpattya,25,19
@@ -11,6 +12,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 18_reg_Ivano-Frankivsk,25,19
 19_reg_Kyiv,25,19
 20_reg_Kirovohrad,25,19
+21_reg_Donetsk,1,1
 21_reg_Luhansk,91,21
 22_reg_Lviv,25,19
 23_reg_Mykolayiv,25,19
