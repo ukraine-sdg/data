@@ -18,7 +18,9 @@
                 "",
                 "18-35 years",
                 "36-60 years",
-                "61 years and older"
+                "36-59 years",
+                "61 years and older",
+                "60 years and older"
               ]
             },
             "title": "Age"
@@ -29,31 +31,17 @@
             "constraints": {
               "enum": [
                 "",
-                "tolerant and active citizenship",
-                "propensity to migrate",
-                "cooperation in the community",
-                "political security",
-                "social cohesion and sense of ownership",
-                "tolerance and socially responsible citizenship",
-                "psycho-social adaptability",
-                "reducing negative migration trends",
-                "readiness for dialogue",
-                "civic behavior",
-                "relations with government and safety",
-                "relations between groups",
-                "psycho-social activity"
+                "social cohesion and sense of ownership"
               ]
             },
             "title": "Сomponent of the index"
           },
           {
             "name": "Gender",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "",
-                "females",
-                "males"
+                ""
               ]
             },
             "title": "Gender"
@@ -64,11 +52,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "17_reg_Zaporizhya",
-                "Luhansk",
-                "Kharkiv"
+                "Donetsk"
               ]
             },
             "title": "Region"

@@ -20,18 +20,6 @@
             "constraints": {
               "enum": [
                 "com_1_cohension",
-                "com_2_tolerance",
-                "com_3_adapt",
-                "com_4_migration",
-                "com_5_dialogue",
-                "com_6_civic",
-                "com_7_relations",
-                "com_8_groups",
-                "com_9_psy",
-                "com_10_active",
-                "com_11_migrate",
-                "com_12_cooperation",
-                "com_13_pol_sec",
                 ""
               ]
             }
@@ -42,10 +30,6 @@
             "constraints": {
               "enum": [
                 "14_reg_Donetsk",
-                "21_reg_Luhansk",
-                "13_reg_Dnipropetrovsk",
-                "17_reg_Zaporizhya",
-                "29_reg_Kharkiv",
                 ""
               ]
             }
@@ -57,18 +41,18 @@
               "enum": [
                 "age_1_18_35",
                 "age_2_36_60",
+                "age_36_59",
                 "age_3_61",
+                "age_60",
                 ""
               ]
             }
           },
           {
             "name": "Gender",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "males",
-                "females",
                 ""
               ]
             }
