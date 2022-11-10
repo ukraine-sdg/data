@@ -26,6 +26,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision:
+  - unit: 1_vict_per_100
   - decimals: 2
 reporting_status: complete
 sort: ''
