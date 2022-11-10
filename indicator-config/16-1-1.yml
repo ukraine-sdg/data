@@ -28,6 +28,8 @@ permalink: ''
 precision:
   - unit: 2_per_100
     decimals: 2
+  - unit: 1_total
+    decimals: []
 reporting_status: complete
 sort: ''
 standalone: false
