@@ -26,10 +26,8 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision:
-  - unit: 2_per_100
+  - Unit: 2_per_100
     decimals: 2
-  - unit: 1_total
-    decimals: 0
 reporting_status: complete
 sort: ''
 standalone: false
