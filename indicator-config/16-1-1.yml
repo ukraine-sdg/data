@@ -26,6 +26,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision:
+  - unit: per 100 thousand population
   - decimals: 2
 reporting_status: complete
 sort: ''
