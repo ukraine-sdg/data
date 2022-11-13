@@ -31,6 +31,6 @@ standalone: false
 tags: []
 
 precision:
-  - unit: 2_per_100
+  - unit: total
     decimals: 2
     
