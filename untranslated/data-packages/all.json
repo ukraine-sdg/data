@@ -1309,8 +1309,6 @@
             "constraints": {
               "enum": [
                 "14_reg_Donetsk",
-                "14_reg_ Donetsk",
-                "21_reg_Donetsk",
                 "21_reg_Luhansk",
                 ""
               ]

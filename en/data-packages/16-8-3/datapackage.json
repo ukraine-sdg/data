@@ -16,9 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "14_reg_ Donetsk",
                 "Donetsk",
-                "21_reg_Donetsk",
                 "Luhansk"
               ]
             },
