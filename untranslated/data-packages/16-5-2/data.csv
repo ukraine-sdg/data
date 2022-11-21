@@ -258,27 +258,27 @@ Year,Ammunition,Region,Value
 2019,1_am_cartridges,17_reg_Zaporizhzhya,5115.0
 2020,1_am_cartridges,17_reg_Zaporizhzhya,9285.0
 2021,1_am_cartridges,17_reg_Zaporizhzhya,5743.0
-2015,2_am_grenades,17_reg_ Zaporizhzhya,110.0
-2016,2_am_grenades,17_reg_ Zaporizhzhya,731.0
-2017,2_am_grenades,17_reg_ Zaporizhzhya,251.0
-2018,2_am_grenades,17_reg_ Zaporizhzhya,115.0
-2019,2_am_grenades,17_reg_ Zaporizhzhya,113.0
-2020,2_am_grenades,17_reg_ Zaporizhzhya,26.0
-2021,2_am_grenades,17_reg_ Zaporizhzhya,50.0
-2015,3_am_mines,17_reg_ Zaporizhzhya,
-2016,3_am_mines,17_reg_ Zaporizhzhya,8.0
-2017,3_am_mines,17_reg_ Zaporizhzhya,1.0
-2018,3_am_mines,17_reg_ Zaporizhzhya,
-2019,3_am_mines,17_reg_ Zaporizhzhya,
-2020,3_am_mines,17_reg_ Zaporizhzhya,3.0
-2021,3_am_mines,17_reg_ Zaporizhzhya,4.0
-2015,4_am_devic,17_reg_ Zaporizhzhya,8.0
-2016,4_am_devic,17_reg_ Zaporizhzhya,4.0
-2017,4_am_devic,17_reg_ Zaporizhzhya,
-2018,4_am_devic,17_reg_ Zaporizhzhya,1.0
-2019,4_am_devic,17_reg_ Zaporizhzhya,3.0
-2020,4_am_devic,17_reg_ Zaporizhzhya,2.0
-2021,4_am_devic,17_reg_ Zaporizhzhya,
+2015,2_am_grenades,17_reg_Zaporizhzhya,110.0
+2016,2_am_grenades,17_reg_Zaporizhzhya,731.0
+2017,2_am_grenades,17_reg_Zaporizhzhya,251.0
+2018,2_am_grenades,17_reg_Zaporizhzhya,115.0
+2019,2_am_grenades,17_reg_Zaporizhzhya,113.0
+2020,2_am_grenades,17_reg_Zaporizhzhya,26.0
+2021,2_am_grenades,17_reg_Zaporizhzhya,50.0
+2015,3_am_mines,17_reg_Zaporizhzhya,
+2016,3_am_mines,17_reg_Zaporizhzhya,8.0
+2017,3_am_mines,17_reg_Zaporizhzhya,1.0
+2018,3_am_mines,17_reg_Zaporizhzhya,
+2019,3_am_mines,17_reg_Zaporizhzhya,
+2020,3_am_mines,17_reg_Zaporizhzhya,3.0
+2021,3_am_mines,17_reg_Zaporizhzhya,4.0
+2015,4_am_devic,17_reg_Zaporizhzhya,8.0
+2016,4_am_devic,17_reg_Zaporizhzhya,4.0
+2017,4_am_devic,17_reg_Zaporizhzhya,
+2018,4_am_devic,17_reg_Zaporizhzhya,1.0
+2019,4_am_devic,17_reg_Zaporizhzhya,3.0
+2020,4_am_devic,17_reg_Zaporizhzhya,2.0
+2021,4_am_devic,17_reg_Zaporizhzhya,
 2015,,18_reg_Ivano-Frankivsk,3573.0
 2016,,18_reg_Ivano-Frankivsk,3317.0
 2017,,18_reg_Ivano-Frankivsk,5177.0
