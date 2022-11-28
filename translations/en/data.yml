@@ -260,10 +260,10 @@ cat_B: B
 cat_C: C
 Cat: Category
 
-males: males
-females: females
-mal: male
-femal: female
+males: men
+females: women
+mal: men
+femal: women
 
 Level: Levels of academic achievement
 Level_ed: Level of education
@@ -335,7 +335,7 @@ age_vac_3_18 months: 18 months
 age_vac_4_6 years: 6 years
 age_vac_5_14 years: 14 years
 age_vac_6_16 years: 16 years
-age_vac_7_adult: adult
+age_vac_7_adult: adults
 
 prod_1_meat: Production of meat and meat products
 prod_2_fish: Processing and preserving of fish, crustaceans and molluscs
