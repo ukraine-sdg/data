@@ -1787,7 +1787,7 @@
             "title": "Вік"
           },
           {
-            "name": "Sex",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1796,7 +1796,7 @@
                 ""
               ]
             },
-            "title": "Стать"
+            "title": "Gender"
           },
           {
             "name": "Households",
