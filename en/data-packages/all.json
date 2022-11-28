@@ -4480,18 +4480,6 @@
             "title": "Age"
           },
           {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "women",
-                "men"
-              ]
-            },
-            "title": "Gender"
-          },
-          {
             "name": "Households",
             "type": "string",
             "constraints": {
@@ -4502,6 +4490,18 @@
               ]
             },
             "title": "Households"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "women",
+                "men"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
