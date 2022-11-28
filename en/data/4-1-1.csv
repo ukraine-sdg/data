@@ -20,20 +20,20 @@ Year,Levels of academic achievement,Settlement,Gender,Value
 2019,"1st_level (basic, 0-3 points)",city,,30
 2020,"1st_level (basic, 0-3 points)",city,,37
 2021,"1st_level (basic, 0-3 points)",city,,45
-2015,"1st_level (basic, 0-3 points)",,females,32
-2016,"1st_level (basic, 0-3 points)",,females,30
-2017,"1st_level (basic, 0-3 points)",,females,27
-2018,"1st_level (basic, 0-3 points)",,females,29
-2019,"1st_level (basic, 0-3 points)",,females,29
-2020,"1st_level (basic, 0-3 points)",,females,31
-2021,"1st_level (basic, 0-3 points)",,females,35
-2015,"1st_level (basic, 0-3 points)",,males,68
-2016,"1st_level (basic, 0-3 points)",,males,70
-2017,"1st_level (basic, 0-3 points)",,males,73
-2018,"1st_level (basic, 0-3 points)",,males,71
-2019,"1st_level (basic, 0-3 points)",,males,71
-2020,"1st_level (basic, 0-3 points)",,males,69
-2021,"1st_level (basic, 0-3 points)",,males,65
+2015,"1st_level (basic, 0-3 points)",,women,32
+2016,"1st_level (basic, 0-3 points)",,women,30
+2017,"1st_level (basic, 0-3 points)",,women,27
+2018,"1st_level (basic, 0-3 points)",,women,29
+2019,"1st_level (basic, 0-3 points)",,women,29
+2020,"1st_level (basic, 0-3 points)",,women,31
+2021,"1st_level (basic, 0-3 points)",,women,35
+2015,"1st_level (basic, 0-3 points)",,men,68
+2016,"1st_level (basic, 0-3 points)",,men,70
+2017,"1st_level (basic, 0-3 points)",,men,73
+2018,"1st_level (basic, 0-3 points)",,men,71
+2019,"1st_level (basic, 0-3 points)",,men,71
+2020,"1st_level (basic, 0-3 points)",,men,69
+2021,"1st_level (basic, 0-3 points)",,men,65
 2015,"2nd level (intermediate, 4-6 points)","settlement, village",,35
 2016,"2nd level (intermediate, 4-6 points)","settlement, village",,41
 2017,"2nd level (intermediate, 4-6 points)","settlement, village",,41
@@ -55,20 +55,20 @@ Year,Levels of academic achievement,Settlement,Gender,Value
 2019,"2nd level (intermediate, 4-6 points)",city,,54
 2020,"2nd level (intermediate, 4-6 points)",city,,55
 2021,"2nd level (intermediate, 4-6 points)",city,,60
-2015,"2nd level (intermediate, 4-6 points)",,females,48
-2016,"2nd level (intermediate, 4-6 points)",,females,46
-2017,"2nd level (intermediate, 4-6 points)",,females,43
-2018,"2nd level (intermediate, 4-6 points)",,females,44
-2019,"2nd level (intermediate, 4-6 points)",,females,45
-2020,"2nd level (intermediate, 4-6 points)",,females,44
-2021,"2nd level (intermediate, 4-6 points)",,females,46
-2015,"2nd level (intermediate, 4-6 points)",,males,52
-2016,"2nd level (intermediate, 4-6 points)",,males,54
-2017,"2nd level (intermediate, 4-6 points)",,males,57
-2018,"2nd level (intermediate, 4-6 points)",,males,56
-2019,"2nd level (intermediate, 4-6 points)",,males,55
-2020,"2nd level (intermediate, 4-6 points)",,males,56
-2021,"2nd level (intermediate, 4-6 points)",,males,54
+2015,"2nd level (intermediate, 4-6 points)",,women,48
+2016,"2nd level (intermediate, 4-6 points)",,women,46
+2017,"2nd level (intermediate, 4-6 points)",,women,43
+2018,"2nd level (intermediate, 4-6 points)",,women,44
+2019,"2nd level (intermediate, 4-6 points)",,women,45
+2020,"2nd level (intermediate, 4-6 points)",,women,44
+2021,"2nd level (intermediate, 4-6 points)",,women,46
+2015,"2nd level (intermediate, 4-6 points)",,men,52
+2016,"2nd level (intermediate, 4-6 points)",,men,54
+2017,"2nd level (intermediate, 4-6 points)",,men,57
+2018,"2nd level (intermediate, 4-6 points)",,men,56
+2019,"2nd level (intermediate, 4-6 points)",,men,55
+2020,"2nd level (intermediate, 4-6 points)",,men,56
+2021,"2nd level (intermediate, 4-6 points)",,men,54
 2015,"3rd level (adequate, 7-9 points)","settlement, village",,19
 2016,"3rd level (adequate, 7-9 points)","settlement, village",,24
 2017,"3rd level (adequate, 7-9 points)","settlement, village",,22
@@ -90,20 +90,20 @@ Year,Levels of academic achievement,Settlement,Gender,Value
 2019,"3rd level (adequate, 7-9 points)",city,,72
 2020,"3rd level (adequate, 7-9 points)",city,,71
 2021,"3rd level (adequate, 7-9 points)",city,,73
-2015,"3rd level (adequate, 7-9 points)",,females,60
-2016,"3rd level (adequate, 7-9 points)",,females,56
-2017,"3rd level (adequate, 7-9 points)",,females,56
-2018,"3rd level (adequate, 7-9 points)",,females,56
-2019,"3rd level (adequate, 7-9 points)",,females,58
-2020,"3rd level (adequate, 7-9 points)",,females,55
-2021,"3rd level (adequate, 7-9 points)",,females,57
-2015,"3rd level (adequate, 7-9 points)",,males,40
-2016,"3rd level (adequate, 7-9 points)",,males,44
-2017,"3rd level (adequate, 7-9 points)",,males,44
-2018,"3rd level (adequate, 7-9 points)",,males,44
-2019,"3rd level (adequate, 7-9 points)",,males,42
-2020,"3rd level (adequate, 7-9 points)",,males,45
-2021,"3rd level (adequate, 7-9 points)",,males,43
+2015,"3rd level (adequate, 7-9 points)",,women,60
+2016,"3rd level (adequate, 7-9 points)",,women,56
+2017,"3rd level (adequate, 7-9 points)",,women,56
+2018,"3rd level (adequate, 7-9 points)",,women,56
+2019,"3rd level (adequate, 7-9 points)",,women,58
+2020,"3rd level (adequate, 7-9 points)",,women,55
+2021,"3rd level (adequate, 7-9 points)",,women,57
+2015,"3rd level (adequate, 7-9 points)",,men,40
+2016,"3rd level (adequate, 7-9 points)",,men,44
+2017,"3rd level (adequate, 7-9 points)",,men,44
+2018,"3rd level (adequate, 7-9 points)",,men,44
+2019,"3rd level (adequate, 7-9 points)",,men,42
+2020,"3rd level (adequate, 7-9 points)",,men,45
+2021,"3rd level (adequate, 7-9 points)",,men,43
 2015,"4th level (high, 10-12 points)","settlement, village",,10
 2016,"4th level (high, 10-12 points)","settlement, village",,13
 2017,"4th level (high, 10-12 points)","settlement, village",,12
@@ -125,17 +125,17 @@ Year,Levels of academic achievement,Settlement,Gender,Value
 2019,"4th level (high, 10-12 points)",city,,82
 2020,"4th level (high, 10-12 points)",city,,81
 2021,"4th level (high, 10-12 points)",city,,82
-2015,"4th level (high, 10-12 points)",,females,72
-2016,"4th level (high, 10-12 points)",,females,71
-2017,"4th level (high, 10-12 points)",,females,71
-2018,"4th level (high, 10-12 points)",,females,71
-2019,"4th level (high, 10-12 points)",,females,71
-2020,"4th level (high, 10-12 points)",,females,69
-2021,"4th level (high, 10-12 points)",,females,69
-2015,"4th level (high, 10-12 points)",,males,28
-2016,"4th level (high, 10-12 points)",,males,29
-2017,"4th level (high, 10-12 points)",,males,29
-2018,"4th level (high, 10-12 points)",,males,29
-2019,"4th level (high, 10-12 points)",,males,29
-2020,"4th level (high, 10-12 points)",,males,31
-2021,"4th level (high, 10-12 points)",,males,31
+2015,"4th level (high, 10-12 points)",,women,72
+2016,"4th level (high, 10-12 points)",,women,71
+2017,"4th level (high, 10-12 points)",,women,71
+2018,"4th level (high, 10-12 points)",,women,71
+2019,"4th level (high, 10-12 points)",,women,71
+2020,"4th level (high, 10-12 points)",,women,69
+2021,"4th level (high, 10-12 points)",,women,69
+2015,"4th level (high, 10-12 points)",,men,28
+2016,"4th level (high, 10-12 points)",,men,29
+2017,"4th level (high, 10-12 points)",,men,29
+2018,"4th level (high, 10-12 points)",,men,29
+2019,"4th level (high, 10-12 points)",,men,29
+2020,"4th level (high, 10-12 points)",,men,31
+2021,"4th level (high, 10-12 points)",,men,31

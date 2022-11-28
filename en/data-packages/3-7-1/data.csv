@@ -55,13 +55,13 @@ Year,Infectious diseases,Age,Value
 2019,"Diphtheria, tetanus",16 years,91.5
 2020,"Diphtheria, tetanus",16 years,73.6
 2021,"Diphtheria, tetanus",16 years,79.6
-2015,"Diphtheria, tetanus",adult,0.1
-2016,"Diphtheria, tetanus",adult,20.7
-2017,"Diphtheria, tetanus",adult,44.8
-2018,"Diphtheria, tetanus",adult,55.6
-2019,"Diphtheria, tetanus",adult,83.4
-2020,"Diphtheria, tetanus",adult,47.0
-2021,"Diphtheria, tetanus",adult,45.4
+2015,"Diphtheria, tetanus",adults,0.1
+2016,"Diphtheria, tetanus",adults,20.7
+2017,"Diphtheria, tetanus",adults,44.8
+2018,"Diphtheria, tetanus",adults,55.6
+2019,"Diphtheria, tetanus",adults,83.4
+2020,"Diphtheria, tetanus",adults,47.0
+2021,"Diphtheria, tetanus",adults,45.4
 2015,Pertussis,under 1 year,26.5
 2016,Pertussis,under 1 year,21.0
 2017,Pertussis,under 1 year,53.2

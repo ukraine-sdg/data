@@ -29,18 +29,18 @@ Year,Age,Gender,Households,Value
 2018,60 years and older,,,43.5
 2019,60 years and older,,,44.4
 2020,60 years and older,,,50.6
-2015,,males,,58.0
-2016,,males,,58.5
-2017,,males,,47.3
-2018,,males,,42.4
-2019,,males,,41.5
-2020,,males,,46.2
-2015,,females,,58.6
-2016,,females,,58.6
-2017,,females,,47.3
-2018,,females,,43.9
-2019,,females,,41.0
-2020,,females,,48.0
+2015,,men,,58.0
+2016,,men,,58.5
+2017,,men,,47.3
+2018,,men,,42.4
+2019,,men,,41.5
+2020,,men,,46.2
+2015,,women,,58.6
+2016,,women,,58.6
+2017,,women,,47.3
+2018,,women,,43.9
+2019,,women,,41.0
+2020,,women,,48.0
 2015,,,households with children,66.5
 2016,,,households with children,65.2
 2017,,,households with children,55.1

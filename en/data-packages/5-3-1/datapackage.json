@@ -16,8 +16,8 @@
             "constraints": {
               "enum": [
                 "",
-                "females",
-                "males"
+                "women",
+                "men"
               ]
             },
             "title": "Gender"
