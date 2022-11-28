@@ -1927,7 +1927,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Gender of the head of household",
+            "name": "Sex of the head of household",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1936,7 +1936,7 @@
                 "men"
               ]
             },
-            "title": "Gender of the head of household"
+            "title": "Sex of the head of household"
           },
           {
             "name": "Type of residence",

@@ -26,7 +26,7 @@
             }
           },
           {
-            "name": "Gender of the head of household",
+            "name": "Sex of the head of household",
             "type": "string",
             "constraints": {
               "enum": [
