@@ -33,7 +33,7 @@ Year,Infectious diseases,Age,Value
 2018,ill_4_diph,age_vac_1_under 1 year,69.3
 2019,ill_4_diph,age_vac_1_under 1 year,80.5
 2020,ill_4_diph,age_vac_1_under 1 year,80.1
-2021,ill_4_diph,age_vac_1_under 1 year,80.0
+2021,ill_4_diph,age_vac_1_under 1 year,80
 2015,ill_4_diph,age_vac_3_18 months,33.1
 2016,ill_4_diph,age_vac_3_18 months,23.1
 2017,ill_4_diph,age_vac_3_18 months,51.2
@@ -68,7 +68,7 @@ Year,Infectious diseases,Age,Value
 2018,ill_5_pert,age_vac_1_under 1 year,69.3
 2019,ill_5_pert,age_vac_1_under 1 year,80.5
 2020,ill_5_pert,age_vac_1_under 1 year,80.1
-2021,ill_5_pert,age_vac_1_under 1 year,80.0
+2021,ill_5_pert,age_vac_1_under 1 year,80
 2015,ill_5_pert,age_vac_3_18 months,33.1
 2016,ill_5_pert,age_vac_3_18 months,23.1
 2017,ill_5_pert,age_vac_3_18 months,51.2
@@ -117,4 +117,4 @@ Year,Infectious diseases,Age,Value
 2018,ill_7_hib,age_vac_2_1 year,57.7
 2019,ill_7_hib,age_vac_2_1 year,80
 2020,ill_7_hib,age_vac_2_1 year,83.6
-2021,ill_7_hib,age_vac_2_1 year,87.0
+2021,ill_7_hib,age_vac_2_1 year,87
