@@ -210,7 +210,7 @@
           }
         ]
       },
-      "title": "Labour productivity in agriculture, USD 1000s per employee"
+      "title": "Labour productivity in agriculture, USD 1,000s per employee"
     },
     {
       "path": "4-4-4/data.csv",
@@ -713,7 +713,7 @@
           }
         ]
       },
-      "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100000 men of corresponding age"
+      "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100,000 men of corresponding age"
     },
     {
       "path": "15-3-6/data.csv",
@@ -3269,7 +3269,7 @@
           }
         ]
       },
-      "title": "Number of deaths from malignant cervical tumours at the age of 30–59, per 100000 women of appropriate age"
+      "title": "Number of deaths from malignant cervical tumours at the age of 30–59, per 100,000 women of appropriate age"
     },
     {
       "path": "3-3-1/data.csv",
@@ -4900,7 +4900,7 @@
           }
         ]
       },
-      "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100000 women of corresponding age"
+      "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100,000 women of corresponding age"
     },
     {
       "path": "3-9-1/data.csv",
@@ -5601,7 +5601,7 @@
           }
         ]
       },
-      "title": "Number of deaths from malignant breast tumours at the age of 30–59, per 100000 women of appropriate age"
+      "title": "Number of deaths from malignant breast tumours at the age of 30–59, per 100,000 women of appropriate age"
     },
     {
       "path": "14-1-1/data.csv",
