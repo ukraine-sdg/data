@@ -53,7 +53,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-4-2,"Age, Sex, Level_ed",3
 #4-4-3,Cost_train,1
 #4-4-4,Fund,1
-#4-5-1,"Age, Gender",2
+#4-5-1,"Age, Sex",2
 #4-5-2,"Age, Gender, Type of residence",3
 #4-7-3,Type of residence,1
 #5-2-2,Group,1

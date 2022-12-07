@@ -23,7 +23,7 @@
             "title": "Age"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -32,7 +32,7 @@
                 "male"
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
             "name": "Value",
