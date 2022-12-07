@@ -642,7 +642,7 @@
             "constraints": {
               "enum": [
                 "",
-                "up to 18 years",
+                "under 18 years",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older"
@@ -1849,7 +1849,7 @@
                 "agriculture, forestry and fisheries",
                 "industry",
                 "construction",
-                "wholesale and retail trade, repair of motor vehicles and motorcycles",
+                "wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "transport, warehousing, post and courier services",
                 "temporary accommodation and catering",
                 "information and telecommunications",
@@ -1993,7 +1993,7 @@
                 "agriculture, forestry and fisheries",
                 "industry",
                 "construction",
-                "wholesale and retail trade, repair of motor vehicles and motorcycles",
+                "wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "transport, warehousing, post and courier services",
                 "temporary accommodation and catering",
                 "information and telecommunications",
@@ -2001,7 +2001,7 @@
                 "real estate transactions",
                 "professional, scientific and technical activities",
                 "administrative and support service activities",
-                "public administration and defense, compulsory social insurance",
+                "public administration and defense; compulsory social insurance",
                 "education",
                 "health care and social assistance",
                 "arts, sports, entertainment and recreation",
@@ -2900,9 +2900,9 @@
             "constraints": {
               "enum": [
                 "",
-                "average cost per student, UAH",
-                "average costs per graduate student who study in the evening form of education, UAH",
-                "average cost per full-time graduate student, UAH",
+                "average cost per one student, UAH",
+                "average costs per one graduated student, who studies without separation of production, UAH",
+                "average cost per one graduated student, who studies with distance from production, UAH",
                 "average cost per doctoral student, UAH"
               ]
             },
@@ -3120,7 +3120,7 @@
             "constraints": {
               "enum": [
                 "",
-                "up to 18 years",
+                "under 18 years",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older"
@@ -3508,7 +3508,7 @@
                 "agriculture, forestry and fisheries",
                 "industry",
                 "construction",
-                "wholesale and retail trade, repair of motor vehicles and motorcycles",
+                "wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "transport, warehousing, post and courier services",
                 "temporary accommodation and catering",
                 "information and telecommunications",
@@ -3516,7 +3516,7 @@
                 "real estate transactions",
                 "professional, scientific and technical activities",
                 "administrative and support service activities",
-                "public administration and defense, compulsory social insurance",
+                "public administration and defense; compulsory social insurance",
                 "education",
                 "health care and social assistance",
                 "arts, sports, entertainment and recreation",
@@ -4669,7 +4669,7 @@
             "constraints": {
               "enum": [
                 "",
-                "up to 18 years",
+                "under 18 years",
                 "18-35 years",
                 "36-60 years",
                 "61 years and older"
@@ -5869,7 +5869,7 @@
                 "agriculture, forestry and fisheries",
                 "industry",
                 "construction",
-                "wholesale and retail trade, repair of motor vehicles and motorcycles",
+                "wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "transport, warehousing, post and courier services",
                 "temporary accommodation and catering",
                 "information and telecommunications",
