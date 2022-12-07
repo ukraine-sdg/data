@@ -23,18 +23,6 @@
             "title": "Age"
           },
           {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "women",
-                "men"
-              ]
-            },
-            "title": "Gender"
-          },
-          {
             "name": "Level_ed",
             "type": "string",
             "constraints": {
@@ -49,6 +37,18 @@
               ]
             },
             "title": "Level of education"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "women",
+                "men"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
