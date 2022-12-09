@@ -111,15 +111,15 @@ int_4_water: GDP water intensity
 int_5_waste: GDP waste intensity
 
 pol_11_dust: suspended matter (dust)
-pol_12_sulfur: sulfir dioxide
+pol_12_sulfur: sulfur dioxide
 pol_13_carbon: carbon monoxide
 pol_14_nitrogen: nitrogen dioxide
-pol_15_nitrix: nitric oxide
+pol_15_nitrix: nitrogen oxide
 pol_16_phenol: phenol
 pol_17_soot: soot
 pol_18_hydrogen: hydrogen fluoride
 pol_19_ammonia: ammonia
-pol_20_form: formaldehide
+pol_20_form: formaldehyde
 
 inherit: Type of inheritance
 strategy: Сomponents of regional strategy
@@ -218,14 +218,14 @@ electr_3_act_value: Reported actual value of technological electric power consum
 electr_4_tech_cons: Technological electric power consumption in distribution system 
 
 Sou_en: Source of energy
-en_1_coal: coal
-en_2_petrol: petroleum
-en_3_gas: natural gas
+en_1_coal: coal (2701)
+en_2_petrol: petroleum (2709)
+en_3_gas: natural gas (271121)
 
 Cost_train: Cost of training a specialist
-1_per_student: average cost per student, UAH
-2_per_student_job: average costs per graduate student who study in the evening form of education, UAH
-3_per_graduate: average cost per full-time graduate student, UAH
+1_per_student: average cost per one student, UAH
+2_per_student_job: average costs per one graduated student, who studies without separation of production, UAH
+3_per_graduate: average cost per one graduated student, who studies with distance from production, UAH
 4_per_doctoral: average cost per doctoral student, UAH
 
 age_18: under 18 years old
@@ -381,7 +381,7 @@ s_22_oth_sec: other sectors
 12_indu: industry
 11_agricul: agriculture, forestry and fisheries
 13_constr: construction
-14_motor_veh: wholesale and retail trade, repair of motor vehicles and motorcycles
+14_motor_veh: wholesale and retail trade; repair of motor vehicles and motorcycles
 15_courier: transport, warehousing, post and courier services
 16_cater: temporary accommodation and catering
 17_telecom: information and telecommunications
@@ -389,7 +389,7 @@ s_22_oth_sec: other sectors
 19_estate: real estate transactions
 20_scientific: professional, scientific and technical activities
 21_support: administrative and support service activities
-22_public: public administration and defense, compulsory social insurance
+22_public: public administration and defense; compulsory social insurance
 23_educ: education
 24_health: health care and social assistance
 25_arts: arts, sports, entertainment and recreation
