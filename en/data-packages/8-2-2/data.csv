@@ -27,13 +27,13 @@ Year,Group,Value
 2019,construction,117.9
 2020,construction,110.4
 2021,construction,
-2015,wholesale and retail trade; repair of motor vehicles and motorcycles,
-2016,wholesale and retail trade; repair of motor vehicles and motorcycles,104.1
-2017,wholesale and retail trade; repair of motor vehicles and motorcycles,102.1
-2018,wholesale and retail trade; repair of motor vehicles and motorcycles,101.0
-2019,wholesale and retail trade; repair of motor vehicles and motorcycles,99.5
-2020,wholesale and retail trade; repair of motor vehicles and motorcycles,109.5
-2021,wholesale and retail trade; repair of motor vehicles and motorcycles,
+2015,"wholesale and retail trade, repair of motor vehicles and motorcycles",
+2016,"wholesale and retail trade, repair of motor vehicles and motorcycles",104.1
+2017,"wholesale and retail trade, repair of motor vehicles and motorcycles",102.1
+2018,"wholesale and retail trade, repair of motor vehicles and motorcycles",101.0
+2019,"wholesale and retail trade, repair of motor vehicles and motorcycles",99.5
+2020,"wholesale and retail trade, repair of motor vehicles and motorcycles",109.5
+2021,"wholesale and retail trade, repair of motor vehicles and motorcycles",
 2015,"transport, warehousing, post and courier services",
 2016,"transport, warehousing, post and courier services",103.2
 2017,"transport, warehousing, post and courier services",104.6
@@ -83,13 +83,13 @@ Year,Group,Value
 2019,administrative and support service activities,102.1
 2020,administrative and support service activities,91.6
 2021,administrative and support service activities,
-2015,public administration and defense; compulsory social insurance,
-2016,public administration and defense; compulsory social insurance,101.1
-2017,public administration and defense; compulsory social insurance,93.8
-2018,public administration and defense; compulsory social insurance,103.6
-2019,public administration and defense; compulsory social insurance,117.4
-2020,public administration and defense; compulsory social insurance,97.9
-2021,public administration and defense; compulsory social insurance,
+2015,"public administration and defense, compulsory social insurance",
+2016,"public administration and defense, compulsory social insurance",101.1
+2017,"public administration and defense, compulsory social insurance",93.8
+2018,"public administration and defense, compulsory social insurance",103.6
+2019,"public administration and defense, compulsory social insurance",117.4
+2020,"public administration and defense, compulsory social insurance",97.9
+2021,"public administration and defense, compulsory social insurance",
 2015,education,
 2016,education,99.2
 2017,education,102.4
