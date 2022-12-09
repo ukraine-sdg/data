@@ -16,9 +16,9 @@
             "constraints": {
               "enum": [
                 "",
-                "average cost per student, UAH",
-                "average costs per graduate student who study in the evening form of education, UAH",
-                "average cost per full-time graduate student, UAH",
+                "average cost per one student, UAH",
+                "average costs per one graduated student, who studies without separation of production, UAH",
+                "average cost per one graduated student, who studies with distance from production, UAH",
                 "average cost per doctoral student, UAH"
               ]
             },

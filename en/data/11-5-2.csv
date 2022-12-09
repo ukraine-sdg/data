@@ -11,12 +11,12 @@ Year,Pollutants,Value
 2018,suspended matter (dust),11.0
 2019,suspended matter (dust),11.0
 2020,suspended matter (dust),7.0
-2015,sulfir dioxide,
-2016,sulfir dioxide,
-2017,sulfir dioxide,
-2018,sulfir dioxide,
-2019,sulfir dioxide,1.0
-2020,sulfir dioxide,1.0
+2015,sulfur dioxide,
+2016,sulfur dioxide,
+2017,sulfur dioxide,
+2018,sulfur dioxide,
+2019,sulfur dioxide,1.0
+2020,sulfur dioxide,1.0
 2015,carbon monoxide,2.0
 2016,carbon monoxide,5.0
 2017,carbon monoxide,4.0
@@ -29,12 +29,12 @@ Year,Pollutants,Value
 2018,nitrogen dioxide,22.0
 2019,nitrogen dioxide,26.0
 2020,nitrogen dioxide,25.0
-2015,nitric oxide,1.0
-2016,nitric oxide,2.0
-2017,nitric oxide,1.0
-2018,nitric oxide,2.0
-2019,nitric oxide,2.0
-2020,nitric oxide,2.0
+2015,nitrogen oxide,1.0
+2016,nitrogen oxide,2.0
+2017,nitrogen oxide,1.0
+2018,nitrogen oxide,2.0
+2019,nitrogen oxide,2.0
+2020,nitrogen oxide,2.0
 2015,phenol,6.0
 2016,phenol,5.0
 2017,phenol,8.0
@@ -59,9 +59,9 @@ Year,Pollutants,Value
 2018,ammonia,1.0
 2019,ammonia,2.0
 2020,ammonia,2.0
-2015,formaldehide,22.0
-2016,formaldehide,23.0
-2017,formaldehide,24.0
-2018,formaldehide,25.0
-2019,formaldehide,25.0
-2020,formaldehide,23.0
+2015,formaldehyde,22.0
+2016,formaldehyde,23.0
+2017,formaldehyde,24.0
+2018,formaldehyde,25.0
+2019,formaldehyde,25.0
+2020,formaldehyde,23.0

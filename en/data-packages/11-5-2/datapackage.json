@@ -17,15 +17,15 @@
               "enum": [
                 "",
                 "suspended matter (dust)",
-                "sulfir dioxide",
+                "sulfur dioxide",
                 "carbon monoxide",
                 "nitrogen dioxide",
-                "nitric oxide",
+                "nitrogen oxide",
                 "phenol",
                 "soot",
                 "hydrogen fluoride",
                 "ammonia",
-                "formaldehide"
+                "formaldehyde"
               ]
             },
             "title": "Pollutants"

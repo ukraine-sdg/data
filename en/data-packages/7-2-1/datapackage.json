@@ -16,9 +16,9 @@
             "constraints": {
               "enum": [
                 "",
-                "coal",
-                "petroleum",
-                "natural gas"
+                "coal (2701)",
+                "petroleum (2709)",
+                "natural gas (271121)"
               ]
             },
             "title": "Source of energy"
