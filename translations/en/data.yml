@@ -223,9 +223,9 @@ en_2_petrol: petroleum
 en_3_gas: natural gas
 
 Cost_train: Cost of training a specialist
-1_per_student: average cost per one student, UAH
-2_per_student_job: average costs per one graduated student, who studies without separation of production, UAH
-3_per_graduate: average cost per one graduated student, who studies with distance from production, UAH
+1_per_student: average cost per student, UAH
+2_per_student_job: average costs per graduate student who study in the evening form of education, UAH
+3_per_graduate: average cost per full-time graduate student, UAH
 4_per_doctoral: average cost per doctoral student, UAH
 
 age_18: under 18 years old
@@ -381,7 +381,7 @@ s_22_oth_sec: other sectors
 12_indu: industry
 11_agricul: agriculture, forestry and fisheries
 13_constr: construction
-14_motor_veh: wholesale and retail trade; repair of motor vehicles and motorcycles
+14_motor_veh: wholesale and retail trade, repair of motor vehicles and motorcycles
 15_courier: transport, warehousing, post and courier services
 16_cater: temporary accommodation and catering
 17_telecom: information and telecommunications
@@ -389,7 +389,7 @@ s_22_oth_sec: other sectors
 19_estate: real estate transactions
 20_scientific: professional, scientific and technical activities
 21_support: administrative and support service activities
-22_public: public administration and defense; compulsory social insurance
+22_public: public administration and defense, compulsory social insurance
 23_educ: education
 24_health: health care and social assistance
 25_arts: arts, sports, entertainment and recreation
