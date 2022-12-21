@@ -2967,7 +2967,7 @@
             "title": "Область"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2976,7 +2976,7 @@
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Стать"
           },
           {
             "name": "Value",

@@ -2917,18 +2917,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "female",
-                "male"
-              ]
-            },
-            "title": "Gender"
-          },
-          {
             "name": "Group",
             "type": "number",
             "constraints": {
@@ -2972,6 +2960,18 @@
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "female",
+                "male"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
