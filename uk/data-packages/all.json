@@ -5407,7 +5407,7 @@
             "title": "Індекс споживчих цін на продукти харчування, %"
           },
           {
-            "name": "by main product group",
+            "name": "by main product groups",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5423,7 +5423,7 @@
                 ""
               ]
             },
-            "title": "за основними групами продуктів"
+            "title": "by main product groups"
           },
           {
             "name": "Value",

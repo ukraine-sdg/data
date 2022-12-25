@@ -5412,7 +5412,7 @@
             "title": "Year"
           },
           {
-            "name": "by main product group",
+            "name": "by main product groups",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5428,7 +5428,7 @@
                 "eggs"
               ]
             },
-            "title": "by main product group"
+            "title": "by main product groups"
           }
         ]
       },

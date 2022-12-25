@@ -4988,7 +4988,7 @@
             }
           },
           {
-            "name": "by main product group",
+            "name": "by main product groups",
             "type": "string",
             "constraints": {
               "enum": [
