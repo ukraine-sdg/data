@@ -4627,7 +4627,7 @@
           }
         ]
       },
-      "title": "Degree of depreciation of assets by TEA \"Transport, storage, post and courier services\", %"
+      "title": "Degree of depreciation of assets by TEA ‘Transport, storage, post and courier services’, %"
     },
     {
       "path": "4-4-3/data.csv",
@@ -5466,7 +5466,7 @@
           }
         ]
       },
-      "title": "Share of exports of goods whose production uses technologies of high and medium high level in total exports of goods, % (groups \"Products of chemical and related industries\", \"Polymers, plastics and articles thereof\", \"Machinery, equipment and mechanisms, electrical equipment\", \"Ground transportation, aircraft, floating craft\", 90th subgroup of the group \"Optical and photographic devices and appliances\" (UCGFEA))"
+      "title": "Share of exports of goods whose production uses technologies of high and medium high level in total exports of goods, % (groups ‘Products of chemical and related industries’, ‘Polymers, plastics and articles thereof’, ‘Machinery, equipment and mechanisms, electrical equipment’, ‘Ground transportation, aircraft, floating craft’, 90th subgroup of the group ‘Optical and photographic devices and appliances’ (UCGFEA))"
     },
     {
       "path": "4-2-1/data.csv",
