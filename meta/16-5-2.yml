@@ -1,6 +1,6 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.5 Reduce illicit trafficking of weapons, ammunition and explosive materials
-SDG_INDICATOR: 16.5.2 Number of ammunition seized /criminal proceedings with completed pre-trial investigation for the past 12 months, units/
+SDG_INDICATOR: 16.5.2 Number of ammunition seized (criminal proceedings with completed pre-trial investigation for the past 12 months, units)
 UNIT_MEASURE: Units
-CONTACT_ORGANISATION: PGO
-REC_USE_LIM: Data for Ukraine — taking into account the territory of railways.
+CONTACT_ORGANISATION: Prosecutor General’s Office
+REC_USE_LIM: Data for Ukraine — Taking into account the criminal offenses committed on the territory of the railways.

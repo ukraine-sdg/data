@@ -1,5 +1,6 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.1 Reduce the prevalence of violence
-SDG_INDICATOR: 16.1.2 Number of victims of crimes related to physical violence /intentional homicide and relevant attempts, rape and relevant attempts, grievous bodily harm/, reported over the past 12 months, per 100 000 persons
-UNIT_MEASURE: victims of crimes per 100 000 persons, persons
-CONTACT_ORGANISATION: PGO
+SDG_INDICATOR: 16.1.2 Number of victims of crimes related to physical violence (intentional homicide (and relevant attempts), rape (and relevant attempts), grievous bodily harm), reported over the past 12 months, per 100,000 persons
+UNIT_MEASURE: victims per 100,000 persons, persons
+CONTACT_ORGANISATION: Prosecutor General’s Office
+
