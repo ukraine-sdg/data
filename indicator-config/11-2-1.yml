@@ -39,4 +39,4 @@ graph_target_lines:
   - series: ''
     unit: ''
     label_content: indicator.annotation_2020_target
-    value: 100%
+    value: 100
