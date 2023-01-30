@@ -3517,7 +3517,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Sex",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3526,7 +3526,7 @@
                 "men"
               ]
             },
-            "title": "Sex"
+            "title": "Gender"
           },
           {
             "name": "Type of residence",

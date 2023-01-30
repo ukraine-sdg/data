@@ -57,7 +57,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-5-2,"Age, Sex, Type of residence",3
 #4-7-3,Type of residence,1
 #5-2-2,Group,1
-#5-3-1,"Sex, Type of residence, Unit",3
+#5-3-1,"Type of residence, Unit, Gender",3
 #5-4-3,Cat,1
 #5-5-1,"Age, Region",2
 #5-6-1,Ec_activ,1
