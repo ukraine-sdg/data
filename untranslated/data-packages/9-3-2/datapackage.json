@@ -34,17 +34,6 @@
             }
           },
           {
-            "name": "1_Level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1_free",
-                "2_part",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

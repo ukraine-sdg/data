@@ -36,18 +36,6 @@
             "title": "Об'єкт"
           },
           {
-            "name": "1_Level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "безбар'єрних, %",
-                "частково безбар'єрних, %",
-                ""
-              ]
-            },
-            "title": "Рівень"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -11,18 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "1_Level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "barrier-free,%",
-                "partially barrier-free,%"
-              ]
-            },
-            "title": "Level"
-          },
-          {
             "name": "Object",
             "type": "string",
             "constraints": {
