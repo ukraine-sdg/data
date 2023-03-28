@@ -31,9 +31,9 @@
                 "sea",
                 "river",
                 "air",
-                "tram",
-                "trolleybus",
-                "subway"
+                "by trams",
+                "by trolleybuses",
+                "by subway trains"
               ]
             },
             "title": "Mode of transport"
