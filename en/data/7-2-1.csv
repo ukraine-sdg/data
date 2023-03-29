@@ -6,6 +6,7 @@ Year,Source of energy,Value
 2019,coal (2701),68.6
 2020,coal (2701),70.2
 2021,coal (2701),67.5
+2022,coal (2701),42.4
 2015,petroleum (2709),99.9
 2016,petroleum (2709),97.4
 2017,petroleum (2709),85.2
@@ -13,10 +14,12 @@ Year,Source of energy,Value
 2019,petroleum (2709),76.7
 2020,petroleum (2709),70.2
 2021,petroleum (2709),74.5
+2022,petroleum (2709),99.9
 2015,natural gas (271121),37.3
 2016,natural gas (271121),29.5
 2017,natural gas (271121),40.5
 2018,natural gas (271121),37.3
-2019,natural gas (271121),45.1
-2020,natural gas (271121),49.7
+2019,natural gas (271121),44.5
+2020,natural gas (271121),35.5
 2021,natural gas (271121),52.7
+2022,natural gas (271121),43.5
