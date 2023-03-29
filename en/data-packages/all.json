@@ -5940,6 +5940,7 @@
             "constraints": {
               "enum": [
                 "",
+                "Urban electric transport",
                 "rail",
                 "motor",
                 "sea",
