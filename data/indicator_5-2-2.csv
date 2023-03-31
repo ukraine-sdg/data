@@ -6,6 +6,7 @@ Year,Group,Value
 2019,,130.5
 2020,,211.4
 2021,,284.2
+2022,,251.8
 2015,male,
 2016,male,
 2017,male,10.4
@@ -13,6 +14,7 @@ Year,Group,Value
 2019,male,14.6
 2020,male,27.7
 2021,male,45.7
+2022,male,37.6
 2015,female,
 2016,female,
 2017,female,85.3
@@ -20,6 +22,7 @@ Year,Group,Value
 2019,female,114.8
 2020,female,180.9
 2021,female,233.2
+2022,female,208.5
 2015,children,
 2016,children,
 2017,children,0.9
@@ -27,3 +30,4 @@ Year,Group,Value
 2019,children,1.1
 2020,children,2.8
 2021,children,5.3
+2022,children,5.7

@@ -173,9 +173,9 @@ tr_3_sea: sea
 tr_4_river: river
 tr_5_pipeline: pipeline
 tr_6_air: air
-tr_7_tram: tram
-tr_8_trolley: trolleybus
-tr_9_subway: subway
+tr_7_tram: by trams
+tr_8_trolley: by trolleybuses
+tr_9_subway: by subway trains
 
 tr_1_land_pipe: Land and pipeline transport
 tr_2_warer: Water transport
