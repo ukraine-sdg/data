@@ -5955,7 +5955,7 @@
           }
         ]
       },
-      "title": "Number of passengers, millions"
+      "title": "Number of passengers, million persons"
     },
     {
       "path": "17-1-2/data.csv",
@@ -6038,7 +6038,7 @@
           }
         ]
       },
-      "title": "Number of persons employed by SMEs, millions of persons"
+      "title": "Number of persons employed by SMEs, million persons"
     },
     {
       "path": "15-3-2/data.csv",
