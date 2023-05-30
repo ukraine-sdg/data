@@ -1,6 +1,5 @@
 SDG_GOAL: 17 Partnership for sustainable development
 SDG_TARGET: 17.1 Mobilize additional financial resources by promoting foreign and domestic investment
-SDG_INDICATOR: 17.1.2 Net foreign direct investment (according to the balance of payments), USD billions
-UNIT_MEASURE: USD billions
+SDG_INDICATOR: 17.1.2 Net foreign direct investment (according to the balance of payments), million USD
+UNIT_MEASURE: million USD
 CONTACT_ORGANISATION: National Bank of Ukraine (NBU) 
-REC_USE_LIM: 2015-2020 — Data revised in connection with taking into account loans received from non-resident sister companies.
