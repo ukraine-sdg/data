@@ -6,6 +6,7 @@ Year,Group,Value
 2019,1_pop,17.0
 2020,1_pop,
 2021,1_pop,10.0
+2022,1_pop,
 2015,2_particip,16.0
 2016,2_particip,13.0
 2017,2_particip,28.0
@@ -13,6 +14,7 @@ Year,Group,Value
 2019,2_particip,
 2020,2_particip,
 2021,2_particip,11.0
+2022,2_particip,
 2015,3_exper,
 2016,3_exper,
 2017,3_exper,38.0
@@ -20,3 +22,4 @@ Year,Group,Value
 2019,3_exper,44.0
 2020,3_exper,
 2021,3_exper,27.0
+2022,3_exper,
