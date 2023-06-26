@@ -6,6 +6,7 @@ Year,Organization,Unit,Value
 2019,Armed Forces of Ukraine,"Demined area, hectares",987.0
 2020,Armed Forces of Ukraine,"Demined area, hectares",531.0
 2021,Armed Forces of Ukraine,"Demined area, hectares",377.0
+2022,Armed Forces of Ukraine,"Demined area, hectares",9568.43
 2015,Armed Forces of Ukraine,"сleared roads, km",94.0
 2016,Armed Forces of Ukraine,"сleared roads, km",163.0
 2017,Armed Forces of Ukraine,"сleared roads, km",896.0
@@ -13,6 +14,7 @@ Year,Organization,Unit,Value
 2019,Armed Forces of Ukraine,"сleared roads, km",297.0
 2020,Armed Forces of Ukraine,"сleared roads, km",342.0
 2021,Armed Forces of Ukraine,"сleared roads, km",464.0
+2022,Armed Forces of Ukraine,"сleared roads, km",665.73
 2015,State Special Transport Service,"Demined area, hectares",87.0
 2016,State Special Transport Service,"Demined area, hectares",369.0
 2017,State Special Transport Service,"Demined area, hectares",57.0
@@ -20,6 +22,7 @@ Year,Organization,Unit,Value
 2019,State Special Transport Service,"Demined area, hectares",151.0
 2020,State Special Transport Service,"Demined area, hectares",22.0
 2021,State Special Transport Service,"Demined area, hectares",49.0
+2022,State Special Transport Service,"Demined area, hectares",1453.5
 2015,State Special Transport Service,"сleared railways, km",99.0
 2016,State Special Transport Service,"сleared railways, km",225.0
 2017,State Special Transport Service,"сleared railways, km",118.0
@@ -27,6 +30,7 @@ Year,Organization,Unit,Value
 2019,State Special Transport Service,"сleared railways, km",114.0
 2020,State Special Transport Service,"сleared railways, km",61.0
 2021,State Special Transport Service,"сleared railways, km",31.0
+2022,State Special Transport Service,"сleared railways, km",1474.0
 2015,State Emergency Service of Ukraine,"Demined area, hectares",7820.0
 2016,State Emergency Service of Ukraine,"Demined area, hectares",5440.0
 2017,State Emergency Service of Ukraine,"Demined area, hectares",6670.0
@@ -34,6 +38,9 @@ Year,Organization,Unit,Value
 2019,State Emergency Service of Ukraine,"Demined area, hectares",4845.0
 2020,State Emergency Service of Ukraine,"Demined area, hectares",2274.0
 2021,State Emergency Service of Ukraine,"Demined area, hectares",1827.0
+2022,State Emergency Service of Ukraine,"Demined area, hectares",77362.0
+2022,State Emergency Service of Ukraine,"сleared roads, km",2890.23
+2022,State Emergency Service of Ukraine,"сleared railways, km",696.4
 2015,"Non-governmental international organizations (The Halo Trust, DDG, FSD)","Demined area, hectares",
 2016,"Non-governmental international organizations (The Halo Trust, DDG, FSD)","Demined area, hectares",
 2017,"Non-governmental international organizations (The Halo Trust, DDG, FSD)","Demined area, hectares",131.0
@@ -41,6 +48,7 @@ Year,Organization,Unit,Value
 2019,"Non-governmental international organizations (The Halo Trust, DDG, FSD)","Demined area, hectares",165.0
 2020,"Non-governmental international organizations (The Halo Trust, DDG, FSD)","Demined area, hectares",216.0
 2021,"Non-governmental international organizations (The Halo Trust, DDG, FSD)","Demined area, hectares",290.0
+2022,"Non-governmental international organizations (The Halo Trust, DDG, FSD)","Demined area, hectares",117.97
 2015,,"Demined area, hectares",9224.0
 2016,,"Demined area, hectares",6553.0
 2017,,"Demined area, hectares",8036.0
@@ -48,6 +56,7 @@ Year,Organization,Unit,Value
 2019,,"Demined area, hectares",6148.0
 2020,,"Demined area, hectares",2827.0
 2021,,"Demined area, hectares",2543.0
+2022,,"Demined area, hectares",88501.9
 2015,,"сleared roads, km",94.0
 2016,,"сleared roads, km",163.0
 2017,,"сleared roads, km",896.0
@@ -55,6 +64,7 @@ Year,Organization,Unit,Value
 2019,,"сleared roads, km",297.0
 2020,,"сleared roads, km",342.0
 2021,,"сleared roads, km",464.0
+2022,,"сleared roads, km",3555.96
 2015,,"сleared railways, km",99.0
 2016,,"сleared railways, km",225.0
 2017,,"сleared railways, km",118.0
@@ -62,3 +72,4 @@ Year,Organization,Unit,Value
 2019,,"сleared railways, km",114.0
 2020,,"сleared railways, km",61.0
 2021,,"сleared railways, km",31.0
+2022,,"сleared railways, km",2170.4

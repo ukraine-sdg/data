@@ -6,6 +6,7 @@ Year,Organization,Unit,Value
 2019,1_army,1_hectares,987.0
 2020,1_army,1_hectares,531.0
 2021,1_army,1_hectares,377.0
+2022,1_army,1_hectares,9568.43
 2015,1_army,2_roads,94.0
 2016,1_army,2_roads,163.0
 2017,1_army,2_roads,896.0
@@ -13,6 +14,7 @@ Year,Organization,Unit,Value
 2019,1_army,2_roads,297.0
 2020,1_army,2_roads,342.0
 2021,1_army,2_roads,464.0
+2022,1_army,2_roads,665.73
 2015,2_trans,1_hectares,87.0
 2016,2_trans,1_hectares,369.0
 2017,2_trans,1_hectares,57.0
@@ -20,6 +22,7 @@ Year,Organization,Unit,Value
 2019,2_trans,1_hectares,151.0
 2020,2_trans,1_hectares,22.0
 2021,2_trans,1_hectares,49.0
+2022,2_trans,1_hectares,1453.5
 2015,2_trans,3_railways,99.0
 2016,2_trans,3_railways,225.0
 2017,2_trans,3_railways,118.0
@@ -27,6 +30,7 @@ Year,Organization,Unit,Value
 2019,2_trans,3_railways,114.0
 2020,2_trans,3_railways,61.0
 2021,2_trans,3_railways,31.0
+2022,2_trans,3_railways,1474.0
 2015,3_emerg,1_hectares,7820.0
 2016,3_emerg,1_hectares,5440.0
 2017,3_emerg,1_hectares,6670.0
@@ -34,6 +38,9 @@ Year,Organization,Unit,Value
 2019,3_emerg,1_hectares,4845.0
 2020,3_emerg,1_hectares,2274.0
 2021,3_emerg,1_hectares,1827.0
+2022,3_emerg,1_hectares,77362.0
+2022,3_emerg,2_roads,2890.23
+2022,3_emerg,3_railways,696.4
 2015,4_ngo,1_hectares,
 2016,4_ngo,1_hectares,
 2017,4_ngo,1_hectares,131.0
@@ -41,6 +48,7 @@ Year,Organization,Unit,Value
 2019,4_ngo,1_hectares,165.0
 2020,4_ngo,1_hectares,216.0
 2021,4_ngo,1_hectares,290.0
+2022,4_ngo,1_hectares,117.97
 2015,,1_hectares,9224.0
 2016,,1_hectares,6553.0
 2017,,1_hectares,8036.0
@@ -48,6 +56,7 @@ Year,Organization,Unit,Value
 2019,,1_hectares,6148.0
 2020,,1_hectares,2827.0
 2021,,1_hectares,2543.0
+2022,,1_hectares,88501.9
 2015,,2_roads,94.0
 2016,,2_roads,163.0
 2017,,2_roads,896.0
@@ -55,6 +64,7 @@ Year,Organization,Unit,Value
 2019,,2_roads,297.0
 2020,,2_roads,342.0
 2021,,2_roads,464.0
+2022,,2_roads,3555.96
 2015,,3_railways,99.0
 2016,,3_railways,225.0
 2017,,3_railways,118.0
@@ -62,3 +72,4 @@ Year,Organization,Unit,Value
 2019,,3_railways,114.0
 2020,,3_railways,61.0
 2021,,3_railways,31.0
+2022,,3_railways,2170.4
