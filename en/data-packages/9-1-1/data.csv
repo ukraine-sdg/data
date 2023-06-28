@@ -6,6 +6,7 @@ Year,Region,Value
 2019,,
 2020,,
 2021,,1.51
+2022,,
 2015,Vinnytsya,
 2016,Vinnytsya,
 2017,Vinnytsya,
@@ -13,6 +14,7 @@ Year,Region,Value
 2019,Vinnytsya,
 2020,Vinnytsya,
 2021,Vinnytsya,0.54
+2022,Vinnytsya,
 2015,Volyn,
 2016,Volyn,
 2017,Volyn,
@@ -20,6 +22,7 @@ Year,Region,Value
 2019,Volyn,
 2020,Volyn,
 2021,Volyn,0.16
+2022,Volyn,
 2015,Dnipropetrovsk,
 2016,Dnipropetrovsk,
 2017,Dnipropetrovsk,
@@ -27,6 +30,7 @@ Year,Region,Value
 2019,Dnipropetrovsk,
 2020,Dnipropetrovsk,
 2021,Dnipropetrovsk,0.05
+2022,Dnipropetrovsk,
 2015,Donetsk,
 2016,Donetsk,
 2017,Donetsk,
@@ -34,6 +38,7 @@ Year,Region,Value
 2019,Donetsk,
 2020,Donetsk,
 2021,Donetsk,2.31
+2022,Donetsk,
 2015,Zhytomyr,
 2016,Zhytomyr,
 2017,Zhytomyr,
@@ -41,6 +46,7 @@ Year,Region,Value
 2019,Zhytomyr,
 2020,Zhytomyr,
 2021,Zhytomyr,6.43
+2022,Zhytomyr,
 2015,Zakarpattya,
 2016,Zakarpattya,
 2017,Zakarpattya,
@@ -48,6 +54,7 @@ Year,Region,Value
 2019,Zakarpattya,
 2020,Zakarpattya,
 2021,Zakarpattya,0.26
+2022,Zakarpattya,
 2015,Zaporizhzhya,
 2016,Zaporizhzhya,
 2017,Zaporizhzhya,
@@ -55,6 +62,7 @@ Year,Region,Value
 2019,Zaporizhzhya,
 2020,Zaporizhzhya,
 2021,Zaporizhzhya,0.01
+2022,Zaporizhzhya,
 2015,Ivano-Frankivsk,
 2016,Ivano-Frankivsk,
 2017,Ivano-Frankivsk,
@@ -62,6 +70,7 @@ Year,Region,Value
 2019,Ivano-Frankivsk,
 2020,Ivano-Frankivsk,
 2021,Ivano-Frankivsk,2.53
+2022,Ivano-Frankivsk,
 2015,Kyiv,
 2016,Kyiv,
 2017,Kyiv,
@@ -69,6 +78,7 @@ Year,Region,Value
 2019,Kyiv,
 2020,Kyiv,
 2021,Kyiv,0.0
+2022,Kyiv,
 2015,Kirovohrad,
 2016,Kirovohrad,
 2017,Kirovohrad,
@@ -76,6 +86,7 @@ Year,Region,Value
 2019,Kirovohrad,
 2020,Kirovohrad,
 2021,Kirovohrad,2.91
+2022,Kirovohrad,
 2015,Luhansk,
 2016,Luhansk,
 2017,Luhansk,
@@ -83,6 +94,7 @@ Year,Region,Value
 2019,Luhansk,
 2020,Luhansk,
 2021,Luhansk,1.66
+2022,Luhansk,
 2015,Lviv,
 2016,Lviv,
 2017,Lviv,
@@ -90,6 +102,7 @@ Year,Region,Value
 2019,Lviv,
 2020,Lviv,
 2021,Lviv,4.1
+2022,Lviv,
 2015,Mykolayiv,
 2016,Mykolayiv,
 2017,Mykolayiv,
@@ -97,6 +110,7 @@ Year,Region,Value
 2019,Mykolayiv,
 2020,Mykolayiv,
 2021,Mykolayiv,4.32
+2022,Mykolayiv,
 2015,Odesa,
 2016,Odesa,
 2017,Odesa,
@@ -104,6 +118,7 @@ Year,Region,Value
 2019,Odesa,
 2020,Odesa,
 2021,Odesa,0.34
+2022,Odesa,
 2015,Poltava,
 2016,Poltava,
 2017,Poltava,
@@ -111,6 +126,7 @@ Year,Region,Value
 2019,Poltava,
 2020,Poltava,
 2021,Poltava,0.1
+2022,Poltava,
 2015,Rivne,
 2016,Rivne,
 2017,Rivne,
@@ -118,6 +134,7 @@ Year,Region,Value
 2019,Rivne,
 2020,Rivne,
 2021,Rivne,0.9
+2022,Rivne,
 2015,Sumy,
 2016,Sumy,
 2017,Sumy,
@@ -125,6 +142,7 @@ Year,Region,Value
 2019,Sumy,
 2020,Sumy,
 2021,Sumy,0.58
+2022,Sumy,
 2015,Ternopil,
 2016,Ternopil,
 2017,Ternopil,
@@ -132,6 +150,7 @@ Year,Region,Value
 2019,Ternopil,
 2020,Ternopil,
 2021,Ternopil,1.29
+2022,Ternopil,
 2015,Kharkiv,
 2016,Kharkiv,
 2017,Kharkiv,
@@ -139,6 +158,7 @@ Year,Region,Value
 2019,Kharkiv,
 2020,Kharkiv,
 2021,Kharkiv,0.48
+2022,Kharkiv,
 2015,Kherson,
 2016,Kherson,
 2017,Kherson,
@@ -146,6 +166,7 @@ Year,Region,Value
 2019,Kherson,
 2020,Kherson,
 2021,Kherson,0.63
+2022,Kherson,
 2015,Khmelnytskiy,
 2016,Khmelnytskiy,
 2017,Khmelnytskiy,
@@ -153,6 +174,7 @@ Year,Region,Value
 2019,Khmelnytskiy,
 2020,Khmelnytskiy,
 2021,Khmelnytskiy,4.56
+2022,Khmelnytskiy,
 2015,Cherkasy,
 2016,Cherkasy,
 2017,Cherkasy,
@@ -160,6 +182,7 @@ Year,Region,Value
 2019,Cherkasy,
 2020,Cherkasy,
 2021,Cherkasy,0.1
+2022,Cherkasy,
 2015,Chernivtsi,
 2016,Chernivtsi,
 2017,Chernivtsi,
@@ -167,6 +190,7 @@ Year,Region,Value
 2019,Chernivtsi,
 2020,Chernivtsi,
 2021,Chernivtsi,0.92
+2022,Chernivtsi,
 2015,Chernihiv,
 2016,Chernihiv,
 2017,Chernihiv,
@@ -174,3 +198,4 @@ Year,Region,Value
 2019,Chernihiv,
 2020,Chernihiv,
 2021,Chernihiv,1.55
+2022,Chernihiv,
