@@ -6,6 +6,7 @@ Year,Region,Value
 2019,,32.0
 2020,,30.7
 2021,,
+2022,,
 2015,Vinnytsya,42.4
 2016,Vinnytsya,39.1
 2017,Vinnytsya,38.7
@@ -13,6 +14,7 @@ Year,Region,Value
 2019,Vinnytsya,32.7
 2020,Vinnytsya,30.2
 2021,Vinnytsya,
+2022,Vinnytsya,
 2015,Volyn,57.5
 2016,Volyn,50.7
 2017,Volyn,45.1
@@ -20,6 +22,7 @@ Year,Region,Value
 2019,Volyn,31.8
 2020,Volyn,30.1
 2021,Volyn,
+2022,Volyn,
 2015,Dnipropetrovsk,45.4
 2016,Dnipropetrovsk,45.3
 2017,Dnipropetrovsk,45.4
@@ -27,6 +30,7 @@ Year,Region,Value
 2019,Dnipropetrovsk,38.9
 2020,Dnipropetrovsk,34.9
 2021,Dnipropetrovsk,
+2022,Dnipropetrovsk,
 2015,Donetsk,44.6
 2016,Donetsk,26.7
 2017,Donetsk,26.5
@@ -34,6 +38,7 @@ Year,Region,Value
 2019,Donetsk,37.0
 2020,Donetsk,39.0
 2021,Donetsk,
+2022,Donetsk,
 2015,Zhytomyr,38.2
 2016,Zhytomyr,37.1
 2017,Zhytomyr,43.0
@@ -41,6 +46,7 @@ Year,Region,Value
 2019,Zhytomyr,41.3
 2020,Zhytomyr,41.7
 2021,Zhytomyr,
+2022,Zhytomyr,
 2015,Zakarpattya,35.6
 2016,Zakarpattya,35.8
 2017,Zakarpattya,29.7
@@ -48,6 +54,7 @@ Year,Region,Value
 2019,Zakarpattya,30.2
 2020,Zakarpattya,29.5
 2021,Zakarpattya,
+2022,Zakarpattya,
 2015,Zaporizhzhya,37.6
 2016,Zaporizhzhya,36.0
 2017,Zaporizhzhya,35.8
@@ -55,6 +62,7 @@ Year,Region,Value
 2019,Zaporizhzhya,33.5
 2020,Zaporizhzhya,32.8
 2021,Zaporizhzhya,
+2022,Zaporizhzhya,
 2015,Ivano-Frankivsk,47.0
 2016,Ivano-Frankivsk,45.9
 2017,Ivano-Frankivsk,42.2
@@ -62,6 +70,7 @@ Year,Region,Value
 2019,Ivano-Frankivsk,42.8
 2020,Ivano-Frankivsk,46.2
 2021,Ivano-Frankivsk,
+2022,Ivano-Frankivsk,
 2015,Kyiv,39.9
 2016,Kyiv,38.4
 2017,Kyiv,37.6
@@ -69,6 +78,7 @@ Year,Region,Value
 2019,Kyiv,33.3
 2020,Kyiv,33.2
 2021,Kyiv,
+2022,Kyiv,
 2015,Kirovohrad,55.1
 2016,Kirovohrad,58.3
 2017,Kirovohrad,56.5
@@ -76,6 +86,7 @@ Year,Region,Value
 2019,Kirovohrad,32.2
 2020,Kirovohrad,42.5
 2021,Kirovohrad,
+2022,Kirovohrad,
 2015,Luhansk,41.9
 2016,Luhansk,46.7
 2017,Luhansk,48.9
@@ -83,6 +94,7 @@ Year,Region,Value
 2019,Luhansk,46.7
 2020,Luhansk,50.3
 2021,Luhansk,
+2022,Luhansk,
 2015,Lviv,34.3
 2016,Lviv,35.0
 2017,Lviv,34.0
@@ -90,6 +102,7 @@ Year,Region,Value
 2019,Lviv,32.1
 2020,Lviv,31.6
 2021,Lviv,
+2022,Lviv,
 2015,Mykolayiv,32.9
 2016,Mykolayiv,39.6
 2017,Mykolayiv,40.9
@@ -97,6 +110,7 @@ Year,Region,Value
 2019,Mykolayiv,30.8
 2020,Mykolayiv,32.3
 2021,Mykolayiv,
+2022,Mykolayiv,
 2015,Odesa,33.9
 2016,Odesa,35.7
 2017,Odesa,32.7
@@ -104,6 +118,8 @@ Year,Region,Value
 2019,Odesa,29.6
 2020,Odesa,26.8
 2021,Odesa,
+2021,Odesa,
+2022,Odesa,
 2015,Poltava,46.3
 2016,Poltava,46.8
 2017,Poltava,41.9
@@ -111,6 +127,7 @@ Year,Region,Value
 2019,Poltava,32.4
 2020,Poltava,27.1
 2021,Poltava,
+2022,Poltava,
 2015,Rivne,47.5
 2016,Rivne,45.3
 2017,Rivne,49.5
@@ -118,6 +135,7 @@ Year,Region,Value
 2019,Rivne,42.6
 2020,Rivne,40.4
 2021,Rivne,
+2022,Rivne,
 2015,Sumy,44.4
 2016,Sumy,44.8
 2017,Sumy,52.3
@@ -125,6 +143,7 @@ Year,Region,Value
 2019,Sumy,38.7
 2020,Sumy,43.1
 2021,Sumy,
+2022,Sumy,
 2015,Ternopil,44.3
 2016,Ternopil,51.1
 2017,Ternopil,47.4
@@ -132,6 +151,7 @@ Year,Region,Value
 2019,Ternopil,28.6
 2020,Ternopil,42.0
 2021,Ternopil,
+2022,Ternopil,
 2015,Kharkiv,33.8
 2016,Kharkiv,34.1
 2017,Kharkiv,31.0
@@ -139,6 +159,7 @@ Year,Region,Value
 2019,Kharkiv,27.4
 2020,Kharkiv,25.7
 2021,Kharkiv,
+2022,Kharkiv,
 2015,Kherson,41.4
 2016,Kherson,40.4
 2017,Kherson,40.9
@@ -146,6 +167,7 @@ Year,Region,Value
 2019,Kherson,33.6
 2020,Kherson,35.2
 2021,Kherson,
+2022,Kherson,
 2015,Khmelnytskiy,50.0
 2016,Khmelnytskiy,51.4
 2017,Khmelnytskiy,45.5
@@ -153,6 +175,7 @@ Year,Region,Value
 2019,Khmelnytskiy,44.8
 2020,Khmelnytskiy,38.8
 2021,Khmelnytskiy,
+2022,Khmelnytskiy,
 2015,Cherkasy,37.1
 2016,Cherkasy,40.7
 2017,Cherkasy,41.6
@@ -160,6 +183,7 @@ Year,Region,Value
 2019,Cherkasy,35.4
 2020,Cherkasy,35.9
 2021,Cherkasy,
+2022,Cherkasy,
 2015,Chernivtsi,46.8
 2016,Chernivtsi,41.1
 2017,Chernivtsi,43.5
@@ -167,6 +191,7 @@ Year,Region,Value
 2019,Chernivtsi,39.6
 2020,Chernivtsi,38.5
 2021,Chernivtsi,
+2022,Chernivtsi,
 2015,Chernihiv,34.7
 2016,Chernihiv,41.3
 2017,Chernihiv,38.0
@@ -174,6 +199,7 @@ Year,Region,Value
 2019,Chernihiv,33.9
 2020,Chernihiv,38.8
 2021,Chernihiv,
+2022,Chernihiv,
 2015,the city of Kyiv,34.9
 2016,the city of Kyiv,35.0
 2017,the city of Kyiv,33.1
@@ -181,3 +207,4 @@ Year,Region,Value
 2019,the city of Kyiv,31.3
 2020,the city of Kyiv,30.0
 2021,the city of Kyiv,
+2022,the city of Kyiv,
