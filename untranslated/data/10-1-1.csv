@@ -6,6 +6,7 @@ Year,Type of residence,Value
 2019,,0.97
 2020,,1.02
 2021,,0.99
+2022,,
 2015,urban,1.03
 2016,urban,0.98
 2017,urban,0.97
@@ -13,6 +14,7 @@ Year,Type of residence,Value
 2019,urban,0.98
 2020,urban,1.01
 2021,urban,1.0
+2022,urban,
 2015,rural,1.05
 2016,rural,1.01
 2017,rural,0.9
@@ -20,3 +22,4 @@ Year,Type of residence,Value
 2019,rural,0.98
 2020,rural,1.03
 2021,rural,0.97
+2022,rural,
