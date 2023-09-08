@@ -6,6 +6,7 @@ Year,Pollutants,Value
 2019,,36.0
 2020,,35.0
 2021,,34.0
+2022,,34.0
 2015,pol_11_dust,11.0
 2016,pol_11_dust,10.0
 2017,pol_11_dust,9.0
@@ -13,6 +14,7 @@ Year,Pollutants,Value
 2019,pol_11_dust,11.0
 2020,pol_11_dust,7.0
 2021,pol_11_dust,7.0
+2022,pol_11_dust,8.0
 2015,pol_12_sulfur,
 2016,pol_12_sulfur,
 2017,pol_12_sulfur,
@@ -20,6 +22,7 @@ Year,Pollutants,Value
 2019,pol_12_sulfur,1.0
 2020,pol_12_sulfur,1.0
 2021,pol_12_sulfur,
+2022,pol_12_sulfur,1.0
 2015,pol_13_carbon,2.0
 2016,pol_13_carbon,5.0
 2017,pol_13_carbon,4.0
@@ -27,6 +30,7 @@ Year,Pollutants,Value
 2019,pol_13_carbon,4.0
 2020,pol_13_carbon,2.0
 2021,pol_13_carbon,1.0
+2022,pol_13_carbon,2.0
 2015,pol_14_nitrogen,23.0
 2016,pol_14_nitrogen,23.0
 2017,pol_14_nitrogen,21.0
@@ -34,6 +38,7 @@ Year,Pollutants,Value
 2019,pol_14_nitrogen,26.0
 2020,pol_14_nitrogen,25.0
 2021,pol_14_nitrogen,26.0
+2022,pol_14_nitrogen,24.0
 2015,pol_15_nitrix,1.0
 2016,pol_15_nitrix,2.0
 2017,pol_15_nitrix,1.0
@@ -41,6 +46,7 @@ Year,Pollutants,Value
 2019,pol_15_nitrix,2.0
 2020,pol_15_nitrix,2.0
 2021,pol_15_nitrix,2.0
+2022,pol_15_nitrix,2.0
 2015,pol_16_phenol,6.0
 2016,pol_16_phenol,5.0
 2017,pol_16_phenol,8.0
@@ -48,6 +54,7 @@ Year,Pollutants,Value
 2019,pol_16_phenol,9.0
 2020,pol_16_phenol,6.0
 2021,pol_16_phenol,6.0
+2022,pol_16_phenol,7.0
 2015,pol_17_soot,1.0
 2016,pol_17_soot,1.0
 2017,pol_17_soot,1.0
@@ -55,6 +62,7 @@ Year,Pollutants,Value
 2019,pol_17_soot,1.0
 2020,pol_17_soot,
 2021,pol_17_soot,
+2022,pol_17_soot,1.0
 2015,pol_18_hydrogen,2.0
 2016,pol_18_hydrogen,2.0
 2017,pol_18_hydrogen,2.0
@@ -62,6 +70,7 @@ Year,Pollutants,Value
 2019,pol_18_hydrogen,3.0
 2020,pol_18_hydrogen,
 2021,pol_18_hydrogen,2.0
+2022,pol_18_hydrogen,1.0
 2015,pol_19_ammonia,2.0
 2016,pol_19_ammonia,2.0
 2017,pol_19_ammonia,1.0
@@ -69,6 +78,7 @@ Year,Pollutants,Value
 2019,pol_19_ammonia,2.0
 2020,pol_19_ammonia,2.0
 2021,pol_19_ammonia,1.0
+2022,pol_19_ammonia,1.0
 2015,pol_20_form,22.0
 2016,pol_20_form,23.0
 2017,pol_20_form,24.0
@@ -76,3 +86,4 @@ Year,Pollutants,Value
 2019,pol_20_form,25.0
 2020,pol_20_form,23.0
 2021,pol_20_form,24.0
+2022,pol_20_form,25.0
