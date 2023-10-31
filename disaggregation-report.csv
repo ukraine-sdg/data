@@ -11,7 +11,7 @@ Decile groups,1,10
 Ec_activ,6,74
 Farm caregory,1,3
 Fund,1,1
-Gender,5,4
+Gender,6,4
 Generation,1,7
 GHG_ratio,1,2
 Group,8,42
@@ -31,7 +31,7 @@ Region,21,25
 Res_inten,1,5
 Settlement,1,3
 Sex of the head of household,1,2
-Sex,9,4
+Sex,8,4
 Sou_en,1,3
 strategy,1,3
 Type of residence,20,2

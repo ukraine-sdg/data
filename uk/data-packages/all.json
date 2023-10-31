@@ -6789,7 +6789,7 @@
             "title": "Тип населенного пункту"
           },
           {
-            "name": "Sex",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
