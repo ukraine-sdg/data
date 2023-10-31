@@ -111,14 +111,14 @@ Year,Еconomic activity,Value
 2020,"manufacture of leather, leather goods and other materials",
 2021,"manufacture of leather, leather goods and other materials",
 2022,"manufacture of leather, leather goods and other materials",
-2015,manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials,0.3
-2016,manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials,
-2017,manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials,0.3
-2018,manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials,0.5
-2019,manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials,0.1
-2020,manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials,1.5
-2021,manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials,
-2022,manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials,
+2015,manufacture of wood and of products of wood and cork. except furniture; manufacture of articles of straw and plaiting materials,0.3
+2016,manufacture of wood and of products of wood and cork. except furniture; manufacture of articles of straw and plaiting materials,
+2017,manufacture of wood and of products of wood and cork. except furniture; manufacture of articles of straw and plaiting materials,0.3
+2018,manufacture of wood and of products of wood and cork. except furniture; manufacture of articles of straw and plaiting materials,0.5
+2019,manufacture of wood and of products of wood and cork. except furniture; manufacture of articles of straw and plaiting materials,0.1
+2020,manufacture of wood and of products of wood and cork. except furniture; manufacture of articles of straw and plaiting materials,1.5
+2021,manufacture of wood and of products of wood and cork. except furniture; manufacture of articles of straw and plaiting materials,
+2022,manufacture of wood and of products of wood and cork. except furniture; manufacture of articles of straw and plaiting materials,
 2015,manufacture of paper and paper products,1.5
 2016,manufacture of paper and paper products,
 2017,manufacture of paper and paper products,0.2
@@ -191,14 +191,14 @@ Year,Еconomic activity,Value
 2020,"manufacture of fabricated metal products, except machinery and equipment",1.5
 2021,"manufacture of fabricated metal products, except machinery and equipment",
 2022,"manufacture of fabricated metal products, except machinery and equipment",
-2015,manufacture of computers. electronic and optical products,6.4
-2016,manufacture of computers. electronic and optical products,
-2017,manufacture of computers. electronic and optical products,3.1
-2018,manufacture of computers. electronic and optical products,5.8
-2019,manufacture of computers. electronic and optical products,6.3
-2020,manufacture of computers. electronic and optical products,9.9
-2021,manufacture of computers. electronic and optical products,
-2022,manufacture of computers. electronic and optical products,
+2015,"manufacture of computers, electronic and optical products",6.4
+2016,"manufacture of computers, electronic and optical products",
+2017,"manufacture of computers, electronic and optical products",3.1
+2018,"manufacture of computers, electronic and optical products",5.8
+2019,"manufacture of computers, electronic and optical products",6.3
+2020,"manufacture of computers, electronic and optical products",9.9
+2021,"manufacture of computers, electronic and optical products",
+2022,"manufacture of computers, electronic and optical products",
 2015,manufacture of electrical equipment,6.1
 2016,manufacture of electrical equipment,
 2017,manufacture of electrical equipment,2.5
