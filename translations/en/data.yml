@@ -141,7 +141,7 @@ number: number of regions
 21_man_text: textile manufacturing
 22_man_cloth: manufacture of clothing
 23_man_leather: manufacture of leather, leather goods and other materials
-24_man_wood: manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials
+24_man_wood: manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials
 25_man_paper: manufacture of paper and paper products
 26_print: printing, reproduction of recorded information
 27_man_coke: manufacture of coke and refined petroleum products
@@ -151,7 +151,7 @@ number: number of regions
 31_man_non_met: manufacture of other non-metallic mineral products
 32_man_met: metallurgical manufacturing
 33_man_equip: manufacture of fabricated metal products, except machinery and equipment
-34_man_pc: manufacture of computers. electronic and optical products
+34_man_pc: manufacture of computers, electronic and optical products
 35_man_el_equip: manufacture of electrical equipment
 36_not_class: manufacture of machinery and equipment, not elsewhere classified
 37_man_motor: manufacture of motor vehicles, trailers and semi-trailers
