@@ -22,7 +22,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-5-2,"Region, Ammunition",2
 #16-5-3,"Article, Unit",2
 #16-8-1,"Age, Sex",2
-#16-8-2,"Age, Type of residence, Gender",3
+#16-8-2,"Age, Sex, Type of residence",3
 #16-8-3,Region,1
 #16-8-4,"Unit, Organization",2
 #16-9-1,"Region, Age, Component, Gender",4
