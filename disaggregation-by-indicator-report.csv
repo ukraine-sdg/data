@@ -21,11 +21,11 @@ Indicator,Disaggregations,Number of disaggregations
 #16-5-1,Type_weapon,1
 #16-5-2,"Region, Ammunition",2
 #16-5-3,"Article, Unit",2
-#16-8-1,"Age, Gender",2
+#16-8-1,"Age, Sex",2
 #16-8-2,"Age, Type of residence, Gender",3
 #16-8-3,Region,1
 #16-8-4,"Unit, Organization",2
-#16-9-1,"Region, Age, Gender, Component",4
+#16-9-1,"Region, Age, Component, Gender",4
 #17-3-1,Region,1
 #2-1-1,Region,1
 #2-1-2,Region,1
@@ -57,7 +57,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-5-2,"Age, Sex, Type of residence",3
 #4-7-3,Type of residence,1
 #5-2-2,Group,1
-#5-3-1,"Type of residence, Gender, Unit",3
+#5-3-1,"Type of residence, Unit, Gender",3
 #5-4-3,Cat,1
 #5-5-1,"Region, Age",2
 #5-6-1,Ec_activ,1
