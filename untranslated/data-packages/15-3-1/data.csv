@@ -6,6 +6,7 @@ Year,Zone,Value
 2019,,
 2020,,3.07
 2021,,
+2022,,
 2015,zone_1_polis,2.33
 2016,zone_1_polis,
 2017,zone_1_polis,
@@ -13,6 +14,7 @@ Year,Zone,Value
 2019,zone_1_polis,
 2020,zone_1_polis,2.43
 2021,zone_1_polis,
+2022,zone_1_polis,
 2015,zone_2_fores_st,3.21
 2016,zone_2_fores_st,
 2017,zone_2_fores_st,
@@ -20,6 +22,7 @@ Year,Zone,Value
 2019,zone_2_fores_st,
 2020,zone_2_fores_st,3.2
 2021,zone_2_fores_st,
+2022,zone_2_fores_st,
 2015,zone_3_st,3.45
 2016,zone_3_st,
 2017,zone_3_st,
@@ -27,3 +30,4 @@ Year,Zone,Value
 2019,zone_3_st,
 2020,zone_3_st,3.31
 2021,zone_3_st,
+2022,zone_3_st,

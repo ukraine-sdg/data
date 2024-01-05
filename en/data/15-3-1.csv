@@ -6,6 +6,7 @@ Year,Zone,Value
 2019,,
 2020,,3.07
 2021,,
+2022,,
 2015,Polissya,2.33
 2016,Polissya,
 2017,Polissya,
@@ -13,6 +14,7 @@ Year,Zone,Value
 2019,Polissya,
 2020,Polissya,2.43
 2021,Polissya,
+2022,Polissya,
 2015,Forest-steppe,3.21
 2016,Forest-steppe,
 2017,Forest-steppe,
@@ -20,6 +22,7 @@ Year,Zone,Value
 2019,Forest-steppe,
 2020,Forest-steppe,3.2
 2021,Forest-steppe,
+2022,Forest-steppe,
 2015,Steppe,3.45
 2016,Steppe,
 2017,Steppe,
@@ -27,3 +30,4 @@ Year,Zone,Value
 2019,Steppe,
 2020,Steppe,3.31
 2021,Steppe,
+2022,Steppe,
