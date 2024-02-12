@@ -6,6 +6,7 @@ Year,Group,Value
 2019,,66.4
 2020,,70.2
 2021,,
+2022,,
 2015,11_agricul,82.6
 2016,11_agricul,89.6
 2017,11_agricul,95.6
@@ -13,6 +14,7 @@ Year,Group,Value
 2019,11_agricul,95.3
 2020,11_agricul,86.5
 2021,11_agricul,
+2022,11_agricul,
 2015,12_indu,40.1
 2016,12_indu,46.3
 2017,12_indu,43.7
@@ -20,6 +22,7 @@ Year,Group,Value
 2019,12_indu,51.3
 2020,12_indu,50.9
 2021,12_indu,
+2022,12_indu,
 2015,13_constr,80.3
 2016,13_constr,91.2
 2017,13_constr,98.3
@@ -27,6 +30,7 @@ Year,Group,Value
 2019,13_constr,93.9
 2020,13_constr,88.4
 2021,13_constr,
+2022,13_constr,
 2015,14_motor_veh,64.5
 2016,14_motor_veh,72.8
 2017,14_motor_veh,70.0
@@ -34,6 +38,7 @@ Year,Group,Value
 2019,14_motor_veh,73.3
 2020,14_motor_veh,76.6
 2021,14_motor_veh,
+2022,14_motor_veh,
 2015,15_courier,50.0
 2016,15_courier,48.7
 2017,15_courier,51.1
@@ -41,6 +46,7 @@ Year,Group,Value
 2019,15_courier,47.5
 2020,15_courier,46.2
 2021,15_courier,
+2022,15_courier,
 2015,16_cater,87.5
 2016,16_cater,96.3
 2017,16_cater,97.6
@@ -48,6 +54,7 @@ Year,Group,Value
 2019,16_cater,
 2020,16_cater,
 2021,16_cater,
+2022,16_cater,
 2015,17_telecom,59.3
 2016,17_telecom,72.3
 2017,17_telecom,74.2
@@ -55,6 +62,7 @@ Year,Group,Value
 2019,17_telecom,71.1
 2020,17_telecom,72.0
 2021,17_telecom,
+2022,17_telecom,
 2015,18_insurance,
 2016,18_insurance,98.3
 2017,18_insurance,100.0
@@ -62,6 +70,7 @@ Year,Group,Value
 2019,18_insurance,
 2020,18_insurance,91.3
 2021,18_insurance,
+2022,18_insurance,
 2015,19_estate,96.8
 2016,19_estate,
 2017,19_estate,
@@ -69,6 +78,7 @@ Year,Group,Value
 2019,19_estate,
 2020,19_estate,
 2021,19_estate,
+2022,19_estate,
 2015,20_scientific,49.2
 2016,20_scientific,43.9
 2017,20_scientific,
@@ -76,6 +86,7 @@ Year,Group,Value
 2019,20_scientific,
 2020,20_scientific,
 2021,20_scientific,
+2022,20_scientific,
 2015,21_support,98.1
 2016,21_support,90.8
 2017,21_support,99.9
@@ -83,6 +94,7 @@ Year,Group,Value
 2019,21_support,
 2020,21_support,
 2021,21_support,
+2022,21_support,
 2015,23_educ,100.0
 2016,23_educ,100.0
 2017,23_educ,100.0
@@ -90,6 +102,7 @@ Year,Group,Value
 2019,23_educ,100.0
 2020,23_educ,100.0
 2021,23_educ,
+2022,23_educ,
 2015,24_health,100.0
 2016,24_health,100.0
 2017,24_health,100.0
@@ -97,6 +110,7 @@ Year,Group,Value
 2019,24_health,
 2020,24_health,
 2021,24_health,
+2022,24_health,
 2015,25_arts,49.5
 2016,25_arts,
 2017,25_arts,
@@ -104,6 +118,7 @@ Year,Group,Value
 2019,25_arts,
 2020,25_arts,
 2021,25_arts,
+2022,25_arts,
 2015,26_other_serv,100.0
 2016,26_other_serv,100.0
 2017,26_other_serv,100.0
@@ -111,3 +126,4 @@ Year,Group,Value
 2019,26_other_serv,100.0
 2020,26_other_serv,100.0
 2021,26_other_serv,
+2022,26_other_serv,
