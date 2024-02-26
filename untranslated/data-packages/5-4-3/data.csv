@@ -7,6 +7,7 @@ Year,Cat,Value
 2020,cat_A,33.0
 2021,cat_A,28.0
 2022,cat_A,31.0
+2023,cat_A,31.0
 2015,cat_B,
 2016,cat_B,
 2017,cat_B,
@@ -15,6 +16,7 @@ Year,Cat,Value
 2020,cat_B,69.0
 2021,cat_B,67.0
 2022,cat_B,67.0
+2023,cat_B,66.0
 2015,cat_C,
 2016,cat_C,
 2017,cat_C,
@@ -23,3 +25,4 @@ Year,Cat,Value
 2020,cat_C,78.0
 2021,cat_C,77.0
 2022,cat_C,78.0
+2023,cat_C,78.0
