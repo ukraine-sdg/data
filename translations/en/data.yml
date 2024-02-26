@@ -223,7 +223,7 @@ en_2_petrol: petroleum (2709)
 en_3_gas: natural gas (271121)
 
 Cost_train: Cost of training a specialist
-1_per_student: average cost per one student, UAH
+1_per_student: average cost per one given student, UAH
 2_per_student_job: average costs per one graduated student, who studies without separation of production, UAH
 3_per_graduate: average cost per one graduated student, who studies with distance from production, UAH
 4_per_doctoral: average cost per doctoral student, UAH
