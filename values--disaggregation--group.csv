@@ -1,5 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
-11_agricul,2,2
+11_1_agricul,1,1
+11_agricul,1,1
 12_indu,2,2
 13_constr,2,2
 14_motor_veh,2,2
@@ -16,7 +17,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 23_educ,2,2
 24_health,2,2
 25_arts,2,2
-26_other_serv,2,2
+26_1_other_serv,1,1
+26_other_serv,1,1
 2_females,7,3
 2_particip,1,1
 3_adolescents,7,3

@@ -5846,7 +5846,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "11_agricul",
+                "11_1_agricul",
                 "12_indu",
                 "13_constr",
                 "14_motor_veh",
@@ -5861,7 +5861,7 @@
                 "23_educ",
                 "24_health",
                 "25_arts",
-                "26_other_serv",
+                "26_1_other_serv",
                 ""
               ]
             }
