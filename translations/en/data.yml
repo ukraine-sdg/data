@@ -382,6 +382,7 @@ s_22_oth_sec: other sectors
 
 12_indu: industry
 11_agricul: agriculture, forestry and fisheries
+11_1_agricul: agriculture, forestry and fisheries
 13_constr: construction
 14_motor_veh: wholesale and retail trade; repair of motor vehicles and motorcycles
 15_courier: transport, warehousing, post and courier services
@@ -396,6 +397,7 @@ s_22_oth_sec: other sectors
 24_health: health care and social assistance
 25_arts: arts, sports, entertainment and recreation
 26_other_serv: provision of other services
+26_1_other_serv: provision of other services
 
 1_tr_road: Road transport used by road hauliers
 2_tr_urban: Urban electric transport 
