@@ -7,6 +7,7 @@ Year,Sou_en,Value
 2020,en_1_coal,70.2
 2021,en_1_coal,67.5
 2022,en_1_coal,42.4
+2023,en_1_coal,30.8
 2015,en_2_petrol,99.9
 2016,en_2_petrol,97.4
 2017,en_2_petrol,85.2
@@ -15,6 +16,7 @@ Year,Sou_en,Value
 2020,en_2_petrol,70.2
 2021,en_2_petrol,74.5
 2022,en_2_petrol,99.9
+2023,en_2_petrol,100.0
 2015,en_3_gas,37.3
 2016,en_3_gas,29.5
 2017,en_3_gas,40.5
@@ -23,3 +25,4 @@ Year,Sou_en,Value
 2020,en_3_gas,35.5
 2021,en_3_gas,52.7
 2022,en_3_gas,43.5
+2023,en_3_gas,31.3
