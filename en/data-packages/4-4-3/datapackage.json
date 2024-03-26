@@ -17,9 +17,9 @@
               "enum": [
                 "",
                 "average cost per one given student, UAH",
-                "average costs per one graduated student, who studies without separation of production, UAH",
-                "average cost per one graduated student, who studies with distance from production, UAH",
-                "average cost per doctoral student, UAH"
+                "average costs per one graduated student, who studies without separation from production, UAH",
+                "average costs per one graduated student, who studies with separation from production, UAH",
+                "average costs per one doctoral student, UAH"
               ]
             },
             "title": "Cost of training a specialist"
