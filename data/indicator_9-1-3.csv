@@ -6,7 +6,8 @@ Year,m_trans,Value
 2019,,4262.3
 2020,,2570.2
 2021,,2655.4
-2022,,
+2022,,1600.6
+2023,,
 2015,tr_1_rail,389.8
 2016,tr_1_rail,389.1
 2017,tr_1_rail,164.9
@@ -15,6 +16,7 @@ Year,m_trans,Value
 2020,tr_1_rail,68.3
 2021,tr_1_rail,81.3
 2022,tr_1_rail,
+2023,tr_1_rail,
 2015,tr_2_motor,2250.3
 2016,tr_2_motor,2024.9
 2017,tr_2_motor,2019.3
@@ -23,6 +25,7 @@ Year,m_trans,Value
 2020,tr_2_motor,1083.9
 2021,tr_2_motor,1089.3
 2022,tr_2_motor,
+2023,tr_2_motor,
 2015,tr_3_sea,0
 2016,tr_3_sea,0
 2017,tr_3_sea,0
@@ -31,6 +34,7 @@ Year,m_trans,Value
 2020,tr_3_sea,0.1
 2021,tr_3_sea,0.1
 2022,tr_3_sea,
+2023,tr_3_sea,
 2015,tr_4_river,0.6
 2016,tr_4_river,0.4
 2017,tr_4_river,0.6
@@ -39,6 +43,7 @@ Year,m_trans,Value
 2020,tr_4_river,0.2
 2021,tr_4_river,0.4
 2022,tr_4_river,
+2023,tr_4_river,
 2015,tr_6_air,6.3
 2016,tr_6_air,8.3
 2017,tr_6_air,10.6
@@ -47,6 +52,7 @@ Year,m_trans,Value
 2020,tr_6_air,4.8
 2021,tr_6_air,9.3
 2022,tr_6_air,
+2023,tr_6_air,
 2015,2_tr_urban,2519.8
 2016,2_tr_urban,2431.1
 2017,2_tr_urban,2452.8
@@ -55,6 +61,7 @@ Year,m_trans,Value
 2020,2_tr_urban,1412.9
 2021,2_tr_urban,1475
 2022,2_tr_urban,
+2023,2_tr_urban,
 2015,tr_7_tram,738.6
 2016,tr_7_tram,694
 2017,tr_7_tram,675.8
@@ -63,6 +70,7 @@ Year,m_trans,Value
 2020,tr_7_tram,422.8
 2021,tr_7_tram,398
 2022,tr_7_tram,
+2023,tr_7_tram,
 2015,tr_8_trolley,1080.8
 2016,tr_8_trolley,1038.7
 2017,tr_8_trolley,1058.1
@@ -71,6 +79,7 @@ Year,m_trans,Value
 2020,tr_8_trolley,579
 2021,tr_8_trolley,594.4
 2022,tr_8_trolley,
+2023,tr_8_trolley,
 2015,tr_9_subway,700.4
 2016,tr_9_subway,698.4
 2017,tr_9_subway,718.9
@@ -79,3 +88,4 @@ Year,m_trans,Value
 2020,tr_9_subway,411.1
 2021,tr_9_subway,482.6
 2022,tr_9_subway,
+2023,tr_9_subway,
