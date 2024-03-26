@@ -224,9 +224,9 @@ en_3_gas: natural gas (271121)
 
 Cost_train: Cost of training a specialist
 1_per_student: average cost per one given student, UAH
-2_per_student_job: average costs per one graduated student, who studies without separation of production, UAH
-3_per_graduate: average cost per one graduated student, who studies with distance from production, UAH
-4_per_doctoral: average cost per doctoral student, UAH
+2_per_student_job: average costs per one graduated student, who studies without separation from production, UAH
+3_per_graduate: average costs per one graduated student, who studies with separation from production, UAH
+4_per_doctoral: average costs per one doctoral student, UAH
 
 age_18: under 18 years old
 age_18_35: from 18 years to 35 years inclusive
