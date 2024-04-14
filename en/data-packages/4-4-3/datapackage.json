@@ -16,7 +16,7 @@
             "constraints": {
               "enum": [
                 "",
-                "average cost per one given student, UAH",
+                "average costs per one given student, UAH",
                 "average costs per one graduated student, who studies without separation from production, UAH",
                 "average costs per one graduated student, who studies with separation from production, UAH",
                 "average costs per one doctoral student, UAH"
