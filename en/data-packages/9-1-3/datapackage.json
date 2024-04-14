@@ -26,7 +26,7 @@
             "constraints": {
               "enum": [
                 "",
-                "Urban electric transport",
+                "City electric transport",
                 "rail",
                 "motor",
                 "sea",
