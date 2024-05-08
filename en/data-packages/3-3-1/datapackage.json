@@ -11,16 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "female",
-                "male"
-              ]
-            },
-            "title": "Gender"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Group",
@@ -37,7 +30,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -62,20 +54,28 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv"
+                "the city of Kyiv",
+                ""
               ]
             },
             "title": "Region"
           },
           {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

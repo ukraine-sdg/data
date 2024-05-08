@@ -11,29 +11,22 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15-24 years",
-                "25-64 years"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Level_ed",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Complete higher",
                 "Basic higher",
                 "Incomplete higher",
                 "Professional and technical",
                 "Complete total average",
-                "Basic, elementary general or no education"
+                "Basic, elementary general or no education",
+                ""
               ]
             },
             "title": "Level of education"
@@ -43,22 +36,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "women",
-                "men"
+                "men",
+                ""
               ]
             },
             "title": "Sex"
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 years",
+                "25-64 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

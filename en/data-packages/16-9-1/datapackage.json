@@ -11,34 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "18-35 years",
-                "36-60 years",
-                "36-59 years",
-                "61 years and older",
-                "60 years and older"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Component",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "tolerant and active citizenship",
-                "propensity to migrate",
-                "cooperation in the community",
-                "political security",
-                "readiness for dialogue with different groups",
-                "the belief that everyone can influence changes in the country",
-                "social tolerance",
-                "active civic position",
                 "social cohesion and sense of ownership",
                 "tolerance and socially responsible citizenship",
                 "psycho-social adaptability",
@@ -47,47 +28,66 @@
                 "civic behavior",
                 "relations with government and safety",
                 "relations between groups",
-                "psycho-social activity"
+                "psycho-social activity",
+                "tolerant and active citizenship",
+                "propensity to migrate",
+                "cooperation in the community",
+                "political security",
+                "readiness for dialogue with different groups",
+                "the belief that everyone can influence changes in the country",
+                "social tolerance",
+                "active civic position",
+                ""
               ]
             },
             "title": "Сomponent of the index"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "women",
-                "men"
-              ]
-            },
-            "title": "Gender"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Dnipropetrovsk",
                 "Donetsk",
-                "Zaporizhzhya",
                 "Luhansk",
-                "Kharkiv"
+                "Dnipropetrovsk",
+                "Zaporizhzhya",
+                "Kharkiv",
+                ""
               ]
             },
             "title": "Region"
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-35 years",
+                "36-60 years",
+                "36-59 years",
+                "61 years and older",
+                "60 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men",
+                "women",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

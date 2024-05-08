@@ -11,11 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"
@@ -25,15 +20,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Land and pipeline transport",
                 "Water transport",
                 "Air transport",
                 "Warehousing and auxiliary transport activities",
-                "Post and courier services"
+                "Post and courier services",
+                ""
               ]
             },
             "title": "Mode of transport"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
           }
         ]
       }

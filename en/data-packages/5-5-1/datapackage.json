@@ -11,27 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 years",
-                "16 years",
-                "17 years",
-                "18 years",
-                "19 years",
-                "up to 20 years"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Vinnytsya",
                 "Volyn",
                 "Dnipropetrovsk",
@@ -56,20 +44,32 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv"
+                "the city of Kyiv",
+                ""
               ]
             },
             "title": "Region"
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years",
+                "16 years",
+                "17 years",
+                "18 years",
+                "19 years",
+                "up to 20 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }

@@ -11,14 +11,19 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "18-35 years",
                 "36-60 years",
-                "61 years and older"
+                "61 years and older",
+                ""
               ]
             },
             "title": "Age"
@@ -28,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "male",
                 "female",
-                "male"
+                ""
               ]
             },
             "title": "Sex"
@@ -40,9 +45,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "urban",
                 "rural",
-                "urban"
+                ""
               ]
             },
             "title": "Type of residence"
@@ -51,11 +56,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
