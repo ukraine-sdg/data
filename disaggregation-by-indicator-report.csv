@@ -22,10 +22,10 @@ Indicator,Disaggregations,Number of disaggregations
 #16-5-2,"Region, Ammunition",2
 #16-5-3,"Unit, Article",2
 #16-8-1,"Age, Sex",2
-#16-8-2,"Age, Type of residence, Sex",3
+#16-8-2,"Type of residence, Age, Sex",3
 #16-8-3,Region,1
 #16-8-4,"Unit, Organization",2
-#16-9-1,"Region, Age, Component, Gender",4
+#16-9-1,"Region, Age, Gender, Component",4
 #17-3-1,Region,1
 #2-1-1,Region,1
 #2-1-2,Region,1
@@ -54,7 +54,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-4-3,Cost_train,1
 #4-4-4,Fund,1
 #4-5-1,"Age, Sex",2
-#4-5-2,"Age, Type of residence, Sex",3
+#4-5-2,"Type of residence, Age, Sex",3
 #4-7-3,Type of residence,1
 #5-2-2,Group,1
 #5-3-1,"Type of residence, Unit, Gender",3
@@ -67,14 +67,14 @@ Indicator,Disaggregations,Number of disaggregations
 #6-3-1,Ec_activ,1
 #6-3-2,Ec_activ,1
 #7-1-1,Generation,1
-#7-1-2,"Category, Unit, including",3
+#7-1-2,"Unit, Category, including",3
 #7-2-1,Sou_en,1
 #8-2-2,Group,1
 #8-3-1,"Type of residence, Sex",2
 #8-4-1,Sex,1
 #8-5-1,Region,1
 #8-5-2,Region,1
-#8-5-3,"including, Ec_activ",2
+#8-5-3,"Ec_activ, including",2
 #8-6-1,Ec_activ,1
 #8-6-2,Group,1
 #9-1-1,Region,1
