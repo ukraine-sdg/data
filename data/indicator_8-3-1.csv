@@ -7,6 +7,7 @@ Year,Sex,Type of residence,Value
 2020,,,65.2
 2021,,,64.8
 2022,,,
+2023,,,
 2015,female,,59.1
 2016,female,,59.3
 2017,female,,59.4
@@ -15,6 +16,7 @@ Year,Sex,Type of residence,Value
 2020,female,,60
 2021,female,,59.3
 2022,female,,
+2023,female,,
 2015,male,,70.2
 2016,male,,69.5
 2017,male,,69.4
@@ -23,6 +25,7 @@ Year,Sex,Type of residence,Value
 2020,male,,70.8
 2021,male,,70.8
 2022,male,,
+2023,male,,
 2015,,urban,65.2
 2016,,urban,65
 2017,,urban,65.1
@@ -31,6 +34,7 @@ Year,Sex,Type of residence,Value
 2020,,urban,66.5
 2021,,urban,66.1
 2022,,urban,
+2023,,urban,
 2015,,rural,62.7
 2016,,rural,62.4
 2017,,rural,62.2
@@ -39,3 +43,4 @@ Year,Sex,Type of residence,Value
 2020,,rural,62.6
 2021,,rural,62.1
 2022,,rural,
+2023,,rural,
