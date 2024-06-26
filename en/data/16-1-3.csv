@@ -7,6 +7,7 @@ Year,Unit,Group,Value
 2020,Victims of criminal offenses (per 100 thousand population),all,0.93
 2021,Victims of criminal offenses (per 100 thousand population),all,0.95
 2022,Victims of criminal offenses (per 100 thousand population),all,0.57
+2023,Victims of criminal offenses (per 100 thousand population),all,1.08
 2015,"Victims of criminal offenses (Art. 152), total",all,306.0
 2016,"Victims of criminal offenses (Art. 152), total",all,328.0
 2017,"Victims of criminal offenses (Art. 152), total",all,233.0
@@ -15,6 +16,7 @@ Year,Unit,Group,Value
 2020,"Victims of criminal offenses (Art. 152), total",all,388.0
 2021,"Victims of criminal offenses (Art. 152), total",all,391.0
 2022,"Victims of criminal offenses (Art. 152), total",all,236.0
+2023,"Victims of criminal offenses (Art. 152), total",all,443.0
 2015,"Victims of criminal offenses (Art. 152), total",females,278.0
 2016,"Victims of criminal offenses (Art. 152), total",females,298.0
 2017,"Victims of criminal offenses (Art. 152), total",females,208.0
@@ -23,6 +25,7 @@ Year,Unit,Group,Value
 2020,"Victims of criminal offenses (Art. 152), total",females,263.0
 2021,"Victims of criminal offenses (Art. 152), total",females,234.0
 2022,"Victims of criminal offenses (Art. 152), total",females,120.0
+2023,"Victims of criminal offenses (Art. 152), total",females,335.0
 2015,"Victims of criminal offenses (Art. 152), total",adolescents,57.0
 2016,"Victims of criminal offenses (Art. 152), total",adolescents,55.0
 2017,"Victims of criminal offenses (Art. 152), total",adolescents,50.0
@@ -31,6 +34,7 @@ Year,Unit,Group,Value
 2020,"Victims of criminal offenses (Art. 152), total",adolescents,82.0
 2021,"Victims of criminal offenses (Art. 152), total",adolescents,136.0
 2022,"Victims of criminal offenses (Art. 152), total",adolescents,61.0
+2023,"Victims of criminal offenses (Art. 152), total",adolescents,207.0
 2015,"Victims of criminal offenses (Art. 152), total",young (under 14),27.0
 2016,"Victims of criminal offenses (Art. 152), total",young (under 14),32.0
 2017,"Victims of criminal offenses (Art. 152), total",young (under 14),39.0
@@ -39,3 +43,4 @@ Year,Unit,Group,Value
 2020,"Victims of criminal offenses (Art. 152), total",young (under 14),151.0
 2021,"Victims of criminal offenses (Art. 152), total",young (under 14),148.0
 2022,"Victims of criminal offenses (Art. 152), total",young (under 14),97.0
+2023,"Victims of criminal offenses (Art. 152), total",young (under 14),172.0
