@@ -7,6 +7,7 @@ Year,Type_weapon,Value
 2020,,2332
 2021,,2319
 2022,,2832
+2023,,5123
 2015,weap_1_bore,98
 2016,weap_1_bore,61
 2017,weap_1_bore,85
@@ -15,6 +16,7 @@ Year,Type_weapon,Value
 2020,weap_1_bore,40
 2021,weap_1_bore,64
 2022,weap_1_bore,60
+2023,weap_1_bore,60
 2015,weap_2_rifled,1066
 2016,weap_2_rifled,764
 2017,weap_2_rifled,1130
@@ -23,6 +25,7 @@ Year,Type_weapon,Value
 2020,weap_2_rifled,941
 2021,weap_2_rifled,895
 2022,weap_2_rifled,1291
+2023,weap_2_rifled,1300
 2015,weap_3_oth,805
 2016,weap_3_oth,467
 2017,weap_3_oth,995
@@ -31,6 +34,7 @@ Year,Type_weapon,Value
 2020,weap_3_oth,643
 2021,weap_3_oth,613
 2022,weap_3_oth,588
+2023,weap_3_oth,3024
 2015,weap_4_grenade,112
 2016,weap_4_grenade,20
 2017,weap_4_grenade,62
@@ -39,6 +43,7 @@ Year,Type_weapon,Value
 2020,weap_4_grenade,53
 2021,weap_4_grenade,18
 2022,weap_4_grenade,25
+2023,weap_4_grenade,118
 2015,weap_5_cold,982
 2016,weap_5_cold,578
 2017,weap_5_cold,1020
@@ -47,3 +52,4 @@ Year,Type_weapon,Value
 2020,weap_5_cold,655
 2021,weap_5_cold,729
 2022,weap_5_cold,868
+2023,weap_5_cold,621
