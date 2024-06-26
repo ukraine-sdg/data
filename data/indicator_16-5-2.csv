@@ -7,6 +7,7 @@ Year,Ammunition,Region,Value
 2020,,,180562
 2021,,,135152
 2022,,,200990
+2023,,,724993
 2015,1_am_cartridges,,202142
 2016,1_am_cartridges,,174954
 2017,1_am_cartridges,,278238
@@ -15,6 +16,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,,179186
 2021,1_am_cartridges,,134166
 2022,1_am_cartridges,,199850
+2023,1_am_cartridges,,720336
 2015,2_am_grenades,,2099
 2016,2_am_grenades,,2698
 2017,2_am_grenades,,1935
@@ -23,6 +25,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,,1228
 2021,2_am_grenades,,926
 2022,2_am_grenades,,1110
+2023,2_am_grenades,,4418
 2015,3_am_mines,,26
 2016,3_am_mines,,61
 2017,3_am_mines,,57
@@ -31,6 +34,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,,24
 2021,3_am_mines,,7
 2022,3_am_mines,,9
+2023,3_am_mines,,148
 2015,4_am_devic,,59
 2016,4_am_devic,,44
 2017,4_am_devic,,46
@@ -39,6 +43,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,,124
 2021,4_am_devic,,53
 2022,4_am_devic,,21
+2023,4_am_devic,,91
 2015,,11_reg_Vinnytsya,3982
 2016,,11_reg_Vinnytsya,6624
 2017,,11_reg_Vinnytsya,5909
@@ -47,6 +52,7 @@ Year,Ammunition,Region,Value
 2020,,11_reg_Vinnytsya,7006
 2021,,11_reg_Vinnytsya,1786
 2022,,11_reg_Vinnytsya,3279
+2023,,11_reg_Vinnytsya,14133
 2015,1_am_cartridges,11_reg_Vinnytsya,3952
 2016,1_am_cartridges,11_reg_Vinnytsya,6584
 2017,1_am_cartridges,11_reg_Vinnytsya,5893
@@ -55,6 +61,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,11_reg_Vinnytsya,6988
 2021,1_am_cartridges,11_reg_Vinnytsya,1777
 2022,1_am_cartridges,11_reg_Vinnytsya,3257
+2023,1_am_cartridges,11_reg_Vinnytsya,14037
 2015,2_am_grenades,11_reg_Vinnytsya,29
 2016,2_am_grenades,11_reg_Vinnytsya,39
 2017,2_am_grenades,11_reg_Vinnytsya,16
@@ -63,6 +70,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,11_reg_Vinnytsya,18
 2021,2_am_grenades,11_reg_Vinnytsya,9
 2022,2_am_grenades,11_reg_Vinnytsya,22
+2023,2_am_grenades,11_reg_Vinnytsya,95
 2015,3_am_mines,11_reg_Vinnytsya,1
 2016,3_am_mines,11_reg_Vinnytsya,
 2017,3_am_mines,11_reg_Vinnytsya,
@@ -71,6 +79,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,11_reg_Vinnytsya,
 2021,3_am_mines,11_reg_Vinnytsya,
 2022,3_am_mines,11_reg_Vinnytsya,
+2023,3_am_mines,11_reg_Vinnytsya,
 2015,4_am_devic,11_reg_Vinnytsya,
 2016,4_am_devic,11_reg_Vinnytsya,1
 2017,4_am_devic,11_reg_Vinnytsya,
@@ -79,6 +88,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,11_reg_Vinnytsya,
 2021,4_am_devic,11_reg_Vinnytsya,
 2022,4_am_devic,11_reg_Vinnytsya,
+2023,4_am_devic,11_reg_Vinnytsya,1
 2015,,12_reg_Volyn,1536
 2016,,12_reg_Volyn,2392
 2017,,12_reg_Volyn,5351
@@ -87,6 +97,7 @@ Year,Ammunition,Region,Value
 2020,,12_reg_Volyn,5316
 2021,,12_reg_Volyn,1631
 2022,,12_reg_Volyn,3989
+2023,,12_reg_Volyn,3590
 2015,1_am_cartridges,12_reg_Volyn,1508
 2016,1_am_cartridges,12_reg_Volyn,1664
 2017,1_am_cartridges,12_reg_Volyn,5312
@@ -95,6 +106,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,12_reg_Volyn,5074
 2021,1_am_cartridges,12_reg_Volyn,1618
 2022,1_am_cartridges,12_reg_Volyn,3968
+2023,1_am_cartridges,12_reg_Volyn,3560
 2015,2_am_grenades,12_reg_Volyn,28
 2016,2_am_grenades,12_reg_Volyn,713
 2017,2_am_grenades,12_reg_Volyn,31
@@ -103,6 +115,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,12_reg_Volyn,232
 2021,2_am_grenades,12_reg_Volyn,13
 2022,2_am_grenades,12_reg_Volyn,18
+2023,2_am_grenades,12_reg_Volyn,30
 2015,3_am_mines,12_reg_Volyn,
 2016,3_am_mines,12_reg_Volyn,15
 2017,3_am_mines,12_reg_Volyn,8
@@ -111,6 +124,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,12_reg_Volyn,10
 2021,3_am_mines,12_reg_Volyn,
 2022,3_am_mines,12_reg_Volyn,3
+2023,3_am_mines,12_reg_Volyn,
 2015,4_am_devic,12_reg_Volyn,
 2016,4_am_devic,12_reg_Volyn,
 2017,4_am_devic,12_reg_Volyn,
@@ -119,6 +133,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,12_reg_Volyn,
 2021,4_am_devic,12_reg_Volyn,
 2022,4_am_devic,12_reg_Volyn,
+2023,4_am_devic,12_reg_Volyn,
 2015,,13_reg_Dnipropetrovsk,43122
 2016,,13_reg_Dnipropetrovsk,10419
 2017,,13_reg_Dnipropetrovsk,27831
@@ -127,6 +142,7 @@ Year,Ammunition,Region,Value
 2020,,13_reg_Dnipropetrovsk,23838
 2021,,13_reg_Dnipropetrovsk,24945
 2022,,13_reg_Dnipropetrovsk,26961
+2023,,13_reg_Dnipropetrovsk,72843
 2015,1_am_cartridges,13_reg_Dnipropetrovsk,42751
 2016,1_am_cartridges,13_reg_Dnipropetrovsk,10320
 2017,1_am_cartridges,13_reg_Dnipropetrovsk,27620
@@ -135,6 +151,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,13_reg_Dnipropetrovsk,23696
 2021,1_am_cartridges,13_reg_Dnipropetrovsk,24750
 2022,1_am_cartridges,13_reg_Dnipropetrovsk,26732
+2023,1_am_cartridges,13_reg_Dnipropetrovsk,72166
 2015,2_am_grenades,13_reg_Dnipropetrovsk,339
 2016,2_am_grenades,13_reg_Dnipropetrovsk,98
 2017,2_am_grenades,13_reg_Dnipropetrovsk,208
@@ -143,6 +160,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,13_reg_Dnipropetrovsk,135
 2021,2_am_grenades,13_reg_Dnipropetrovsk,192
 2022,2_am_grenades,13_reg_Dnipropetrovsk,222
+2023,2_am_grenades,13_reg_Dnipropetrovsk,650
 2015,3_am_mines,13_reg_Dnipropetrovsk,3
 2016,3_am_mines,13_reg_Dnipropetrovsk,
 2017,3_am_mines,13_reg_Dnipropetrovsk,2
@@ -151,6 +169,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,13_reg_Dnipropetrovsk,1
 2021,3_am_mines,13_reg_Dnipropetrovsk,
 2022,3_am_mines,13_reg_Dnipropetrovsk,1
+2023,3_am_mines,13_reg_Dnipropetrovsk,2
 2015,4_am_devic,13_reg_Dnipropetrovsk,29
 2016,4_am_devic,13_reg_Dnipropetrovsk,1
 2017,4_am_devic,13_reg_Dnipropetrovsk,1
@@ -159,6 +178,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,13_reg_Dnipropetrovsk,6
 2021,4_am_devic,13_reg_Dnipropetrovsk,3
 2022,4_am_devic,13_reg_Dnipropetrovsk,6
+2023,4_am_devic,13_reg_Dnipropetrovsk,25
 2015,,14_reg_Donetsk,19780
 2016,,14_reg_Donetsk,30997
 2017,,14_reg_Donetsk,47498
@@ -167,6 +187,7 @@ Year,Ammunition,Region,Value
 2020,,14_reg_Donetsk,14330
 2021,,14_reg_Donetsk,12720
 2022,,14_reg_Donetsk,6735
+2023,,14_reg_Donetsk,54933
 2015,1_am_cartridges,14_reg_Donetsk,19344
 2016,1_am_cartridges,14_reg_Donetsk,30594
 2017,1_am_cartridges,14_reg_Donetsk,47187
@@ -175,6 +196,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,14_reg_Donetsk,14243
 2021,1_am_cartridges,14_reg_Donetsk,12627
 2022,1_am_cartridges,14_reg_Donetsk,6691
+2023,1_am_cartridges,14_reg_Donetsk,54301
 2015,2_am_grenades,14_reg_Donetsk,428
 2016,2_am_grenades,14_reg_Donetsk,395
 2017,2_am_grenades,14_reg_Donetsk,305
@@ -183,6 +205,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,14_reg_Donetsk,84
 2021,2_am_grenades,14_reg_Donetsk,84
 2022,2_am_grenades,14_reg_Donetsk,44
+2023,2_am_grenades,14_reg_Donetsk,627
 2015,3_am_mines,14_reg_Donetsk,6
 2016,3_am_mines,14_reg_Donetsk,5
 2017,3_am_mines,14_reg_Donetsk,3
@@ -191,6 +214,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,14_reg_Donetsk,
 2021,3_am_mines,14_reg_Donetsk,
 2022,3_am_mines,14_reg_Donetsk,
+2023,3_am_mines,14_reg_Donetsk,2
 2015,4_am_devic,14_reg_Donetsk,2
 2016,4_am_devic,14_reg_Donetsk,3
 2017,4_am_devic,14_reg_Donetsk,3
@@ -199,6 +223,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,14_reg_Donetsk,3
 2021,4_am_devic,14_reg_Donetsk,9
 2022,4_am_devic,14_reg_Donetsk,
+2023,4_am_devic,14_reg_Donetsk,3
 2015,,15_reg_Zhytomyr,3461
 2016,,15_reg_Zhytomyr,3321
 2017,,15_reg_Zhytomyr,3686
@@ -207,6 +232,7 @@ Year,Ammunition,Region,Value
 2020,,15_reg_Zhytomyr,4256
 2021,,15_reg_Zhytomyr,4240
 2022,,15_reg_Zhytomyr,9849
+2023,,15_reg_Zhytomyr,9280
 2015,1_am_cartridges,15_reg_Zhytomyr,3434
 2016,1_am_cartridges,15_reg_Zhytomyr,3284
 2017,1_am_cartridges,15_reg_Zhytomyr,3650
@@ -215,6 +241,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,15_reg_Zhytomyr,4245
 2021,1_am_cartridges,15_reg_Zhytomyr,4232
 2022,1_am_cartridges,15_reg_Zhytomyr,9801
+2023,1_am_cartridges,15_reg_Zhytomyr,9193
 2015,2_am_grenades,15_reg_Zhytomyr,27
 2016,2_am_grenades,15_reg_Zhytomyr,35
 2017,2_am_grenades,15_reg_Zhytomyr,35
@@ -223,6 +250,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,15_reg_Zhytomyr,9
 2021,2_am_grenades,15_reg_Zhytomyr,7
 2022,2_am_grenades,15_reg_Zhytomyr,48
+2023,2_am_grenades,15_reg_Zhytomyr,86
 2015,3_am_mines,15_reg_Zhytomyr,
 2016,3_am_mines,15_reg_Zhytomyr,2
 2017,3_am_mines,15_reg_Zhytomyr,1
@@ -231,6 +259,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,15_reg_Zhytomyr,
 2021,3_am_mines,15_reg_Zhytomyr,1
 2022,3_am_mines,15_reg_Zhytomyr,
+2023,3_am_mines,15_reg_Zhytomyr,1
 2015,4_am_devic,15_reg_Zhytomyr,
 2016,4_am_devic,15_reg_Zhytomyr,
 2017,4_am_devic,15_reg_Zhytomyr,
@@ -239,6 +268,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,15_reg_Zhytomyr,2
 2021,4_am_devic,15_reg_Zhytomyr,
 2022,4_am_devic,15_reg_Zhytomyr,
+2023,4_am_devic,15_reg_Zhytomyr,
 2015,,16_reg_Zakarpattya,1663
 2016,,16_reg_Zakarpattya,866
 2017,,16_reg_Zakarpattya,1773
@@ -247,6 +277,7 @@ Year,Ammunition,Region,Value
 2020,,16_reg_Zakarpattya,1772
 2021,,16_reg_Zakarpattya,2883
 2022,,16_reg_Zakarpattya,3875
+2023,,16_reg_Zakarpattya,207935
 2015,1_am_cartridges,16_reg_Zakarpattya,1652
 2016,1_am_cartridges,16_reg_Zakarpattya,857
 2017,1_am_cartridges,16_reg_Zakarpattya,1763
@@ -255,6 +286,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,16_reg_Zakarpattya,1752
 2021,1_am_cartridges,16_reg_Zakarpattya,2875
 2022,1_am_cartridges,16_reg_Zakarpattya,3842
+2023,1_am_cartridges,16_reg_Zakarpattya,207576
 2015,2_am_grenades,16_reg_Zakarpattya,8
 2016,2_am_grenades,16_reg_Zakarpattya,9
 2017,2_am_grenades,16_reg_Zakarpattya,10
@@ -263,6 +295,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,16_reg_Zakarpattya,20
 2021,2_am_grenades,16_reg_Zakarpattya,7
 2022,2_am_grenades,16_reg_Zakarpattya,33
+2023,2_am_grenades,16_reg_Zakarpattya,358
 2015,3_am_mines,16_reg_Zakarpattya,
 2016,3_am_mines,16_reg_Zakarpattya,
 2017,3_am_mines,16_reg_Zakarpattya,
@@ -271,6 +304,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,16_reg_Zakarpattya,
 2021,3_am_mines,16_reg_Zakarpattya,1
 2022,3_am_mines,16_reg_Zakarpattya,
+2023,3_am_mines,16_reg_Zakarpattya,
 2015,4_am_devic,16_reg_Zakarpattya,3
 2016,4_am_devic,16_reg_Zakarpattya,
 2017,4_am_devic,16_reg_Zakarpattya,
@@ -279,6 +313,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,16_reg_Zakarpattya,
 2021,4_am_devic,16_reg_Zakarpattya,
 2022,4_am_devic,16_reg_Zakarpattya,
+2023,4_am_devic,16_reg_Zakarpattya,1
 2015,,17_reg_Zaporizhzhya,6385
 2016,,17_reg_Zaporizhzhya,40202
 2017,,17_reg_Zaporizhzhya,34304
@@ -287,6 +322,7 @@ Year,Ammunition,Region,Value
 2020,,17_reg_Zaporizhzhya,9316
 2021,,17_reg_Zaporizhzhya,5797
 2022,,17_reg_Zaporizhzhya,7301
+2023,,17_reg_Zaporizhzhya,14889
 2015,1_am_cartridges,17_reg_Zaporizhzhya,6267
 2016,1_am_cartridges,17_reg_Zaporizhzhya,39459
 2017,1_am_cartridges,17_reg_Zaporizhzhya,34052
@@ -295,6 +331,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,17_reg_Zaporizhzhya,9285
 2021,1_am_cartridges,17_reg_Zaporizhzhya,5743
 2022,1_am_cartridges,17_reg_Zaporizhzhya,7241
+2023,1_am_cartridges,17_reg_Zaporizhzhya,14780
 2015,2_am_grenades,17_reg_Zaporizhzhya,110
 2016,2_am_grenades,17_reg_Zaporizhzhya,731
 2017,2_am_grenades,17_reg_Zaporizhzhya,251
@@ -303,6 +340,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,17_reg_Zaporizhzhya,26
 2021,2_am_grenades,17_reg_Zaporizhzhya,50
 2022,2_am_grenades,17_reg_Zaporizhzhya,57
+2023,2_am_grenades,17_reg_Zaporizhzhya,109
 2015,3_am_mines,17_reg_Zaporizhzhya,
 2016,3_am_mines,17_reg_Zaporizhzhya,8
 2017,3_am_mines,17_reg_Zaporizhzhya,1
@@ -311,6 +349,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,17_reg_Zaporizhzhya,3
 2021,3_am_mines,17_reg_Zaporizhzhya,4
 2022,3_am_mines,17_reg_Zaporizhzhya,3
+2023,3_am_mines,17_reg_Zaporizhzhya,
 2015,4_am_devic,17_reg_Zaporizhzhya,8
 2016,4_am_devic,17_reg_Zaporizhzhya,4
 2017,4_am_devic,17_reg_Zaporizhzhya,
@@ -319,6 +358,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,17_reg_Zaporizhzhya,2
 2021,4_am_devic,17_reg_Zaporizhzhya,
 2022,4_am_devic,17_reg_Zaporizhzhya,
+2023,4_am_devic,17_reg_Zaporizhzhya,
 2015,,18_reg_Ivano-Frankivsk,3573
 2016,,18_reg_Ivano-Frankivsk,3317
 2017,,18_reg_Ivano-Frankivsk,5177
@@ -327,6 +367,7 @@ Year,Ammunition,Region,Value
 2020,,18_reg_Ivano-Frankivsk,2695
 2021,,18_reg_Ivano-Frankivsk,2960
 2022,,18_reg_Ivano-Frankivsk,5269
+2023,,18_reg_Ivano-Frankivsk,10885
 2015,1_am_cartridges,18_reg_Ivano-Frankivsk,3546
 2016,1_am_cartridges,18_reg_Ivano-Frankivsk,3284
 2017,1_am_cartridges,18_reg_Ivano-Frankivsk,5150
@@ -335,6 +376,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,18_reg_Ivano-Frankivsk,2675
 2021,1_am_cartridges,18_reg_Ivano-Frankivsk,2949
 2022,1_am_cartridges,18_reg_Ivano-Frankivsk,5247
+2023,1_am_cartridges,18_reg_Ivano-Frankivsk,10824
 2015,2_am_grenades,18_reg_Ivano-Frankivsk,27
 2016,2_am_grenades,18_reg_Ivano-Frankivsk,31
 2017,2_am_grenades,18_reg_Ivano-Frankivsk,24
@@ -343,6 +385,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,18_reg_Ivano-Frankivsk,20
 2021,2_am_grenades,18_reg_Ivano-Frankivsk,11
 2022,2_am_grenades,18_reg_Ivano-Frankivsk,22
+2023,2_am_grenades,18_reg_Ivano-Frankivsk,61
 2015,3_am_mines,18_reg_Ivano-Frankivsk,
 2016,3_am_mines,18_reg_Ivano-Frankivsk,
 2017,3_am_mines,18_reg_Ivano-Frankivsk,2
@@ -351,6 +394,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,18_reg_Ivano-Frankivsk,
 2021,3_am_mines,18_reg_Ivano-Frankivsk,
 2022,3_am_mines,18_reg_Ivano-Frankivsk,
+2023,3_am_mines,18_reg_Ivano-Frankivsk,
 2015,4_am_devic,18_reg_Ivano-Frankivsk,
 2016,4_am_devic,18_reg_Ivano-Frankivsk,2
 2017,4_am_devic,18_reg_Ivano-Frankivsk,1
@@ -359,6 +403,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,18_reg_Ivano-Frankivsk,
 2021,4_am_devic,18_reg_Ivano-Frankivsk,
 2022,4_am_devic,18_reg_Ivano-Frankivsk,
+2023,4_am_devic,18_reg_Ivano-Frankivsk,
 2015,,19_reg_Kyiv,8154
 2016,,19_reg_Kyiv,10017
 2017,,19_reg_Kyiv,32340
@@ -367,6 +412,7 @@ Year,Ammunition,Region,Value
 2020,,19_reg_Kyiv,3945
 2021,,19_reg_Kyiv,2838
 2022,,19_reg_Kyiv,42928
+2023,,19_reg_Kyiv,47849
 2015,1_am_cartridges,19_reg_Kyiv,8122
 2016,1_am_cartridges,19_reg_Kyiv,9976
 2017,1_am_cartridges,19_reg_Kyiv,32203
@@ -375,6 +421,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,19_reg_Kyiv,3906
 2021,1_am_cartridges,19_reg_Kyiv,2815
 2022,1_am_cartridges,19_reg_Kyiv,42857
+2023,1_am_cartridges,19_reg_Kyiv,47673
 2015,2_am_grenades,19_reg_Kyiv,32
 2016,2_am_grenades,19_reg_Kyiv,41
 2017,2_am_grenades,19_reg_Kyiv,136
@@ -383,6 +430,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,19_reg_Kyiv,39
 2021,2_am_grenades,19_reg_Kyiv,23
 2022,2_am_grenades,19_reg_Kyiv,70
+2023,2_am_grenades,19_reg_Kyiv,176
 2015,3_am_mines,19_reg_Kyiv,
 2016,3_am_mines,19_reg_Kyiv,
 2017,3_am_mines,19_reg_Kyiv,
@@ -391,6 +439,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,19_reg_Kyiv,
 2021,3_am_mines,19_reg_Kyiv,
 2022,3_am_mines,19_reg_Kyiv,
+2023,3_am_mines,19_reg_Kyiv,
 2015,4_am_devic,19_reg_Kyiv,
 2016,4_am_devic,19_reg_Kyiv,
 2017,4_am_devic,19_reg_Kyiv,1
@@ -399,6 +448,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,19_reg_Kyiv,
 2021,4_am_devic,19_reg_Kyiv,
 2022,4_am_devic,19_reg_Kyiv,1
+2023,4_am_devic,19_reg_Kyiv,
 2015,,20_reg_Kirovohrad,2361
 2016,,20_reg_Kirovohrad,1256
 2017,,20_reg_Kirovohrad,5508
@@ -407,6 +457,7 @@ Year,Ammunition,Region,Value
 2020,,20_reg_Kirovohrad,4836
 2021,,20_reg_Kirovohrad,3948
 2022,,20_reg_Kirovohrad,7371
+2023,,20_reg_Kirovohrad,23346
 2015,1_am_cartridges,20_reg_Kirovohrad,2286
 2016,1_am_cartridges,20_reg_Kirovohrad,1239
 2017,1_am_cartridges,20_reg_Kirovohrad,5481
@@ -415,6 +466,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,20_reg_Kirovohrad,4777
 2021,1_am_cartridges,20_reg_Kirovohrad,3908
 2022,1_am_cartridges,20_reg_Kirovohrad,7329
+2023,1_am_cartridges,20_reg_Kirovohrad,23174
 2015,2_am_grenades,20_reg_Kirovohrad,74
 2016,2_am_grenades,20_reg_Kirovohrad,13
 2017,2_am_grenades,20_reg_Kirovohrad,16
@@ -423,6 +475,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,20_reg_Kirovohrad,41
 2021,2_am_grenades,20_reg_Kirovohrad,34
 2022,2_am_grenades,20_reg_Kirovohrad,42
+2023,2_am_grenades,20_reg_Kirovohrad,140
 2015,3_am_mines,20_reg_Kirovohrad,
 2016,3_am_mines,20_reg_Kirovohrad,
 2017,3_am_mines,20_reg_Kirovohrad,11
@@ -431,6 +484,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,20_reg_Kirovohrad,
 2021,3_am_mines,20_reg_Kirovohrad,
 2022,3_am_mines,20_reg_Kirovohrad,
+2023,3_am_mines,20_reg_Kirovohrad,14
 2015,4_am_devic,20_reg_Kirovohrad,1
 2016,4_am_devic,20_reg_Kirovohrad,4
 2017,4_am_devic,20_reg_Kirovohrad,
@@ -439,6 +493,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,20_reg_Kirovohrad,18
 2021,4_am_devic,20_reg_Kirovohrad,6
 2022,4_am_devic,20_reg_Kirovohrad,
+2023,4_am_devic,20_reg_Kirovohrad,18
 2015,,21_reg_Luhansk,16674
 2016,,21_reg_Luhansk,16888
 2017,,21_reg_Luhansk,14655
@@ -447,6 +502,7 @@ Year,Ammunition,Region,Value
 2020,,21_reg_Luhansk,16238
 2021,,21_reg_Luhansk,11387
 2022,,21_reg_Luhansk,974
+2023,,21_reg_Luhansk,
 2015,1_am_cartridges,21_reg_Luhansk,16453
 2016,1_am_cartridges,21_reg_Luhansk,16764
 2017,1_am_cartridges,21_reg_Luhansk,14436
@@ -455,6 +511,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,21_reg_Luhansk,16099
 2021,1_am_cartridges,21_reg_Luhansk,11317
 2022,1_am_cartridges,21_reg_Luhansk,956
+2023,1_am_cartridges,21_reg_Luhansk,
 2015,2_am_grenades,21_reg_Luhansk,214
 2016,2_am_grenades,21_reg_Luhansk,123
 2017,2_am_grenades,21_reg_Luhansk,216
@@ -463,6 +520,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,21_reg_Luhansk,135
 2021,2_am_grenades,21_reg_Luhansk,68
 2022,2_am_grenades,21_reg_Luhansk,16
+2023,2_am_grenades,21_reg_Luhansk,
 2015,3_am_mines,21_reg_Luhansk,3
 2016,3_am_mines,21_reg_Luhansk,
 2017,3_am_mines,21_reg_Luhansk,2
@@ -471,6 +529,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,21_reg_Luhansk,1
 2021,3_am_mines,21_reg_Luhansk,
 2022,3_am_mines,21_reg_Luhansk,2
+2023,3_am_mines,21_reg_Luhansk,
 2015,4_am_devic,21_reg_Luhansk,4
 2016,4_am_devic,21_reg_Luhansk,1
 2017,4_am_devic,21_reg_Luhansk,1
@@ -479,6 +538,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,21_reg_Luhansk,3
 2021,4_am_devic,21_reg_Luhansk,2
 2022,4_am_devic,21_reg_Luhansk,
+2023,4_am_devic,21_reg_Luhansk,
 2015,,22_reg_Lviv,2435
 2016,,22_reg_Lviv,1399
 2017,,22_reg_Lviv,10073
@@ -487,6 +547,7 @@ Year,Ammunition,Region,Value
 2020,,22_reg_Lviv,4560
 2021,,22_reg_Lviv,6063
 2022,,22_reg_Lviv,5308
+2023,,22_reg_Lviv,10292
 2015,1_am_cartridges,22_reg_Lviv,2418
 2016,1_am_cartridges,22_reg_Lviv,1386
 2017,1_am_cartridges,22_reg_Lviv,10006
@@ -495,6 +556,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,22_reg_Lviv,4545
 2021,1_am_cartridges,22_reg_Lviv,6046
 2022,1_am_cartridges,22_reg_Lviv,5277
+2023,1_am_cartridges,22_reg_Lviv,10243
 2015,2_am_grenades,22_reg_Lviv,17
 2016,2_am_grenades,22_reg_Lviv,13
 2017,2_am_grenades,22_reg_Lviv,42
@@ -503,6 +565,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,22_reg_Lviv,15
 2021,2_am_grenades,22_reg_Lviv,15
 2022,2_am_grenades,22_reg_Lviv,31
+2023,2_am_grenades,22_reg_Lviv,49
 2015,3_am_mines,22_reg_Lviv,
 2016,3_am_mines,22_reg_Lviv,
 2017,3_am_mines,22_reg_Lviv,
@@ -511,6 +574,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,22_reg_Lviv,
 2021,3_am_mines,22_reg_Lviv,
 2022,3_am_mines,22_reg_Lviv,
+2023,3_am_mines,22_reg_Lviv,
 2015,4_am_devic,22_reg_Lviv,
 2016,4_am_devic,22_reg_Lviv,
 2017,4_am_devic,22_reg_Lviv,25
@@ -519,6 +583,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,22_reg_Lviv,
 2021,4_am_devic,22_reg_Lviv,2
 2022,4_am_devic,22_reg_Lviv,
+2023,4_am_devic,22_reg_Lviv,
 2015,,23_reg_Mykolayiv,9515
 2016,,23_reg_Mykolayiv,2834
 2017,,23_reg_Mykolayiv,6209
@@ -527,6 +592,7 @@ Year,Ammunition,Region,Value
 2020,,23_reg_Mykolayiv,1624
 2021,,23_reg_Mykolayiv,4280
 2022,,23_reg_Mykolayiv,15152
+2023,,23_reg_Mykolayiv,21411
 2015,1_am_cartridges,23_reg_Mykolayiv,9451
 2016,1_am_cartridges,23_reg_Mykolayiv,2813
 2017,1_am_cartridges,23_reg_Mykolayiv,6175
@@ -535,6 +601,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,23_reg_Mykolayiv,1611
 2021,1_am_cartridges,23_reg_Mykolayiv,4267
 2022,1_am_cartridges,23_reg_Mykolayiv,15111
+2023,1_am_cartridges,23_reg_Mykolayiv,21258
 2015,2_am_grenades,23_reg_Mykolayiv,61
 2016,2_am_grenades,23_reg_Mykolayiv,18
 2017,2_am_grenades,23_reg_Mykolayiv,33
@@ -543,6 +610,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,23_reg_Mykolayiv,13
 2021,2_am_grenades,23_reg_Mykolayiv,13
 2022,2_am_grenades,23_reg_Mykolayiv,41
+2023,2_am_grenades,23_reg_Mykolayiv,149
 2015,3_am_mines,23_reg_Mykolayiv,2
 2016,3_am_mines,23_reg_Mykolayiv,
 2017,3_am_mines,23_reg_Mykolayiv,
@@ -551,6 +619,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,23_reg_Mykolayiv,
 2021,3_am_mines,23_reg_Mykolayiv,
 2022,3_am_mines,23_reg_Mykolayiv,
+2023,3_am_mines,23_reg_Mykolayiv,3
 2015,4_am_devic,23_reg_Mykolayiv,1
 2016,4_am_devic,23_reg_Mykolayiv,3
 2017,4_am_devic,23_reg_Mykolayiv,1
@@ -559,6 +628,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,23_reg_Mykolayiv,
 2021,4_am_devic,23_reg_Mykolayiv,
 2022,4_am_devic,23_reg_Mykolayiv,
+2023,4_am_devic,23_reg_Mykolayiv,1
 2015,,24_reg_Odesa,21340
 2016,,24_reg_Odesa,3665
 2017,,24_reg_Odesa,5009
@@ -567,6 +637,7 @@ Year,Ammunition,Region,Value
 2020,,24_reg_Odesa,5687
 2021,,24_reg_Odesa,6878
 2022,,24_reg_Odesa,9145
+2023,,24_reg_Odesa,22220
 2015,1_am_cartridges,24_reg_Odesa,21301
 2016,1_am_cartridges,24_reg_Odesa,3622
 2017,1_am_cartridges,24_reg_Odesa,4986
@@ -575,6 +646,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,24_reg_Odesa,5635
 2021,1_am_cartridges,24_reg_Odesa,6817
 2022,1_am_cartridges,24_reg_Odesa,9102
+2023,1_am_cartridges,24_reg_Odesa,22066
 2015,2_am_grenades,24_reg_Odesa,38
 2016,2_am_grenades,24_reg_Odesa,20
 2017,2_am_grenades,24_reg_Odesa,22
@@ -583,6 +655,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,24_reg_Odesa,52
 2021,2_am_grenades,24_reg_Odesa,61
 2022,2_am_grenades,24_reg_Odesa,43
+2023,2_am_grenades,24_reg_Odesa,151
 2015,3_am_mines,24_reg_Odesa,
 2016,3_am_mines,24_reg_Odesa,
 2017,3_am_mines,24_reg_Odesa,
@@ -591,6 +664,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,24_reg_Odesa,
 2021,3_am_mines,24_reg_Odesa,
 2022,3_am_mines,24_reg_Odesa,
+2023,3_am_mines,24_reg_Odesa,2
 2015,4_am_devic,24_reg_Odesa,1
 2016,4_am_devic,24_reg_Odesa,23
 2017,4_am_devic,24_reg_Odesa,1
@@ -599,6 +673,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,24_reg_Odesa,
 2021,4_am_devic,24_reg_Odesa,
 2022,4_am_devic,24_reg_Odesa,
+2023,4_am_devic,24_reg_Odesa,1
 2015,,25_reg_Poltava,5632
 2016,,25_reg_Poltava,7072
 2017,,25_reg_Poltava,6276
@@ -607,6 +682,7 @@ Year,Ammunition,Region,Value
 2020,,25_reg_Poltava,5730
 2021,,25_reg_Poltava,2393
 2022,,25_reg_Poltava,4909
+2023,,25_reg_Poltava,21199
 2015,1_am_cartridges,25_reg_Poltava,5588
 2016,1_am_cartridges,25_reg_Poltava,7025
 2017,1_am_cartridges,25_reg_Poltava,6219
@@ -615,6 +691,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,25_reg_Poltava,5713
 2021,1_am_cartridges,25_reg_Poltava,2377
 2022,1_am_cartridges,25_reg_Poltava,4849
+2023,1_am_cartridges,25_reg_Poltava,21083
 2015,2_am_grenades,25_reg_Poltava,44
 2016,2_am_grenades,25_reg_Poltava,47
 2017,2_am_grenades,25_reg_Poltava,57
@@ -623,6 +700,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,25_reg_Poltava,16
 2021,2_am_grenades,25_reg_Poltava,16
 2022,2_am_grenades,25_reg_Poltava,50
+2023,2_am_grenades,25_reg_Poltava,115
 2015,3_am_mines,25_reg_Poltava,
 2016,3_am_mines,25_reg_Poltava,
 2017,3_am_mines,25_reg_Poltava,
@@ -631,6 +709,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,25_reg_Poltava,
 2021,3_am_mines,25_reg_Poltava,
 2022,3_am_mines,25_reg_Poltava,
+2023,3_am_mines,25_reg_Poltava,
 2015,4_am_devic,25_reg_Poltava,
 2016,4_am_devic,25_reg_Poltava,
 2017,4_am_devic,25_reg_Poltava,
@@ -639,6 +718,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,25_reg_Poltava,1
 2021,4_am_devic,25_reg_Poltava,
 2022,4_am_devic,25_reg_Poltava,10
+2023,4_am_devic,25_reg_Poltava,1
 2015,,26_reg_Rivne,3798
 2016,,26_reg_Rivne,2783
 2017,,26_reg_Rivne,5092
@@ -647,6 +727,7 @@ Year,Ammunition,Region,Value
 2020,,26_reg_Rivne,29331
 2021,,26_reg_Rivne,4242
 2022,,26_reg_Rivne,3988
+2023,,26_reg_Rivne,6273
 2015,1_am_cartridges,26_reg_Rivne,3735
 2016,1_am_cartridges,26_reg_Rivne,2721
 2017,1_am_cartridges,26_reg_Rivne,5036
@@ -655,6 +736,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,26_reg_Rivne,29215
 2021,1_am_cartridges,26_reg_Rivne,4205
 2022,1_am_cartridges,26_reg_Rivne,3963
+2023,1_am_cartridges,26_reg_Rivne,6191
 2015,2_am_grenades,26_reg_Rivne,62
 2016,2_am_grenades,26_reg_Rivne,61
 2017,2_am_grenades,26_reg_Rivne,53
@@ -663,6 +745,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,26_reg_Rivne,114
 2021,2_am_grenades,26_reg_Rivne,37
 2022,2_am_grenades,26_reg_Rivne,24
+2023,2_am_grenades,26_reg_Rivne,81
 2015,3_am_mines,26_reg_Rivne,
 2016,3_am_mines,26_reg_Rivne,1
 2017,3_am_mines,26_reg_Rivne,2
@@ -671,6 +754,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,26_reg_Rivne,1
 2021,3_am_mines,26_reg_Rivne,
 2022,3_am_mines,26_reg_Rivne,
+2023,3_am_mines,26_reg_Rivne,
 2015,4_am_devic,26_reg_Rivne,1
 2016,4_am_devic,26_reg_Rivne,
 2017,4_am_devic,26_reg_Rivne,1
@@ -679,6 +763,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,26_reg_Rivne,1
 2021,4_am_devic,26_reg_Rivne,
 2022,4_am_devic,26_reg_Rivne,1
+2023,4_am_devic,26_reg_Rivne,1
 2015,,27_reg_Sumy,3254
 2016,,27_reg_Sumy,3283
 2017,,27_reg_Sumy,12851
@@ -687,6 +772,7 @@ Year,Ammunition,Region,Value
 2020,,27_reg_Sumy,2125
 2021,,27_reg_Sumy,2526
 2022,,27_reg_Sumy,4410
+2023,,27_reg_Sumy,6526
 2015,1_am_cartridges,27_reg_Sumy,3159
 2016,1_am_cartridges,27_reg_Sumy,3248
 2017,1_am_cartridges,27_reg_Sumy,12806
@@ -695,6 +781,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,27_reg_Sumy,2114
 2021,1_am_cartridges,27_reg_Sumy,2486
 2022,1_am_cartridges,27_reg_Sumy,4381
+2023,1_am_cartridges,27_reg_Sumy,6417
 2015,2_am_grenades,27_reg_Sumy,92
 2016,2_am_grenades,27_reg_Sumy,15
 2017,2_am_grenades,27_reg_Sumy,44
@@ -703,6 +790,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,27_reg_Sumy,11
 2021,2_am_grenades,27_reg_Sumy,40
 2022,2_am_grenades,27_reg_Sumy,29
+2023,2_am_grenades,27_reg_Sumy,74
 2015,3_am_mines,27_reg_Sumy,1
 2016,3_am_mines,27_reg_Sumy,20
 2017,3_am_mines,27_reg_Sumy,
@@ -711,6 +799,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,27_reg_Sumy,
 2021,3_am_mines,27_reg_Sumy,
 2022,3_am_mines,27_reg_Sumy,
+2023,3_am_mines,27_reg_Sumy,31
 2015,4_am_devic,27_reg_Sumy,2
 2016,4_am_devic,27_reg_Sumy,
 2017,4_am_devic,27_reg_Sumy,1
@@ -719,6 +808,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,27_reg_Sumy,
 2021,4_am_devic,27_reg_Sumy,
 2022,4_am_devic,27_reg_Sumy,
+2023,4_am_devic,27_reg_Sumy,4
 2015,,28_reg_Ternopil,2074
 2016,,28_reg_Ternopil,1674
 2017,,28_reg_Ternopil,4576
@@ -727,6 +817,7 @@ Year,Ammunition,Region,Value
 2020,,28_reg_Ternopil,2046
 2021,,28_reg_Ternopil,2201
 2022,,28_reg_Ternopil,3819
+2023,,28_reg_Ternopil,6308
 2015,1_am_cartridges,28_reg_Ternopil,2056
 2016,1_am_cartridges,28_reg_Ternopil,1658
 2017,1_am_cartridges,28_reg_Ternopil,4543
@@ -735,6 +826,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,28_reg_Ternopil,2022
 2021,1_am_cartridges,28_reg_Ternopil,2172
 2022,1_am_cartridges,28_reg_Ternopil,3801
+2023,1_am_cartridges,28_reg_Ternopil,6261
 2015,2_am_grenades,28_reg_Ternopil,18
 2016,2_am_grenades,28_reg_Ternopil,16
 2017,2_am_grenades,28_reg_Ternopil,33
@@ -743,6 +835,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,28_reg_Ternopil,24
 2021,2_am_grenades,28_reg_Ternopil,29
 2022,2_am_grenades,28_reg_Ternopil,18
+2023,2_am_grenades,28_reg_Ternopil,46
 2015,3_am_mines,28_reg_Ternopil,
 2016,3_am_mines,28_reg_Ternopil,
 2017,3_am_mines,28_reg_Ternopil,
@@ -751,6 +844,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,28_reg_Ternopil,
 2021,3_am_mines,28_reg_Ternopil,
 2022,3_am_mines,28_reg_Ternopil,
+2023,3_am_mines,28_reg_Ternopil,1
 2015,4_am_devic,28_reg_Ternopil,
 2016,4_am_devic,28_reg_Ternopil,
 2017,4_am_devic,28_reg_Ternopil,
@@ -759,6 +853,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,28_reg_Ternopil,
 2021,4_am_devic,28_reg_Ternopil,
 2022,4_am_devic,28_reg_Ternopil,
+2023,4_am_devic,28_reg_Ternopil,
 2015,,29_reg_Kharkiv,15470
 2016,,29_reg_Kharkiv,10051
 2017,,29_reg_Kharkiv,12498
@@ -767,6 +862,7 @@ Year,Ammunition,Region,Value
 2020,,29_reg_Kharkiv,10032
 2021,,29_reg_Kharkiv,6714
 2022,,29_reg_Kharkiv,8068
+2023,,29_reg_Kharkiv,84871
 2015,1_am_cartridges,29_reg_Kharkiv,15215
 2016,1_am_cartridges,29_reg_Kharkiv,9960
 2017,1_am_cartridges,29_reg_Kharkiv,12365
@@ -775,6 +871,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,29_reg_Kharkiv,9837
 2021,1_am_cartridges,29_reg_Kharkiv,6637
 2022,1_am_cartridges,29_reg_Kharkiv,7974
+2023,1_am_cartridges,29_reg_Kharkiv,83922
 2015,2_am_grenades,29_reg_Kharkiv,247
 2016,2_am_grenades,29_reg_Kharkiv,81
 2017,2_am_grenades,29_reg_Kharkiv,117
@@ -783,6 +880,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,29_reg_Kharkiv,115
 2021,2_am_grenades,29_reg_Kharkiv,74
 2022,2_am_grenades,29_reg_Kharkiv,93
+2023,2_am_grenades,29_reg_Kharkiv,917
 2015,3_am_mines,29_reg_Kharkiv,4
 2016,3_am_mines,29_reg_Kharkiv,10
 2017,3_am_mines,29_reg_Kharkiv,10
@@ -791,6 +889,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,29_reg_Kharkiv,8
 2021,3_am_mines,29_reg_Kharkiv,
 2022,3_am_mines,29_reg_Kharkiv,
+2023,3_am_mines,29_reg_Kharkiv,4
 2015,4_am_devic,29_reg_Kharkiv,4
 2016,4_am_devic,29_reg_Kharkiv,
 2017,4_am_devic,29_reg_Kharkiv,6
@@ -799,6 +898,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,29_reg_Kharkiv,72
 2021,4_am_devic,29_reg_Kharkiv,3
 2022,4_am_devic,29_reg_Kharkiv,1
+2023,4_am_devic,29_reg_Kharkiv,28
 2015,,30_reg_Kherson,4280
 2016,,30_reg_Kherson,3330
 2017,,30_reg_Kherson,6172
@@ -807,6 +907,7 @@ Year,Ammunition,Region,Value
 2020,,30_reg_Kherson,5022
 2021,,30_reg_Kherson,5452
 2022,,30_reg_Kherson,1244
+2023,,30_reg_Kherson,5179
 2015,1_am_cartridges,30_reg_Kherson,4257
 2016,1_am_cartridges,30_reg_Kherson,3299
 2017,1_am_cartridges,30_reg_Kherson,6117
@@ -815,6 +916,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,30_reg_Kherson,4992
 2021,1_am_cartridges,30_reg_Kherson,5385
 2022,1_am_cartridges,30_reg_Kherson,1237
+2023,1_am_cartridges,30_reg_Kherson,5122
 2015,2_am_grenades,30_reg_Kherson,23
 2016,2_am_grenades,30_reg_Kherson,30
 2017,2_am_grenades,30_reg_Kherson,48
@@ -823,6 +925,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,30_reg_Kherson,28
 2021,2_am_grenades,30_reg_Kherson,66
 2022,2_am_grenades,30_reg_Kherson,6
+2023,2_am_grenades,30_reg_Kherson,57
 2015,3_am_mines,30_reg_Kherson,
 2016,3_am_mines,30_reg_Kherson,
 2017,3_am_mines,30_reg_Kherson,7
@@ -831,6 +934,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,30_reg_Kherson,
 2021,3_am_mines,30_reg_Kherson,1
 2022,3_am_mines,30_reg_Kherson,
+2023,3_am_mines,30_reg_Kherson,
 2015,4_am_devic,30_reg_Kherson,
 2016,4_am_devic,30_reg_Kherson,1
 2017,4_am_devic,30_reg_Kherson,
@@ -839,6 +943,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,30_reg_Kherson,2
 2021,4_am_devic,30_reg_Kherson,
 2022,4_am_devic,30_reg_Kherson,1
+2023,4_am_devic,30_reg_Kherson, 
 2015,,31_reg_Khmelnytskiy,1271
 2016,,31_reg_Khmelnytskiy,1002
 2017,,31_reg_Khmelnytskiy,9839
@@ -847,6 +952,7 @@ Year,Ammunition,Region,Value
 2020,,31_reg_Khmelnytskiy,3404
 2021,,31_reg_Khmelnytskiy,3309
 2022,,31_reg_Khmelnytskiy,1839
+2023,,31_reg_Khmelnytskiy,5746
 2015,1_am_cartridges,31_reg_Khmelnytskiy,1255
 2016,1_am_cartridges,31_reg_Khmelnytskiy,994
 2017,1_am_cartridges,31_reg_Khmelnytskiy,9813
@@ -855,6 +961,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,31_reg_Khmelnytskiy,3396
 2021,1_am_cartridges,31_reg_Khmelnytskiy,3294
 2022,1_am_cartridges,31_reg_Khmelnytskiy,1831
+2023,1_am_cartridges,31_reg_Khmelnytskiy,5710
 2015,2_am_grenades,31_reg_Khmelnytskiy,16
 2016,2_am_grenades,31_reg_Khmelnytskiy,8
 2017,2_am_grenades,31_reg_Khmelnytskiy,24
@@ -863,6 +970,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,31_reg_Khmelnytskiy,8
 2021,2_am_grenades,31_reg_Khmelnytskiy,15
 2022,2_am_grenades,31_reg_Khmelnytskiy,8
+2023,2_am_grenades,31_reg_Khmelnytskiy,35
 2015,3_am_mines,31_reg_Khmelnytskiy,
 2016,3_am_mines,31_reg_Khmelnytskiy,
 2017,3_am_mines,31_reg_Khmelnytskiy,
@@ -871,6 +979,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,31_reg_Khmelnytskiy,
 2021,3_am_mines,31_reg_Khmelnytskiy,
 2022,3_am_mines,31_reg_Khmelnytskiy,
+2023,3_am_mines,31_reg_Khmelnytskiy,1
 2015,4_am_devic,31_reg_Khmelnytskiy,
 2016,4_am_devic,31_reg_Khmelnytskiy,
 2017,4_am_devic,31_reg_Khmelnytskiy,2
@@ -879,6 +988,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,31_reg_Khmelnytskiy,
 2021,4_am_devic,31_reg_Khmelnytskiy,
 2022,4_am_devic,31_reg_Khmelnytskiy,
+2023,4_am_devic,31_reg_Khmelnytskiy,
 2015,,32_reg_Cherkasy,3016
 2016,,32_reg_Cherkasy,4663
 2017,,32_reg_Cherkasy,3576
@@ -887,6 +997,7 @@ Year,Ammunition,Region,Value
 2020,,32_reg_Cherkasy,2852
 2021,,32_reg_Cherkasy,3585
 2022,,32_reg_Cherkasy,2445
+2023,,32_reg_Cherkasy,10166
 2015,1_am_cartridges,32_reg_Cherkasy,2972
 2016,1_am_cartridges,32_reg_Cherkasy,4619
 2017,1_am_cartridges,32_reg_Cherkasy,3514
@@ -895,6 +1006,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,32_reg_Cherkasy,2832
 2021,1_am_cartridges,32_reg_Cherkasy,3572
 2022,1_am_cartridges,32_reg_Cherkasy,2403
+2023,1_am_cartridges,32_reg_Cherkasy,10036
 2015,2_am_grenades,32_reg_Cherkasy,37
 2016,2_am_grenades,32_reg_Cherkasy,44
 2017,2_am_grenades,32_reg_Cherkasy,54
@@ -903,6 +1015,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,32_reg_Cherkasy,19
 2021,2_am_grenades,32_reg_Cherkasy,12
 2022,2_am_grenades,32_reg_Cherkasy,42
+2023,2_am_grenades,32_reg_Cherkasy,130	
 2015,3_am_mines,32_reg_Cherkasy,6
 2016,3_am_mines,32_reg_Cherkasy,
 2017,3_am_mines,32_reg_Cherkasy,8
@@ -911,6 +1024,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,32_reg_Cherkasy,
 2021,3_am_mines,32_reg_Cherkasy,
 2022,3_am_mines,32_reg_Cherkasy,
+2023,3_am_mines,32_reg_Cherkasy,
 2015,4_am_devic,32_reg_Cherkasy,1
 2016,4_am_devic,32_reg_Cherkasy,
 2017,4_am_devic,32_reg_Cherkasy,
@@ -919,6 +1033,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,32_reg_Cherkasy,1
 2021,4_am_devic,32_reg_Cherkasy,1
 2022,4_am_devic,32_reg_Cherkasy,
+2023,4_am_devic,32_reg_Cherkasy,
 2015,,33_reg_Chernivtsi,921
 2016,,33_reg_Chernivtsi,196
 2017,,33_reg_Chernivtsi,1668
@@ -927,6 +1042,7 @@ Year,Ammunition,Region,Value
 2020,,33_reg_Chernivtsi,5455
 2021,,33_reg_Chernivtsi,1328
 2022,,33_reg_Chernivtsi,2675
+2023,,33_reg_Chernivtsi,7459
 2015,1_am_cartridges,33_reg_Chernivtsi,911
 2016,1_am_cartridges,33_reg_Chernivtsi,192
 2017,1_am_cartridges,33_reg_Chernivtsi,1659
@@ -935,6 +1051,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,33_reg_Chernivtsi,5448
 2021,1_am_cartridges,33_reg_Chernivtsi,1323
 2022,1_am_cartridges,33_reg_Chernivtsi,2663
+2023,1_am_cartridges,33_reg_Chernivtsi,7437
 2015,2_am_grenades,33_reg_Chernivtsi,10
 2016,2_am_grenades,33_reg_Chernivtsi,4
 2017,2_am_grenades,33_reg_Chernivtsi,9
@@ -943,6 +1060,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,33_reg_Chernivtsi,7
 2021,2_am_grenades,33_reg_Chernivtsi,5
 2022,2_am_grenades,33_reg_Chernivtsi,12
+2023,2_am_grenades,33_reg_Chernivtsi,22
 2015,3_am_mines,33_reg_Chernivtsi,
 2016,3_am_mines,33_reg_Chernivtsi,
 2017,3_am_mines,33_reg_Chernivtsi,
@@ -951,6 +1069,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,33_reg_Chernivtsi,
 2021,3_am_mines,33_reg_Chernivtsi,
 2022,3_am_mines,33_reg_Chernivtsi,
+2023,3_am_mines,33_reg_Chernivtsi,
 2015,4_am_devic,33_reg_Chernivtsi,
 2016,4_am_devic,33_reg_Chernivtsi,
 2017,4_am_devic,33_reg_Chernivtsi,
@@ -959,6 +1078,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,33_reg_Chernivtsi,
 2021,4_am_devic,33_reg_Chernivtsi,
 2022,4_am_devic,33_reg_Chernivtsi,
+2023,4_am_devic,33_reg_Chernivtsi,
 2015,,34_reg_Chernihiv,6855
 2016,,34_reg_Chernihiv,3185
 2017,,34_reg_Chernihiv,4742
@@ -967,6 +1087,7 @@ Year,Ammunition,Region,Value
 2020,,34_reg_Chernihiv,4431
 2021,,34_reg_Chernihiv,5061
 2022,,34_reg_Chernihiv,10837
+2023,,34_reg_Chernihiv,17802
 2015,1_am_cartridges,34_reg_Chernihiv,6811
 2016,1_am_cartridges,34_reg_Chernihiv,3158
 2017,1_am_cartridges,34_reg_Chernihiv,4728
@@ -975,6 +1096,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,34_reg_Chernihiv,4413
 2021,1_am_cartridges,34_reg_Chernihiv,5051
 2022,1_am_cartridges,34_reg_Chernihiv,10778
+2023,1_am_cartridges,34_reg_Chernihiv,17668
 2015,2_am_grenades,34_reg_Chernihiv,44
 2016,2_am_grenades,34_reg_Chernihiv,26
 2017,2_am_grenades,34_reg_Chernihiv,13
@@ -983,6 +1105,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,34_reg_Chernihiv,18
 2021,2_am_grenades,34_reg_Chernihiv,10
 2022,2_am_grenades,34_reg_Chernihiv,59
+2023,2_am_grenades,34_reg_Chernihiv,129
 2015,3_am_mines,34_reg_Chernihiv,
 2016,3_am_mines,34_reg_Chernihiv,
 2017,3_am_mines,34_reg_Chernihiv,
@@ -991,6 +1114,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,34_reg_Chernihiv,
 2021,3_am_mines,34_reg_Chernihiv,
 2022,3_am_mines,34_reg_Chernihiv,
+2023,3_am_mines,34_reg_Chernihiv,4
 2015,4_am_devic,34_reg_Chernihiv,
 2016,4_am_devic,34_reg_Chernihiv,1
 2017,4_am_devic,34_reg_Chernihiv,1
@@ -999,6 +1123,7 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,34_reg_Chernihiv,
 2021,4_am_devic,34_reg_Chernihiv,
 2022,4_am_devic,34_reg_Chernihiv,
+2023,4_am_devic,34_reg_Chernihiv,1
 2015,,35_reg_Kyiv_city,9851
 2016,,35_reg_Kyiv_city,6250
 2017,,35_reg_Kyiv_city,7531
@@ -1007,6 +1132,7 @@ Year,Ammunition,Region,Value
 2020,,35_reg_Kyiv_city,4715
 2021,,35_reg_Kyiv_city,5985
 2022,,35_reg_Kyiv_city,8620
+2023,,35_reg_Kyiv_city,39858
 2015,1_am_cartridges,35_reg_Kyiv_city,9808
 2016,1_am_cartridges,35_reg_Kyiv_city,6164
 2017,1_am_cartridges,35_reg_Kyiv_city,7394
@@ -1015,6 +1141,7 @@ Year,Ammunition,Region,Value
 2020,1_am_cartridges,35_reg_Kyiv_city,4673
 2021,1_am_cartridges,35_reg_Kyiv_city,5923
 2022,1_am_cartridges,35_reg_Kyiv_city,8559
+2023,1_am_cartridges,35_reg_Kyiv_city,39638
 2015,2_am_grenades,35_reg_Kyiv_city,42
 2016,2_am_grenades,35_reg_Kyiv_city,86
 2017,2_am_grenades,35_reg_Kyiv_city,136
@@ -1023,6 +1150,7 @@ Year,Ammunition,Region,Value
 2020,2_am_grenades,35_reg_Kyiv_city,29
 2021,2_am_grenades,35_reg_Kyiv_city,35
 2022,2_am_grenades,35_reg_Kyiv_city,60
+2023,2_am_grenades,35_reg_Kyiv_city,131
 2015,3_am_mines,35_reg_Kyiv_city,
 2016,3_am_mines,35_reg_Kyiv_city,
 2017,3_am_mines,35_reg_Kyiv_city,
@@ -1031,6 +1159,7 @@ Year,Ammunition,Region,Value
 2020,3_am_mines,35_reg_Kyiv_city,
 2021,3_am_mines,35_reg_Kyiv_city,
 2022,3_am_mines,35_reg_Kyiv_city,
+2023,3_am_mines,35_reg_Kyiv_city,83
 2015,4_am_devic,35_reg_Kyiv_city,1
 2016,4_am_devic,35_reg_Kyiv_city,
 2017,4_am_devic,35_reg_Kyiv_city,1
@@ -1039,4 +1168,4 @@ Year,Ammunition,Region,Value
 2020,4_am_devic,35_reg_Kyiv_city,13
 2021,4_am_devic,35_reg_Kyiv_city,27
 2022,4_am_devic,35_reg_Kyiv_city,1
-
+2023,4_am_devic,35_reg_Kyiv_city,6
