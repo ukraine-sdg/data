@@ -7,6 +7,7 @@ Year,Region,Age,Value
 2020,,,15.8
 2021,,,13.8
 2022,,,
+2023,,,
 2015,Vinnytsya,,29.7
 2016,Vinnytsya,,27.0
 2017,Vinnytsya,,23.8
@@ -15,6 +16,7 @@ Year,Region,Age,Value
 2020,Vinnytsya,,17.9
 2021,Vinnytsya,,13.6
 2022,Vinnytsya,,
+2023,Vinnytsya,,
 2015,Volyn,,27.1
 2016,Volyn,,25.1
 2017,Volyn,,21.0
@@ -23,6 +25,7 @@ Year,Region,Age,Value
 2020,Volyn,,16.5
 2021,Volyn,,14.6
 2022,Volyn,,
+2023,Volyn,,
 2015,Dnipropetrovsk,,27.3
 2016,Dnipropetrovsk,,24.6
 2017,Dnipropetrovsk,,21.4
@@ -31,6 +34,7 @@ Year,Region,Age,Value
 2020,Dnipropetrovsk,,15.3
 2021,Dnipropetrovsk,,13.1
 2022,Dnipropetrovsk,,
+2023,Dnipropetrovsk,,
 2015,Donetsk,,
 2016,Donetsk,,
 2017,Donetsk,,
@@ -39,6 +43,7 @@ Year,Region,Age,Value
 2020,Donetsk,,
 2021,Donetsk,,
 2022,Donetsk,,
+2023,Donetsk,,
 2015,Zhytomyr,,33.6
 2016,Zhytomyr,,31.1
 2017,Zhytomyr,,27.7
@@ -47,6 +52,7 @@ Year,Region,Age,Value
 2020,Zhytomyr,,21.3
 2021,Zhytomyr,,17.3
 2022,Zhytomyr,,
+2023,Zhytomyr,,
 2015,Zakarpattya,,52.8
 2016,Zakarpattya,,49.4
 2017,Zakarpattya,,46.0
@@ -55,6 +61,7 @@ Year,Region,Age,Value
 2020,Zakarpattya,,39.8
 2021,Zakarpattya,,39.6
 2022,Zakarpattya,,
+2023,Zakarpattya,,
 2015,Zaporizhzhya,,26.4
 2016,Zaporizhzhya,,23.9
 2017,Zaporizhzhya,,20.1
@@ -63,6 +70,7 @@ Year,Region,Age,Value
 2020,Zaporizhzhya,,13.6
 2021,Zaporizhzhya,,12.8
 2022,Zaporizhzhya,,
+2023,Zaporizhzhya,,
 2015,Ivano-Frankivsk,,30.1
 2016,Ivano-Frankivsk,,26.8
 2017,Ivano-Frankivsk,,20.9
@@ -71,6 +79,7 @@ Year,Region,Age,Value
 2020,Ivano-Frankivsk,,15.0
 2021,Ivano-Frankivsk,,12.7
 2022,Ivano-Frankivsk,,
+2023,Ivano-Frankivsk,,
 2015,Kyiv,,28.5
 2016,Kyiv,,27.7
 2017,Kyiv,,23.2
@@ -79,6 +88,7 @@ Year,Region,Age,Value
 2020,Kyiv,,14.5
 2021,Kyiv,,12.8
 2022,Kyiv,,
+2023,Kyiv,,
 2015,Kirovohrad,,41.5
 2016,Kirovohrad,,34.1
 2017,Kirovohrad,,29.5
@@ -87,6 +97,7 @@ Year,Region,Age,Value
 2020,Kirovohrad,,23.5
 2021,Kirovohrad,,20.2
 2022,Kirovohrad,,
+2023,Kirovohrad,,
 2015,Luhansk,,
 2016,Luhansk,,
 2017,Luhansk,,
@@ -95,6 +106,7 @@ Year,Region,Age,Value
 2020,Luhansk,,
 2021,Luhansk,,
 2022,Luhansk,,
+2023,Luhansk,,
 2015,Lviv,,18.7
 2016,Lviv,,17.5
 2017,Lviv,,15.2
@@ -103,6 +115,7 @@ Year,Region,Age,Value
 2020,Lviv,,10.2
 2021,Lviv,,9.2
 2022,Lviv,,
+2023,Lviv,,
 2015,Mykolayiv,,35.8
 2016,Mykolayiv,,32.8
 2017,Mykolayiv,,30.7
@@ -111,6 +124,7 @@ Year,Region,Age,Value
 2020,Mykolayiv,,20.2
 2021,Mykolayiv,,17.7
 2022,Mykolayiv,,
+2023,Mykolayiv,,
 2015,Odesa,,30.0
 2016,Odesa,,30.2
 2017,Odesa,,28.1
@@ -119,6 +133,7 @@ Year,Region,Age,Value
 2020,Odesa,,19.1
 2021,Odesa,,15.5
 2022,Odesa,,
+2023,Odesa,,
 2015,Poltava,,26.0
 2016,Poltava,,26.5
 2017,Poltava,,21.6
@@ -127,6 +142,7 @@ Year,Region,Age,Value
 2020,Poltava,,16.2
 2021,Poltava,,13.0
 2022,Poltava,,
+2023,Poltava,,
 2015,Rivne,,26.2
 2016,Rivne,,25.9
 2017,Rivne,,24.2
@@ -135,6 +151,7 @@ Year,Region,Age,Value
 2020,Rivne,,15.6
 2021,Rivne,,14.0
 2022,Rivne,,
+2023,Rivne,,
 2015,Sumy,,25.0
 2016,Sumy,,22.0
 2017,Sumy,,19.5
@@ -143,6 +160,7 @@ Year,Region,Age,Value
 2020,Sumy,,13.5
 2021,Sumy,,12.4
 2022,Sumy,,
+2023,Sumy,,
 2015,Ternopil,,25.1
 2016,Ternopil,,23.7
 2017,Ternopil,,19.1
@@ -151,6 +169,7 @@ Year,Region,Age,Value
 2020,Ternopil,,12.5
 2021,Ternopil,,12.0
 2022,Ternopil,,
+2023,Ternopil,,
 2015,Kharkiv,,20.8
 2016,Kharkiv,,19.6
 2017,Kharkiv,,17.4
@@ -159,6 +178,7 @@ Year,Region,Age,Value
 2020,Kharkiv,,10.6
 2021,Kharkiv,,8.5
 2022,Kharkiv,,
+2023,Kharkiv,,
 2015,Kherson,,34.4
 2016,Kherson,,32.0
 2017,Kherson,,29.6
@@ -167,6 +187,7 @@ Year,Region,Age,Value
 2020,Kherson,,20.4
 2021,Kherson,,17.0
 2022,Kherson,,
+2023,Kherson,,
 2015,Khmelnytskiy,,34.1
 2016,Khmelnytskiy,,28.9
 2017,Khmelnytskiy,,24.8
@@ -175,6 +196,7 @@ Year,Region,Age,Value
 2020,Khmelnytskiy,,18.6
 2021,Khmelnytskiy,,16.2
 2022,Khmelnytskiy,,
+2023,Khmelnytskiy,,
 2015,Cherkasy,,29.9
 2016,Cherkasy,,27.9
 2017,Cherkasy,,25.8
@@ -183,6 +205,7 @@ Year,Region,Age,Value
 2020,Cherkasy,,16.0
 2021,Cherkasy,,15.7
 2022,Cherkasy,,
+2023,Cherkasy,,
 2015,Chernivtsi,,27.3
 2016,Chernivtsi,,23.8
 2017,Chernivtsi,,24.0
@@ -191,6 +214,7 @@ Year,Region,Age,Value
 2020,Chernivtsi,,17.0
 2021,Chernivtsi,,16.3
 2022,Chernivtsi,,
+2023,Chernivtsi,,
 2015,Chernihiv,,25.6
 2016,Chernihiv,,22.5
 2017,Chernihiv,,19.1
@@ -199,6 +223,7 @@ Year,Region,Age,Value
 2020,Chernihiv,,14.3
 2021,Chernihiv,,12.4
 2022,Chernihiv,,
+2023,Chernihiv,,
 2015,the city of Kyiv,,8.2
 2016,the city of Kyiv,,7.6
 2017,the city of Kyiv,,7.5
@@ -207,6 +232,7 @@ Year,Region,Age,Value
 2020,the city of Kyiv,,5.4
 2021,the city of Kyiv,,4.1
 2022,the city of Kyiv,,
+2023,the city of Kyiv,,
 2015,,15 years,3.9
 2016,,15 years,4.2
 2017,,15 years,3.3
@@ -215,6 +241,7 @@ Year,Region,Age,Value
 2020,,15 years,2.2
 2021,,15 years,2.1
 2022,,15 years,
+2023,,15 years,
 2015,,16 years,9.8
 2016,,16 years,8.6
 2017,,16 years,7.4
@@ -223,6 +250,7 @@ Year,Region,Age,Value
 2020,,16 years,5.9
 2021,,16 years,4.9
 2022,,16 years,
+2023,,16 years,
 2015,,17 years,20.8
 2016,,17 years,19.7
 2017,,17 years,17.0
@@ -231,6 +259,7 @@ Year,Region,Age,Value
 2020,,17 years,13.1
 2021,,17 years,11.2
 2022,,17 years,
+2023,,17 years,
 2015,,18 years,38.4
 2016,,18 years,35.1
 2017,,18 years,31.5
@@ -239,6 +268,7 @@ Year,Region,Age,Value
 2020,,18 years,22.6
 2021,,18 years,20.6
 2022,,18 years,
+2023,,18 years,
 2015,,19 years,55.6
 2016,,19 years,52.4
 2017,,19 years,48.6
@@ -247,6 +277,7 @@ Year,Region,Age,Value
 2020,,19 years,37.4
 2021,,19 years,32.5
 2022,,19 years,
+2023,,19 years,
 2015,,up to 20 years,27.3
 2016,,up to 20 years,25.3
 2017,,up to 20 years,22.4
@@ -255,3 +286,4 @@ Year,Region,Age,Value
 2020,,up to 20 years,15.8
 2021,,up to 20 years,13.8
 2022,,up to 20 years,
+2023,,up to 20 years,
