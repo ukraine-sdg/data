@@ -7,6 +7,7 @@ Year,Pollutants,Value
 2020,,35
 2021,,34
 2022,,34
+2023,,30
 2015,pol_11_dust,11
 2016,pol_11_dust,10
 2017,pol_11_dust,9
@@ -15,6 +16,7 @@ Year,Pollutants,Value
 2020,pol_11_dust,7
 2021,pol_11_dust,7
 2022,pol_11_dust,8
+2023,pol_11_dust,8
 2015,pol_12_sulfur,
 2016,pol_12_sulfur,
 2017,pol_12_sulfur,
@@ -23,6 +25,7 @@ Year,Pollutants,Value
 2020,pol_12_sulfur,1
 2021,pol_12_sulfur,
 2022,pol_12_sulfur,1
+2023,pol_12_sulfur,1
 2015,pol_13_carbon,2
 2016,pol_13_carbon,5
 2017,pol_13_carbon,4
@@ -31,6 +34,7 @@ Year,Pollutants,Value
 2020,pol_13_carbon,2
 2021,pol_13_carbon,1
 2022,pol_13_carbon,2
+2023,pol_13_carbon,1
 2015,pol_14_nitrogen,23
 2016,pol_14_nitrogen,23
 2017,pol_14_nitrogen,21
@@ -39,6 +43,7 @@ Year,Pollutants,Value
 2020,pol_14_nitrogen,25
 2021,pol_14_nitrogen,26
 2022,pol_14_nitrogen,24
+2023,pol_14_nitrogen,22
 2015,pol_15_nitrix,1
 2016,pol_15_nitrix,2
 2017,pol_15_nitrix,1
@@ -47,6 +52,7 @@ Year,Pollutants,Value
 2020,pol_15_nitrix,2
 2021,pol_15_nitrix,2
 2022,pol_15_nitrix,2
+2023,pol_15_nitrix,1
 2015,pol_16_phenol,6
 2016,pol_16_phenol,5
 2017,pol_16_phenol,8
@@ -55,6 +61,7 @@ Year,Pollutants,Value
 2020,pol_16_phenol,6
 2021,pol_16_phenol,6
 2022,pol_16_phenol,7
+2023,pol_16_phenol,7
 2015,pol_17_soot,1
 2016,pol_17_soot,1
 2017,pol_17_soot,1
@@ -63,6 +70,7 @@ Year,Pollutants,Value
 2020,pol_17_soot,
 2021,pol_17_soot,
 2022,pol_17_soot,1
+2023,pol_17_soot,
 2015,pol_18_hydrogen,2
 2016,pol_18_hydrogen,2
 2017,pol_18_hydrogen,2
@@ -71,6 +79,7 @@ Year,Pollutants,Value
 2020,pol_18_hydrogen,
 2021,pol_18_hydrogen,2
 2022,pol_18_hydrogen,1
+2023,pol_18_hydrogen,4
 2015,pol_19_ammonia,2
 2016,pol_19_ammonia,2
 2017,pol_19_ammonia,1
@@ -79,6 +88,7 @@ Year,Pollutants,Value
 2020,pol_19_ammonia,2
 2021,pol_19_ammonia,1
 2022,pol_19_ammonia,1
+2023,pol_19_ammonia,1
 2015,pol_20_form,22
 2016,pol_20_form,23
 2017,pol_20_form,24
@@ -87,4 +97,4 @@ Year,Pollutants,Value
 2020,pol_20_form,23
 2021,pol_20_form,24
 2022,pol_20_form,25
-
+2023,pol_20_form,20
