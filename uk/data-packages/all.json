@@ -274,7 +274,7 @@
             "title": "Тип населенного пункту"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
