@@ -7,6 +7,7 @@ Year,m_trans,Value
 2020,,48.1
 2021,,48.2
 2022,,
+2023,,
 2015,tr_1_land_pipe,49.9
 2016,tr_1_land_pipe,46.4
 2017,tr_1_land_pipe,39
@@ -15,6 +16,7 @@ Year,m_trans,Value
 2020,tr_1_land_pipe,50.9
 2021,tr_1_land_pipe,55.1
 2022,tr_1_land_pipe,
+2023,tr_1_land_pipe,
 2015,tr_2_warer,44.6
 2016,tr_2_warer,44.2
 2017,tr_2_warer,37.6
@@ -23,6 +25,7 @@ Year,m_trans,Value
 2020,tr_2_warer,26.8
 2021,tr_2_warer,32.5
 2022,tr_2_warer,
+2023,tr_2_warer,
 2015,tr_3_air_tr,60.5
 2016,tr_3_air_tr,64.1
 2017,tr_3_air_tr,58.1
@@ -31,6 +34,7 @@ Year,m_trans,Value
 2020,tr_3_air_tr,52.1
 2021,tr_3_air_tr,45.2
 2022,tr_3_air_tr,
+2023,tr_3_air_tr,
 2015,tr_4_ware,56.5
 2016,tr_4_ware,65.4
 2017,tr_4_ware,70.7
@@ -39,6 +43,7 @@ Year,m_trans,Value
 2020,tr_4_ware,37.5
 2021,tr_4_ware,30.5
 2022,tr_4_ware,
+2023,tr_4_ware,
 2015,tr_5_post,64.4
 2016,tr_5_post,9.2
 2017,tr_5_post,31.9
@@ -47,4 +52,4 @@ Year,m_trans,Value
 2020,tr_5_post,42.6
 2021,tr_5_post,42.8
 2022,tr_5_post,
-
+2023,tr_5_post,
