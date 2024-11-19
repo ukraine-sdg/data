@@ -1,4 +1,4 @@
-Year,Level,Settlement,Gender,Value
+Year,Level,Settlement,Sex,Value
 2015,1_level,village_,,56
 2016,1_level,village_,,62
 2017,1_level,village_,,65
@@ -8,6 +8,7 @@ Year,Level,Settlement,Gender,Value
 2021,1_level,village_,,43
 2022,1_level,village_,,
 2023,1_level,village_,,
+2024,1_level,village_,,
 2015,1_level,urban_settl,,11
 2016,1_level,urban_settl,,11
 2017,1_level,urban_settl,,10
@@ -17,6 +18,7 @@ Year,Level,Settlement,Gender,Value
 2021,1_level,urban_settl,,13
 2022,1_level,urban_settl,,
 2023,1_level,urban_settl,,
+2024,1_level,urban_settl,,
 2015,1_level,city,,33
 2016,1_level,city,,28
 2017,1_level,city,,25
@@ -26,6 +28,7 @@ Year,Level,Settlement,Gender,Value
 2021,1_level,city,,45
 2022,1_level,city,,
 2023,1_level,city,,
+2024,1_level,city,,
 2015,1_level,,females,32
 2016,1_level,,females,30
 2017,1_level,,females,27
@@ -35,6 +38,7 @@ Year,Level,Settlement,Gender,Value
 2021,1_level,,females,35
 2022,1_level,,females,
 2023,1_level,,females,
+2024,1_level,,females,
 2015,1_level,,males,68
 2016,1_level,,males,70
 2017,1_level,,males,73
@@ -44,6 +48,7 @@ Year,Level,Settlement,Gender,Value
 2021,1_level,,males,65
 2022,1_level,,males,
 2023,1_level,,males,
+2024,1_level,,males,
 2015,2_level,village_,,35
 2016,2_level,village_,,41
 2017,2_level,village_,,41
@@ -53,6 +58,7 @@ Year,Level,Settlement,Gender,Value
 2021,2_level,village_,,29
 2022,2_level,village_,,
 2023,2_level,village_,,
+2024,2_level,village_,,
 2015,2_level,urban_settl,,10
 2016,2_level,urban_settl,,11
 2017,2_level,urban_settl,,10
@@ -62,6 +68,7 @@ Year,Level,Settlement,Gender,Value
 2021,2_level,urban_settl,,11
 2022,2_level,urban_settl,,
 2023,2_level,urban_settl,,
+2024,2_level,urban_settl,,
 2015,2_level,city,,54
 2016,2_level,city,,48
 2017,2_level,city,,48
@@ -71,6 +78,7 @@ Year,Level,Settlement,Gender,Value
 2021,2_level,city,,60
 2022,2_level,city,,
 2023,2_level,city,,
+2024,2_level,city,,
 2015,2_level,,females,48
 2016,2_level,,females,46
 2017,2_level,,females,43
@@ -80,6 +88,7 @@ Year,Level,Settlement,Gender,Value
 2021,2_level,,females,46
 2022,2_level,,females,
 2023,2_level,,females,
+2024,2_level,,females,
 2015,2_level,,males,52
 2016,2_level,,males,54
 2017,2_level,,males,57
@@ -89,6 +98,7 @@ Year,Level,Settlement,Gender,Value
 2021,2_level,,males,54
 2022,2_level,,males,
 2023,2_level,,males,
+2024,2_level,,males,
 2015,3_level,village_,,19
 2016,3_level,village_,,24
 2017,3_level,village_,,22
@@ -98,6 +108,7 @@ Year,Level,Settlement,Gender,Value
 2021,3_level,village_,,18
 2022,3_level,village_,,
 2023,3_level,village_,,
+2024,3_level,village_,,
 2015,3_level,urban_settl,,9
 2016,3_level,urban_settl,,10
 2017,3_level,urban_settl,,9
@@ -107,6 +118,7 @@ Year,Level,Settlement,Gender,Value
 2021,3_level,urban_settl,,9
 2022,3_level,urban_settl,,
 2023,3_level,urban_settl,,
+2024,3_level,urban_settl,,
 2015,3_level,city,,71
 2016,3_level,city,,67
 2017,3_level,city,,69
@@ -116,6 +128,7 @@ Year,Level,Settlement,Gender,Value
 2021,3_level,city,,73
 2022,3_level,city,,
 2023,3_level,city,,
+2024,3_level,city,,
 2015,3_level,,females,60
 2016,3_level,,females,56
 2017,3_level,,females,56
@@ -125,6 +138,7 @@ Year,Level,Settlement,Gender,Value
 2021,3_level,,females,57
 2022,3_level,,females,
 2023,3_level,,females,
+2024,3_level,,females,
 2015,3_level,,males,40
 2016,3_level,,males,44
 2017,3_level,,males,44
@@ -134,6 +148,7 @@ Year,Level,Settlement,Gender,Value
 2021,3_level,,males,43
 2022,3_level,,males,
 2023,3_level,,males,
+2024,3_level,,males,
 2015,4_level,village_,,10
 2016,4_level,village_,,13
 2017,4_level,village_,,12
@@ -143,6 +158,7 @@ Year,Level,Settlement,Gender,Value
 2021,4_level,village_,,10
 2022,4_level,village_,,
 2023,4_level,village_,,
+2024,4_level,village_,,
 2015,4_level,urban_settl,,8
 2016,4_level,urban_settl,,7
 2017,4_level,urban_settl,,8
@@ -152,6 +168,7 @@ Year,Level,Settlement,Gender,Value
 2021,4_level,urban_settl,,7
 2022,4_level,urban_settl,,
 2023,4_level,urban_settl,,
+2024,4_level,urban_settl,,
 2015,4_level,city,,82
 2016,4_level,city,,80
 2017,4_level,city,,81
@@ -161,6 +178,7 @@ Year,Level,Settlement,Gender,Value
 2021,4_level,city,,82
 2022,4_level,city,,
 2023,4_level,city,,
+2024,4_level,city,,
 2015,4_level,,females,72
 2016,4_level,,females,71
 2017,4_level,,females,71
@@ -170,6 +188,7 @@ Year,Level,Settlement,Gender,Value
 2021,4_level,,females,69
 2022,4_level,,females,
 2023,4_level,,females,
+2024,4_level,,females,
 2015,4_level,,males,28
 2016,4_level,,males,29
 2017,4_level,,males,29
@@ -179,3 +198,4 @@ Year,Level,Settlement,Gender,Value
 2021,4_level,,males,31
 2022,4_level,,males,
 2023,4_level,,males,
+2024,4_level,,males,
