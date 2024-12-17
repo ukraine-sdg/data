@@ -7,6 +7,7 @@ Year,Category,Unit,including,Value
 2020,electr_1_supply,kWh,,136196
 2021,electr_1_supply,kWh,,143991
 2022,electr_1_supply,kWh,,104529
+2023,electr_1_supply,kWh,,98045
 2015,electr_2_pr_supply,kWh,,131861
 2016,electr_2_pr_supply,kWh,,131274
 2017,electr_2_pr_supply,kWh,,132093
@@ -15,6 +16,7 @@ Year,Category,Unit,including,Value
 2020,electr_2_pr_supply,kWh,,112986
 2021,electr_2_pr_supply,kWh,,119496
 2022,electr_2_pr_supply,kWh,,85239
+2023,electr_2_pr_supply,kWh,,81692
 2015,electr_3_act_value,kWh,,16860
 2016,electr_3_act_value,kWh,,16626
 2017,electr_3_act_value,kWh,,16774
@@ -22,7 +24,8 @@ Year,Category,Unit,including,Value
 2019,electr_3_act_value,kWh,,16434
 2020,electr_3_act_value,kWh,,15451
 2021,electr_3_act_value,kWh,,16247
-2022,electr_3_act_value,kWh,,13427
+2022,electr_3_act_value,kWh,,13428
+2023,electr_3_act_value,kWh,,12665
 2015,electr_3_act_value,per,,11.5
 2016,electr_3_act_value,per,,11.74
 2017,electr_3_act_value,per,,11.77
@@ -31,6 +34,7 @@ Year,Category,Unit,including,Value
 2020,electr_3_act_value,per,,11.34
 2021,electr_3_act_value,per,,11.28
 2022,electr_3_act_value,per,,12.85
+2023,electr_3_act_value,per,,12.92
 2015,electr_3_act_value,kWh,1_norm_val,19034
 2016,electr_3_act_value,kWh,1_norm_val,18805
 2017,electr_3_act_value,kWh,1_norm_val,18820
@@ -39,6 +43,7 @@ Year,Category,Unit,including,Value
 2020,electr_3_act_value,kWh,1_norm_val,17438
 2021,electr_3_act_value,kWh,1_norm_val,18634
 2022,electr_3_act_value,kWh,1_norm_val,15022
+2023,electr_3_act_value,kWh,1_norm_val,14413
 2015,electr_3_act_value,per,1_norm_val,13
 2016,electr_3_act_value,per,1_norm_val,13.3
 2017,electr_3_act_value,per,1_norm_val,13.2
@@ -47,6 +52,7 @@ Year,Category,Unit,including,Value
 2020,electr_3_act_value,per,1_norm_val,12.8
 2021,electr_3_act_value,per,1_norm_val,12.9
 2022,electr_3_act_value,per,1_norm_val,14.4
+2023,electr_3_act_value,per,1_norm_val,14.7
 2015,electr_3_act_value,kWh,2_exc_val,-2174
 2016,electr_3_act_value,kWh,2_exc_val,-2179
 2017,electr_3_act_value,kWh,2_exc_val,-2046
@@ -54,7 +60,8 @@ Year,Category,Unit,including,Value
 2019,electr_3_act_value,kWh,2_exc_val,-1820
 2020,electr_3_act_value,kWh,2_exc_val,-1987
 2021,electr_3_act_value,kWh,2_exc_val,-2387
-2022,electr_3_act_value,kWh,2_exc_val,-1595
+2022,electr_3_act_value,kWh,2_exc_val,-1594
+2023,electr_3_act_value,kWh,2_exc_val,-1748
 2015,electr_3_act_value,per,2_exc_val,-1.5
 2016,electr_3_act_value,per,2_exc_val,-1.5
 2017,electr_3_act_value,per,2_exc_val,-1.4
@@ -63,6 +70,7 @@ Year,Category,Unit,including,Value
 2020,electr_3_act_value,per,2_exc_val,-1.5
 2021,electr_3_act_value,per,2_exc_val,-1.7
 2022,electr_3_act_value,per,2_exc_val,-1.5
+2023,electr_3_act_value,per,2_exc_val,-1.8
 2015,electr_4_tech_cons,kWh,,12611
 2016,electr_4_tech_cons,kWh,,12885
 2017,electr_4_tech_cons,kWh,,12932
@@ -70,7 +78,8 @@ Year,Category,Unit,including,Value
 2019,electr_4_tech_cons,kWh,,12887
 2020,electr_4_tech_cons,kWh,,12378
 2021,electr_4_tech_cons,kWh,,12758
-2022,electr_4_tech_cons,kWh,,10379
+2022,electr_4_tech_cons,kWh,,10380
+2023,electr_4_tech_cons,kWh,,9995
 2015,electr_4_tech_cons,per,,9.79
 2016,electr_4_tech_cons,per,,9.9
 2017,electr_4_tech_cons,per,,9.89
@@ -79,3 +88,4 @@ Year,Category,Unit,including,Value
 2020,electr_4_tech_cons,per,,10.13
 2021,electr_4_tech_cons,per,,9.86
 2022,electr_4_tech_cons,per,,11.11
+2023,electr_4_tech_cons,per,,10.99
