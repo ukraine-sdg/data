@@ -1097,7 +1097,7 @@ Year,Component,Region,Age,Gender,Value
 2020,com_7_relations,14_reg_Donetsk,age_2_36_60,,
 2021,com_7_relations,14_reg_Donetsk,age_36_59,,
 2022,com_7_relations,14_reg_Donetsk,age_36_59,,
-2017,com_7_relations,14_reg_Donetsk,age_3_61,,
+2017,com_7_relations,14_reg_Donetsk,age_3_61,,м
 2018,com_7_relations,14_reg_Donetsk,age_3_61,,0.6
 2019,com_7_relations,14_reg_Donetsk,age_3_61,,
 2020,com_7_relations,14_reg_Donetsk,age_3_61,,
@@ -3059,3 +3059,5 @@ Year,Component,Region,Age,Gender,Value
 2020,com_17_active_position,29_reg_Kharkiv,,females,
 2021,com_17_active_position,29_reg_Kharkiv,,females,
 2022,com_17_active_position,29_reg_Kharkiv,,females,
+
+
