@@ -926,9 +926,9 @@ Year,Component,Region,Age,Gender,Value
 2017,com_6_civic,14_reg_Donetsk,,males,
 2018,com_6_civic,14_reg_Donetsk,,males,3.8
 2019,com_6_civic,14_reg_Donetsk,,males,6.6
-2020,com_6_civic,14_reg_Donetsk,,males,
-2021,com_6_civic,14_reg_Donetsk,,males,
-2022,com_6_civic,14_reg_Donetsk,,males,
+2020,com_6_civic,14_reg_Donetsk,,males,6.6
+2021,com_6_civic,14_reg_Donetsk,,males,6.6
+2022,com_6_civic,14_reg_Donetsk,,males,6.6
 2017,com_6_civic,14_reg_Donetsk,,females,
 2018,com_6_civic,14_reg_Donetsk,,females,3.2
 2019,com_6_civic,14_reg_Donetsk,,females,6.4
@@ -2847,7 +2847,7 @@ Year,Component,Region,Age,Gender,Value
 2018,com_16_soc_tolerance,29_reg_Kharkiv,,,
 2019,com_16_soc_tolerance,29_reg_Kharkiv,,,
 2020,com_16_soc_tolerance,29_reg_Kharkiv,,,
-2021,com_16_soc_tolerance,29_reg_Kharkiv,,,
+2021,com_16_soc_tolerance,29_reg_Kharkiv,,, 
 2022,com_16_soc_tolerance,29_reg_Kharkiv,,,
 2017,com_16_soc_tolerance,29_reg_Kharkiv,age_1_18_35,,
 2018,com_16_soc_tolerance,29_reg_Kharkiv,age_1_18_35,,
