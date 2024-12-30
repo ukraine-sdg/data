@@ -19,7 +19,7 @@ graph_limits:
   - series: ''
     unit: ''
     minimum: 0
-    maximum: 9.5
+    maximum: 5.5
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.9-5-2-title
 graph_titles: []
@@ -38,5 +38,5 @@ tags: []
 graph_target_lines:
   - series: ''
     unit: ''
-    label_content: indicator.annotation_2025_target
-    value: 9
+    label_content: indicator.annotation_2020_target
+    value: 5
