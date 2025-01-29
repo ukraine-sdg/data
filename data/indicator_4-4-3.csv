@@ -7,6 +7,7 @@ Year,Cost_train,Value
 2020,1_per_student,61217
 2021,1_per_student,73918
 2022,1_per_student,71395.3
+2023,1_per_student,61818.8
 2015,2_per_student_job,15167
 2016,2_per_student_job,16251.8
 2017,2_per_student_job,18055.8
@@ -15,6 +16,7 @@ Year,Cost_train,Value
 2020,2_per_student_job,36073
 2021,2_per_student_job,44102
 2022,2_per_student_job,41864.1
+2023,2_per_student_job,55230.7
 2015,3_per_graduate,39284.2
 2016,3_per_graduate,42207.6
 2017,3_per_graduate,51785.7
@@ -23,6 +25,7 @@ Year,Cost_train,Value
 2020,3_per_graduate,55360
 2021,3_per_graduate,70969
 2022,3_per_graduate,65780.1
+2023,3_per_graduate,58378.0
 2015,4_per_doctoral,52445.5
 2016,4_per_doctoral,60872.5
 2017,4_per_doctoral,71168.2
@@ -31,3 +34,4 @@ Year,Cost_train,Value
 2020,4_per_doctoral,70826
 2021,4_per_doctoral,86532
 2022,4_per_doctoral,81993.1
+2023,4_per_doctoral,76375.7
